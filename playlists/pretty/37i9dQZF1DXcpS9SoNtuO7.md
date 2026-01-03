@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,165 likes - 104 songs - 21 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,160 likes - 104 songs - 21 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 103 | [異世界協奏曲](https://open.spotify.com/track/1HOquS8L5MUXYoArwla467) | [清野研太朗](https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep) | [異世界協奏曲](https://open.spotify.com/album/6SpyJ3inwVSEc5VTEyUFaK) | 3:12 |
 | 104 | [スキキライも追い越して ～4人ver.～](https://open.spotify.com/track/56Ql6zmvUfhVq2Iy7Dl0f3) | [桜森朱音\(CV.矢野妃菜喜\)](https://open.spotify.com/artist/4azLH8whN28GwTCtQTgzv1), [石倉陽鞠\(CV.鈴代紗弓\)](https://open.spotify.com/artist/2SdoR006ksRjrSqL7ridtm), [北条糸青\(CV.稗田寧々\)](https://open.spotify.com/artist/2iOAbdCodbbBfGtx2ufOI0), [桜森真帆\(CV.前田佳織里\)](https://open.spotify.com/artist/1ek7OM4m776O3dwLLk3bkV) | [スキキライも追い越して ～4人ver.～](https://open.spotify.com/album/0V9aOjPDy3a6ifVu3klDi8) | 3:26 |
 
-Snapshot ID: `AAAAALHlh2ye6rKKfAd6Y0tQwGPu4+wC`
+Snapshot ID: `AAAAAORFc1p8G4GpHogKolRUWVDP8o1T`

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195955,
+  "num_followers": 195968,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
+        "name": "Fumbling",
+        "url": "https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200057,
+      "name": "Fumbling",
+      "url": "https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
         "name": "Barfotabarn",
         "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 165632,
       "name": "Barfotabarn",
       "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
-        "name": "Fumbling",
-        "url": "https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 200057,
-      "name": "Fumbling",
-      "url": "https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Hazy Eyes",
-        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Hazy Eyes",
-      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
+        "name": "Hazy Eyes",
+        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Hazy Eyes",
+      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
+        "name": "Ton\u00e5rsdr\u00f6m",
+        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Lijam",
+          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
+        }
+      ],
+      "duration_ms": 214179,
+      "name": "Ton\u00e5rsdr\u00f6m",
+      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
         "name": "Genom Livet",
         "url": "https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA"
       },
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Ton\u00e5rsdr\u00f6m",
-        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "Lijam",
-          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
-        }
-      ],
-      "duration_ms": 214179,
-      "name": "Ton\u00e5rsdr\u00f6m",
-      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Modigare",
-        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 233614,
-      "name": "Modigare",
-      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 252629,
       "name": "Margaretas s\u00e5ng",
       "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
+        "name": "Modigare",
+        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 233614,
+      "name": "Modigare",
+      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1463,34 +1463,18 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+        "name": "Vara m\u00e4nniska",
+        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
         }
       ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+      "duration_ms": 134624,
+      "name": "Vara m\u00e4nniska",
+      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1531,18 +1515,34 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Vara m\u00e4nniska",
-        "url": "https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4"
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
       },
       "artists": [
         {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 134624,
-      "name": "Vara m\u00e4nniska",
-      "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
-      },
-      "artists": [
-        {
-          "name": "LOVIS",
-          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+      },
+      "artists": [
+        {
+          "name": "LOVIS",
+          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
         "name": "East of the Sun...",
         "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 175339,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
+    },
+    {
+      "added_at": "2026-01-01 23:00:34",
+      "album": {
+        "name": "Slott av luft",
+        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "Slott av luft",
+      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1759,22 +1775,6 @@
       "duration_ms": 157352,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y"
-    },
-    {
-      "added_at": "2026-01-01 23:00:34",
-      "album": {
-        "name": "Slott av luft",
-        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 161447,
-      "name": "Slott av luft",
-      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
     },
     {
       "added_at": "2026-01-01 23:00:34",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-01-01 23:00:34",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+        "name": "Jag lovar",
+        "url": "https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+      "duration_ms": 183785,
+      "name": "Jag lovar",
+      "url": "https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-252 songs - 14 hr 50 min
+253 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [23 \(Feat\. SAM KIM\)](https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [23](https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k) | 3:32 | 2022-05-23 | 2024-07-03 |
 | [29](https://open.spotify.com/track/1GbKnUDZo8b0UDggBjEgWe) | [Webley](https://open.spotify.com/artist/1jmk8dRlQX1sygEGutv5DS) | [Run Away](https://open.spotify.com/album/0EiTu6uo6ao4nQeotZ152U) | 3:22 | 2022-05-23 | 2022-07-23 |
 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 | 2024-07-02 |  |
-| [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 | 2024-07-02 |  |
+| [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 | 2024-07-02 | 2026-01-03 |
 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2023-07-17 |  |
 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 | 2024-08-10 | 2025-10-14 |
 | [Almost there](https://open.spotify.com/track/7FHOV2Uq8KYAAoFskYaRhu) | [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [Giraffe](https://open.spotify.com/album/7wFuShttHLTGCoVbqmgWf7) | 4:10 | 2022-11-01 | 2022-11-13 |
@@ -168,6 +168,7 @@
 | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/track/5Os2F2MbUv9eJcb7jxHmFD) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 4:04 | 2022-05-23 | 2022-07-28 |
 | [Pat Pat](https://open.spotify.com/track/1JgGRf2zKk5R2lnI7SBptA) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/0HZyxYjfes2LXNtSCAzoFJ) | 3:02 | 2022-05-23 | 2022-07-25 |
 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 | 2022-07-22 | 2024-04-19 |
+| [Photo Booth \(Feat\. JAEHA\)](https://open.spotify.com/track/3kqsrtfUcQFawwGwsy7go5) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:02 | 2025-09-29 |  |
 | [poison](https://open.spotify.com/track/4G8pMn9Ecjf02BsnB2vXzQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E\-Sens of Supreme Team](https://open.spotify.com/artist/5FpJX9tfgg1j49VUTpt76a) | [Primary and the Messengers LP](https://open.spotify.com/album/31zxWs4ufiKxLiOE6aczru) | 3:55 | 2022-05-23 | 2022-07-29 |
 | [poison \(Feat\. E\-Sens Of Supreme Team\)](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 | 2022-07-22 | 2024-04-19 |
 | [PRDS \(Prod\. Haruhi & mzyng\)](https://open.spotify.com/track/3wBFw8TU5YEsMiN9BcdTyN) | [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [PRDS](https://open.spotify.com/album/12ycE4DqNs5huboOSJgeYc) | 3:03 | 2022-05-23 | 2022-07-26 |

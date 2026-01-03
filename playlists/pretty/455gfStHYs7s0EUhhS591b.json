@@ -1,13 +1,33 @@
 {
   "description": "Feel-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.",
-  "num_followers": 55995,
+  "num_followers": 55991,
   "original_name": "Summer Is Calling",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AAByceKRLph0ebzUz2356x5uzkvgc09I",
+  "snapshot_id": "AABydJ+JQbxjBYWTT3s3G/v5PlsNiI3L",
   "tracks": [
+    {
+      "added_at": "2026-01-02 16:03:56",
+      "album": {
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/0WBw8GeKLwQiIPfdPaJHL6"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/7CUAJ97lsdWEXK73mt5XZ8"
+    },
     {
       "added_at": "2025-12-19 03:01:32",
       "album": {
@@ -463,6 +483,26 @@
       "duration_ms": 217570,
       "name": "My Lexicon",
       "url": "https://open.spotify.com/track/78oK40shzFPg5GEJUzoKrn"
+    },
+    {
+      "added_at": "2026-01-02 15:53:26",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/1NwQvjRSxeX3UEqoCEH4KR"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Larse",
+          "url": "https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm"
+        }
+      ],
+      "duration_ms": 189523,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/5nL5jZi3VjXi6BGMfwADvN"
     },
     {
       "added_at": "2025-12-17 13:19:18",

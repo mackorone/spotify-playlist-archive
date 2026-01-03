@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635293,
+  "num_followers": 635268,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACo+dHWfj9ucOKlJgfKEqhm",
+  "snapshot_id": "aVW5AAAAAADZcs0RnN/4jhs265hMnK6t",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
+      "duration_ms": 212280,
+      "name": "This Love (G-Dragon Solo)",
+      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 212280,
-      "name": "This Love (G-Dragon Solo)",
-      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KPOP - JPOP Made In Korea Vol. 2",
-        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198912,
-      "name": "Gara Gara Go!!",
-      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198533,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KPOP - JPOP Made In Korea Vol. 2",
+        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198912,
+      "name": "Gara Gara Go!!",
+      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
     },
     {
       "added_at": null,

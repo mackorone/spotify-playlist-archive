@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAAIU0SIGBpJplQSNmRWVYF5",
+  "snapshot_id": "aVW5AAAAAAAX5I0pxEPe7RGzpMyMeccl",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
     },
     {
       "added_at": null,

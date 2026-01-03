@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-788 songs - 1 day 21 hr 34 min
+792 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-02-20 | 2022-06-10 |
 | [Hideout](https://open.spotify.com/track/3FHwRoXwNekPQ1tek89VxL) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [Hideout](https://open.spotify.com/album/6FqUjQ2kKkmK8KjAUVhTOC) | 2:32 | 2024-12-20 |  |
 | [high life](https://open.spotify.com/track/2FSx5IGIgDDz1AzHdAfKcF) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [high life](https://open.spotify.com/album/79rXk3IeLcL1vm5TDhUkGf) | 2:16 | 2025-02-28 |  |
+| [Higher Than We've Been](https://open.spotify.com/track/4MCoF79Tm9ajUIifhNJe4I) | [Jake Velo](https://open.spotify.com/artist/0GJVtOp4lnjibklaAC3XWv) | [Higher Than We've Been](https://open.spotify.com/album/6Lj83J8uR7CopeJW1iNnO2) | 2:27 | 2026-01-02 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-16 | 2022-01-22 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-10-16 | 2025-01-18 |
 | [Home Again](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Home Again](https://open.spotify.com/album/3mtNd5bVlK1FCbTF3WBIsS) | 2:22 | 2023-08-18 |  |
@@ -333,6 +334,7 @@
 | [Infinite Groove](https://open.spotify.com/track/4NEDsWuhVTedyjuw2S8YMh) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Infinite Groove](https://open.spotify.com/album/5d2mVratPrQmvZNJd75z4l) | 2:42 | 2025-10-10 |  |
 | [Infinity](https://open.spotify.com/track/0uomUgmlzoqOLV4eY40pdQ) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Infinity](https://open.spotify.com/album/752s25GbJsvKft227zye2X) | 2:30 | 2025-05-16 |  |
 | [Inflections](https://open.spotify.com/track/2BANJeYC53KTE0h3iDBbpm) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Inflections](https://open.spotify.com/album/1qWaRfbau9xnyWI7Og9ab8) | 2:28 | 2024-09-02 |  |
+| [Inside My Heart](https://open.spotify.com/track/71avbkOMoQUXrbEKnKZm9M) | [Palm Club](https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv) | [Inside My Heart](https://open.spotify.com/album/5aZ2eH5UgIOtAxCsfkSu1G) | 1:49 | 2026-01-02 |  |
 | [Intentions](https://open.spotify.com/track/2sx7gcC76pDDu5tCirfNfl) | [Casper Colt](https://open.spotify.com/artist/0V4QYaFxLQ8pDxps9FNMRB) | [Intentions](https://open.spotify.com/album/2oilUosz5CfBac5DAtHuUm) | 3:10 | 2020-12-11 | 2022-08-05 |
 | [Interaction](https://open.spotify.com/track/1Ra2hIk4IGryWC4bnXnxIs) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Interaction/Dropout](https://open.spotify.com/album/0vDrGG5FwL5wWYxWloJN0f) | 6:27 | 2021-02-12 | 2021-05-13 |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2021-03-06 | 2022-07-01 |
@@ -496,6 +498,7 @@
 | [Open Fields](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Open Fields](https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO) | 4:21 | 2022-10-07 | 2025-10-11 |
 | [Open Market](https://open.spotify.com/track/28JlJDySYdymnfrXUyuJcN) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Autumn Here](https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP) | 2:04 | 2020-10-20\* | 2021-01-07 |
 | [Open Your Eyes](https://open.spotify.com/track/6tmJK4eyjqSLe2vXIuHdvr) | [J Pepperwood](https://open.spotify.com/artist/0rze0pPOmFLjelwEdicfYP) | [Open Your Eyes](https://open.spotify.com/album/5QhYJuQeh7wpKKRwSek7Da) | 3:55 | 2021-01-15 | 2021-03-06 |
+| [Organica](https://open.spotify.com/track/1SAkwrEJddvKKFCRLtQSIl) | [Oldofredi](https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l) | [Organica](https://open.spotify.com/album/1kKQYr5gG8MliYBTAXLNe6) | 2:13 | 2026-01-02 |  |
 | [Orion](https://open.spotify.com/track/6UcE4k2auErKMMCutuTJoC) | [Milky Road](https://open.spotify.com/artist/44s2EGhne0PJcJqpp5PnVS) | [Orion](https://open.spotify.com/album/1LTSRgOvF9GazbVQMbP6RY) | 2:16 | 2023-11-17 | 2025-01-18 |
 | [Overflowing](https://open.spotify.com/track/2LF4aG0VkCWkdbON0s6wF0) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Overflowing](https://open.spotify.com/album/5CHsncImviOauUPe5bRAhF) | 2:57 | 2024-12-06 | 2025-04-26 |
 | [Overseas](https://open.spotify.com/track/1BfcslI8bC66wOEYLqmA54) | [Marcel Janssen](https://open.spotify.com/artist/3LeDFQTB2L2bu32qCK2Pxo) | [Overseas](https://open.spotify.com/album/4aO1OAB0EEduHKBuVnxv0R) | 2:44 | 2021-02-12 | 2022-04-15 |
@@ -629,6 +632,7 @@
 | [sketches](https://open.spotify.com/track/0ltvPIo7lptLTYGy27EVpD) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches](https://open.spotify.com/album/5sF2aqofPgNkg2q2IqYzQd) | 4:03 | 2020-10-20\* | 2021-07-09 |
 | [Skinny Dip](https://open.spotify.com/track/6ZJOcoOMxPzv49j9QAVgRL) | [Golden After](https://open.spotify.com/artist/4oWkikhjgTiZX98eSAWT9R) | [Skinny Dip](https://open.spotify.com/album/4McLukGGeHAvutxPRbVRHv) | 2:28 | 2025-12-12 |  |
 | [Skydiver](https://open.spotify.com/track/18jIgwHYyFK5pxsmKYcSA2) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Skydiver](https://open.spotify.com/album/47WzrVBOKq8fqbbEiz0Oli) | 4:02 | 2021-01-07 | 2021-10-16 |
+| [Sleepless](https://open.spotify.com/track/6NM6O8YFXpx8AYt1YhmsRl) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [sleepless](https://open.spotify.com/album/3W6tK2GI0mf8333LdPyGj8) | 2:51 | 2026-01-02 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-03-06 | 2021-08-25 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-11 | 2024-12-07 |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-25 | 2023-05-23 |

@@ -12363,6 +12363,44 @@
     },
     {
       "album": {
+        "name": "Pula Pula",
+        "url": "https://open.spotify.com/album/2otx86iOPJ0iynLm8wAzrO"
+      },
+      "artists": [
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        },
+        {
+          "name": "Tigas",
+          "url": "https://open.spotify.com/artist/2f0DX9WMcwdUOB8nYwqGcb"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        },
+        {
+          "name": "D4ren",
+          "url": "https://open.spotify.com/artist/2HwM6w7RPrgvP8Zw4qXYei"
+        },
+        {
+          "name": "dezembro2002",
+          "url": "https://open.spotify.com/artist/212z3ufc6JieMHzOEZNSC5"
+        },
+        {
+          "name": "Kue",
+          "url": "https://open.spotify.com/artist/11iIe797fCm24MoYCycpgG"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Pula Pula",
+      "url": "https://open.spotify.com/track/2bv3MjBOFgMgf1VPGLT5py"
+    },
+    {
+      "album": {
         "name": "(EX) POSTO",
         "url": "https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd"
       },
@@ -16624,7 +16662,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 142184,
       "name": "\u00d3leo de coco",
       "url": "https://open.spotify.com/track/7Bb92Fx8W4JTFXv2aNlSQs"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: BLOND:ISH",
+  "description": "The best of today's dance hits. Cover: Anyma",
   "name": "mint Canada",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 204559,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/715xY8vtiUbtFCZgKikYvP"
@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Caramelle",
+        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Caramelle",
+      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
+    },
+    {
+      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/7xmRE7qmrVFb2as3VMAFlX"
       },
@@ -6228,6 +6246,28 @@
       "duration_ms": 195291,
       "name": "Control Of Me (feat. Daecolm)",
       "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
+    },
+    {
+      "album": {
+        "name": "CONTROL YOUR BODY",
+        "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
+      },
+      "artists": [
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        },
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "CONTROL YOUR BODY",
+      "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
     },
     {
       "album": {
@@ -8870,6 +8910,28 @@
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
+    },
+    {
+      "album": {
+        "name": "The End Of Genesys (Deluxe)",
+        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1z6KDSVHP7QnNVCk2ZWcFQ"
     },
     {
       "album": {
@@ -15242,7 +15304,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 184222,
       "name": "Holy",
       "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
@@ -18801,6 +18863,24 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp"
+      },
+      "artists": [
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138020,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
+    },
+    {
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -19402,7 +19482,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 143863,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/6Eefj9syzUuCVCvv6dsFft"
@@ -20298,7 +20378,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 180815,
       "name": "Like This, Like That (feat. Olivia Lunny)",
       "url": "https://open.spotify.com/track/2eTPIFwFIf0EnvX2EzRTnk"
@@ -21158,6 +21238,28 @@
       "duration_ms": 180127,
       "name": "Losing You - Spotify Singles",
       "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219023,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
     },
     {
       "album": {
@@ -24020,7 +24122,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 376096,
       "name": "Neuromancer",
       "url": "https://open.spotify.com/track/18VlAbo4c4NLA82SXapfgs"
@@ -26382,7 +26484,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 248578,
       "name": "one2three (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
@@ -28211,6 +28313,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
+    },
+    {
+      "album": {
         "name": "Purest Omen",
         "url": "https://open.spotify.com/album/1IkaaD1Gfb51nOZGisXqeo"
       },
@@ -28226,7 +28346,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 180500,
       "name": "Purest Omen",
       "url": "https://open.spotify.com/track/00EBb4yafQgHp225GMkda8"
@@ -34678,6 +34798,28 @@
       "duration_ms": 409920,
       "name": "Take You",
       "url": "https://open.spotify.com/track/68a5HngXAAPwi7Ta5sf3em"
+    },
+    {
+      "album": {
+        "name": "Take Your Places",
+        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237341,
+      "name": "Take Your Places",
+      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
     },
     {
       "album": {

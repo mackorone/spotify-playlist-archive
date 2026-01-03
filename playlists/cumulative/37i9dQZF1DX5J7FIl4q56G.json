@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Worm",
+  "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Paleface Swiss",
   "name": "All New Metal",
   "tracks": [
     {
@@ -8073,6 +8073,24 @@
     },
     {
       "album": {
+        "name": "Already Over / Too Far Gone",
+        "url": "https://open.spotify.com/album/3tLihfejLQFD1E1Px7qs6Q"
+      },
+      "artists": [
+        {
+          "name": "Jacob Lizotte",
+          "url": "https://open.spotify.com/artist/1xd4o3nvXyiD90YBml2A5T"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/0dQIjmTVmbnXeqYJPGMTyq"
+    },
+    {
+      "album": {
         "name": "Grande Rock Revisited",
         "url": "https://open.spotify.com/album/1RO4brwGqSyuvKeZXJemfM"
       },
@@ -10962,7 +10980,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 170640,
       "name": "Appare La Bambola, Poi La Lama",
       "url": "https://open.spotify.com/track/4TPmvOFfmZHmlNMc1pQsQV"
@@ -23465,6 +23483,28 @@
     },
     {
       "album": {
+        "name": "The L\u00f6st Tapes, Vol. 7 (Lemmy's 50th Birthday, Live in West Hollywood, 1995)",
+        "url": "https://open.spotify.com/album/61EukiCvHkfOWHaM8hglJx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        },
+        {
+          "name": "Whitfield Crane",
+          "url": "https://open.spotify.com/artist/6HU4fyvpYAfNwdzCDGmSnz"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335760,
+      "name": "Born to Raise Hell - feat. Whitfield Crane - Lemmy's 50th Birthday, Live at Whisky a Go Go, West Hollywood, 1995",
+      "url": "https://open.spotify.com/track/6qsgnhFqjQ1GLn5yjZuTfM"
+    },
+    {
+      "album": {
         "name": "Born To Ride",
         "url": "https://open.spotify.com/album/6MkDLPo4n0BYdxaYCfAB3O"
       },
@@ -28928,7 +28968,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 227677,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/2UJG1zn4RyV0RfBMy3URxZ"
@@ -36416,7 +36456,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 208883,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/53EbxMsn5HW3k8UK2JazcF"
@@ -41297,6 +41337,32 @@
     },
     {
       "album": {
+        "name": "DEAD STARS",
+        "url": "https://open.spotify.com/album/6tPBPuLXzLGuS1V1UPOCoO"
+      },
+      "artists": [
+        {
+          "name": "Cloudsight",
+          "url": "https://open.spotify.com/artist/1KolhhZm1SOVLBxFDT56bx"
+        },
+        {
+          "name": "ADAM ON EARTH",
+          "url": "https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216518,
+      "name": "DEAD STARS",
+      "url": "https://open.spotify.com/track/4uUczhrvo33iG48n4iGmDA"
+    },
+    {
+      "album": {
         "name": "Dead Talk",
         "url": "https://open.spotify.com/album/7dx3mhVLHhcq0S6MZHRshk"
       },
@@ -42218,6 +42284,24 @@
       "duration_ms": 321735,
       "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
       "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
+    },
+    {
+      "album": {
+        "name": "Death by Cupid's Arrow",
+        "url": "https://open.spotify.com/album/2IgcUaxzavBygYYHADOJri"
+      },
+      "artists": [
+        {
+          "name": "HOKKA",
+          "url": "https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Death by Cupid's Arrow",
+      "url": "https://open.spotify.com/track/3r2q3DlQFWpoMjejytxkxA"
     },
     {
       "album": {
@@ -48232,6 +48316,24 @@
       "duration_ms": 434216,
       "name": "Disengagement Into Eternity",
       "url": "https://open.spotify.com/track/3mFWKWWkLSZCGQCpYwEgXz"
+    },
+    {
+      "album": {
+        "name": "Disgust",
+        "url": "https://open.spotify.com/album/6TRnhZlz90KgC5vxfnzSRm"
+      },
+      "artists": [
+        {
+          "name": "Misanthropy Club",
+          "url": "https://open.spotify.com/artist/6YvlUHEcWDQpYn3Dla0dM8"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222404,
+      "name": "Disgust",
+      "url": "https://open.spotify.com/track/76wFEgJzJUkvIOrvbDzADQ"
     },
     {
       "album": {
@@ -54584,7 +54686,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 249612,
       "name": "ELEVATE",
       "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
@@ -58548,7 +58650,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
@@ -79400,7 +79502,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 59715,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/13K6rVnmvUqmVVKDDi36hq"
@@ -81630,7 +81732,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 214834,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/0G8i6gYA92khyfGOgvPM7S"
@@ -86891,6 +86993,24 @@
     },
     {
       "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/7ksAb1lbYG7swRnpSmxYpT"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170043,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/49rzcDwxS2NPI70tzQRZFP"
+    },
+    {
+      "album": {
         "name": "icecreamwitch",
         "url": "https://open.spotify.com/album/2KkHr2kCBaNPM5jy61EKG6"
       },
@@ -90250,7 +90370,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 289818,
       "name": "Incarnation",
       "url": "https://open.spotify.com/track/6cvshudSxna1QFAtI8xTHw"
@@ -95930,7 +96050,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 223749,
       "name": "Khar Khulz",
       "url": "https://open.spotify.com/track/6KOWoOmUbT4igl66VzxcAq"
@@ -111952,7 +112072,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 203912,
       "name": "Monument to Misery",
       "url": "https://open.spotify.com/track/48oMvIOWHVPMGYIGKjWGAy"
@@ -120222,7 +120342,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 147800,
       "name": "Nothing Is Original",
       "url": "https://open.spotify.com/track/3zt2lRAHZttXNqvpVyXvvD"
@@ -137549,6 +137669,24 @@
     },
     {
       "album": {
+        "name": "Zerfall",
+        "url": "https://open.spotify.com/album/4kVVMwcVvfDY4sBrxOrPBK"
+      },
+      "artists": [
+        {
+          "name": "Ellende",
+          "url": "https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429508,
+      "name": "Reise",
+      "url": "https://open.spotify.com/track/3twB6G4r6fubgV2B3BCPTB"
+    },
+    {
+      "album": {
         "name": "Relapse",
         "url": "https://open.spotify.com/album/0PBayHrHYSyUJshMzyDpXJ"
       },
@@ -142682,7 +142820,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 155051,
       "name": "Salt the Earth",
       "url": "https://open.spotify.com/track/37Q9NtlhJd8kkoGDFGiqAJ"
@@ -153105,6 +153243,24 @@
     },
     {
       "album": {
+        "name": "Soaring High",
+        "url": "https://open.spotify.com/album/0IoY97cGCfyeAZVzni9at7"
+      },
+      "artists": [
+        {
+          "name": "KNIGHTS OF ROUND",
+          "url": "https://open.spotify.com/artist/4LIZjPI0eQIQ3AOjYrBBGF"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303144,
+      "name": "Soaring High",
+      "url": "https://open.spotify.com/track/3qfGFM0zzS3ckhiAKOFplf"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5jnADJLn0rdo6p6WjgrLJb"
       },
@@ -159457,6 +159613,24 @@
     },
     {
       "album": {
+        "name": "Sun Seeker",
+        "url": "https://open.spotify.com/album/0M8vDF6895odwtoOr2mctf"
+      },
+      "artists": [
+        {
+          "name": "Ascend The Helix",
+          "url": "https://open.spotify.com/artist/0xyidQpKT5PqcUFGTfzNO8"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438333,
+      "name": "Sun Seeker",
+      "url": "https://open.spotify.com/track/7CZGg2Vqmxm5NbcM5qBLzG"
+    },
+    {
+      "album": {
         "name": "Sun Up To Sun Down (Remix)",
         "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
       },
@@ -160046,6 +160220,24 @@
       "duration_ms": 245090,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0JrfkyLkkoCUdpqvT7xEgC"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0FJYcKTyLa31me67EaxbnL"
+      },
+      "artists": [
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4eG5MSCRjfHJhEWSBtEwc3"
     },
     {
       "album": {
@@ -177173,6 +177365,24 @@
     },
     {
       "album": {
+        "name": "THIS POISON",
+        "url": "https://open.spotify.com/album/0fuqd9C0rA9qDsgYGhEy8r"
+      },
+      "artists": [
+        {
+          "name": "DECAINE",
+          "url": "https://open.spotify.com/artist/1u3p06hNORVVO5kCOaUGv8"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199315,
+      "name": "THIS POISON",
+      "url": "https://open.spotify.com/track/2auwcdNj8Qm7PaEHeIaF9C"
+    },
+    {
+      "album": {
         "name": "Dealing with Demons Vol. II",
         "url": "https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw"
       },
@@ -180314,7 +180524,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 239529,
       "name": "Tornet",
       "url": "https://open.spotify.com/track/4YeF4lJ6HHrd8elflNQEru"
@@ -196636,6 +196846,24 @@
       "duration_ms": 244757,
       "name": "Withering",
       "url": "https://open.spotify.com/track/2RR8QO4OPihZG8zuoxEWxp"
+    },
+    {
+      "album": {
+        "name": "The wilted EP",
+        "url": "https://open.spotify.com/album/0kZe0ZUoTiw0phTACyi4vY"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Withering Flower",
+      "url": "https://open.spotify.com/track/3fRUc1NuM4WjLGoC0QvmLc"
     },
     {
       "album": {

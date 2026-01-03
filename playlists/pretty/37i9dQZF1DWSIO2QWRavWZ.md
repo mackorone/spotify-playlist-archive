@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Qui
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,609 likes - 127 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,721 likes - 127 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 47 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 48 | [Freakie](https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1DQiLs9MgKkzCW7d6WPcTV) | 2:46 |
 | 49 | [AGLM](https://open.spotify.com/track/4bkcRS9NDHpuq62ADQ8QKC) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [A Girl Like Me](https://open.spotify.com/album/2ZliVIQ7bqON4tAM5KdcqZ) | 2:17 |
-| 50 | [When The Money Calls](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
+| 50 | [When The Money Comes](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
 | 51 | [Hold You](https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hold You](https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW) | 3:05 |
 | 52 | [Emergency](https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Emergency](https://open.spotify.com/album/463NSKRGKqug4qqKofhDoC) | 3:01 |
 | 53 | [Safe Space](https://open.spotify.com/track/6rNqibiTywzcBLCwBM0z3z) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Safe Space](https://open.spotify.com/album/6uCfDTpfBgUr0cA2XSJoAs) | 3:12 |

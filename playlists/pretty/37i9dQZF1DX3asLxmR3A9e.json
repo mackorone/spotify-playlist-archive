@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2014. Cover: BANKS",
-  "num_followers": 110086,
+  "num_followers": 110126,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
         "name": "Urban Flora",
         "url": "https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 218947,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 319786,
       "name": "Morning",
       "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2025-03-14 13:43:29",

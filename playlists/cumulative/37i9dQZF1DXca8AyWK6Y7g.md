@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Annika Wells loves a good ladder.
+> on repeat for a reason\. cover: Stella Lefty
 
-2,626 songs - 5 day 11 hr 58 min
+2,630 songs - 5 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
 | [2020s](https://open.spotify.com/track/0TLsJGWkuTUFZIIRuLNJDO) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [2020s](https://open.spotify.com/album/0VGKDlG0R7b8G7ETtzaeIW) | 2:32 | 2023-01-13 | 2023-02-04 |
 | [20teens](https://open.spotify.com/track/5F6Rxh3fkwU2NIdVttFUlY) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [20teens](https://open.spotify.com/album/72fuMXmu5lrxWmMytH7gKE) | 3:11 | 2025-12-05 |  |
-| [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 |  |
+| [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 | 2026-01-03 |
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-04 | 2025-06-06 |
 | [24](https://open.spotify.com/track/6sbS9RK7IGaIpZYSGoXOkZ) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [24](https://open.spotify.com/album/0yJBFZGs5rhzwmezCKlprX) | 3:05 | 2019-05-26\* | 2020-04-04 |
 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-04-23 | 2021-11-20 |
@@ -101,6 +101,7 @@
 | [All My Fault](https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [All My Fault](https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS) | 3:02 | 2022-03-18 | 2022-06-07 |
 | [All My Friends Are Hot](https://open.spotify.com/track/4HfB5puQwr4zfoUDiYaXZw) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [All My Friends Are Hot](https://open.spotify.com/album/51GkT0hEiKrbHoPwBHaTPi) | 2:38 | 2024-12-13 | 2025-05-10 |
 | [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-30 | 2023-07-15 |
+| [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-02 |  |
 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 | 2024-05-31 | 2024-06-29 |
 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 | 2023-03-25 |
 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-10-06 | 2023-12-09 |
@@ -110,6 +111,7 @@
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-11-10 | 2024-03-02 |
 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 | 2024-04-12 | 2024-04-27 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-05-10 |
+| [Almost Did](https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Almost Did](https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj) | 2:25 | 2026-01-02 |  |
 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 | 2025-11-08 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 | 2024-05-18 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 | 2025-05-03 |
@@ -830,7 +832,7 @@
 | [Fun](https://open.spotify.com/track/25WvSqPQFJsuD1Y3nf6rHf) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Fun](https://open.spotify.com/album/6nJ9Phdgh848iPT0wpfYPG) | 2:18 | 2020-04-23 | 2021-10-14 |
 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-09-17 |
 | [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 | 2023-10-24 |
-| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 |  |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 | 2026-01-03 |
 | [Gallery](https://open.spotify.com/track/01m7F2DCkedBoRNrZsx6gW) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Gallery](https://open.spotify.com/album/4kPPz52cl2ty77rxz9rkGf) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [GAMEBOY](https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [GAMEBOY](https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W) | 2:11 | 2021-12-24 | 2022-01-29 |
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
@@ -1209,6 +1211,7 @@
 | [Innocent \(Dreaming\)](https://open.spotify.com/track/1JaNzWg4ez7WBC89YhOcUs) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Moments](https://open.spotify.com/album/4QEND2DlPX1E5HAuGC8uFy) | 3:15 | 2022-01-07 | 2022-01-09 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-14 | 2022-10-29 |
 | [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 | 2023-03-25 |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-02 |  |
 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 | 2025-11-08 |  |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-12-16 | 2023-08-29 |
@@ -1289,7 +1292,7 @@
 | [Killing Time](https://open.spotify.com/track/4vh38GmJU71vgNgOTwss2j) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Killing Time](https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ) | 3:42 | 2024-01-19 | 2024-06-13 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2021-11-26 | 2022-02-09 |
-| [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 | 2025-10-24 |  |
+| [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 | 2025-10-24 | 2026-01-03 |
 | [Kiss Face](https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6fAWKIRjxt4NTIdENraWci) | 2:35 | 2022-08-12 | 2022-09-17 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-20 | 2022-01-08 |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-05-06 | 2022-07-29 |
@@ -1761,7 +1764,7 @@
 | [Pavement](https://open.spotify.com/track/3SLpYifPLNbact2miciz7A) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Pavement](https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0) | 3:05 | 2025-01-17 | 2025-04-05 |
 | [Pavement](https://open.spotify.com/track/21DTeeLwvvGlb3OFrd9rTT) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Pavement](https://open.spotify.com/album/7hjH77qbvXv66TWSWlUco7) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [PDA](https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [PDA](https://open.spotify.com/album/4BkL6XR15aQOvDcpyPdWkF) | 3:02 | 2022-08-12 | 2022-10-01 |
-| [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-04 |  |
+| [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-04 | 2026-01-03 |
 | [Peach](https://open.spotify.com/track/35cr60GvlqBVchNX7fBqyo) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Peach](https://open.spotify.com/album/0kKFkaFs6oIYylXSaG7tiV) | 4:15 | 2019-05-26\* | 2019-09-14 |
 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 | 2021-02-25 | 2021-11-17 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-19 | 2021-11-19 |
@@ -2353,6 +2356,7 @@
 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 | 2025-11-21 |  |
 | [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 | 2024-09-06 | 2024-11-23 |
 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 | 2025-02-21 | 2025-04-05 |
+| [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 | 2026-01-02 |  |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-07-14 | 2024-01-05 |
 | [This Is How U Feel](https://open.spotify.com/track/0yeOBIkI3whpk4n223Lpuo) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [This Is How U Feel](https://open.spotify.com/album/0b1qo3QvrVMd8tNdvJutX3) | 3:04 | 2020-04-18 | 2021-04-17 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-15 | 2024-01-05 |

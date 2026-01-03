@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: Emiway Bantai",
+  "description": "Naya Hip-Hop Hindi! Cover: DRV",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -4177,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474130,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI"
+    },
+    {
+      "album": {
         "name": "Rum, Racks & Roses",
         "url": "https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu"
       },
@@ -6090,6 +6108,28 @@
       "duration_ms": 127073,
       "name": "Charter (Freestyle)",
       "url": "https://open.spotify.com/track/3A7XCQf2wkuSotK9VRPpwx"
+    },
+    {
+      "album": {
+        "name": "CHATPATI JEEB",
+        "url": "https://open.spotify.com/album/24HlHs4PCFxu74sI2DYaj9"
+      },
+      "artists": [
+        {
+          "name": "gabichi",
+          "url": "https://open.spotify.com/artist/5BcxfhO9XPCdwSGxX5z0tI"
+        },
+        {
+          "name": "3bhk",
+          "url": "https://open.spotify.com/artist/5XxYsKrZUYVCvtcshKgM6s"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102965,
+      "name": "CHATPATI JEEB",
+      "url": "https://open.spotify.com/track/71lW8Cow57ZvwhR1VdpiUN"
     },
     {
       "album": {
@@ -10360,7 +10400,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 222750,
       "name": "Gang Shit",
       "url": "https://open.spotify.com/track/2tYqNNkEn6w5Dqncpr074G"
@@ -11287,6 +11327,24 @@
     },
     {
       "album": {
+        "name": "haha",
+        "url": "https://open.spotify.com/album/7sJZZB7hCLT0ZAMKVaQ4wn"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120839,
+      "name": "haha",
+      "url": "https://open.spotify.com/track/6icQHbFjio6rNSWDmHKmaF"
+    },
+    {
+      "album": {
         "name": "Hajamat (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/1P1ENaabjCevXxPc85svSh"
       },
@@ -11302,7 +11360,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 203076,
       "name": "Hajamat - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/1oWcg4CwaEre5N0dot02nn"
@@ -21890,7 +21948,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 140727,
       "name": "Saaf Sutra",
       "url": "https://open.spotify.com/track/0eFncHdut8MYdXRXi5q8ks"

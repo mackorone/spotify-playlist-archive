@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,658 likes - 66 songs - 4 hr 11 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,660 likes - 71 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 64 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 |
 | 65 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 |
 | 66 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
+| 67 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
+| 68 | [I byens katakomber](https://open.spotify.com/track/5OiFsAf4d72GxHwDiu4Z01) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Noen er der ute](https://open.spotify.com/album/3JmUt3Cg7D6zyYgWSdLSK5) | 4:58 |
+| 69 | [Call you back](https://open.spotify.com/track/3VXc89NGL6vON6uPmRkOcv) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call you back](https://open.spotify.com/album/2MDW8YMzggu0z0mzr9vS09) | 3:07 |
+| 70 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 |
+| 71 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
 
-Snapshot ID: `AAAKUywsNLdnFqy+p8mPyFe0GAtF9Mbh`
+Snapshot ID: `AAAKWGSzLsFQeJPboUGow4j5c8CoEFFL`

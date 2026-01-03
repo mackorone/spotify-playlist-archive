@@ -5361,6 +5361,28 @@
     },
     {
       "album": {
+        "name": "M\u00c9THYL\u00c8NE 1.2",
+        "url": "https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO"
+      },
+      "artists": [
+        {
+          "name": "Guerta",
+          "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
+        },
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "PROC\u00c9DURE HABITUELLE",
+      "url": "https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI"
+    },
+    {
+      "album": {
         "name": "Portes du d\u00e9sert",
         "url": "https://open.spotify.com/album/2UVB0dL0W045yLpoERSNPI"
       },
@@ -6362,24 +6384,6 @@
       "duration_ms": 156040,
       "name": "Tous fous",
       "url": "https://open.spotify.com/track/0LsQcMNRdLM5qVeUDDbYUH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Guerta",
-          "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI"
     },
     {
       "album": {

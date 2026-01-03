@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJR1DWfHjWw.md) - [plain]
 
 > Les plus grands hymnes de stade du rock\. Photo : Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,427 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,441 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

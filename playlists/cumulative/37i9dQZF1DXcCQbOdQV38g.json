@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156050,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
+    },
+    {
+      "album": {
         "name": "Seizoenen",
         "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 172385,
       "name": "Un Chance",
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"

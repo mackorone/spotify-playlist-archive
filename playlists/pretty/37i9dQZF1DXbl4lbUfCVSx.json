@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 35895,
+  "num_followers": 35903,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
+        "name": "De Ger",
+        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
+      },
+      "artists": [
+        {
+          "name": "Mizik Mizik",
+          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "L\u00e8 Nap F\u00e8 Lanmou",
+      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
-        "name": "De Ger",
-        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
-      },
-      "artists": [
-        {
-          "name": "Mizik Mizik",
-          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "L\u00e8 Nap F\u00e8 Lanmou",
-      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
     },
     {
       "added_at": "2025-06-27 04:00:29",

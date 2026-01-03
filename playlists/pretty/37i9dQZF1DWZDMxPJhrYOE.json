@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105662,
+  "num_followers": 105687,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-01 23:00:39",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2026-01-01 23:00:39",
-      "album": {
         "name": "Dream As One (from Avatar: Fire and Ash)",
         "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 199876,
       "name": "Dream As One - from Avatar: Fire and Ash",
       "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
+    },
+    {
+      "added_at": "2026-01-01 23:00:39",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-01-01 23:00:39",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-01-01 23:00:39",
       "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 223275,
+      "name": "Recently Deleted",
+      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
+    },
+    {
+      "added_at": "2026-01-01 23:00:39",
+      "album": {
         "name": "hader ik mig selv sammen med dig",
         "url": "https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-01-01 23:00:39",
       "album": {
-        "name": "Access All Areas: Unlocked",
-        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
         }
       ],
-      "duration_ms": 223275,
-      "name": "Recently Deleted",
-      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
+      "duration_ms": 170000,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"
     },
     {
       "added_at": "2026-01-01 23:00:39",
@@ -1151,22 +1167,6 @@
       "duration_ms": 257435,
       "name": "Facilita",
       "url": "https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4"
-    },
-    {
-      "added_at": "2026-01-01 23:00:39",
-      "album": {
-        "name": "Sensational",
-        "url": "https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sensational",
-      "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"
     },
     {
       "added_at": "2026-01-01 23:00:39",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-01 23:00:39",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-01-01 23:00:39",
-      "album": {
         "name": "fake det.",
         "url": "https://open.spotify.com/album/0V6fexqaJFGHt7QgyqPVra"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 180000,
       "name": "fake det.",
       "url": "https://open.spotify.com/track/4Uzd424jdC17hD8AqFp77g"
+    },
+    {
+      "added_at": "2026-01-01 23:00:39",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-01-01 23:00:39",

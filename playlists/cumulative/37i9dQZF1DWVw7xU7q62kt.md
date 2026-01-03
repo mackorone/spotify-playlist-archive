@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-733 songs - 1 day 7 hr 35 min
+734 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Allure](https://open.spotify.com/track/04ooGGf7K6S82kmzceMqX3) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Allure](https://open.spotify.com/album/2WVuxyDtbBCTRqBgnuah9g) | 2:24 | 2025-09-26 | 2025-11-29 |
 | [Altered Sine](https://open.spotify.com/track/60f6EbhrEope346BnF3G6J) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Altered Sine](https://open.spotify.com/album/4ZlHTbQtEDzz72oLt4jVlg) | 2:57 | 2024-09-13 | 2025-11-15 |
 | [Always Late](https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Together Tomorrow](https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0) | 2:17 | 2024-11-22 | 2025-05-03 |
-| [amber](https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [amber](https://open.spotify.com/album/3ZXyc2p19TsdtGowioTvBY) | 2:32 | 2025-12-05 | 2026-01-01 |
+| [amber](https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [amber](https://open.spotify.com/album/3ZXyc2p19TsdtGowioTvBY) | 2:32 | 2025-12-05 |  |
 | [Amber Interior](https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Colt](https://open.spotify.com/artist/7aT9MkRQS4iaMF4CRUpm5c) | [Empty Pool](https://open.spotify.com/album/1cp1dwciYyhXThpHOQfJ9s) | 3:05 | 2024-08-23 | 2025-05-17 |
 | [Amor De Otoño](https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Amor De Otoño](https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2) | 2:08 | 2023-08-22 | 2025-04-12 |
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2023-08-22 | 2024-04-19 |
@@ -176,6 +176,7 @@
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 |  |
 | [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 |  |
 | [Elements](https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Elements](https://open.spotify.com/album/7eNFkCGeXCtLAaHG7XTVlL) | 2:03 | 2024-10-18 | 2025-05-10 |
+| [Elixier](https://open.spotify.com/track/6GeYp27nYXMNkhzJoqZM8F) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [Mount Neverest](https://open.spotify.com/album/19rJkUEV3Ye0Eo47FCvjl1) | 2:21 | 2025-12-26 |  |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
 | [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 | 2025-05-17 |
 | [Energy](https://open.spotify.com/track/6ijeqkil8ev7zEBOln6gEs) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK) | [Energy](https://open.spotify.com/album/5zxsylnKPDctWha6x2a90Y) | 3:19 | 2025-05-16 |  |
@@ -373,7 +374,7 @@
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
 | [Manhattan Beach](https://open.spotify.com/track/3B0EyvV60dgCaWY8djTQMX) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [Manhattan Beach](https://open.spotify.com/album/4QYRZfBLZlO984Zpxr4tdr) | 2:00 | 2025-09-12 |  |
 | [Mantras](https://open.spotify.com/track/5JBhE0SFiEJqfevwqO69AJ) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Mantras](https://open.spotify.com/album/4vcHSgvMEozchsFpfqbpVq) | 2:24 | 2024-09-06 | 2024-12-22 |
-| [Marbled](https://open.spotify.com/track/43Et9hbmjxUdnpMpGpMIWU) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Marbled](https://open.spotify.com/album/49jxs2yePyIdb1CMetjqzZ) | 2:03 | 2025-09-12 |  |
+| [Marbled](https://open.spotify.com/track/43Et9hbmjxUdnpMpGpMIWU) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Marbled](https://open.spotify.com/album/49jxs2yePyIdb1CMetjqzZ) | 2:03 | 2025-09-12 | 2026-01-03 |
 | [Maywind](https://open.spotify.com/track/37OgcwZ2DqEGWq2WqIkzN9) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Maywind](https://open.spotify.com/album/2fel2GzJzOIbTk2oNFB04h) | 1:51 | 2025-05-16 | 2025-06-11 |
 | [Me Time](https://open.spotify.com/track/5hl293XslEyIEnRlMv8aLH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Me Time](https://open.spotify.com/album/4hwZh0fgT4KpukIzyCuQoS) | 1:54 | 2025-09-12 |  |
 | [Mellow Out](https://open.spotify.com/track/0XcCLsZqK9f9g57BKRn9JU) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [Mellow Out](https://open.spotify.com/album/7KAXbOzp0OhQxwtjw4xIJw) | 2:26 | 2025-04-11 | 2025-05-17 |
@@ -581,7 +582,7 @@
 | [Spektar](https://open.spotify.com/track/2x0XLG0gGdqUzqnAtRzH7Q) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Spektar](https://open.spotify.com/album/7oeC39Ld0uXtNR5jnz3zLv) | 2:06 | 2024-11-29 | 2025-08-30 |
 | [Spin Minutes](https://open.spotify.com/track/7kz3vD839iC8PvQo4XkjnO) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Spin Minutes](https://open.spotify.com/album/4XkY6AKCPm0qwfwqdhXIXZ) | 1:57 | 2025-03-07 | 2025-03-15 |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 | 2024-09-07 |
-| [Spring Season](https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Spring Season](https://open.spotify.com/album/1oSwpc2aFvqdCpacfS6TD9) | 2:14 | 2025-07-25 |  |
+| [Spring Season](https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Spring Season](https://open.spotify.com/album/1oSwpc2aFvqdCpacfS6TD9) | 2:14 | 2025-07-25 | 2026-01-03 |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 | 2025-04-12 |
 | [Starry Sky](https://open.spotify.com/track/0TWhRkw2Nwessg5cnNSOf4) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Starry Sky](https://open.spotify.com/album/23Xy21Ts7DjSGcrq2fzOga) | 2:11 | 2024-11-08 |  |
 | [Stasis](https://open.spotify.com/track/2OzSwu0f4zATnCfjL0cxeC) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Stasis](https://open.spotify.com/album/7k4sN16ov0OAvn3LIvRQ4q) | 1:58 | 2025-10-17 |  |

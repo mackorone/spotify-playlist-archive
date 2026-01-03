@@ -1555,6 +1555,36 @@
     },
     {
       "album": {
+        "name": "Liquid Bodies",
+        "url": "https://open.spotify.com/album/6AAf7bFQsWTAwZGHOWSr7F"
+      },
+      "artists": [
+        {
+          "name": "2FA",
+          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357357,
+      "name": "Liquid Bodies - Perel Remix",
+      "url": "https://open.spotify.com/track/4QDmWrLKTlFDwefEsoej7V"
+    },
+    {
+      "album": {
         "name": "Kitsun\u00e9: Lisztomania (Remixes)",
         "url": "https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT"
       },

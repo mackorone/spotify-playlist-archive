@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1BJ85CVzqMjEF7KJxI2ZNC"
+      },
+      "artists": [
+        {
+          "name": "CARTFISH",
+          "url": "https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/2OF6kU2IoJU68h8w9exPLV"
+    },
+    {
+      "album": {
         "name": "Fetty Wap (Deluxe)",
         "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
@@ -21394,7 +21412,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/0qPgK3FPlATwPMZXznLxea"
@@ -28886,7 +28904,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -28904,7 +28922,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"

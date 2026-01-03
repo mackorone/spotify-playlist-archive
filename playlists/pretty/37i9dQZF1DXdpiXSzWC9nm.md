@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpiXSzWC9nm.md) - [plain]
 
 > Throw it back to the 2010s with this list of classic videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 16 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,175 likes - 16 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

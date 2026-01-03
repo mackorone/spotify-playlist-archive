@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,598 likes - 91 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,613 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adakaari](https://open.spotify.com/track/1ghcBmONc0nN8iKrCVizmg) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:50 |
 | 2 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
-| 3 | [Shor Na Machao](https://open.spotify.com/track/2yDl7zKaiCTM7c3LvkZzXp) | [Dulhay Mian](https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c) | [Shor Na Machao](https://open.spotify.com/album/3ev08jtzueC3LKWoIAH58Z) | 4:10 |
+| 3 | [Aik Paheli](https://open.spotify.com/track/6qbJ4LWY5mConOZHYKCrgp) | [Sunny Khan Durrani](https://open.spotify.com/artist/3quv60l1R7kydik94rdl7j) | [Aik Paheli](https://open.spotify.com/album/5sf9BJtQFJtJYDuxUEM5Ar) | 2:02 |
 | 4 | [asra](https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [prod\. Azlan](https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt) | [asra](https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva) | 4:27 |
 | 5 | [Khataa](https://open.spotify.com/track/6ysZDePWB7PJkGPclwdVeB) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Khataa](https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5) | 2:37 |
 | 6 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
@@ -98,6 +98,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 88 | [Taray](https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Taray](https://open.spotify.com/album/15lRPoY6UJwWBdWase9Nyn) | 4:34 |
 | 89 | [Khwahishain](https://open.spotify.com/track/3JnlRLK9emP2AY7q9kh5aO) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Khwahishain](https://open.spotify.com/album/3UKUPIJG5v25jr3M6agNRv) | 3:49 |
 | 90 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
-| 91 | [Why'd You Write Me One Last Time?](https://open.spotify.com/track/5NUaygcvFIrBuolRxFACh4) | [Ishtiaq Khatri](https://open.spotify.com/artist/4R3vKFdBAWHXeTgfAOiQqa) | [Why'd You Write Me One Last Time?](https://open.spotify.com/album/4dfF4BfxHFjlC3uZUA59Ty) | 3:03 |
 
-Snapshot ID: `AAAAAKhQdvx+p02mWAP8jPoWHXW/I3g/`
+Snapshot ID: `AAAAAE7IDQPMfz/9z0Mbr5Y2wPVIvxkf`

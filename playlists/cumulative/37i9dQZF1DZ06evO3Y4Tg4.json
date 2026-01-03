@@ -288,10 +288,32 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 182741,
       "name": "Funky Friday",
       "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
+    },
+    {
+      "album": {
+        "name": "Funky Friday",
+        "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Funky Friday",
+      "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
     },
     {
       "album": {

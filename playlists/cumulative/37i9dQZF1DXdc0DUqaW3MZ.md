@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-473 songs - 1 day 3 hr 46 min
+474 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 | 2024-07-18 |  |
 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-07-18 |  |
 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 | 2022-04-11 | 2024-06-15 |
-| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-19 |  |
+| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-19 | 2026-01-03 |
 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 | 2024-03-01 | 2025-04-18 |
 | [Vertebrae](https://open.spotify.com/track/4F55mckG3RhnUgNErA1zwZ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Vertebrae](https://open.spotify.com/album/3y1CCo3BBFgqaEqNGKiptN) | 3:37 | 2022-06-20 | 2024-03-01 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2024-04-04 | 2024-06-15 |
@@ -477,6 +477,7 @@
 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-12-07 | 2022-11-13 |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-12-07 | 2024-07-19 |
 | [You Lose](https://open.spotify.com/track/3wmjDdktkLMElzYPSwJioq) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [You Lose](https://open.spotify.com/album/7bycJdJwYLKIHzov3reXLn) | 3:01 | 2022-04-11 | 2022-04-21 |
+| [You Want Me](https://open.spotify.com/track/4LXCHFzaMJEgEQT877CyeF) | [Leventis](https://open.spotify.com/artist/3F6z7RXCcFGOoeRoPMPAYQ), [Hari](https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU) | [You Want Me](https://open.spotify.com/album/5rs6ip4qCmXyZVvJ9cQCpr) | 3:25 | 2025-12-12 |  |
 | [You Will Find It](https://open.spotify.com/track/2AoygDLupCmri0iCtEJsGc) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [You Will Find It](https://open.spotify.com/album/0A8oruLld7zmdVJnh7SATi) | 4:34 | 2022-04-11 | 2022-04-14 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2023-10-20 |  |
 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 | 2022-04-11 | 2024-06-15 |

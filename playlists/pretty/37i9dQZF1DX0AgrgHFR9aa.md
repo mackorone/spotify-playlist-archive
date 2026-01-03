@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Guerta
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,123 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,119 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [PROCÉDURE HABITUELLE](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [MÉTHYLÈNE 1.2](https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO) | 2:53 |
 | 2 | [TENDU](https://open.spotify.com/track/13KxBLQ8PDF9SFmrdMJSj3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING](https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc) | 4:50 |
 | 3 | [L'usine](https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [L'usine](https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD) | 3:32 |
 | 4 | [Ce qui restera](https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Dieu Donne, J’utilise part.1](https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg) | 2:56 |

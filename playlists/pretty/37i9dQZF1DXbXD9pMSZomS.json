@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 528072,
+  "num_followers": 528181,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "U Will Change My Mind",
-        "url": "https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV"
-      },
-      "artists": [
-        {
-          "name": "Bootie Grove",
-          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "U Will Change My Mind",
-      "url": "https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "U Will Change My Mind",
+        "url": "https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "U Will Change My Mind",
+      "url": "https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "I Knew It",
-        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
-      },
-      "artists": [
-        {
-          "name": "Yambow",
-          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
-        },
-        {
-          "name": "Latas",
-          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "I Knew It",
-      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 349560,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "I Knew It",
+        "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
+      },
+      "artists": [
+        {
+          "name": "Yambow",
+          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
+        },
+        {
+          "name": "Latas",
+          "url": "https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "I Knew It",
+      "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Tokyo",
-        "url": "https://open.spotify.com/album/66gnUJrIEaAoE0gN94oxlL"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/4h6tda5DdPSH9uv4uErGW8"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "highway",
         "url": "https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 269473,
       "name": "highway",
       "url": "https://open.spotify.com/track/3zJww8yH1LdbR74yHO0qAN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/66gnUJrIEaAoE0gN94oxlL"
+      },
+      "artists": [
+        {
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/4h6tda5DdPSH9uv4uErGW8"
     },
     {
       "added_at": "2025-12-12 05:00:32",

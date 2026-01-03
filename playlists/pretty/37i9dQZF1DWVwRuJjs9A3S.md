@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Dina Ögon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,662 likes - 263 songs - 15 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,669 likes - 263 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 2 | [Göteborg](https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Göteborg](https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK) | 3:48 |
 | 3 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
 | 4 | [Min vän och jag](https://open.spotify.com/track/0NPyQAU96LDQ2xLyIPyAg6) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:38 |
-| 5 | [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 |
 | 6 | [Castle in the Sky](https://open.spotify.com/track/0Fu7u1PnSWonsvaGGkFKMG) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Castle in the Sky](https://open.spotify.com/album/2qyX75sM8jTRpbxZEeWMJp) | 2:35 |
 | 7 | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/track/7wfUH6O0XKQ1xrnhm0n6MV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/album/4gSb0ZRAzte16ttpJk70zU) | 4:32 |
 | 8 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |

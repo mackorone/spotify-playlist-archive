@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8627,
+  "num_followers": 8626,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABbOrBUbtzDPWU4ICc8JKxN",
+  "snapshot_id": "aVW5AAAAAACPgmT4Wedr57+4tMjhDGHR",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 205475,
       "name": "Phases - bad tuner Remix",
       "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosmic Intoxication",
-        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
     },
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Tell Me (Maya Jane Coles Remix)",
-        "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "Say Tell Me - Maya Jane Coles Remix",
-      "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 309145,
       "name": "Darkest (Dim)",
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Tell Me (Maya Jane Coles Remix)",
+        "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Say Tell Me - Maya Jane Coles Remix",
+      "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
-      },
-      "artists": [
-        {
-          "name": "Attacca Quartet",
-          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Remind U (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
+      },
+      "artists": [
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Remind U (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Reverie (Instrumentals)",
-        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 170567,
-      "name": "Lucky U - Instrumental",
-      "url": "https://open.spotify.com/track/7dodskvNou5tari9Tpssjk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -431,22 +411,6 @@
       "duration_ms": 169786,
       "name": "For My Eternal, Oh Dream My Treasure",
       "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -467,6 +431,22 @@
       "duration_ms": 241753,
       "name": "Little Pleasures",
       "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -586,11 +566,15 @@
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 181894,
-      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
-      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF"
     },
     {
       "added_at": null,
@@ -619,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
         }
       ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -655,22 +643,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+      "duration_ms": 181894,
+      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
+      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Reverie (Instrumentals)",
+        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 113485,
+      "name": "Warm Water (Interlude) - Instrumental",
+      "url": "https://open.spotify.com/track/5IAR3UZ91qSId1ACqDkjDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young Art Sound II",
         "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 153297,
       "name": "Strange Froot",
       "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie (Instrumentals)",
-        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 113485,
-      "name": "Warm Water (Interlude) - Instrumental",
-      "url": "https://open.spotify.com/track/5IAR3UZ91qSId1ACqDkjDr"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Shadows",
         "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 202965,
+      "name": "Bibimbap",
+      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 238277,
       "name": "Renter's Anthem",
       "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie (Instrumentals)",
+        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 127240,
+      "name": "Eternal - Instrumental",
+      "url": "https://open.spotify.com/track/71W79TtDeWq4T0g2Ym4t5o"
     },
     {
       "added_at": null,
@@ -848,9 +864,33 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 202965,
-      "name": "Bibimbap",
-      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Sum",
+        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "duration_ms": 184857,
+      "name": "Switch It",
+      "url": "https://open.spotify.com/track/0QWvAEwk9l5MNJtyjAygmP"
     },
     {
       "added_at": null,
@@ -867,22 +907,6 @@
       "duration_ms": 195607,
       "name": "Fallen Arches",
       "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie (Instrumentals)",
-        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "Eternal - Instrumental",
-      "url": "https://open.spotify.com/track/71W79TtDeWq4T0g2Ym4t5o"
     },
     {
       "added_at": null,
@@ -923,30 +947,6 @@
       "duration_ms": 227533,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Sum",
-        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "GAWD",
-          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
-        }
-      ],
-      "duration_ms": 184857,
-      "name": "Switch It",
-      "url": "https://open.spotify.com/track/0QWvAEwk9l5MNJtyjAygmP"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

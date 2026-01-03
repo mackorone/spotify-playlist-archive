@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,416 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 40 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
 | 41 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
 | 42 | [Ayigiri Nandini](https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:43 |
-| 43 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
-| 44 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |
-| 45 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
+| 43 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
+| 44 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 |
+| 45 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |
 | 46 | [Ayarpadi](https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e) | [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Veena Gana Murali](https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5) | 4:38 |
 | 47 | [Sriganesa Thilang Adi](https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 6:30 |
 | 48 | [Thevaram Mangayarkarasi Bowli Adi](https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 5:18 |

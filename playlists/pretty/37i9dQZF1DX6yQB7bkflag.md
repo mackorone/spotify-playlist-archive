@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Timethai, BamBam
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,026 likes - 134 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,028 likes - 134 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 33 | [Lost In Motion](https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [vaneshadarling](https://open.spotify.com/artist/1k8oTwRjFaXw7FiDFK3yvw) | [Lost In Motion](https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO) | 3:08 |
 | 34 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 35 | [I'll Be Yours](https://open.spotify.com/track/26ivfrd0UbQzWsVpp52kn0) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Rey Putra](https://open.spotify.com/artist/4nEkjVe6NrlzhcIbovYxd0), [Cosmo Kent](https://open.spotify.com/artist/5qoWjEvGA0YPa4RfKAp9aa) | [I'll Be Yours](https://open.spotify.com/album/5esYlYK24c0Z6IXu2s1NpI) | 3:25 |
-| 36 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/224NGC6XAr74nyYDgYCTHj) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
+| 36 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
 | 37 | [what if we both loved each other still?](https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [PISCEE](https://open.spotify.com/artist/0pLM4IyW9R8mqxe9t36ikW) | [what if we both loved each other still?](https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4) | 3:55 |
 | 38 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 39 | [terima kasih dariku.](https://open.spotify.com/track/0WsLJaWG3RGOh3JbxPurve) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Cecilia](https://open.spotify.com/album/7ANg72ntvphbDfeRfNryMN) | 1:58 |

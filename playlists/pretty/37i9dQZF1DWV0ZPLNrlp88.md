@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,516 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,515 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [必殺のキス](https://open.spotify.com/track/4V1QxE2rH8LBg5dMnUcuQk) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [必殺のキス](https://open.spotify.com/album/26SRMbdNBS2pubMOH7chxw) | 3:26 |
 | 40 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
 
-Snapshot ID: `AAAAAGSPYMEGryae5T8y73AmZ6+AAeRG`
+Snapshot ID: `AAAAAPe5khOxz8EH0NzcAl8CBV3ohv/J`

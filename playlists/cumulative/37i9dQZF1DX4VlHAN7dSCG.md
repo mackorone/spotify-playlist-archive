@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 青虫 aoi
 
-893 songs - 2 day 10 hr 14 min
+894 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/track/6lEgJnYGEGu5l0ihRU8pq1) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [DIE FOR YOU feat\. FEniX](https://open.spotify.com/album/1WG1hu3F4szsq90ceZPSpI) | 3:27 | 2024-06-28 | 2024-07-05 |
 | [Disco Night｜R.Y.G.](https://open.spotify.com/track/54f74X7VwY9jVRuXCLNne5) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [Disco Night｜R.Y.G.](https://open.spotify.com/album/2m8CnJPhLmZtKVLXaudYpO) | 2:42 | 2024-11-14 | 2024-12-06 |
 | [Do It](https://open.spotify.com/track/6aTE0gsGfTzPUJClMc3UXV) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA), [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe) | [Do It](https://open.spotify.com/album/55yA6faIeNNpBqtozCZntB) | 3:15 | 2025-06-26 | 2025-07-18 |
+| [Do It \- Remix](https://open.spotify.com/track/0NqBFuN6Ntfhh8AfNzpaV1) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Damndef](https://open.spotify.com/artist/4jFOzswJGUdE6LFx1ZbOjS), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [Do It \(Remix\)](https://open.spotify.com/album/7AYxbbZsfrME1i6iuY2oWx) | 3:42 | 2026-01-01 |  |
 | [Don't Ask](https://open.spotify.com/track/1AujVhAK0hULDuiMNj9GLo) | [回环 RingAgain](https://open.spotify.com/artist/6yZizKMxiMqmi9hclZ7IB3) | [松一口气！](https://open.spotify.com/album/0pV7ChVoff2LV1MWm7VC5K) | 4:05 | 2025-04-24 | 2025-05-23 |
 | [Don't Call Me](https://open.spotify.com/track/0gNV8GLMBOZohkuz3ZPoX8) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7) | [Don't Call Me](https://open.spotify.com/album/09h7llsgw3jIrb962FVeab) | 3:31 | 2025-03-21 | 2025-04-11 |
 | [Don'T Call Me \- Live](https://open.spotify.com/track/3k01cNeg6LptsLU28OJiFW) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [擊沈女孩 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/24ExASXmz5mWaIldiTB2f2) | 3:42 | 2025-08-28 | 2025-09-12 |

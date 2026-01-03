@@ -1,13 +1,45 @@
 {
-  "description": "next gen pop\nCover: Rose Gray",
-  "num_followers": 1265417,
+  "description": "next gen pop\nCover: Chloe Qisha",
+  "num_followers": 1265355,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWsun9SGXKa650eVg+NTSl0AogX",
+  "snapshot_id": "AAAAANLYxoO+4JKUE8Ufrkk/amVD72l5",
   "tracks": [
+    {
+      "added_at": "2025-11-28 05:00:25",
+      "album": {
+        "name": "So Sad So Hot",
+        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 171014,
+      "name": "So Sad So Hot",
+      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "Internet Girl",
+        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 163831,
+      "name": "Internet Girl",
+      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
     {
       "added_at": "2025-10-24 04:00:36",
       "album": {
@@ -25,20 +57,132 @@
       "url": "https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS"
     },
     {
-      "added_at": "2025-11-28 05:00:25",
+      "added_at": "2026-01-02 05:00:16",
       "album": {
-        "name": "So Sad So Hot",
-        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
         }
       ],
-      "duration_ms": 171014,
-      "name": "So Sad So Hot",
-      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "Thinking \u2018bout You",
+        "url": "https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Thinking \u2018bout You",
+      "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 194399,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
+    },
+    {
+      "added_at": "2025-05-30 04:00:32",
+      "album": {
+        "name": "Fame is a Gun",
+        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "someone new",
+        "url": "https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "someone new",
+      "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
+    },
+    {
+      "added_at": "2025-08-15 04:00:24",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Thirst Trap",
+      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
+    },
+    {
+      "added_at": "2025-10-24 04:00:36",
+      "album": {
+        "name": "Supermarket",
+        "url": "https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 184155,
+      "name": "Supermarket",
+      "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
+    },
+    {
+      "added_at": "2025-11-28 05:00:25",
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
       "added_at": "2025-11-28 05:00:25",
@@ -105,6 +249,22 @@
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
     },
     {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "the good",
+        "url": "https://open.spotify.com/album/6bWzVQaxhZAzcAh3Vgwetk"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "duration_ms": 206369,
+      "name": "the good",
+      "url": "https://open.spotify.com/track/2CKifvBj0v3ww5uSKz93dD"
+    },
+    {
       "added_at": "2025-11-07 05:00:57",
       "album": {
         "name": "Favorite Place",
@@ -123,22 +283,6 @@
     {
       "added_at": "2025-11-28 05:00:25",
       "album": {
-        "name": "NOT CUTE ANYMORE",
-        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 131997,
-      "name": "NOT CUTE ANYMORE",
-      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
-    },
-    {
-      "added_at": "2025-11-28 05:00:25",
-      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -151,22 +295,6 @@
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:36",
-      "album": {
-        "name": "Supermarket",
-        "url": "https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 184155,
-      "name": "Supermarket",
-      "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
     },
     {
       "added_at": "2025-11-28 05:00:25",
@@ -199,6 +327,22 @@
       "duration_ms": 238282,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/3invOOhMmOVJF5lyAbJiUa"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK"
     },
     {
       "added_at": "2025-11-07 05:00:57",
@@ -263,6 +407,22 @@
       "duration_ms": 187215,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
+    },
+    {
+      "added_at": "2026-01-02 05:00:16",
+      "album": {
+        "name": "Almost Did",
+        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Almost Did",
+      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
     },
     {
       "added_at": "2025-11-28 05:00:25",
@@ -557,22 +717,6 @@
       "url": "https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP"
     },
     {
-      "added_at": "2025-08-15 04:00:24",
-      "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Thirst Trap",
-      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
-    },
-    {
       "added_at": "2025-10-24 15:04:00",
       "album": {
         "name": "SE9 Part 1",
@@ -603,26 +747,6 @@
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
-    },
-    {
-      "added_at": "2025-10-10 04:00:41",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 127830,
-      "name": "Noises + JT",
-      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
     },
     {
       "added_at": "2025-07-18 04:00:30",
@@ -771,22 +895,6 @@
       "duration_ms": 177052,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-    },
-    {
-      "added_at": "2025-09-26 04:00:14",
-      "album": {
-        "name": "Honeymoon In A Motel",
-        "url": "https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 170231,
-      "name": "Pity Party Princess",
-      "url": "https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -1221,22 +1329,6 @@
       "url": "https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54"
     },
     {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
       "added_at": "2025-07-05 04:00:22",
       "album": {
         "name": "autonomy",
@@ -1417,38 +1509,6 @@
       "url": "https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F"
     },
     {
-      "added_at": "2025-05-16 04:00:32",
-      "album": {
-        "name": "Same Mouth",
-        "url": "https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 156165,
-      "name": "Same Mouth",
-      "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
-    },
-    {
-      "added_at": "2025-05-30 04:00:32",
-      "album": {
-        "name": "Fame is a Gun",
-        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
       "added_at": "2025-05-02 04:00:37",
       "album": {
         "name": "BUZZKILL",
@@ -1533,22 +1593,6 @@
       "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
-      "added_at": "2025-05-30 04:00:32",
-      "album": {
-        "name": "Take A Sexy Picture Of Me",
-        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Take A Sexy Picture Of Me",
-      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
-    },
-    {
       "added_at": "2025-05-02 04:00:37",
       "album": {
         "name": "U WON'T!",
@@ -1563,54 +1607,6 @@
       "duration_ms": 121795,
       "name": "U WON'T!",
       "url": "https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl"
-    },
-    {
-      "added_at": "2025-05-09 04:00:18",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:37",
-      "album": {
-        "name": "And You Who Drowned in the Grief of a Golden Thing",
-        "url": "https://open.spotify.com/album/34TeI2ZUr5Y75ElLckuwOs"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "ODE TO A BLACK HOLE",
-      "url": "https://open.spotify.com/track/7jiKUb6Gras1SjfhB01uzu"
-    },
-    {
-      "added_at": "2025-04-04 04:00:35",
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 171001,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls"
     },
     {
       "added_at": "2025-04-18 04:00:56",

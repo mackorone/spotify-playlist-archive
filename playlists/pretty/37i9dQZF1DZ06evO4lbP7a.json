@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49865,
+  "num_followers": 49866,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAC8oQwla4uqhdJjSbNB0sOo",
+  "snapshot_id": "aVW5AAAAAAAutswZOEdorkwH/bXgnUdQ",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sleepless Night",
-      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3053\u3060\u307e",
         "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7802\u306e\u57ce",
-        "url": "https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz"
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 242333,
-      "name": "\u7802\u306e\u57ce",
-      "url": "https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7"
+      "duration_ms": 258866,
+      "name": "Sleepless Night",
+      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+        "name": "\u7802\u306e\u57ce",
+        "url": "https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 274800,
-      "name": "\u5e0c\u671b\u8ad6",
-      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
+      "duration_ms": 242333,
+      "name": "\u7802\u306e\u57ce",
+      "url": "https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 231673,
       "name": "\u4e00\u5bf8\u306e\u8d64",
       "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "\u5e0c\u671b\u8ad6",
+      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "doku",
-        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "safmusic",
-          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
-        }
-      ],
-      "duration_ms": 187900,
-      "name": "a.m.3:21\uff08safmusic Remix\uff09",
-      "url": "https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
         "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "safmusic",
+          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "a.m.3:21\uff08safmusic Remix\uff09",
+      "url": "https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ"
     },
     {
       "added_at": null,

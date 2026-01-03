@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 523 likes - 188 songs - 10 hr 33 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 527 likes - 190 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,5 +196,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 186 | [Once](https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx) | [Eddie Bowers](https://open.spotify.com/artist/269LsjukFfnnXjShOB2iiU) | [Once](https://open.spotify.com/album/6OBF7DsCR7Hu7tkUHsjWEj) | 2:45 |
 | 187 | [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 |
 | 188 | [Cyberpunk Elegy](https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I) | [Billy Manilli](https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT) | [Cyberpunk Elegy](https://open.spotify.com/album/1Px98AlqdHxUeAyNZ2b29y) | 3:27 |
+| 189 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 |
+| 190 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 |
 
-Snapshot ID: `AAACx8o6PA8VUpkJr0xPK62tc3/uVk1w`
+Snapshot ID: `AAACyc+2Due0k9D8csxVG6JnAGnJ8lOV`

@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Paky
+> Solo beat e rime avvolgenti\. Cover: Marracash
 
 293 songs - 15 hr 12 min
 

@@ -11060,7 +11060,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 127720,
       "name": "Boire du rhum",
       "url": "https://open.spotify.com/track/1CDurQxYZhA0jXcXHtsgDL"
@@ -14234,7 +14234,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -17642,6 +17642,36 @@
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "album": {
+        "name": "Cry For Me (WA WA WA)",
+        "url": "https://open.spotify.com/album/5Zbol88VbQjotiDZfoVoEC"
+      },
+      "artists": [
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        },
+        {
+          "name": "shirobeats",
+          "url": "https://open.spotify.com/artist/6ikl2mKOYsek2fUhMj2CTW"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Bubi",
+          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Cry For Me (WA WA WA)",
+      "url": "https://open.spotify.com/track/2h2OhhosKCd5mZdshLODic"
     },
     {
       "album": {
@@ -30742,7 +30772,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 223000,
       "name": "Good Goodbye",
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
@@ -32668,7 +32698,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 127200,
       "name": "Hawawan",
       "url": "https://open.spotify.com/track/2jh0PkYbStyXpz3YC4Srjg"
@@ -42762,7 +42792,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 171130,
       "name": "Keep On Steppin (feat. Big Boogie)",
       "url": "https://open.spotify.com/track/6VD06GxKfueiiXqY5Zppot"

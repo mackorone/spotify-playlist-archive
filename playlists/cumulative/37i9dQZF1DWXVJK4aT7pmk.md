@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Guru Randhawa
+> Catch the hottest Punjabi tracks\. Cover: Karan Aujla
 
 196 songs - 9 hr 54 min
 

@@ -1,13 +1,33 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar",
-  "num_followers": 16085,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Sabat Batin",
+  "num_followers": 16154,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1ryYvzLNn7jRUGAlkH6eEXOv/j",
+  "snapshot_id": "AAAAAAjjJ3I8nJnidBqMSekDZL2JhOW5",
   "tracks": [
+    {
+      "added_at": "2026-01-02 04:00:04",
+      "album": {
+        "name": "Duniya Jaal",
+        "url": "https://open.spotify.com/album/6n3Mn43oOt9vmslJFGaOjY"
+      },
+      "artists": [
+        {
+          "name": "Sabat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        },
+        {
+          "name": "Rackstar",
+          "url": "https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY"
+        }
+      ],
+      "duration_ms": 181409,
+      "name": "Duniya Jaal",
+      "url": "https://open.spotify.com/track/5xCWzrwXDmRGUkbQAVtiYl"
+    },
     {
       "added_at": "2025-12-20 03:00:14",
       "album": {

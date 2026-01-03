@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,195 songs - 3 day 1 hr 29 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,196 songs - 3 day 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1203,5 +1203,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1193 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/4QOqvhGpIbEKvQVJAqQa3L) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Y’all](https://open.spotify.com/album/3QliGTfl4dbkKLI17VkbVl) | 2:23 |
 | 1194 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 |
 | 1195 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
+| 1196 | [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 |
 
-Snapshot ID: `AAAJmQy54i6e+i8p1l2IDRadFAOeqRp0`
+Snapshot ID: `AAAJmq8CQrZyJYQ7Kq0bdI+WLuk80i4l`

@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,143 songs - 3 day 19 hr 36 min
+2,143 songs - 3 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1548,6 +1548,7 @@
 | [Precis Som Förut](https://open.spotify.com/track/1hT0fnLv0as7OR2O1l4TEo) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3) | [Precis Som Förut](https://open.spotify.com/album/6C0Krdgt2q9MB3IuYzqUef) | 3:06 | 2025-12-04 |  |
 | [PRESSEN](https://open.spotify.com/track/6m9f5eFAyoyhEuPUU6VLjv) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [PRESSEN](https://open.spotify.com/album/4QujdXGiSmIQbrTqsBS5lv) | 2:41 | 2022-02-17 | 2022-03-11 |
 | [Pretty Money](https://open.spotify.com/track/2lXwbASnRH1tvBUhobEdpw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Pretty Money](https://open.spotify.com/album/73yTBobETDZWxpCDObEcIK) | 2:42 | 2022-07-21 | 2022-09-09 |
+| [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 | 2026-01-01 |  |
 | [Prime Time](https://open.spotify.com/track/5bLwRc80wnYTYRxIE0pxPl) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Prime Time](https://open.spotify.com/album/2uQBbpPDJwihBskwtfGcr0) | 2:36 | 2024-05-09 | 2024-10-25 |
 | [Prioriterade](https://open.spotify.com/track/4ROvcYCipqbZOmHxK6XXHX) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Prioriterade](https://open.spotify.com/album/7a4OzkfOvM7guu33k5GgRE) | 2:14 | 2024-05-02 | 2024-07-27 |
 | [Privjet](https://open.spotify.com/track/7shjytRlKcXpEQ6vLdlHeu) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Privjet](https://open.spotify.com/album/1n1S21npyuvze19FjLdrR4) | 2:22 | 2023-01-26 | 2023-03-25 |
@@ -1924,7 +1925,6 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
-| [Track 1](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 | 2025-10-23 |  |
 | [Trafikfara](https://open.spotify.com/track/0wAWvTep02Pzkc2kGJhWpN) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Trafikfara](https://open.spotify.com/album/1h4xtwLx9dbwkHm3IvGTCD) | 2:12 | 2023-03-16 | 2023-05-12 |

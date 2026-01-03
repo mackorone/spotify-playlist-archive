@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 436 songs - 1 day 1 hr 45 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 438 songs - 1 day 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -444,5 +444,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 434 | [Fly \(Song of Liberation\)](https://open.spotify.com/track/5JJVckUmZlcMVdsIJYGpYD) | [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Dirty Science](https://open.spotify.com/album/5ZC9NHU7bWeXnTD8sx3m4E) | 4:09 |
 | 435 | [Eclipse \(feat\. Substantial\)](https://open.spotify.com/track/7mEPuj0XW6eK14Unu6IUc1) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 3:34 |
 | 436 | [Stress Off The Chest](https://open.spotify.com/track/3rknRtghzrvPvc175inFq3) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:01 |
+| 437 | [Gold Watch](https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:12 |
+| 438 | [The Narrow Path](https://open.spotify.com/track/522EzHJ8ZblG3iLawNQ6S2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below The Heavens](https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd) | 5:11 |
 
-Snapshot ID: `AAAffbhxWbxPK3WAZ5R2605Fd+UtuDpc`
+Snapshot ID: `AAAff10mE+ECMterCk80/ffHNS7aItrX`

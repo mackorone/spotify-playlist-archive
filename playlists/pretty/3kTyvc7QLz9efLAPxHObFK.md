@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,774 songs - 6 day 0 hr 6 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,776 songs - 6 day 0 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2782,5 +2782,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2772 | [Bassline Crack](https://open.spotify.com/track/4RCvKi887zSgHQTivwcYgw) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Bassline Crack](https://open.spotify.com/album/2HS0E2a317110c9yYi8mo6) | 2:06 |
 | 2773 | [The Riddle](https://open.spotify.com/track/1Bg9kS7ynlAJd3ElpMp2kV) | [X\-Cursion](https://open.spotify.com/artist/4ihqnGOCry0RFLnGuP6Wcz) | [The Riddle](https://open.spotify.com/album/4Bqfoy1WVrL7rLe50ud3ys) | 2:34 |
 | 2774 | [Total FKN Chaos](https://open.spotify.com/track/2JX7pSA4Do8YY9nGqmugpL) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [This Is Revelation LIVE](https://open.spotify.com/album/27MDf6pkzlMyFdqImrtTEx) | 1:37 |
+| 2775 | [Rule My Heart](https://open.spotify.com/track/2zLQxS3GNTWreWdEJNJqxL) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Rule My Heart](https://open.spotify.com/album/7tqp3lhYwtyLBP1cD8MJDe) | 2:48 |
+| 2776 | [I Could Be Yoshi](https://open.spotify.com/track/7MV3EmKme75bPXxqmm30j9) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [I Could Be Yoshi](https://open.spotify.com/album/2xdP9mWsFnLLN2gZpT2Tjd) | 2:36 |
 
-Snapshot ID: `AAALI3LnE6zew/Lochid61fztCyX5CQ/`
+Snapshot ID: `AAALJUp1VHZs8RVx6NUCJ3GhnDvVP4PK`

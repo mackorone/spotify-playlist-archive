@@ -4,7 +4,7 @@
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-1,663 songs - 3 day 18 hr 7 min
+1,664 songs - 3 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-12-17 | 2022-01-25 |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-08 | 2022-08-20 |
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-07-01 | 2022-12-01 |
+| [Blush](https://open.spotify.com/track/6Y58MVl2FL8qwFRUorZgJU) | [Tommi Aura](https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88) | [High Fashion Pop Music](https://open.spotify.com/album/1Z6wCBWieZ1RkvuF6WX7H1) | 3:13 | 2025-12-03 |  |
 | [Body](https://open.spotify.com/track/4yHdLqovXDYG9LB2VDiJoB) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m) | [Body](https://open.spotify.com/album/6uu8eB0HEFAfzi363aNRUs) | 2:01 | 2022-05-20 | 2022-05-28 |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2021-12-17 | 2022-01-29 |
 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 | 2023-04-13 | 2023-05-10 |
@@ -956,7 +957,7 @@
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-12 | 2024-12-05 |
 | [Midnight Ride](https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:31 | 2024-12-04 | 2025-05-14 |
 | [Midnight Voyage](https://open.spotify.com/track/2adNs6KDCDc0Dqe6U8QQ37) | [Goddé](https://open.spotify.com/artist/3LVgenFlXA1cABiQKcEAlv) | [Midnight Voyage](https://open.spotify.com/album/4jRZXqvWcYdPjVV4HivIUS) | 3:20 | 2023-06-01 | 2023-07-12 |
-| [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 | 2025-06-05 |  |
+| [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 | 2025-06-05 | 2026-01-03 |
 | [Milkshake](https://open.spotify.com/track/1GCs3hjUGbMzN4peQHQK6h) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Milkshake](https://open.spotify.com/album/6NZ8uQgTG7RUThbZc89sDm) | 2:29 | 2023-01-24 | 2023-03-08 |
 | [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-07-22 | 2025-07-29 |
 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 | 2025-06-05 | 2025-09-10 |

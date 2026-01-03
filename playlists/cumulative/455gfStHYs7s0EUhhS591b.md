@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-239 songs - 14 hr 0 min
+241 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Now You're Gone](https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Now You're Gone](https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg) | 2:24 | 2025-06-19 |  |
 | [Ocean Whisper](https://open.spotify.com/track/591ruHRvOArYfEFyKcztpk) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Ocean Whisper](https://open.spotify.com/album/2TS8GzDdIIPfankjCGj4dT) | 2:41 | 2025-07-18 |  |
 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2025-07-18 |  |
+| [Offshore](https://open.spotify.com/track/5nL5jZi3VjXi6BGMfwADvN) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Larse](https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm) | [Offshore](https://open.spotify.com/album/1NwQvjRSxeX3UEqoCEH4KR) | 3:09 | 2026-01-02 |  |
 | [Oh Baby](https://open.spotify.com/track/7uYDCWo1S9Kg8g9dXHadvN) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Seizo](https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX) | [Oh Baby](https://open.spotify.com/album/7uspdSUzOEZk1nyEtyurxh) | 3:05 | 2025-10-10 |  |
 | [Our Broken Mind Embassy](https://open.spotify.com/track/6Oj89UHfmYp9yR4t0t1q8F) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Disconnected](https://open.spotify.com/album/5Aq2fCmHIW0vICUIh3YpE9) | 4:26 | 2025-07-18 |  |
 | [Oxytocin](https://open.spotify.com/track/1QQEuvd6SiHtEokz6UCvNJ) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Oxytocin](https://open.spotify.com/album/66YuYDsHx046qoZuf9AZO7) | 2:56 | 2025-07-18 |  |
@@ -191,6 +192,7 @@
 | [Sera El Sol](https://open.spotify.com/track/2eHmJEhthZDhtbpSgnaqGB) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Chill Executive Officer \(CEO\), Vol\. 7 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt) | 3:14 | 2025-07-18 |  |
 | [Seven Cities \- Solarstone's Ambient Dub Mix](https://open.spotify.com/track/5YRroobHVmTi3NuX5tI1lL) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 7:50 | 2025-06-19 |  |
 | [Shatterproof](https://open.spotify.com/track/2K784MIWGTceQ44dDW4ZfL) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:29 | 2025-07-18 | 2025-09-05 |
+| [Shatterproof](https://open.spotify.com/track/7CUAJ97lsdWEXK73mt5XZ8) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/0WBw8GeKLwQiIPfdPaJHL6) | 2:21 | 2026-01-02 |  |
 | [Shipwrecked \- Original Chillout Mix](https://open.spotify.com/track/37rmCFTLVT5Z1kKWNgASA8) | [Mike Foyle](https://open.spotify.com/artist/0gEWoMKkhrZEtu2DNSS8rt) | [Planet Chill, Vol\. 2 \- Compiled by York](https://open.spotify.com/album/4ZZRn4k2n9dfma94A8OxxD) | 5:08 | 2025-07-18 |  |
 | [Show Me The Side of Your Love](https://open.spotify.com/track/3EjsSFHT9tcrcahZMpvoCf) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ), [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Siuxx](https://open.spotify.com/artist/62Bzq7sIaStaE1ENlVWFAF) | [Show Me The Side of Your Love](https://open.spotify.com/album/3T3HuXBq9J9AqnIkcL71G2) | 3:20 | 2025-06-19 |  |
 | [Silence](https://open.spotify.com/track/4zsqHhDIC8xgP0L9bPMQrL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Silence](https://open.spotify.com/album/2RpAGLWCRu8R78tDj0JXa6) | 3:59 | 2025-07-18 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-54 songs - 3 hr 43 min
+55 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 | 2025-09-13 |  |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-09-13 |  |
 | [KALYANI](https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [KALYANI](https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF) | 3:54 | 2025-12-31 |  |
+| [Karalekaralinte](https://open.spotify.com/track/0G5acY5AQJW0hlUddjJ8qt) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Kaithapram](https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF), [Rimmy Tommy](https://open.spotify.com/artist/0G4JWVAaKLdx8y8zb9a9ku) | [UdayananuTharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44zMOfhPBPMmTkUsvPTpZt) | 4:59 | 2026-01-02 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 | 2025-09-13 |  |
 | [Kiliye \- From "ARM"](https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Kiliye \(From "ARM"\)](https://open.spotify.com/album/30tPbatfXYe4Em74JzAzSg) | 4:31 | 2025-09-13 |  |
 | [KILLING MY LOVE](https://open.spotify.com/track/152unnv8fuahIUyVnHJutJ) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPEREUROBEATpresentsINITIALDDSELECTION2](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:54 | 2025-09-13 |  |

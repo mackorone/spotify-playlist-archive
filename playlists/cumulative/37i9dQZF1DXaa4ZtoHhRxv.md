@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-248 songs - 13 hr 13 min
+249 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [This Is How We Roll \- Remix](https://open.spotify.com/track/3Hs4ytyLFzB2HKk2ZSohko) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [This Is How We Roll \(Remix\)](https://open.spotify.com/album/6hitymDgEcBKf8riAVOsiZ) | 3:26 | 2021-12-10 | 2025-06-17 |
 | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 | 2023-12-01 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-10 | 2025-06-17 |
+| [tin foil hat \- MOONLGHT Remix](https://open.spotify.com/track/7ejXZg9ImpO21wVSXycnhu) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [tin foil hat \(MOONLGHT Remix\)](https://open.spotify.com/album/50mgmp62svJ85WuDjq5qQt) | 2:23 | 2026-01-02 |  |
 | [Travel On](https://open.spotify.com/track/2VDOxNnumSziK28ytHEJqc) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI) | [Wanderings](https://open.spotify.com/album/0iFhcXBuEORWfefmGK5tBa) | 3:30 | 2024-12-06 | 2025-06-01 |
 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 | 2021-12-10 | 2025-06-01 |
 | [Us ft\. ERNEST](https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:16 | 2023-12-15 | 2024-04-19 |

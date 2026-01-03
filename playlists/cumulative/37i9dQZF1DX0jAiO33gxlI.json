@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "10, Talvez 9",
+        "url": "https://open.spotify.com/album/16QETkyYmCPp1bFdEyFQs0"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225942,
+      "name": "10, Talvez 9",
+      "url": "https://open.spotify.com/track/4DReOCtr2yXWD7w0wdu3YC"
+    },
+    {
+      "album": {
         "name": "1001 Noites",
         "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
       },
@@ -12272,7 +12290,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 129438,
       "name": "Guantanamo",
       "url": "https://open.spotify.com/track/0j25J087CKJ2m3tBXbYfZi"
@@ -19435,6 +19453,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Tem Kao",
+        "url": "https://open.spotify.com/album/0HnTpN0AaZXG7nBghmXF1K"
+      },
+      "artists": [
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240624,
+      "name": "N\u00e3o Tem Kao",
+      "url": "https://open.spotify.com/track/5UKUV0VSVaMyLkedSlxqIi"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tente Entender um OG",
         "url": "https://open.spotify.com/album/0Tyi1X1Kc0QfE3RzLxHxx6"
       },
@@ -20914,7 +20950,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"

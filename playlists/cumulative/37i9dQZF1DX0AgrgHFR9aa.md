@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Guerta
 
-352 songs - 18 hr 24 min
+352 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Poussez vous 5](https://open.spotify.com/track/2kHX4FsWy0dDitXd7bO9L4) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Poussez vous 5](https://open.spotify.com/album/1iDVIDiFOJv4sZhbuiSKOO) | 4:26 | 2024-11-21 | 2025-01-17 |
 | [Prendre le large](https://open.spotify.com/track/4wv9KNuqKTeLL8DTrPHv1C) | [Oley](https://open.spotify.com/artist/0D976akitbcMJsX0xnXdts) | [Prendre le large](https://open.spotify.com/album/0l2dTBGISrlEvAG4YAtz7I) | 3:26 | 2025-09-25 | 2025-11-07 |
 | [Presque pur](https://open.spotify.com/track/3JozzIynNIRzOegy4LdjKQ) | [De Musset](https://open.spotify.com/artist/2tRgbPREeDwl44s4EoM3JW) | [Presque pur](https://open.spotify.com/album/2WNTX7UhAy1xuZPGSbaYbz) | 3:06 | 2025-10-09 | 2025-11-07 |
+| [PROCÉDURE HABITUELLE](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [MÉTHYLÈNE 1.2](https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO) | 2:53 | 2026-01-01 |  |
 | [Promesses](https://open.spotify.com/track/3p5UzHUDerrlYl7RtGhLML) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa) | [Portes du désert](https://open.spotify.com/album/2UVB0dL0W045yLpoERSNPI) | 5:25 | 2025-05-22 | 2025-10-03 |
 | [Promis ça va aller](https://open.spotify.com/track/52cu4TD46rXBKWSXkVtH8F) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [MASQUE\(S\)](https://open.spotify.com/album/3ZvQItD7BY41XFoJQnu9eW) | 2:17 | 2025-12-04 |  |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 | 2024-09-13 |
@@ -326,7 +327,6 @@
 | [Tom](https://open.spotify.com/track/0Vjzy5XgoNETwDnTkfphsU) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [Tom](https://open.spotify.com/album/0VdE3hBaU6IkiXwNKjiIKm) | 3:36 | 2025-06-05 | 2025-10-10 |
 | [Toujours rien à remplacer](https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/02fsOKarSDUsPaNNOhDE6c) | 6:22 | 2024-07-18 | 2024-09-20 |
 | [Tous fous](https://open.spotify.com/track/0LsQcMNRdLM5qVeUDDbYUH) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [Prolétaire](https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV) | 2:36 | 2025-11-20 |  |
-| [Track 9](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Train Mistral](https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Train Mistral](https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs) | 3:17 | 2025-10-09 | 2025-12-19 |
 | [Trajectoire](https://open.spotify.com/track/6XIVJ6FT3GlAa7ra9sOGgF) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [Trajectoire](https://open.spotify.com/album/4QY0Rj1ZHAknN7c2xUHJ3d) | 2:46 | 2025-12-18 |  |
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-06-27 | 2024-09-13 |

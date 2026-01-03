@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-688 songs - 2 day 9 hr 28 min
+689 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Any More](https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More](https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp) | 3:08 | 2023-09-15 | 2023-11-07 |
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2025-06-20 |
+| [Apala Medley](https://open.spotify.com/track/2yAnrqd6q7P8GFV89PRH5b) | [Bisi Davids](https://open.spotify.com/artist/5VKhbjC1Y2GcmYPybOOZyv) | [Apala Medley](https://open.spotify.com/album/6iWHRCBAoqjEi7CpnwPlvA) | 9:03 | 2025-12-19 |  |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-06-27 |
 | [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-10-10 |
 | [ATOFARATI](https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [ATOFARATI](https://open.spotify.com/album/2zOO5doG10OaVijVrqsgMT) | 9:05 | 2025-09-12 | 2025-10-03 |
@@ -172,7 +173,7 @@
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-07 |  |
 | [Esé O](https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Joshua Israel PF](https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F) | [Esé O](https://open.spotify.com/album/2rzOBW7l6Tum9Yt08khyKV) | 8:04 | 2025-11-14 |  |
-| [Eternal Devotion](https://open.spotify.com/track/4hO1FS2Nom4rieV4BbmVjN) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Eternal Devotion](https://open.spotify.com/album/44BGggg88XxgEgDDvevclI) | 4:33 | 2025-10-17 |  |
+| [Eternal Devotion](https://open.spotify.com/track/4hO1FS2Nom4rieV4BbmVjN) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Eternal Devotion](https://open.spotify.com/album/44BGggg88XxgEgDDvevclI) | 4:33 | 2025-10-17 | 2026-01-03 |
 | [Ever Present Help](https://open.spotify.com/track/2y94Cj3pi63MPJJ52Xcfaa) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Archbishop Benson Idahosa](https://open.spotify.com/artist/5KnKKG1eEW3o6Hf159ZZh9) | [Ever Present Help](https://open.spotify.com/album/2QBRXDYPqNvpKnWm2DBh7u) | 5:29 | 2025-02-07 | 2025-06-27 |
 | [Ever Present Help](https://open.spotify.com/track/53XKGgUszQqBX19YQmgv9e) | [Yanga Sobetwa](https://open.spotify.com/artist/1T2eBbz7Lx7N24h9VJGKt7) | [Ever Present Help](https://open.spotify.com/album/67e4V32SoyG6rzAoV7syFj) | 7:37 | 2025-07-25 | 2025-10-17 |
 | [Every Tongue](https://open.spotify.com/track/63wTKmeUpjQjgyngt06D1l) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq) | [Every Tongue](https://open.spotify.com/album/2JlAnHf2ioMDL3dKSv6tsO) | 2:50 | 2025-11-21 |  |

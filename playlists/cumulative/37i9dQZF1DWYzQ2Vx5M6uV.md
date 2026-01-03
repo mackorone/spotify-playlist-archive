@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Ozuna & Beéle
 
-320 songs - 16 hr 16 min
+321 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aroma](https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:09 | 2025-01-31 |  |
 | [ATARDECER](https://open.spotify.com/track/1NzRfO3pKfa0hPA8zMnZsm) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [ATARDECER](https://open.spotify.com/album/2SVQ5aDDb2opvNVKnwCBDB) | 2:55 | 2024-11-01 | 2025-06-07 |
 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 | 2024-11-22 |  |
+| [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 | 2026-01-02 |  |
 | [BAHAMAS](https://open.spotify.com/track/2YawcSeJXJTUzEqP3HzsSQ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [BAHAMAS](https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd) | 2:27 | 2025-01-31 | 2025-05-17 |
 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 | 2024-12-13 | 2025-06-07 |
 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 | 2022-02-16 | 2024-09-21 |

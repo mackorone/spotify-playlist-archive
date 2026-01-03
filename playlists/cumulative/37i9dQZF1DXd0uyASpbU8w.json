@@ -20185,6 +20185,24 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227979,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw"
+    },
+    {
+      "album": {
         "name": "Beautiful People (THEMBA Remix)",
         "url": "https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU"
       },
@@ -121448,6 +121466,28 @@
       "duration_ms": 166808,
       "name": "Need2know",
       "url": "https://open.spotify.com/track/2wUYQxwYhrxIo6yn0uRX7b"
+    },
+    {
+      "album": {
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/2Kqvpziz2zKgHp1XWwQL2f"
+      },
+      "artists": [
+        {
+          "name": "Tendaness",
+          "url": "https://open.spotify.com/artist/7dY6wxtWc7wx7qfkk0TJe5"
+        },
+        {
+          "name": "Kyle Deutsch",
+          "url": "https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305454,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/2UXVLPB8Ga8h4Zw6xT1PDN"
     },
     {
       "album": {

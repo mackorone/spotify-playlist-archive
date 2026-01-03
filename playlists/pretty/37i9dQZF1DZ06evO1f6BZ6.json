@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123990,
+  "num_followers": 124005,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACbldDFbtkHIFk8nzhZ4hpm",
+  "snapshot_id": "aVW5AAAAAAC0WhBqpgzUmTnTp739rMK/",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Beers Ago",
-      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 233106,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Beers Ago",
+      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Bullets in the Gun",
-      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
+      "duration_ms": 256613,
+      "name": "Bullets in the Gun",
+      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
       "duration_ms": 197293,
       "name": "Rum Is the Reason",
       "url": "https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Getcha Some",
+      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Getcha Some",
-      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "She's A Hottie - Single Version",
-      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 224800,
       "name": "If I Was Jesus",
       "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "She's A Hottie - Single Version",
+      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "35 mph Town",
-        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 177240,
       "name": "Big Blue Note",
       "url": "https://open.spotify.com/track/1aF6yVzmxhTyVChoLMD2JI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "35 mph Town",
+        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
     }
   ],
   "unique_name": "This Is Toby Keith",

@@ -4,7 +4,7 @@
 
 > old asl
 
-644 songs - 1 day 11 hr 20 min
+649 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Acid Hologram](https://open.spotify.com/track/7t2JgdeMxaw7cRhJbtUcm2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 4:05 | 2023-10-27 |  |
 | [act i: stickerz "99"](https://open.spotify.com/track/2kC6etns1VgQmNxBnitrV9) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/5NygndafCyFZuKTktq1TuS) | 1:44 | 2023-09-27 |  |
 | [Afraid](https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:11 | 2022-08-29 |  |
+| [After Me](https://open.spotify.com/track/0mSm74ZDcFbpQzqAOuClhh) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 3:52 | 2026-01-02 |  |
 | [Aggressive Evolution](https://open.spotify.com/track/0ZfpA3Tq0OWlxpowofOlH9) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 3:27 | 2024-06-16 |  |
 | [Aint No Way Around It \(feat\. Future\)](https://open.spotify.com/track/4YikwzIFg3yFRDaI2kkrbV) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Third Power](https://open.spotify.com/album/5MbL2pzYuBmZehi0cIt2Oy) | 3:25 | 2023-05-27 |  |
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2024-11-27 |  |
@@ -94,6 +95,7 @@
 | [Caribbean](https://open.spotify.com/track/0wXDkdptCVhhDsLDGAhAOS) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Party Pack\. Vol 2](https://open.spotify.com/album/6lolOKwewTA3hoBA6FDTI0) | 2:41 | 2022-10-21 |  |
 | [Carrollton](https://open.spotify.com/track/2XSrt1dcuOXPgl3B4bxmBz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 3:23 | 2022-01-09 |  |
 | [Cars & Coffee](https://open.spotify.com/track/679RuF8i7AFuZb88oYyWHV) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S), [Quintin Lamb](https://open.spotify.com/artist/24x1LJJqp10KZHkTMumIev) | [Cars & Coffee](https://open.spotify.com/album/1VVaMnjAtmApKNvPZGygAB) | 2:31 | 2022-11-26 |  |
+| [Catch Me In Traffic](https://open.spotify.com/track/027onM1IInwLqghznNadYS) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:41 | 2026-01-02 |  |
 | [Chandelier \(feat\. Curren$y\)](https://open.spotify.com/track/0doPjH3V2qKDUKjfpW3k92) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Party Pack\. Vol 2](https://open.spotify.com/album/6lolOKwewTA3hoBA6FDTI0) | 3:32 | 2022-04-12 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-17 |  |
 | [Change Up](https://open.spotify.com/track/0BrXaPCTpe9JuFWJH6DaUA) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Change Up](https://open.spotify.com/album/78WE3QPAUDQxYxr6FSqusE) | 2:57 | 2022-01-07 |  |
@@ -539,6 +541,7 @@
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-04-02 |  |
 | [Spin The Block](https://open.spotify.com/track/7gB90rW1w7tPSSxBelLTZY) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Spin The Block](https://open.spotify.com/album/2HZlkLlkP0rJOyun26Txqr) | 2:20 | 2023-02-26 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-05-27 |  |
+| [Spray for Me](https://open.spotify.com/track/4KDxH2FhaBbWJWys7IzEoc) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Misunderstood](https://open.spotify.com/album/265RSKLOdNH1q2ts0ta2bg) | 3:03 | 2026-01-02 |  |
 | [Stained Glass Eyes And Colorful Tears](https://open.spotify.com/track/2ag0hixCwLjj9Gi5Z44hbO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:38 | 2025-01-08 |  |
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2022-01-22 |  |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-08-22 |  |
@@ -585,6 +588,7 @@
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-07-12 |  |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-08 |  |
 | [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 | 2024-03-27 |  |
+| [Thot Thot](https://open.spotify.com/track/4YAH2RzSQ78Oz8lqL9CS13) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:01 | 2026-01-02 |  |
 | [thrax](https://open.spotify.com/track/1P6ZWbU95Y5issu4KXTpwz) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [night before ko](https://open.spotify.com/album/3mWiZ6VBKD3hvvmZnngw5l) | 2:28 | 2024-01-07 |  |
 | [Thru the Screen](https://open.spotify.com/track/1JV0bFj7KIrbIpb3flnClS) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [YAWNS](https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD) | [Wish Me Well](https://open.spotify.com/album/6qCIlBII6zrudUxDXxiFf0) | 3:03 | 2022-02-16 |  |
 | [Tim & Ginobili](https://open.spotify.com/track/3U31Ejeh05Ra3zvPYWU9RA) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious 2](https://open.spotify.com/album/2EEercDSp5OpbqROZSD7VP) | 2:34 | 2023-01-17 |  |
@@ -625,6 +629,7 @@
 | [Wet Dreamz](https://open.spotify.com/track/6Ius4TC0L3cN74HT7ENE6e) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:59 | 2022-01-07 |  |
 | [What Would I Do?](https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [What Would I Do?](https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV) | 3:54 | 2024-04-08 |  |
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2022-02-10 |  |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-02 |  |
 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 | 2023-11-30 |  |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-13 |  |
 | [Whiplash'd](https://open.spotify.com/track/4dlsntjrHwjQlDPCFHfqgW) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7lirv2kkhnhhHm2TV1Pk8u) | 1:50 | 2022-01-07 |  |

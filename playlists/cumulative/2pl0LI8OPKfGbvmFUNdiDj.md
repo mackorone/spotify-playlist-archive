@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-289 songs - 16 hr 11 min
+291 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 |  |
+| [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 | 2026-01-03 |  |
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 |  |
 | [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 |  |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 |  |
@@ -297,5 +298,6 @@
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 |  |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 |  |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
+| [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2026-01-03 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

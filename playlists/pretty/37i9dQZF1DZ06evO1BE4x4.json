@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6776,
+  "num_followers": 6778,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAAY2HsQM0x+S6XeeMFloxSu",
+  "snapshot_id": "aVW5AAAAAACdOk7x0k2d6wfXMMO5koKD",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+        "name": "Neighbour Neighbour",
+        "url": "https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 225858,
-      "name": "Slow Down Sonic",
-      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
+      "duration_ms": 213626,
+      "name": "Neighbour Neighbour",
+      "url": "https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighbour Neighbour",
-        "url": "https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Neighbour Neighbour",
-      "url": "https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
@@ -132,9 +116,25 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 203022,
-      "name": "Lying On The Floor",
-      "url": "https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS"
+      "duration_ms": 225858,
+      "name": "Slow Down Sonic",
+      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
       "artists": [
         {
@@ -180,15 +180,15 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Muscle Junkie",
-      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+      "duration_ms": 203022,
+      "name": "Lying On The Floor",
+      "url": "https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 202740,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8"
+      "duration_ms": 234414,
+      "name": "Tinderbox",
+      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 234414,
-      "name": "Tinderbox",
-      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
+      "duration_ms": 202740,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 253360,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH"
+      "duration_ms": 270773,
+      "name": "How To Taste",
+      "url": "https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 270773,
-      "name": "How To Taste",
-      "url": "https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk"
+      "duration_ms": 253360,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH"
     },
     {
       "added_at": null,

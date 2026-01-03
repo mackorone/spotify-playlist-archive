@@ -4,7 +4,7 @@
 
 > KATSEYE, Ninho, et MOLIY au top des nouveautés de la semaine !
 
-7,619 songs - 16 day 10 hr 57 min
+7,621 songs - 16 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-09 | 2024-08-16 |
 | [Beautiful Odyssey](https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Beautiful Odyssey](https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb) | 2:50 | 2025-08-01 | 2025-08-08 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-06 | 2025-03-14 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-01 |  |
 | [Beaux quartiers](https://open.spotify.com/track/22wQV7kFwWt2ZVM3L1Rj2B) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Beaux quartiers](https://open.spotify.com/album/6KZtK9pcgGz6nrJO5jr2v6) | 3:11 | 2025-10-30 | 2025-11-07 |
 | [Bebezinho](https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:59 | 2025-11-27 | 2025-12-05 |
 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 | 2024-08-29 | 2024-09-06 |
@@ -707,6 +708,7 @@
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-08-22 | 2024-08-30 |
 | [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 | 2025-04-17 | 2025-04-25 |
 | [Bed of Roses](https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Bed of Roses](https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S) | 2:29 | 2025-06-26 | 2025-07-04 |
+| [Been Undone \- Dark\-Side Mix](https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Been Undone \(Dark\-Side Mix\)](https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc) | 7:39 | 2026-01-01 |  |
 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-07-03 | 2025-07-11 |
 | [Before I Let You Go \(feat\. MarcLo\)](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:19 | 2024-08-29 | 2024-09-06 |
 | [Before You Go](https://open.spotify.com/track/6qtWLaLL3nRHqlGnzitDvJ) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [YOU](https://open.spotify.com/album/4bvg2Ieq2bwaru17ztTsY0) | 2:43 | 2024-09-12 | 2024-09-20 |
@@ -1330,6 +1332,7 @@
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-12 | 2024-09-20 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-08-29 | 2024-09-06 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-05-30 |
+| [CLICK](https://open.spotify.com/track/560o3DjUMv3ePxn3oLMT3I) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL), [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB) | [MÉTHYLÈNE 1.2](https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO) | 2:59 | 2026-01-01 |  |
 | [Click](https://open.spotify.com/track/4EUwWB3vCFjUSZaN7Iy2wg) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [ARGENT](https://open.spotify.com/album/5oW5MGK9yoHmPQfoU2kj0R) | 3:01 | 2024-10-10 | 2024-10-18 |
 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-02 | 2024-05-10 |
 | [Close Range](https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Close Range](https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI) | 3:18 | 2025-03-13 | 2025-03-21 |
@@ -6910,7 +6913,6 @@
 | [Toxic Sunny Delight](https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Toxic Sunny Delight](https://open.spotify.com/album/5073mQ9KqkmZCp663XcSga) | 3:46 | 2025-10-16 | 2025-10-24 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
-| [Track 11](https://open.spotify.com/track/560o3DjUMv3ePxn3oLMT3I) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-09-26 |
 | [Train Mistral](https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Train Mistral](https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs) | 3:17 | 2025-10-09 | 2025-10-17 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-01-17 |

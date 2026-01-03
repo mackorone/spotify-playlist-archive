@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27992,
+  "num_followers": 27991,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABTXasc1Aej2Xsl7lAbEmFx",
+  "snapshot_id": "aVW5AAAAAADySX0iplOagOAhQWHTO0Gn",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAMPAIGN",
-        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "CAMPAIGN",
-      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 170911,
       "name": "Familia",
       "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAMPAIGN",
+        "url": "https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "CAMPAIGN",
+      "url": "https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keanu's Song",
-        "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "KEANU",
-          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
-        }
-      ],
-      "duration_ms": 152911,
-      "name": "Keanu's Song",
-      "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Prodigal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
@@ -387,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "Keanu's Song",
+        "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
       "artists": [
         {
@@ -396,13 +376,13 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "KEANU",
+          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
         }
       ],
-      "duration_ms": 170761,
-      "name": "Who the Son Sets Free",
-      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
+      "duration_ms": 152911,
+      "name": "Keanu's Song",
+      "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
     },
     {
       "added_at": null,
@@ -423,6 +403,26 @@
       "duration_ms": 259328,
       "name": "Let It Reign (feat. Bizzle)",
       "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 237496,
       "name": "Undefeated (feat. KB)",
       "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+        }
+      ],
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAJLDQvZFBa/T9b60k5TiyPZZ6gCpg1",
+  "snapshot_id": "AAAJMTPh+/v1EcwG+OHRozyv+a409HlN",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -23,6 +23,54 @@
       "duration_ms": 54583,
       "name": "Wind Up",
       "url": "https://open.spotify.com/track/6pg3ZfPXvamZRGV69b5ADY"
+    },
+    {
+      "added_at": "2026-01-02 10:25:40",
+      "album": {
+        "name": "Flesh Wound",
+        "url": "https://open.spotify.com/album/7cnvcAn3r77500nHVmvwrs"
+      },
+      "artists": [
+        {
+          "name": "Cranc.",
+          "url": "https://open.spotify.com/artist/47N8enshucZvNiSqBmHA4d"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Flesh Wound",
+      "url": "https://open.spotify.com/track/1RjCjZcKyWfjFB8jqoFZON"
+    },
+    {
+      "added_at": "2026-01-02 10:19:37",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1HmFFZl1ExxrNdNRTdUEqY"
+      },
+      "artists": [
+        {
+          "name": "VinCrux",
+          "url": "https://open.spotify.com/artist/4XfqiAjGUVn2rAjU90cAwE"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/5cns5MfJeOWKlHJR0VCeNS"
+    },
+    {
+      "added_at": "2026-01-02 10:04:19",
+      "album": {
+        "name": "Losing Game (Impending)",
+        "url": "https://open.spotify.com/album/0Rwi918OtHtyjp6T8jxZX5"
+      },
+      "artists": [
+        {
+          "name": "Silence Becoming",
+          "url": "https://open.spotify.com/artist/2reLQ0P13wEZX3vweIojnu"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Losing Game (Impending)",
+      "url": "https://open.spotify.com/track/3KZ98CEfZ0uun5Iq1TDBj9"
     },
     {
       "added_at": "2026-01-01 09:47:53",
@@ -6235,6 +6283,38 @@
       "duration_ms": 276410,
       "name": "Ghost Reverb",
       "url": "https://open.spotify.com/track/77cHHKBi9yLNcpO9cUvRXG"
+    },
+    {
+      "added_at": "2026-01-02 09:59:43",
+      "album": {
+        "name": "In the Grave (You\u2019ll Rot)",
+        "url": "https://open.spotify.com/album/4KPgQfUsVH2jQvAWia0FNy"
+      },
+      "artists": [
+        {
+          "name": "Seven Asterisk",
+          "url": "https://open.spotify.com/artist/6UK1ezKY7oMEy5VyAWzCZL"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "In the Grave (You\u2019ll Rot)",
+      "url": "https://open.spotify.com/track/5pMQ0NCvBDYdPtHVTU0Mxy"
+    },
+    {
+      "added_at": "2026-01-02 10:00:01",
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/14uGgbb9gh9SCRqj5XF1W9"
+      },
+      "artists": [
+        {
+          "name": "Somehow Still",
+          "url": "https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae"
+        }
+      ],
+      "duration_ms": 203092,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/1OFicBZd6JRrD18SGbu0RR"
     }
   ],
   "unique_name": "Shuffle Roulette",

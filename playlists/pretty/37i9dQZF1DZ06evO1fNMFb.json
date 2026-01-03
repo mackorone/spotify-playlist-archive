@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABasuHnSU90IEItvw9c1RbE",
+  "snapshot_id": "aVW5AAAAAABndE36sZwRyX+7Jm+pX0FB",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 147822,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can I Be Ur Friend?",
         "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
       },
@@ -791,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Jungle",
-        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "David Arkwright",
-          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "King Of The Jungle",
-      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -820,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 144557,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+      "duration_ms": 147967,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
     },
     {
       "added_at": null,
@@ -843,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winning",
         "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 154983,
       "name": "Jump To It",
       "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
       "duration_ms": 137952,
       "name": "I'm a Nykaa Everyday (feat. Dee MC)",
       "url": "https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 156686,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 165738,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 156686,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
     },
     {
       "added_at": null,

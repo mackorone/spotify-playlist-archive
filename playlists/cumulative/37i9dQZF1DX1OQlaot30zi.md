@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier e 50 Cent, Kid Yugi e ANNA, Tony Boy, Niky Savage e molti altri.
 
-6,614 songs - 12 day 4 hr 42 min
+6,615 songs - 12 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [CHIUSO \(feat\. Kres\)](https://open.spotify.com/track/6Y8TVxqMLlmiwdXgs9rDpp) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K), [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [LA CITTA' DELL'AMORE](https://open.spotify.com/album/5fhbIBtpdJhRGOJCmST26Q) | 2:48 | 2025-04-17 | 2025-05-09 |
 | [Chloé](https://open.spotify.com/track/2PMza9HBH7wBVsPgI4WwIO) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Chloé](https://open.spotify.com/album/5tijxFLqES9J1xPa9u5tbg) | 2:40 | 2022-11-10 | 2022-12-02 |
 | [Chokeslam](https://open.spotify.com/track/6cqZjOa84Rsfp6bLjWVz8C) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F), [Guido Cagiva](https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK), [Deriansky](https://open.spotify.com/artist/7FRkiYA24RIXPNG3zdzo2l) | [Chokeslam](https://open.spotify.com/album/3Gtk0BkQaZhNz5ObZqb0UK) | 3:52 | 2022-06-16 | 2022-07-01 |
+| [Chop / PND Session](https://open.spotify.com/track/7yJlosP3PSOxwNp3t4Ei3s) | [Elka](https://open.spotify.com/artist/0nqRJP4RR8ETRvRYZOpv1p), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Chop / PND Session](https://open.spotify.com/album/1NFTQgKnL54RjX8cy8rNNu) | 1:32 | 2026-01-02 |  |
 | [CHOUF \(feat\. Y.E.B\)](https://open.spotify.com/track/5z8iW3XG2KROiot25MaSTf) | [A1](https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK), [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif) | [CHOUF \(feat\. Y.E.B\)](https://open.spotify.com/album/064EpzKCCpltueGCEbmPrt) | 3:07 | 2024-07-04 | 2024-07-19 |
 | [Chrisean](https://open.spotify.com/track/4dn4gvP29wZCTp0zsOYaiC) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Chrisean](https://open.spotify.com/album/4pWEplW8vKvpTW6GrTP7e7) | 1:27 | 2023-02-16 | 2023-03-03 |
 | [Christopher](https://open.spotify.com/track/5DOAJYTbDtYabENGN35NSh) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM) | [Christopher](https://open.spotify.com/album/12LRZxNtXpgeCsPPVbY7Dc) | 2:24 | 2023-05-25 | 2023-06-09 |

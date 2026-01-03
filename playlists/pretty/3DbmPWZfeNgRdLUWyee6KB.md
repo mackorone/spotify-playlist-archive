@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,138 likes - 227 songs - 13 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,143 likes - 235 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,5 +235,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 225 | [I Hope That You're Okay](https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [I Hope That You're Okay](https://open.spotify.com/album/3wGgAUJUw328hFAmQByGuf) | 3:36 |
 | 226 | [I'm on My Way to Say Goodbye](https://open.spotify.com/track/0rnDS05Uz4sVAdb7PUh29m) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [My House Is on Fire](https://open.spotify.com/album/2J0H3g4HxlRKPRv2DpHDFN) | 2:45 |
 | 227 | [Autumn Lost](https://open.spotify.com/track/42KRHxMvOOSDvlVPmfEIKH) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Autumn Lost](https://open.spotify.com/album/4WUacCMCWJL5DJ1DcwkebP) | 3:51 |
+| 228 | [Three Hundred](https://open.spotify.com/track/0OvWtheHmtoxUfbKQQwMLr) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred](https://open.spotify.com/album/2d9nf9fWDVT7cc5ew9aKzK) | 4:11 |
+| 229 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 |
+| 230 | [Az idő elmúlt](https://open.spotify.com/track/3QwG2hLDq0BE8yS1feaRWZ) | [RICHMAN ORCHESTRA](https://open.spotify.com/artist/3FagpxFDdOrIotyeDhyBjm) | [Az idő elmúlt](https://open.spotify.com/album/1gnFanr6r166oLyd3NiLXL) | 2:46 |
+| 231 | [Di una donna](https://open.spotify.com/track/6yECICIZ8PrA3fBfsATvig) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Di una donna](https://open.spotify.com/album/5o1y7J95FKsNNRdqJgaydO) | 3:55 |
+| 232 | [The Voiceless](https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [The Voiceless](https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S) | 1:59 |
+| 233 | [El Líder de la Resistencia](https://open.spotify.com/track/0kkhyeTVPkvivVkibJ2Y4e) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [El Líder de la Resistencia](https://open.spotify.com/album/3XclqzGpAiDblQgp2S8H5y) | 3:44 |
+| 234 | [Hasta Parece Que Fue Ayer](https://open.spotify.com/track/72uYExMfRRD7gU32ZLtnPD) | [AKA HANIBALL](https://open.spotify.com/artist/0gVWDUIPSAfkROnMSMhZOv) | [EREMIA 5:AM](https://open.spotify.com/album/67dyL8Fv2rB4k2zAAY5nqe) | 3:41 |
+| 235 | [Three Hundred \- Slowed Down + Reverbed](https://open.spotify.com/track/4Yud8mlM573dunsyLWUPeO) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Slowed Down + Reverbed\)](https://open.spotify.com/album/6S2dESE9edCXEGVukeQzCw) | 4:40 |
 
-Snapshot ID: `AAAOhzP+ty7CEkTsEkmSRrtqj5+B+R9l`
+Snapshot ID: `AAAOjxmeZPGuIGecCSu7RWeY46MYcdag`

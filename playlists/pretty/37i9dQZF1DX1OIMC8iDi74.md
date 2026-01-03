@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with RL Grime & Deadcrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,646 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,621 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 91 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
 | 92 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 |
 | 93 | [Autopilot](https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Autopilot](https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj) | 3:42 |
-| 94 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
-| 95 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 94 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 95 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
 | 96 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 97 | [Burn For You](https://open.spotify.com/track/7p4PjjO0d9Y8HgVZ7ptT3g) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [RayJhin](https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF) | [Burn For You](https://open.spotify.com/album/10TlIL9zil6BfNcSF3jBuD) | 3:42 |
 | 98 | [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 |

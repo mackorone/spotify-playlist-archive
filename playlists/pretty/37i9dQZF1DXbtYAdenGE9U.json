@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 746634,
+  "num_followers": 746875,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Diving Faces",
+        "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Child",
+          "url": "https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Diving Faces - Radio Cut",
+      "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Synaesthesia (Fly Away)",
         "url": "https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 229973,
       "name": "Synaesthesia (Fly Away)",
       "url": "https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Diving Faces",
-        "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
-      },
-      "artists": [
-        {
-          "name": "Liquid Child",
-          "url": "https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Diving Faces - Radio Cut",
-      "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Club Mix Collection",
-        "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 188099,
-      "name": "Sun & Moon - Above & Beyond Club Mix",
-      "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Brave New World (The Opera Song)",
         "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 212658,
       "name": "The Opera Song (Brave New World)",
       "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "The Club Mix Collection",
+        "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 188099,
+      "name": "Sun & Moon - Above & Beyond Club Mix",
+      "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
     },
     {
       "added_at": "2024-07-23 09:55:55",

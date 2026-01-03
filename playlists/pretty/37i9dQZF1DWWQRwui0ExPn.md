@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,464,906 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,466,111 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 199 | [empty pages](https://open.spotify.com/track/1rIOF92LNBV7Ix2aXBviIa) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [empty pages](https://open.spotify.com/album/0ignXnirjdVuo10sjd3OwX) | 2:03 |
 | 200 | [BAGS](https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [BAGS](https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52) | 2:21 |
 
-Snapshot ID: `AAAAACNXlHXaNAfgGx+OpNNpJQtSgQW1`
+Snapshot ID: `AAAAADmnw8lrB1ssOeXgu5IKxtOAF9Qr`

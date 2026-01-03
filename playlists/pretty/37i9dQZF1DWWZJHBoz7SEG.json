@@ -1,15 +1,483 @@
 {
-  "description": "Feliz Navidad de parte de la DINAST\u00cdA Laija \ud83c\udf84\ud83c\udf7e con Peso Pluma y Tito Double P en portada \ud83d\udcf8",
-  "num_followers": 1117058,
+  "description": "\u00a1A\u00f1o nuevo, con m\u00fasica nueva en compa\u00f1\u00eda de Rawayana! \u00a1Feliz 2026!",
+  "num_followers": 1118916,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANn/5KTubh1j2xpzOofKR/+QUbvj",
+  "snapshot_id": "AAAAACcbb3pBH6lR80UuYrEvOdiU1Wou",
   "tracks": [
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Ingl\u00e9s En Miami",
+      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "(uno)",
+        "url": "https://open.spotify.com/album/1zPkDEV4E6RNTkhNiykncW"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "(uno)",
+      "url": "https://open.spotify.com/track/0RVGCdf11vJJscCxo1rJme"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "TANTO",
+        "url": "https://open.spotify.com/album/7JmvM5AVJoKwfZr9kNqGBz"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "W\u00d6RRIES",
+          "url": "https://open.spotify.com/artist/2HRnLI2tcLBxPeXpM90PkQ"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "TANTO",
+      "url": "https://open.spotify.com/track/7bsN56K3w1l8rslgPGeEQF"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4SfS3SKmWBZhD9vD7Ccblz"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 205832,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2fMJ0ZehAG2JxLiWnHkh1x"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Poeta Her\u00edo (Colmadito Special Edition)",
+        "url": "https://open.spotify.com/album/6mi7FLoS19Bh4SMeSUejKn"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "Abeja Blanca",
+      "url": "https://open.spotify.com/track/2C7CpxI1h3eTBKcl4O8AOD"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/6sLWTIn0bIo2AOkxOg19x2"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 206806,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4EZK0aA4VtQ6FjQ8G2CjPd"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Como De Sol A Sol",
+      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Una Llamada Al Cielo",
+        "url": "https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Una Llamada Al Cielo",
+      "url": "https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Que Paso Ayer",
+        "url": "https://open.spotify.com/album/3xyYvVbzUg7U7sMPqwHTMI"
+      },
+      "artists": [
+        {
+          "name": "Compa Steve",
+          "url": "https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "Que Paso Ayer",
+      "url": "https://open.spotify.com/track/6wVStnAHNBnJXC2mwUukgD"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "La Viejita",
+        "url": "https://open.spotify.com/album/7sg7nJz1GIhF20OOikaAFN"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 228552,
+      "name": "La Viejita",
+      "url": "https://open.spotify.com/track/5AII1PfTtrqZxvt9bSPyO1"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "QUERIDO LUCAS",
+        "url": "https://open.spotify.com/album/2lXQzJlYWcwYPPLLiIR3f0"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 388235,
+      "name": "QUERIDO LUCAS",
+      "url": "https://open.spotify.com/track/3ZCmOKJLMzmZk7BXKBVNiJ"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Mami Ya Su\u00e9ltalo",
+        "url": "https://open.spotify.com/album/5u6rJI2tiliRm3YAwIYCDG"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Alexxbacacho",
+          "url": "https://open.spotify.com/artist/0B1AssDwSsJD8QdqM6o5Ml"
+        }
+      ],
+      "duration_ms": 156874,
+      "name": "Mami Ya Su\u00e9ltalo",
+      "url": "https://open.spotify.com/track/6UgY9GIRMGkl1MOWBm0SKE"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "si la cagamos normal",
+        "url": "https://open.spotify.com/album/0VjfcTOXTAhXJbdTwAuk8A"
+      },
+      "artists": [
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "NEOSKIT",
+          "url": "https://open.spotify.com/artist/7nCIla6wCm4KeW4RgGgr1H"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "si la cagamos normal",
+      "url": "https://open.spotify.com/track/1IpxqHTMJEvj660rrHN4vX"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Internet Girl",
+        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 163831,
+      "name": "Internet Girl",
+      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "BACK WHEN YOU WERE MINE",
+        "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "BACK WHEN YOU WERE MINE",
+      "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "LOVE YOU LESS",
+        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "LOVE YOU LESS",
+      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+        "url": "https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 248127,
+      "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Algo Pasando",
+        "url": "https://open.spotify.com/album/0JKVZ4XV8c0etth0nrmj4r"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 184431,
+      "name": "Algo Pasando",
+      "url": "https://open.spotify.com/track/6FnumACgXSBajXDYMbGUUC"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "monalisa",
+        "url": "https://open.spotify.com/album/2KpzDDTkH6w6KYoTCihGw6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "monalisa",
+      "url": "https://open.spotify.com/track/6bA1IwsedJkkNz3r4hp86N"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Y Que Les Digo ?",
+        "url": "https://open.spotify.com/album/6C11zIoypNOAUqFeXXAzHa"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        },
+        {
+          "name": "Angel Ureta",
+          "url": "https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Y Que Les Digo ?",
+      "url": "https://open.spotify.com/track/6kb7GsN05FSHYRQxYxop8b"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Chiles Xalape\u00f1os",
+        "url": "https://open.spotify.com/album/3wjOibjilmnX9HJPuD6CM5"
+      },
+      "artists": [
+        {
+          "name": "Los S\u00faper Caracoles",
+          "url": "https://open.spotify.com/artist/34yN3W6hGSIpvWEJLKHsX7"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "Chiles Xalape\u00f1os",
+      "url": "https://open.spotify.com/track/0bSw2bO0XdkukqevbUMQdB"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Sangre Malandra",
+        "url": "https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Sangre Malandra",
+      "url": "https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "EL PH\u00d8NE",
+        "url": "https://open.spotify.com/album/5pFO3tquFDbndtYDoQbczd"
+      },
+      "artists": [
+        {
+          "name": "BRN$",
+          "url": "https://open.spotify.com/artist/49uUwnJhNmNLBatV1qh23A"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        }
+      ],
+      "duration_ms": 173325,
+      "name": "EL PH\u00d8NE",
+      "url": "https://open.spotify.com/track/0tHeGYuIN1yU9i4UTP4SQj"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Todo de m\u00ed",
+        "url": "https://open.spotify.com/album/5FzlrM7LPD7Mp15C3HIh7H"
+      },
+      "artists": [
+        {
+          "name": "Joan Page",
+          "url": "https://open.spotify.com/artist/2ZEaSEsnnu4ZMZOCdJdpM8"
+        },
+        {
+          "name": "Gusstav.",
+          "url": "https://open.spotify.com/artist/3G6NL0pKf9HFnxHbfey388"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Todo de m\u00ed",
+      "url": "https://open.spotify.com/track/6yeTTq5UvvzmoSG23NdOXR"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "Ya No Lloro Por Ti",
+        "url": "https://open.spotify.com/album/0j9SxmdZ6B28PNTbvBwdF2"
+      },
+      "artists": [
+        {
+          "name": "La Quinna",
+          "url": "https://open.spotify.com/artist/7LGuLcZGN3C0UCqg1vuDb5"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Ya No Lloro Por Ti",
+      "url": "https://open.spotify.com/track/38zjErQuN1wDu1V6GtuG3H"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
+      "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/4dYvSNLmUoaCthKcU3EfDa"
+      },
+      "artists": [
+        {
+          "name": "Lil Boo",
+          "url": "https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W"
+        }
+      ],
+      "duration_ms": 133818,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/4mGeQlDR5M7jr0v4fxOjJ8"
+    },
+    {
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -29,7 +497,7 @@
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -49,7 +517,7 @@
       "url": "https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
         "url": "https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y"
@@ -69,7 +537,7 @@
       "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "LEROLE",
         "url": "https://open.spotify.com/album/4sM6PVTdneHtUZM9oxkFL4"
@@ -85,7 +553,7 @@
       "url": "https://open.spotify.com/track/709jYM3gHXktzl9OHGTxyf"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
@@ -105,7 +573,7 @@
       "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "EVOLUZION\u00c9",
         "url": "https://open.spotify.com/album/6GOumSWtPIA2CftFTsL2mj"
@@ -121,7 +589,7 @@
       "url": "https://open.spotify.com/track/2dollsa47aEK6VYQm51B1X"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Los Locos",
         "url": "https://open.spotify.com/album/43nhq0ByYild5skcDh8mXt"
@@ -137,7 +605,7 @@
       "url": "https://open.spotify.com/track/4I32RffCSenTNoqDG2GNyP"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "En Vivo Con Banda y Norte\u00f1o",
         "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
@@ -153,7 +621,7 @@
       "url": "https://open.spotify.com/track/5P8jeaUuAnyiw6qRjLxKds"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "NUEVA VIDA :)",
         "url": "https://open.spotify.com/album/6WQLNGCrsC5muTPWpSWYYo"
@@ -169,7 +637,7 @@
       "url": "https://open.spotify.com/track/6WMTKxih0q9XnxZlFMtKLo"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "GUERRERO",
         "url": "https://open.spotify.com/album/7kkQlsqOl2u81qowo8rYMk"
@@ -189,7 +657,7 @@
       "url": "https://open.spotify.com/track/0w66vpsnGF0KXmRCjvYTDw"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Alzypher Vol. 22",
         "url": "https://open.spotify.com/album/24VBJdmX3mzeztFrd8W1I5"
@@ -225,7 +693,7 @@
       "url": "https://open.spotify.com/track/0gS3vRsW1pCS2Y4i4oub65"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "MAYONBISNE",
         "url": "https://open.spotify.com/album/6fv3poj6Fnnl1sHC5q5ydW"
@@ -257,7 +725,7 @@
       "url": "https://open.spotify.com/track/5iyCKxkUvM4dFMrmU616sx"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Santa B\u00e9lico",
         "url": "https://open.spotify.com/album/2Y1O3ui9vlt2icgOX9nuGC"
@@ -277,7 +745,7 @@
       "url": "https://open.spotify.com/track/3f0C8N80Bzg6A39bluNWQ0"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/4Anxd6KmLkDQpDeUPEmNLZ"
@@ -297,7 +765,7 @@
       "url": "https://open.spotify.com/track/3T9mpUy90TAm0elp7bRUV7"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/2mvGXNnpOBgoJ7lbHUh2gW"
@@ -313,7 +781,7 @@
       "url": "https://open.spotify.com/track/3qdSQALd94nFObaGZ1IVvE"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/1Nru31MM4siYYbiWItDVoP"
@@ -329,7 +797,7 @@
       "url": "https://open.spotify.com/track/3d6upLgJywaRrb1O4PDfHn"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "El Greench (Remix)",
         "url": "https://open.spotify.com/album/5jTwqxGrtqnxdRsqEw366g"
@@ -353,7 +821,7 @@
       "url": "https://open.spotify.com/track/3cpV4f8AI1juxiDZdIPt5A"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Puro Real",
         "url": "https://open.spotify.com/album/0CuBalLJACdkHFPxzYlOFG"
@@ -373,7 +841,7 @@
       "url": "https://open.spotify.com/track/0aKKSrC1xNgIqdI5r1Fbmr"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "La Cumbia Del Gorila V2",
         "url": "https://open.spotify.com/album/0jLT9yvNTFgQTU2wXH4Rei"
@@ -397,299 +865,7 @@
       "url": "https://open.spotify.com/track/0eMdgyalxeS2cMijBNjboZ"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 206899,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Street Mob Live",
-        "url": "https://open.spotify.com/album/2p99lW0qcEdRe3xb8e3TX0"
-      },
-      "artists": [
-        {
-          "name": "Street Mob",
-          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
-        },
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Angel Tumbado",
-          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/0GAB7waNGP9kAAFlvhK5hS"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Chapayeka (Puro Chucky) (En Vivo)",
-        "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Mi \u00danico Camino (En Vivo)",
-      "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Madre Mia",
-        "url": "https://open.spotify.com/album/52usi9n7VTM6DLIcipoQj2"
-      },
-      "artists": [
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        },
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 190770,
-      "name": "Madre Mia",
-      "url": "https://open.spotify.com/track/4RggfCU7eVdXnbE6yw958e"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "MY LOVE (feat. Arc\u00e1ngel)",
-        "url": "https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG"
-      },
-      "artists": [
-        {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "MY LOVE (feat. Arc\u00e1ngel)",
-      "url": "https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Otro Como T\u00fa",
-        "url": "https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "Otro Como T\u00fa",
-      "url": "https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "la patadita",
-        "url": "https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 148253,
-      "name": "la patadita",
-      "url": "https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Honguito",
-        "url": "https://open.spotify.com/album/5jY0ca4qtVTPNzlLr24CRm"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Honguito",
-      "url": "https://open.spotify.com/track/3g9a7CuaRwsv498HmPH7vC"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "HOY SE GUAYA",
-        "url": "https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "HOY SE GUAYA",
-      "url": "https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "RESPUESTAS A LAS 11:11",
-        "url": "https://open.spotify.com/album/364IOd4AuHwxfLyC8fbCXQ"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 182032,
-      "name": "TE PROMETO - el fin de una era",
-      "url": "https://open.spotify.com/track/3C5gQF6TaeIwLQcl8cog8y"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Se Enfiest\u00f3 El Carnal",
-        "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 209497,
-      "name": "Se Enfiest\u00f3 El Carnal",
-      "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 217699,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Los M\u00e1s Sueltos (Remix)",
-        "url": "https://open.spotify.com/album/6nBwbdfslYHIXl4khw2ssR"
-      },
-      "artists": [
-        {
-          "name": "Joss ML",
-          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 179294,
-      "name": "Los M\u00e1s Sueltos (Remix)",
-      "url": "https://open.spotify.com/track/07KsWpzh1iP6OiUgcwc5rH"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
@@ -705,215 +881,7 @@
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Dime si recuerdas",
-      "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Despierto Am\u00e1ndote",
-        "url": "https://open.spotify.com/album/41jli50FssBAc132ATlp6e"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "bailamam\u00e1",
-          "url": "https://open.spotify.com/artist/4vrGyeLeQK5I32mjmuySjR"
-        }
-      ],
-      "duration_ms": 177942,
-      "name": "Despierto Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/3EmUUbEUQgOtN7WQOqsi0U"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Si Tu Boquita Fuera",
-        "url": "https://open.spotify.com/album/2Tpm6RtLaSbHMNicXE1b3r"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/3FZLq0C8RcpbJrdfSPAVGC"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "T\u00fa te vas",
-        "url": "https://open.spotify.com/album/5jZF9gQA4JQhBdPMMW7kFT"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 210762,
-      "name": "T\u00fa te vas",
-      "url": "https://open.spotify.com/track/6ubgyAW7hlmdTYN6HIA2lr"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Ella Pensaba En El",
-        "url": "https://open.spotify.com/album/6LQSFx2zsLlYrriRHT6Q4w"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Ella Pensaba En El",
-      "url": "https://open.spotify.com/track/3wkwIYzXWcJB18SIc6DbZE"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Genio Atrapado",
-        "url": "https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 161178,
-      "name": "Genio Atrapado",
-      "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "SOBR3NATURAL",
-        "url": "https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Mi Droga (feat. Dei V)",
-      "url": "https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "PATADAS DE AHOGADO",
-        "url": "https://open.spotify.com/album/5Jqf9gFeFk9efnzwVOteVs"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 195196,
-      "name": "PATADAS DE AHOGADO",
-      "url": "https://open.spotify.com/track/31EnneROGETocUvKWsfe89"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Ya No Volver\u00e1s",
-        "url": "https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Ya No Volver\u00e1s",
-      "url": "https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "Experto",
-        "url": "https://open.spotify.com/album/4cHsROCQx196xTa8tIwIjU"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Hasta La Luna",
-      "url": "https://open.spotify.com/track/6BG4Av0lxfMaZMxksivhKV"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
-      "album": {
-        "name": "SIGO BUSC\u00c1NDOTE",
-        "url": "https://open.spotify.com/album/47dimWjCzxxJAz5320CTsM"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 268125,
-      "name": "SIGO BUSC\u00c1NDOTE",
-      "url": "https://open.spotify.com/track/6vzoSGpylLCXmrUrOOPZ6F"
-    },
-    {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "TURR0LOGIA",
         "url": "https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF"
@@ -933,7 +901,7 @@
       "url": "https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Pase y Pase (En Vivo)",
         "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
@@ -953,7 +921,7 @@
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "ESTOY A UN VASO - REMIX",
         "url": "https://open.spotify.com/album/1UT2tK1nUaSj6rWA8UiSwa"
@@ -981,7 +949,7 @@
       "url": "https://open.spotify.com/track/7qKeDWhT6yVqptj0NGS3ya"
     },
     {
-      "added_at": "2025-12-27 00:00:32",
+      "added_at": "2026-01-02 06:00:24",
       "album": {
         "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"

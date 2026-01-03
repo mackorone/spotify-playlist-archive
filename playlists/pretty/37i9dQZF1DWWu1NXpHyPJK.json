@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 85857,
+  "num_followers": 85874,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
+        "name": "Van Dik Hout",
+        "url": "https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Stil In Mij",
+      "url": "https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
-        "name": "Van Dik Hout",
-        "url": "https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Stil In Mij",
-      "url": "https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g"
+        "name": "No Need To Argue",
+        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },
       "artists": [
         {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        },
-        {
-          "name": "L.V.",
-          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 240693,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4"
+      "duration_ms": 306426,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "No Need To Argue",
-        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
         }
       ],
-      "duration_ms": 306426,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Best! The Singles",
-        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
-      },
-      "artists": [
-        {
-          "name": "Londonbeat",
-          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "I've Been Thinking About You",
-      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Best Of Me",
         "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 232200,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Best! The Singles",
+        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
+      },
+      "artists": [
+        {
+          "name": "Londonbeat",
+          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "I've Been Thinking About You",
+      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
     },
     {
       "added_at": "2024-12-31 20:44:36",

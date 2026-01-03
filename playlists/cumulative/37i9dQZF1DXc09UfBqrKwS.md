@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-864 songs - 1 day 17 hr 15 min
+866 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Eclipse](https://open.spotify.com/track/01VGmfU4QvSYaYA0TvWaL4) | [Foramina Nigra](https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T) | [Eclipse](https://open.spotify.com/album/2wlxAZhAdQXkDLRmuZk4G6) | 2:26 | 2025-05-07 | 2025-11-09 |
 | [Edenora](https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Edenora](https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9) | 2:57 | 2024-09-13 | 2025-11-23 |
 | [Efeu](https://open.spotify.com/track/6BwD8TE6eWKasH11uh6vU4) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Efeu](https://open.spotify.com/album/75rqo70A07zXqdWwKEaotv) | 2:52 | 2025-11-12 |  |
+| [Ejusdem](https://open.spotify.com/track/605YeGIjGka3crKzVfz4Li) | [Opheralis](https://open.spotify.com/artist/0Od9SGUAy2CmML18azdlVc) | [Ejusdem](https://open.spotify.com/album/1LNtqOr6ljVSJDfFEBW9A0) | 2:19 | 2025-12-17 |  |
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 | 2024-07-16 |
 | [Eleven](https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [11](https://open.spotify.com/album/0oAnFMLX1yGvFXAQP7Uewx) | 2:50 | 2023-03-31 | 2024-05-21 |
 | [Ella](https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ella](https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7) | 2:32 | 2024-05-20 | 2025-04-10 |
@@ -290,7 +291,7 @@
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-31 | 2024-02-09 |
 | [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2024-05-05 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-03-31 | 2024-03-21 |
-| [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 |  |
+| [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 | 2026-01-03 |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2023-03-31 | 2024-02-09 |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2023-03-31 | 2024-02-09 |
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 | 2024-07-16 |
@@ -513,7 +514,7 @@
 | [Neith](https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Neith](https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P) | 2:42 | 2025-11-12 |  |
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 | 2025-11-13 |
 | [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-03 | 2025-12-18 |
-| [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-01-22 |  |
+| [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-01-22 | 2026-01-03 |
 | [New Centering](https://open.spotify.com/track/6Rl1hrBWmelAm4rRMVIHYG) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [New Centering](https://open.spotify.com/album/4T5dqPRP8Ke4o5aI3k04yv) | 3:13 | 2025-06-03 | 2025-12-17 |
 | [Nieve](https://open.spotify.com/track/6VXtIz60EI6GUYQRsFWxNe) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:34 | 2023-03-31 | 2024-05-21 |
 | [Night Air](https://open.spotify.com/track/3Lj2UdxfsJbQNl1f05f9fP) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Night Air](https://open.spotify.com/album/48kclPVfAq9YV9JJdVUDYu) | 2:59 | 2025-09-23 |  |
@@ -526,6 +527,7 @@
 | [Nimbus](https://open.spotify.com/track/3J6ywQydA3NXiFqWMLTAKU) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Nimbus](https://open.spotify.com/album/4skUek92hc2FzXRUSrXnEJ) | 2:42 | 2025-03-19 |  |
 | [Nisi](https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH) | [Systema Solaris](https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz) | [Nisi](https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh) | 2:34 | 2024-06-18 | 2024-07-16 |
 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 | 2024-06-18 | 2024-07-16 |
+| [No Current](https://open.spotify.com/track/37ngUxARSZeT9Kshx3AhbN) | [The Archive](https://open.spotify.com/artist/0fpnXgno8SaeEd69t4K1dg) | [No Current](https://open.spotify.com/album/36JbVMphaLA3o4Yj210MRk) | 2:52 | 2025-12-17 |  |
 | [Noctilux](https://open.spotify.com/track/1YmlK58J5yCxrbSp1c36HR) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Noctilux](https://open.spotify.com/album/6JDfWPPl4PDY7UILOjDcFz) | 3:02 | 2025-09-23 |  |
 | [Noctis Aura](https://open.spotify.com/track/0g0ubGmm8p21Y1BpanlkjS) | [Opheralis](https://open.spotify.com/artist/0Od9SGUAy2CmML18azdlVc) | [Noctis Aura](https://open.spotify.com/album/1P1vGur8GIKVmJw1xT1ElF) | 3:31 | 2025-09-23 |  |
 | [Nocturna](https://open.spotify.com/track/0uiyVJTRC7N6rsFNwK33D9) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Nocturna](https://open.spotify.com/album/6KDdmMfLSq8z3vhCbQrZ7d) | 2:27 | 2025-05-07 | 2025-10-28 |

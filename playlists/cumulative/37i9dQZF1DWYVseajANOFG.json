@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "ALTO VOLTAJE",
+        "url": "https://open.spotify.com/album/2bAOA8YugjenkSQYcfPqLy"
+      },
+      "artists": [
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "ALTO VOLTAJE",
+      "url": "https://open.spotify.com/track/6VjARM8mQcesomd1yWcsOr"
+    },
+    {
+      "album": {
         "name": "Americano",
         "url": "https://open.spotify.com/album/4MsedG2y1DmoNz5J7D4Hde"
       },
@@ -12042,7 +12064,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 220312,
       "name": "SOLO TANGERI",
       "url": "https://open.spotify.com/track/3iuvE0xQPLbsySHiDZqWAV"

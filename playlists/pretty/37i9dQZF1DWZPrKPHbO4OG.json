@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 35095,
+  "num_followers": 35109,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -171,42 +171,6 @@
     {
       "added_at": "2025-12-09 11:43:07",
       "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -227,6 +191,42 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
       "added_at": "2025-12-09 11:43:07",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-12-09 11:43:07",
       "album": {
-        "name": "Rege (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 307304,
-      "name": "Shitti Wajali Gaadi Sutali",
-      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 177792,
       "name": "Once More Laav",
       "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
+        "name": "Rege (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Shitti Wajali Gaadi Sutali",
+      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
     },
     {
       "added_at": "2025-12-09 11:43:07",
@@ -427,6 +427,26 @@
     {
       "added_at": "2025-12-09 11:43:07",
       "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 216166,
       "name": "Aaichya Gavat",
       "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
     },
     {
       "added_at": "2025-12-09 11:43:07",

@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Horizon",
+        "url": "https://open.spotify.com/album/10PvdHe0YBhGeb12OWZQBl"
+      },
+      "artists": [
+        {
+          "name": "Polaria",
+          "url": "https://open.spotify.com/artist/4bnzugdxmIaM1LHUuAdoig"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160759,
+      "name": "Beyond The Horizon",
+      "url": "https://open.spotify.com/track/16TEWxPhoA7HCq3AX7DPjw"
+    },
+    {
+      "album": {
         "name": "Beyond the Silence",
         "url": "https://open.spotify.com/album/6Ma31neVFv5LDMNeg6nc40"
       },
@@ -4146,6 +4164,24 @@
       "duration_ms": 167008,
       "name": "Dreyma",
       "url": "https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk"
+    },
+    {
+      "album": {
+        "name": "Drift Passage",
+        "url": "https://open.spotify.com/album/5lHwYgyxmvKPpzFpqcK8eE"
+      },
+      "artists": [
+        {
+          "name": "Peyote Level",
+          "url": "https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Drift Passage",
+      "url": "https://open.spotify.com/track/5Ckkq39NrVFboBSCLXMzN1"
     },
     {
       "album": {
@@ -7875,6 +7911,24 @@
     },
     {
       "album": {
+        "name": "Layers of calm",
+        "url": "https://open.spotify.com/album/56Kswqv0dgLAXpXXWw655C"
+      },
+      "artists": [
+        {
+          "name": "Morlya",
+          "url": "https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167950,
+      "name": "Layers of calm",
+      "url": "https://open.spotify.com/track/0JdCw1zszjK5IQL1q94SPh"
+    },
+    {
+      "album": {
         "name": "Le temps passe",
         "url": "https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z"
       },
@@ -11184,7 +11238,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 141000,
       "name": "Profusion of Dreams",
       "url": "https://open.spotify.com/track/1UGc72on1Mg4R7wf7Cnetg"
@@ -14604,7 +14658,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 140026,
       "name": "Textures",
       "url": "https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P"
@@ -16196,7 +16250,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 160754,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/7seXR6UboP6T5GHwVSoPSG"

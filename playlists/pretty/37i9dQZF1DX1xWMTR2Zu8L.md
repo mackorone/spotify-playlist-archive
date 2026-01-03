@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,213 likes - 138 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,219 likes - 138 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

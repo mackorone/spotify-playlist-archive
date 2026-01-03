@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Naam Sujal",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -964,6 +964,24 @@
       "duration_ms": 184000,
       "name": "Bhussi",
       "url": "https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd"
+    },
+    {
+      "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474130,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI"
     },
     {
       "album": {
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 181463,
       "name": "Mera Naam Hai",
       "url": "https://open.spotify.com/track/5rlgt2kH4IaWZLMED9a1Jt"

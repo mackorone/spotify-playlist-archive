@@ -36129,8 +36129,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
       },
       "artists": [
         {
@@ -101001,6 +101001,28 @@
     },
     {
       "album": {
+        "name": "MAMA MIA",
+        "url": "https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi"
+      },
+      "artists": [
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        },
+        {
+          "name": "Aggrxssor",
+          "url": "https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100788,
+      "name": "MAMA MIA",
+      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
+    },
+    {
+      "album": {
         "name": "Mamadona",
         "url": "https://open.spotify.com/album/2MXUTTjpheKu416Ek1e1Ho"
       },
@@ -163732,24 +163754,6 @@
       "duration_ms": 266994,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Nulteex",
-          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
-        }
-      ],
-      "date_added": "2026-01-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
     },
     {
       "album": {

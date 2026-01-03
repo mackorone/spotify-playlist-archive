@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Dior & kans
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,190 likes - 89 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,174 likes - 89 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 88 | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/album/746kcPHvl2QXI25D8cOUaZ) | 2:45 |
 | 89 | [Make U Mine](https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Make U Mine](https://open.spotify.com/album/2ofvnah4cdhDkIQvDgBEgz) | 2:13 |
 
-Snapshot ID: `AAAAACEdScLrkDxp5F3yAbfAvtaE/Ljn`
+Snapshot ID: `AAAAAByPKMa7YgmfKGr6UFJVb654W85Y`

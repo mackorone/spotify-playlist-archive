@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> Break them in, wear them out\. Cover: Kameron Marlowe
+> Break them in, wear them out\. Cover: Abbey Cone
 
-2,808 songs - 6 day 7 hr 58 min
+2,809 songs - 6 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Chainsmokin Memories](https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Chainsmokin Memories](https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz) | 2:57 | 2025-05-09 | 2025-10-18 |
 | [Champagne Night \- From Songland](https://open.spotify.com/track/5WlA4gg4yyjPQgZ1cu4XYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Champagne Night \(From Songland\)](https://open.spotify.com/album/2DAl1Tdxiyv8fNTrYTMIvE) | 3:05 | 2020-04-18 | 2020-06-07 |
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2024-10-04 | 2025-04-05 |
+| [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 | 2026-01-02 |  |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-11-27 | 2022-03-26 |
 | [Chase it Down](https://open.spotify.com/track/18BNpGsBPfv2O6zHSdandC) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Better Than That \- EP](https://open.spotify.com/album/4ohJXQs1xbCfps48Sn7pqj) | 3:06 | 2020-11-14 | 2021-01-09 |
 | [Chaser](https://open.spotify.com/track/1Y1SdYDXT49zHnbIAt16v9) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Chaser](https://open.spotify.com/album/4XeZEy0Ek3zeqjQuzTReuz) | 2:55 | 2019-08-19 | 2019-08-31 |
@@ -2552,7 +2553,7 @@
 | [Wastin' Whiskey](https://open.spotify.com/track/5bQobcpIOEg2Abn5Ai5G3Y) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA) | 3:10 | 2022-05-27 | 2022-07-29 |
 | [Wastin' Whiskey](https://open.spotify.com/track/5xxopu5i7Rca8eVZEOgUGR) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Beer Me](https://open.spotify.com/album/7CzW0FNRT15dnPl7IWYtVc) | 3:10 | 2022-11-04 | 2022-11-13 |
 | [Water](https://open.spotify.com/track/6eKLjE2I1MruKEJQcU0rlx) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Water](https://open.spotify.com/album/4avtECzot1lrz6FeYYt6E8) | 3:01 | 2021-03-20 | 2021-04-10 |
-| [Water At A Wedding](https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Water At A Wedding](https://open.spotify.com/album/2Kjy6rn4SiL3N4tnMpHbHE) | 3:33 | 2025-07-11 |  |
+| [Water At A Wedding](https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Water At A Wedding](https://open.spotify.com/album/2Kjy6rn4SiL3N4tnMpHbHE) | 3:33 | 2025-07-11 | 2026-01-03 |
 | [Water Down the Whiskey](https://open.spotify.com/track/6nETjdBnv2YoPuwK9hZ6gF) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Water Down the Whiskey](https://open.spotify.com/album/4i8oXzNSE9NvGwzaI3nPMq) | 2:40 | 2019-09-09 | 2019-09-22 |
 | [Water My Flowers](https://open.spotify.com/track/3YSDdyuCgLiYmT0SkOKOxa) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Water My Flowers](https://open.spotify.com/album/4pJjKdO71lcyiz7KMOKMFW) | 3:40 | 2025-06-06 | 2025-09-27 |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 | 2022-11-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from New Classical in 2025\. Cover: Alice Sara Ott
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,738 likes - 93 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 93 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

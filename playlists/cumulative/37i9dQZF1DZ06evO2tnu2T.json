@@ -24,6 +24,28 @@
     {
       "album": {
         "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181699,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
+    },
+    {
+      "album": {
+        "name": "333",
         "url": "https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy"
       },
       "artists": [
@@ -38,7 +60,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 181699,
       "name": "333",
       "url": "https://open.spotify.com/track/6xCPeUPZFaQMI3l4GDaAwI"

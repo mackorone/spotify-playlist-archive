@@ -11341,6 +11341,24 @@
     },
     {
       "album": {
+        "name": "moments of glory",
+        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126115,
+      "name": "moments of glory",
+      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
+    },
+    {
+      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -17914,24 +17932,6 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
     },
     {
       "album": {

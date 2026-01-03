@@ -1369,24 +1369,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9"
-    },
-    {
-      "album": {
         "name": "\u67d4\u97cc\u6709\u9918 Gentle Armor",
         "url": "https://open.spotify.com/album/5B8QQIdDrP7ehoM0KIFULd"
       },
@@ -1994,6 +1976,24 @@
       "duration_ms": 249057,
       "name": "\u4e0d\u61c2\u7d55\u671b",
       "url": "https://open.spotify.com/track/1RLSpChhEUOWkPKRvWt9oY"
+    },
+    {
+      "album": {
+        "name": "a piece of peace",
+        "url": "https://open.spotify.com/album/0cbtcUKQDGyd1zNWJo4CuY"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u4e0d\u662f\u4f60\u60f3\u50cf\u7684\u90a3\u7a2e\u597d\u4eba",
+      "url": "https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9"
     },
     {
       "album": {
@@ -3468,6 +3468,24 @@
       "duration_ms": 234453,
       "name": "\u53ef\u60dc\u4e0d\u611b\u4e86",
       "url": "https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX"
+    },
+    {
+      "album": {
+        "name": "\u53ef\u662f\u4f60\u5df2\u7d93\u5920\u597d\u4e86",
+        "url": "https://open.spotify.com/album/1UHvGUwavNgTiqm31ZgsZI"
+      },
+      "artists": [
+        {
+          "name": "\u7ae5\u5fc3Valentina",
+          "url": "https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "\u53ef\u662f\u4f60\u5df2\u7d93\u5920\u597d\u4e86",
+      "url": "https://open.spotify.com/track/3kbg9W00SVKWTuKxqKg5Wy"
     },
     {
       "album": {

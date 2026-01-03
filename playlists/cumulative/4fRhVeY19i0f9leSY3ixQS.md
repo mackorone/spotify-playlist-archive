@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-535 songs - 1 day 7 hr 14 min
+540 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
 | [First Day Of School](https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [First Day Of School](https://open.spotify.com/album/7dwebyySi3YeXuzVaEOSmq) | 3:33 | 2026-01-01 |  |
 | [Flam Rest](https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:19 | 2025-08-03 |  |
+| [Flesh Wound](https://open.spotify.com/track/1RjCjZcKyWfjFB8jqoFZON) | [Cranc.](https://open.spotify.com/artist/47N8enshucZvNiSqBmHA4d) | [Flesh Wound](https://open.spotify.com/album/7cnvcAn3r77500nHVmvwrs) | 3:34 | 2026-01-02 |  |
 | [FLETCH](https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 2:13 | 2025-11-24 | 2025-12-24 |
 | [FOMO](https://open.spotify.com/track/0rDJXMg7OX1POjkAMKOsEc) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:51 | 2025-08-03 |  |
 | [Forsaken Angel Song](https://open.spotify.com/track/6FJvTlJnb1cnNncLk3c5Cc) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:09 | 2025-09-16 |  |
@@ -230,6 +231,7 @@
 | [III \. Crown of Salt and Flame](https://open.spotify.com/track/2dmF4qdYGlNTj7NqUOCWSW) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 4:12 | 2025-11-06 | 2025-12-10 |
 | [Imissu](https://open.spotify.com/track/15CvBByDXbUN9AYtREvXoo) | [IllSaved](https://open.spotify.com/artist/6dj4UBb595l76a4xIjIVHQ) | [Imissu](https://open.spotify.com/album/1K3x52wGJowbJgD40LqJQI) | 2:54 | 2025-12-08 |  |
 | [Immortalized](https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [Good for Nothing](https://open.spotify.com/album/1G7PsPs1tq25rNBTAPBSjr) | 3:18 | 2025-12-16 |  |
+| [In the Grave \(You’ll Rot\)](https://open.spotify.com/track/5pMQ0NCvBDYdPtHVTU0Mxy) | [Seven Asterisk](https://open.spotify.com/artist/6UK1ezKY7oMEy5VyAWzCZL) | [In the Grave \(You’ll Rot\)](https://open.spotify.com/album/4KPgQfUsVH2jQvAWia0FNy) | 3:35 | 2026-01-02 |  |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 | 2025-12-24 |
 | [Into The Abyss](https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Into The Abyss](https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc) | 4:55 | 2026-01-01 |  |
@@ -274,6 +276,7 @@
 | [Lloret De Mar](https://open.spotify.com/track/0blmdQGJzv1sSORn5tsdAP) | [Schwimmbad](https://open.spotify.com/artist/3huQYnrNPMahn6aYRNJgc9) | [Reibregal](https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5) | 3:59 | 2025-12-21 |  |
 | [Loose Change](https://open.spotify.com/track/5DJqXml2pvbfThLNduxlAj) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Loose Change](https://open.spotify.com/album/6bgi9118jYzGvzk1TSFXMp) | 3:20 | 2025-12-23 |  |
 | [Los Fantasmas](https://open.spotify.com/track/2q4y2vy1FAuzuqQBB2qZeZ) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy), [Carroña](https://open.spotify.com/artist/7d5zlC95WTo4JJFWNKsiP1), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Los Fantasmas](https://open.spotify.com/album/5pAzx5gDZpEnMgmXlMH8Kw) | 3:09 | 2025-12-04 | 2025-12-24 |
+| [Losing Game \(Impending\)](https://open.spotify.com/track/3KZ98CEfZ0uun5Iq1TDBj9) | [Silence Becoming](https://open.spotify.com/artist/2reLQ0P13wEZX3vweIojnu) | [Losing Game \(Impending\)](https://open.spotify.com/album/0Rwi918OtHtyjp6T8jxZX5) | 3:51 | 2026-01-02 |  |
 | [Love is Violence](https://open.spotify.com/track/2Dlsx5DnYqEqQBTcs3p8Mr) | [J.F\. Rites](https://open.spotify.com/artist/24I3eAEQHunlKXfelrPmyd) | [Love is Violence](https://open.spotify.com/album/5gxOdmUjuEasKZ5UVsnqRQ) | 2:56 | 2025-11-10 | 2025-12-10 |
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 |  |
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 |  |
@@ -412,6 +415,7 @@
 | [Small Dreams](https://open.spotify.com/track/1cgJKVgPHGLY89OFkQLVjh) | [Winterpills](https://open.spotify.com/artist/5Yq9fg9LG5lwhjDG3s4c47) | [This Is How We Dance](https://open.spotify.com/album/6Z0NNcchxfTaCf6wNjrLCl) | 3:29 | 2025-12-04 | 2025-12-24 |
 | [Smell Your Finger](https://open.spotify.com/track/3isc6ahfxfyidQK7Pl5gK3) | [Universal Truth](https://open.spotify.com/artist/2FKmzxhr7aJY12TnlqnG0k) | [Symbol of Confusion](https://open.spotify.com/album/0rRljwbZeFPLwFFg4vMUED) | 2:07 | 2025-11-16 | 2025-12-10 |
 | [Smoke and Mirrors \- Single Version](https://open.spotify.com/track/21YIiA4vu48b90u9UxD5D9) | [Behind The Sky](https://open.spotify.com/artist/1MuSqoanz47Wl7MBgO4OPy) | [Smoke and Mirrors](https://open.spotify.com/album/6IJJhaZ33KIUhOySy6UzhF) | 3:59 | 2025-12-04 | 2025-12-24 |
+| [Smoke Signals](https://open.spotify.com/track/1OFicBZd6JRrD18SGbu0RR) | [Somehow Still](https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae) | [Smoke Signals](https://open.spotify.com/album/14uGgbb9gh9SCRqj5XF1W9) | 3:23 | 2026-01-02 |  |
 | [Smooth Stepper](https://open.spotify.com/track/1UIgeeP8u29SQZIuUbMAMH) | [The Wish Fulfilled](https://open.spotify.com/artist/2H0BaqoJZz0s7QWuVnJqeZ) | [Smooth Stepper](https://open.spotify.com/album/0fV5ZOs8hXslM68fTlwqVV) | 2:56 | 2025-11-21 | 2025-12-10 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-28 | 2025-12-24 |
 | [So Damn Good](https://open.spotify.com/track/1gFM2zQ2FKyiFwmk8BqDm8) | [GeeJai](https://open.spotify.com/artist/1azCbqp0yxM3FeCbIbw7Od), [RazeGauge](https://open.spotify.com/artist/5sI7BuO7mWInkJ4TA7vpKu) | [I was gonna name this something else but didn't wanna burn a bridge.](https://open.spotify.com/album/6ZT1tfZ8GUtZLPkuTVnRpY) | 2:51 | 2025-12-21 |  |
@@ -497,6 +501,7 @@
 | [Unrequited Love](https://open.spotify.com/track/52juohYeuWVBUJNBEhMpJO) | [HAEZL](https://open.spotify.com/artist/6QZcEovtcGCLrWhIOL4omg) | [Unrequited Love](https://open.spotify.com/album/1c5cmFTEYDjzCas7s7bMj9) | 3:32 | 2025-12-31 |  |
 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 | 2025-12-11 |  |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 | 2025-12-10 |
+| [Vibe](https://open.spotify.com/track/5cns5MfJeOWKlHJR0VCeNS) | [VinCrux](https://open.spotify.com/artist/4XfqiAjGUVn2rAjU90cAwE) | [Vibe](https://open.spotify.com/album/1HmFFZl1ExxrNdNRTdUEqY) | 2:26 | 2026-01-02 |  |
 | [Vindicta](https://open.spotify.com/track/54FUFjNwNJBPgOZOW5N9J0) | [Sonder](https://open.spotify.com/artist/0L0D31Vnz5LTRR8I620V0G) | [Rompiendo Refugios](https://open.spotify.com/album/7CcpgykbYIRVRADvSi9PzI) | 4:21 | 2025-11-15 | 2025-12-10 |
 | [Viva Rápido](https://open.spotify.com/track/2z1MgbekwalIeE18JOxeFE) | [Marinas Found](https://open.spotify.com/artist/3PucetF9C8ZIfnEfqCInW9) | [Viva Rápido](https://open.spotify.com/album/5fI8WmssWgMktMOLhKIQZX) | 4:29 | 2025-12-23 |  |
 | [Wake Up Call \(feat\. F R E D U A of Bad Rabbits\)](https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR), [F R E D U A](https://open.spotify.com/artist/6QEn6c2h9fzN7TTGdUSxGs), [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR) | [GUTS](https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7) | 4:03 | 2025-12-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Aashaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,172 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,697 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Makane](https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Parvatish Pradeep](https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:32 |
 | 50 | [Sundaree Onnu Parayoo \- Version, 1](https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HQe0XxXc7m4XdFd4oD6hS) | 5:40 |
 
-Snapshot ID: `AAAAALvQoGyH53i2t8Ivu8TQ4TPADtAR`
+Snapshot ID: `AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT`

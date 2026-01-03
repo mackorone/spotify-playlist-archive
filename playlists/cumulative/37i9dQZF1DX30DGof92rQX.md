@@ -2,9 +2,9 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Zafar
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sabat Batin
 
-395 songs - 20 hr 49 min
+396 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dream Girl](https://open.spotify.com/track/11SHU1Q62PoP7h1DjrEHUe) | [TAHIR ABBAS](https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX) | [Dream Girl](https://open.spotify.com/album/3v3HiLAxz3Wn37FT5YKCYn) | 3:29 | 2025-07-25 | 2025-09-18 |
 | [Drowning](https://open.spotify.com/track/1kVDIxmgLdMv4tZ6GhWQJ5) | [Zaira Ali](https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6) | [Drowning](https://open.spotify.com/album/0vhiM9wzuueZPDWckRjLzV) | 3:47 | 2025-06-26 | 2025-09-25 |
 | [Duniya Choothi](https://open.spotify.com/track/3Ml7We5V7fRv2lyfa13XsC) | [Sasha Amani](https://open.spotify.com/artist/37k6PHuCyKkqVPJnL2Mt9Y), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [Duniya Choothi](https://open.spotify.com/album/0UELEQbnCiKjvVuXU6ZgWV) | 2:58 | 2025-09-26 | 2025-12-13 |
+| [Duniya Jaal](https://open.spotify.com/track/5xCWzrwXDmRGUkbQAVtiYl) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Duniya Jaal](https://open.spotify.com/album/6n3Mn43oOt9vmslJFGaOjY) | 3:01 | 2026-01-02 |  |
 | [echoes of us](https://open.spotify.com/track/3RyyouypVpQpTeBVK1Q32r) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [echoes of us](https://open.spotify.com/album/1pCoejoGcsv8wM6rUMsP6T) | 2:44 | 2024-06-28 | 2025-01-17 |
 | [Exes](https://open.spotify.com/track/2hDjH7ZzGAoe5z9cSBDnBu) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Exes](https://open.spotify.com/album/1XemQjFtuyYlpK4f1hIs3g) | 3:55 | 2025-09-09 | 2025-11-21 |
 | [Faasley](https://open.spotify.com/track/30K7OCqhAQWUM3xdIbb0Sy) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Faasley](https://open.spotify.com/album/5WUkYLdVUFljRP9ReHHprm) | 3:38 | 2024-09-09 | 2025-01-17 |

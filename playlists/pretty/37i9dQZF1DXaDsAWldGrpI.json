@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143224,
+  "num_followers": 143230,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "House Of The Rising Sun (Live in Denver)",
-        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "House Of The Rising Sun - Live in Denver",
-      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "No Horse To Ride (Live From Boston)",
         "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "Kenny Chesney Live",
         "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+        "name": "House Of The Rising Sun (Live in Denver)",
+        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
         }
       ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+      "duration_ms": 360000,
+      "name": "House Of The Rising Sun - Live in Denver",
+      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
     },
     {
       "added_at": "2025-12-12 05:00:32",

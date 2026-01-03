@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Sabrina Carpenter in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,994 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,008 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 20 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
 | 21 | [Signal Fire](https://open.spotify.com/track/1jWOzFlHcYJtZLXEspRT6t) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Signal Fire](https://open.spotify.com/album/2AuWJhaS4IdzErMHI2djAp) | 3:02 |
 | 22 | [DIMENTICARE IL TUO NOME](https://open.spotify.com/track/5Uy6f45y98943etQXtUv04) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [IO](https://open.spotify.com/album/1lHloEiZnCC0RoIimf29a7) | 3:02 |
-| 23 | [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 |
 | 24 | [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 |
 | 25 | [Please Stay](https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Please Stay](https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4) | 3:04 |
 | 26 | [time alone w u](https://open.spotify.com/track/5l8XXqPtwQQ28ThnjaDUh5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [time alone w u](https://open.spotify.com/album/0hJGN8c6ZDBsYWf2roeBCR) | 2:12 |

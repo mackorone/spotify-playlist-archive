@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,526 songs - 2 day 15 hr 12 min
+1,526 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Dunk](https://open.spotify.com/track/3gOGhQv4Ti8lQDTatJ21Jv) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Dunk](https://open.spotify.com/album/6bZ1HAP5bgxY9FgRGfvrsx) | 2:17 | 2023-01-26 | 2023-04-07 |
 | [DUNK](https://open.spotify.com/track/3jPFLWPrBwNfKgJxuwuqmH) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [DUNK](https://open.spotify.com/album/1EeQGZslMgXOgrJZokkF30) | 2:19 | 2024-02-01 | 2024-02-23 |
 | [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 | 2024-06-06 | 2025-01-03 |
+| [DUNKA](https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [DUNKA](https://open.spotify.com/album/5tCF1xd7LA0DMHJdxuHwSp) | 1:57 | 2026-01-01 |  |
 | [Dunka dunka](https://open.spotify.com/track/5HycGZ1YHfUd8aLl7afEyv) | [Megic Mike](https://open.spotify.com/artist/50BfmbQzyebl7dnjVBpx7c) | [Dunka dunka](https://open.spotify.com/album/1mmgbzT6PICTGNA115DW91) | 2:47 | 2024-06-06 | 2025-01-17 |
 | [Dunka dunka på](https://open.spotify.com/track/4o5weGAWJfW9pvNCDAvqxf) | [SAGA](https://open.spotify.com/artist/4Fdl5e4IWa9fgrILHXzdEs), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Peter Jezewski](https://open.spotify.com/artist/401oO85UVJpqgksV56fTVg) | [Dunka dunka på](https://open.spotify.com/album/6JUF369KMb1w3ZdnCkslGZ) | 2:33 | 2023-12-14 | 2024-01-12 |
 | [Dunka Plåt](https://open.spotify.com/track/4AzoTAV65Nl4vXG3jgJt7F) | [MÆG](https://open.spotify.com/artist/6vEJhqegkxcodFIqGYx3IG) | [Dunka Plåt](https://open.spotify.com/album/2m3CyZ7spBi9Y9YdSnOabY) | 2:17 | 2025-10-16 |  |
@@ -1381,7 +1382,6 @@
 | [Touch](https://open.spotify.com/track/0Pebpt5NlciT4arOfAEgvB) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Touch](https://open.spotify.com/album/1FAG0GWOUkhCaQB7Pnvcwk) | 2:58 | 2021-12-16 | 2022-06-15 |
 | [TOXIC](https://open.spotify.com/track/03LARyT3aGhjxbf4Cmlg8m) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TOXIC](https://open.spotify.com/album/1dOpkvBEcyQVaqP8BiUnyc) | 2:16 | 2024-02-01 | 2024-02-16 |
 | [TOXIC](https://open.spotify.com/track/5inSBp35LuAbMdW5KnkaKd) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [TOXIC](https://open.spotify.com/album/3QHIj8sjynVEGPX5ZjeQme) | 2:22 | 2025-02-27 | 2025-06-20 |
-| [Track 1](https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 | 2023-01-26 | 2023-04-05 |
 | [Trevlig Helg](https://open.spotify.com/track/6lBqUzMey82byvP8pFpOfY) | [Grannen Måns](https://open.spotify.com/artist/1GOGNYD5gumMX6VHfZGXuJ) | [Trevlig Helg](https://open.spotify.com/album/7dFTdZtfXwO7I2kqnnpRtK) | 2:30 | 2023-10-26 | 2023-11-17 |
 | [Triumph](https://open.spotify.com/track/5sLzdBEvTOOvm9dqfXMWkp) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Triumph](https://open.spotify.com/album/3uF3AjrrCmUzy2gG88qSb2) | 2:49 | 2022-03-17 | 2022-06-05 |

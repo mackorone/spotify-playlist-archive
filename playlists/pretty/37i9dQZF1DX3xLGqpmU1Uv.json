@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 180152,
+  "num_followers": 180177,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a"
-      },
-      "artists": [
-        {
-          "name": "Los Seven Days",
-          "url": "https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp"
-        }
-      ],
-      "duration_ms": 149813,
-      "name": "Sospecha",
-      "url": "https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 132933,
       "name": "La Plaga (Good Golly, Miss Molly)",
       "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a"
+      },
+      "artists": [
+        {
+          "name": "Los Seven Days",
+          "url": "https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp"
+        }
+      ],
+      "duration_ms": 149813,
+      "name": "Sospecha",
+      "url": "https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
-      },
-      "artists": [
-        {
-          "name": "Pyly Gaos",
-          "url": "https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb"
-        }
-      ],
-      "duration_ms": 114106,
-      "name": "Aburrida y Sola (Si Je Chante)",
-      "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 171733,
       "name": "Popotitos (Bonie Moroni)",
       "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
+      },
+      "artists": [
+        {
+          "name": "Pyly Gaos",
+          "url": "https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb"
+        }
+      ],
+      "duration_ms": 114106,
+      "name": "Aburrida y Sola (Si Je Chante)",
+      "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -656,13 +656,13 @@
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 126827,
-      "name": "Hava Naguila",
-      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
+      "duration_ms": 117632,
+      "name": "Leyenda Mexicana",
+      "url": "https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -672,13 +672,13 @@
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 117632,
-      "name": "Leyenda Mexicana",
-      "url": "https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN"
+      "duration_ms": 126827,
+      "name": "Hava Naguila",
+      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -720,13 +720,13 @@
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Beto Diaz",
+          "url": "https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB"
         }
       ],
-      "duration_ms": 166603,
-      "name": "Tumbaloflesicodelicomicoso",
-      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
+      "duration_ms": 160949,
+      "name": "Jerusal\u00e9n",
+      "url": "https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -736,13 +736,13 @@
       },
       "artists": [
         {
-          "name": "Beto Diaz",
-          "url": "https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 160949,
-      "name": "Jerusal\u00e9n",
-      "url": "https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU"
+      "duration_ms": 166603,
+      "name": "Tumbaloflesicodelicomicoso",
+      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
     },
     {
       "added_at": "2024-07-12 13:46:41",

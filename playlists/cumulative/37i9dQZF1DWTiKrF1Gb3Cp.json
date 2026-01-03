@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 195692,
       "name": "Andamos",
       "url": "https://open.spotify.com/track/1zz2ffaRZmI99OjHBjPVH8"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Belikeando",
+        "url": "https://open.spotify.com/album/1nVipM5vIuc57KVe7bZZtH"
+      },
+      "artists": [
+        {
+          "name": "DOBLE IMPACTO",
+          "url": "https://open.spotify.com/artist/5QsbWVZqdGfntVjDXv26mH"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207743,
+      "name": "El Momo",
+      "url": "https://open.spotify.com/track/0GaTCeRK7HWpu61fl5tRf9"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/4rvCnf7vwzITEVDgA85R8t"
       },
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 170097,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/2Vn76EcX9W9VvvgSPkri0M"
@@ -3863,6 +3881,36 @@
     },
     {
       "album": {
+        "name": "M-1 Atacando",
+        "url": "https://open.spotify.com/album/4r6g7NLhXiR2A8UbrxPuSv"
+      },
+      "artists": [
+        {
+          "name": "Compa Chalino",
+          "url": "https://open.spotify.com/artist/4foAAETM1Rj1WDQRDs2VqB"
+        },
+        {
+          "name": "CORRIDOS DE LA VIDA REAL",
+          "url": "https://open.spotify.com/artist/1B2i1W2yY0rU6dVD36CjJU"
+        },
+        {
+          "name": "El Ninii",
+          "url": "https://open.spotify.com/artist/6V7sNDLIQxlTPxw1gvEawJ"
+        },
+        {
+          "name": "El pantera belico",
+          "url": "https://open.spotify.com/artist/6fgmcnXWlAVVsWfQxmiLNV"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119880,
+      "name": "M-1 Atacando",
+      "url": "https://open.spotify.com/track/0lnBIiLB1hTrapssAlLyUq"
+    },
+    {
+      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -4148,7 +4196,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 152562,
       "name": "Mexicano Soy",
       "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
@@ -4470,7 +4518,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 278181,
       "name": "Ni Miedo Ni Piedad",
       "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
@@ -5029,6 +5077,32 @@
     },
     {
       "album": {
+        "name": "Por Si Se Les Olvidaba (Remix)",
+        "url": "https://open.spotify.com/album/4NjdyzK1R6zz6XDjHUtuKT"
+      },
+      "artists": [
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179657,
+      "name": "Por Si Se Les Olvidaba - Remix",
+      "url": "https://open.spotify.com/track/6zjOIxlIzfRwrGNueMSB49"
+    },
+    {
+      "album": {
         "name": "Pow Wow Wow",
         "url": "https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy"
       },
@@ -5567,6 +5641,32 @@
     },
     {
       "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/2p99lW0qcEdRe3xb8e3TX0"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        },
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219478,
+      "name": "Soldado Blanco",
+      "url": "https://open.spotify.com/track/0Ef6Mx806J6n0cUmT6hz9o"
+    },
+    {
+      "album": {
         "name": "Top 20 \u00c9xitos",
         "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
       },
@@ -5704,7 +5804,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 149962,
       "name": "Tenis Jordan",
       "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"

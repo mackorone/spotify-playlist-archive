@@ -2,7 +2,7 @@
 
 ### [Pop Remix](https://open.spotify.com/playlist/37i9dQZF1DXcZDD7cfEKhW)
 
-> Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: RAYE
+> Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Taylor Swift
 
 537 songs - 1 day 4 hr 38 min
 

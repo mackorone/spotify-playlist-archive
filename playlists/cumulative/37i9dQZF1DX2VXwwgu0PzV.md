@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Cee Sharp & Festizie
 
-1,467 songs - 3 day 6 hr 9 min
+1,468 songs - 3 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Glory Days](https://open.spotify.com/track/1nMILk9HGSiZv3KAo7xguP) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Glory Days](https://open.spotify.com/album/77OXF6jbwciGocwyoU64Fx) | 2:46 | 2024-07-26 | 2024-09-06 |
 | [Go](https://open.spotify.com/track/34V4ubLVKPz1D4WYofFAvY) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Go](https://open.spotify.com/album/1Vkwq1DmsTdpHKlL73bSwQ) | 2:48 | 2023-07-14 | 2023-09-08 |
 | [God Abeg](https://open.spotify.com/track/6and60iWRfS0Qqcs7qLTk9) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [God Abeg](https://open.spotify.com/album/3mbfuQEWglpHMsOYSXcYHo) | 3:23 | 2024-05-24 | 2024-07-27 |
+| [God Ahbeg](https://open.spotify.com/track/6lxwfCjQdEdbE0BhBmR3Jq) | [GERALD ADUGBO](https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl) | [God Ahbeg](https://open.spotify.com/album/6zZjLRCBf04L21m9dCMO9H) | 1:59 | 2026-01-02 |  |
 | [God be praised](https://open.spotify.com/track/0HOEzKXhsaQP570ZPLkBzd) | [Big\_win](https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [God be praised](https://open.spotify.com/album/46ESEQMJl3m8OjgBTeyUjh) | 1:22 | 2025-08-08 | 2025-08-29 |
 | [God Dey My Side](https://open.spotify.com/track/3hOSKIDn7IMHmZ6931TFxh) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Talking Drums](https://open.spotify.com/album/5MkiKFAEQn2dtyJfN081du) | 2:11 | 2023-02-02 | 2023-04-21 |
 | [God Don Do Am Again](https://open.spotify.com/track/0IszwngkfBqfLT2Tzyhobl) | [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [God Don Do Am Again](https://open.spotify.com/album/491cH2BvrASmOty4CIi0Wz) | 3:15 | 2024-11-29 | 2025-01-10 |

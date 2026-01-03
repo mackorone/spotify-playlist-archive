@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-378 songs - 17 hr 53 min
+379 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Inner Light](https://open.spotify.com/track/2yJGmdVsz482MPCTvyBXS2) | [Diva Baakso](https://open.spotify.com/artist/3hPCWh0GHhVnQQ4DL3dVGr) | [Inner Light](https://open.spotify.com/album/4TlMPI8T1PZ954LViXDDX2) | 2:52 | 2024-03-05 | 2025-04-30 |
 | [Inner Retreat](https://open.spotify.com/track/6vkgNVCmM2i7ntU3WtUAJ8) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Inner Retreat](https://open.spotify.com/album/39d1Geo2YjAZTd2Du6iuEt) | 2:57 | 2025-04-29 |  |
 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 | 2024-01-30 |  |
+| [Innstreymi](https://open.spotify.com/track/0W2alSnYcL442CPRsGDpgz) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Innstreymi](https://open.spotify.com/album/6jsVkd1nsfFmQNe44KmCK9) | 2:31 | 2025-12-18 |  |
 | [Insirium](https://open.spotify.com/track/310oWEiiJNzno545nutX6e) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Insirium](https://open.spotify.com/album/1gPruQqi2RQqUDKp6y5LCH) | 2:59 | 2023-02-22 | 2024-07-17 |
 | [Into The Calm](https://open.spotify.com/track/0GgFrbe8WRkotyjt0SkZBt) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Into The Calm](https://open.spotify.com/album/3XmOLhvpvTkuutHQQzOOxl) | 3:31 | 2024-03-05 | 2025-04-30 |
 | [Iridescence](https://open.spotify.com/track/6e4I3Y1IfBQxdv4iuaB3Wx) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Iridescence](https://open.spotify.com/album/4vWK3QWLMqhSD5DVET5UPa) | 2:53 | 2023-01-24 | 2025-07-02 |
@@ -317,7 +318,7 @@
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 | 2025-11-14 |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
 | [Silver & Gold](https://open.spotify.com/track/4OrQu62Uv8X5xW5nJ0Hhfr) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Silver & Gold](https://open.spotify.com/album/75MIeBFvynPkb13J6kjDmr) | 3:36 | 2025-04-29 |  |
-| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
+| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 | 2026-01-03 |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
 | [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
 | [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 | 2025-12-18 |  |

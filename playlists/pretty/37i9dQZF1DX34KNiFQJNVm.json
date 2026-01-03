@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Hugo & Guilherme, Maiara & Mara\u00edsa, DENNIS com L\u00e9o Foguete  e muito mais!",
-  "num_followers": 2225995,
+  "num_followers": 2230975,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,30 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
+        "name": "Fala na Cara 2",
+        "url": "https://open.spotify.com/album/3eSc3OxSgf85PKL1VFOpv6"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Fala na Cara 2",
+      "url": "https://open.spotify.com/track/6GXukqeQSrm5AwskJFFoND"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
         "name": "Flexiona / Poder da Gest\u00e3o",
         "url": "https://open.spotify.com/album/3W0FANh8OHZbvqn4OynCIh"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 162461,
       "name": "Flexiona",
       "url": "https://open.spotify.com/track/65Ww9xVjO9Dww9RUxqHgKQ"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "Fala na Cara 2",
-        "url": "https://open.spotify.com/album/3eSc3OxSgf85PKL1VFOpv6"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Fala na Cara 2",
-      "url": "https://open.spotify.com/track/6GXukqeQSrm5AwskJFFoND"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -647,42 +647,6 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "FINAL DE ANO",
-        "url": "https://open.spotify.com/album/3dzYhuT1qz6P078KLWnulc"
-      },
-      "artists": [
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        }
-      ],
-      "duration_ms": 303996,
-      "name": "FINAL DE ANO",
-      "url": "https://open.spotify.com/track/3VkyBMNgwGG35TqKrs6LjP"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
         "name": "Sorte dos Lugares (feat. Ruxell, Dudu & Flying Buff)",
         "url": "https://open.spotify.com/album/3yu5o0UCi6blGznwwS7vkD"
       },
@@ -723,6 +687,42 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
+        "name": "FINAL DE ANO",
+        "url": "https://open.spotify.com/album/3dzYhuT1qz6P078KLWnulc"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "duration_ms": 303996,
+      "name": "FINAL DE ANO",
+      "url": "https://open.spotify.com/track/3VkyBMNgwGG35TqKrs6LjP"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
         "name": "Dona de Casa",
         "url": "https://open.spotify.com/album/59YfQZNocygHKxxJ7DEaAQ"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 68063,
       "name": "Dona de Casa",
       "url": "https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "Vai E Voa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QnmvgxU2ms3KnkB4PFjTn"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        }
+      ],
+      "duration_ms": 194522,
+      "name": "Shopee - Ao Vivo",
+      "url": "https://open.spotify.com/track/6roODYTv4hwyJamaM9GFmL"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -759,22 +775,6 @@
       "duration_ms": 158769,
       "name": "Cara de Mal",
       "url": "https://open.spotify.com/track/5unj6SXQSxkzWmCynOT9Df"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "Vai E Voa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QnmvgxU2ms3KnkB4PFjTn"
-      },
-      "artists": [
-        {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
-        }
-      ],
-      "duration_ms": 194522,
-      "name": "Shopee - Ao Vivo",
-      "url": "https://open.spotify.com/track/6roODYTv4hwyJamaM9GFmL"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
+        "name": "01 Da Net",
+        "url": "https://open.spotify.com/album/6R0E4I24o7wvuz2rQOdqKi"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Dj D\u00e9dda",
+          "url": "https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "01 Da Net",
+      "url": "https://open.spotify.com/track/6itFYmio5VgP7BzJMIN8xO"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04"
       },
@@ -871,42 +891,6 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "01 Da Net",
-        "url": "https://open.spotify.com/album/6R0E4I24o7wvuz2rQOdqKi"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "Dj D\u00e9dda",
-          "url": "https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "01 Da Net",
-      "url": "https://open.spotify.com/track/6itFYmio5VgP7BzJMIN8xO"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "Love Salvador",
-        "url": "https://open.spotify.com/album/1K8NZ1ZM19qs6iUfPqwoKP"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 109364,
-      "name": "Love Salvador",
-      "url": "https://open.spotify.com/track/0npzS9sH1L3kaPWBh53vq6"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
         "name": "Musa de Novela (Ao Vivo)",
         "url": "https://open.spotify.com/album/09El3sMWi0XF9UcMCP0q1Y"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 140848,
       "name": "Musa de Novela - Ao Vivo",
       "url": "https://open.spotify.com/track/7pMzD15WUhZcXUAqOLvpMM"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "Love Salvador",
+        "url": "https://open.spotify.com/album/1K8NZ1ZM19qs6iUfPqwoKP"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 109364,
+      "name": "Love Salvador",
+      "url": "https://open.spotify.com/track/0npzS9sH1L3kaPWBh53vq6"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
+        "name": "Respeita as moda (Ao vivo)",
+        "url": "https://open.spotify.com/album/0k69jqVszPMPTdepW5QWvA"
+      },
+      "artists": [
+        {
+          "name": "Munhoz & Mariano",
+          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
+        }
+      ],
+      "duration_ms": 192792,
+      "name": "Respeita as moda - Ao vivo",
+      "url": "https://open.spotify.com/track/0VYzECSf4EJyiLmvXYTf73"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
         "name": "Foi Mas N\u00e3o \u00e9 Mais",
         "url": "https://open.spotify.com/album/1ZDn62f3bOVQxydHSh7gkQ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 133440,
       "name": "Foi Mas N\u00e3o \u00e9 Mais",
       "url": "https://open.spotify.com/track/1rvVqaQ68gFbxsmjyAhy81"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "Respeita as moda (Ao vivo)",
-        "url": "https://open.spotify.com/album/0k69jqVszPMPTdepW5QWvA"
-      },
-      "artists": [
-        {
-          "name": "Munhoz & Mariano",
-          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Respeita as moda - Ao vivo",
-      "url": "https://open.spotify.com/track/0VYzECSf4EJyiLmvXYTf73"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "Longe de Casa",
-        "url": "https://open.spotify.com/album/6I3idHGsAajm4SludGpPb6"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Concept Music",
-          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "Longe de Casa",
-      "url": "https://open.spotify.com/track/5J1gAJlP5SbhPrlOfmzXuE"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
         "name": "T\u00cdMIDA",
         "url": "https://open.spotify.com/album/3DR0Gy1hTLK2ZcwZCSC6XF"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 196536,
       "name": "T\u00cdMIDA",
       "url": "https://open.spotify.com/track/1U7G1o0odS0yfC9rtqxt0r"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "Longe de Casa",
+        "url": "https://open.spotify.com/album/6I3idHGsAajm4SludGpPb6"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "Longe de Casa",
+      "url": "https://open.spotify.com/track/5J1gAJlP5SbhPrlOfmzXuE"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/6Sr8Cggc64e0HBeYHqxUsB"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5ZbunYZasborL7r8BJWPfk"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
         "name": "Medley Tropa do Bruxo, Vol. 3",
         "url": "https://open.spotify.com/album/1oOC93KgYCLHim6YMto3dO"
       },
@@ -1247,42 +1227,22 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "Antes Do Mundo Ouvir Meu Nome",
-        "url": "https://open.spotify.com/album/5hVMxpVb5w5oJ3G6F7dnOS"
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/6Sr8Cggc64e0HBeYHqxUsB"
       },
       "artists": [
         {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
         },
         {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
         }
       ],
-      "duration_ms": 130041,
-      "name": "Antes do Mundo Ouvir Meu Nome",
-      "url": "https://open.spotify.com/track/2mUOzjO0a5LeeaWaTVSbJC"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "Quem N\u00e3o Chora Faz Bico 2, Vol 2",
-        "url": "https://open.spotify.com/album/1pBH1koduZCudFoEAouYjU"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        },
-        {
-          "name": "ASTRONEJO",
-          "url": "https://open.spotify.com/artist/3P0Px7NoQcBMVVmyc3CDEh"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Camisa de For\u00e7a",
-      "url": "https://open.spotify.com/track/3ULcRwHYbl4gJd52H9ieed"
+      "duration_ms": 144000,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5ZbunYZasborL7r8BJWPfk"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -1311,6 +1271,46 @@
       "duration_ms": 178153,
       "name": "Vai Tomar Da Gente",
       "url": "https://open.spotify.com/track/7HNXjDT9KGRlUMHHigGiWI"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "Quem N\u00e3o Chora Faz Bico 2, Vol 2",
+        "url": "https://open.spotify.com/album/1pBH1koduZCudFoEAouYjU"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        },
+        {
+          "name": "ASTRONEJO",
+          "url": "https://open.spotify.com/artist/3P0Px7NoQcBMVVmyc3CDEh"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Camisa de For\u00e7a",
+      "url": "https://open.spotify.com/track/3ULcRwHYbl4gJd52H9ieed"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "Antes Do Mundo Ouvir Meu Nome",
+        "url": "https://open.spotify.com/album/5hVMxpVb5w5oJ3G6F7dnOS"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "duration_ms": 130041,
+      "name": "Antes do Mundo Ouvir Meu Nome",
+      "url": "https://open.spotify.com/track/2mUOzjO0a5LeeaWaTVSbJC"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
-        "name": "CARTA DE DESPEDIDA 2",
-        "url": "https://open.spotify.com/album/5Ei93gK6JszIX7yIh6tGlI"
-      },
-      "artists": [
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Limaxl",
-          "url": "https://open.spotify.com/artist/19azeoFGgNBBniJGmnlvvu"
-        }
-      ],
-      "duration_ms": 227796,
-      "name": "CARTA DE DESPEDIDA 2",
-      "url": "https://open.spotify.com/track/4S2SythDc2Qev6FXEOAJCO"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
         "name": "Que isso nunca acabe",
         "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 161326,
       "name": "Que isso nunca acabe",
       "url": "https://open.spotify.com/track/40DZuYVEGulPfpKSVG9dl1"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
+        "name": "CARTA DE DESPEDIDA 2",
+        "url": "https://open.spotify.com/album/5Ei93gK6JszIX7yIh6tGlI"
+      },
+      "artists": [
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Limaxl",
+          "url": "https://open.spotify.com/artist/19azeoFGgNBBniJGmnlvvu"
+        }
+      ],
+      "duration_ms": 227796,
+      "name": "CARTA DE DESPEDIDA 2",
+      "url": "https://open.spotify.com/track/4S2SythDc2Qev6FXEOAJCO"
     },
     {
       "added_at": "2025-12-19 14:48:42",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2025-12-19 14:48:42",
       "album": {
+        "name": "REGGAE",
+        "url": "https://open.spotify.com/album/0z2uYozJbrDfhwuBcwk5bS"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        },
+        {
+          "name": "Julia Gama",
+          "url": "https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T"
+        },
+        {
+          "name": "RASTAM\u00c9N",
+          "url": "https://open.spotify.com/artist/66bRsffUwJ8CdpDsGeUoIR"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "REGGAE",
+      "url": "https://open.spotify.com/track/2z3t3yHawk37QpM9vDYGpR"
+    },
+    {
+      "added_at": "2025-12-19 14:48:42",
+      "album": {
         "name": "After no mac",
         "url": "https://open.spotify.com/album/3YhrAsUhb9jxFbQ0o0qrNU"
       },
@@ -1635,30 +1659,6 @@
       "duration_ms": 148615,
       "name": "After no mac",
       "url": "https://open.spotify.com/track/7wvoZjycX6rF4VN0ADsjTt"
-    },
-    {
-      "added_at": "2025-12-19 14:48:42",
-      "album": {
-        "name": "REGGAE",
-        "url": "https://open.spotify.com/album/0z2uYozJbrDfhwuBcwk5bS"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        },
-        {
-          "name": "Julia Gama",
-          "url": "https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T"
-        },
-        {
-          "name": "RASTAM\u00c9N",
-          "url": "https://open.spotify.com/artist/66bRsffUwJ8CdpDsGeUoIR"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "REGGAE",
-      "url": "https://open.spotify.com/track/2z3t3yHawk37QpM9vDYGpR"
     },
     {
       "added_at": "2025-12-19 14:48:42",

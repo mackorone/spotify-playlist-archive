@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,156 songs - 5 day 6 hr 15 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,166 songs - 5 day 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2164,5 +2164,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2154 | [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 |
 | 2155 | [tears of gratitude](https://open.spotify.com/track/7AYR8wIPevYJw0G7omdYNc) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [moving forward!](https://open.spotify.com/album/2XlM5L9aWA82ghgUiCk1hw) | 5:13 |
 | 2156 | [Heads Carolina, Tails California](https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [Heads Carolina, Tails California](https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2) | 4:02 |
+| 2157 | [Happening](https://open.spotify.com/track/5VxaaZ0WLQ3jJOuNcGJVcV) | [Kevin Chanashing](https://open.spotify.com/artist/1tr7rXiCwckV7Ub71RbuZF), [Orion](https://open.spotify.com/artist/2wHW65YfjctJfKreSmSfmc) | [The Other Side Of Me](https://open.spotify.com/album/7eFR7S7ouguUxUdShuYjZZ) | 2:54 |
+| 2158 | [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 |
+| 2159 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 |
+| 2160 | [Miss Guided](https://open.spotify.com/track/5rEahBK4xCzvbKv9rybDwq) | [Henson Smith](https://open.spotify.com/artist/2UuqWYUi09CjQztM0u5TFy) | [Mindfield](https://open.spotify.com/album/5jylpsenC69YTYfbCO6SOp) | 3:05 |
+| 2161 | [Galaxy Shorts](https://open.spotify.com/track/7qJgcBJIxqAdhLI8lXAgse) | [Jellycage](https://open.spotify.com/artist/7oDkwC5zoebDknOX06HyST) | [Galaxy Shorts](https://open.spotify.com/album/3oNvy8zKJ9QB5HlfW7u7Og) | 2:17 |
+| 2162 | [It's Breaking My Heart \- Instrumental](https://open.spotify.com/track/3oGbDJUzp1GHe32ygfP8eN) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [It's Breaking My Heart \(Instrumental\)](https://open.spotify.com/album/1stEoAIuwf1YmRRaP82rHG) | 3:11 |
+| 2163 | [Devil In My Bed](https://open.spotify.com/track/09MWczLcelqQXeT6ql5EqS) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Devil In My Bed](https://open.spotify.com/album/1guuZ2rWFJ9Rv5cbDfj9lc) | 3:31 |
+| 2164 | [Number One Fool](https://open.spotify.com/track/2L4G4DitFpNesNNVsaKUb9) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Number One Fool](https://open.spotify.com/album/1v0HIgRvAREbt1ZHV5i1fL) | 2:45 |
+| 2165 | [Young and Pretty](https://open.spotify.com/track/4qEGHTukgfzD7vkrUMmSNe) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Uninhibited 2006](https://open.spotify.com/album/705AOHOqDlHAl9JCYz1SWW) | 4:12 |
+| 2166 | [Could Have Been Me](https://open.spotify.com/track/27ymI5ECIY6HFMaFl7tCRg) | [Olivia Genesis](https://open.spotify.com/artist/3erbH0PpyK4eIMceD0AU09) | [Could Have Been Me](https://open.spotify.com/album/0rs3eCRZkqpVnD3ikMUYY7) | 2:26 |
 
-Snapshot ID: `AAAJAbbqqyg0c/eeKlO4QTtDlN3FRwu9`
+Snapshot ID: `AAAJC3ml2gVkmEUWf+6v2Db1B3EBx7RX`

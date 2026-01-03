@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Kameron Marlowe",
+  "description": "Break them in, wear them out. Cover: Abbey Cone",
   "name": "New Boots",
   "tracks": [
     {
@@ -7138,6 +7138,24 @@
       "duration_ms": 199533,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
+    },
+    {
+      "album": {
+        "name": "Change The Man",
+        "url": "https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211419,
+      "name": "Change The Man",
+      "url": "https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N"
     },
     {
       "album": {
@@ -47308,7 +47326,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 213315,
       "name": "Water At A Wedding",
       "url": "https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq"

@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 19846,
+  "num_followers": 19854,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACwhkuHu1kEqAeRK3OWClEU",
+  "snapshot_id": "aVW5AAAAAAA9KF950IUC+j6MB8gtYq1e",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Enfiest\u00f3 El Carnal",
+        "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 209497,
+      "name": "Se Enfiest\u00f3 El Carnal",
+      "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 170155,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Enfiest\u00f3 El Carnal",
-        "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 209497,
-      "name": "Se Enfiest\u00f3 El Carnal",
-      "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
     },
     {
       "added_at": null,

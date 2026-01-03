@@ -1628,10 +1628,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 188066,
       "name": "Fall Tonight",
       "url": "https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN"
+    },
+    {
+      "album": {
+        "name": "Fall Tonight",
+        "url": "https://open.spotify.com/album/21ms8XR8PMEquIH9aQSuGb"
+      },
+      "artists": [
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "Fall Tonight",
+      "url": "https://open.spotify.com/track/7oEyT5yydRhkVrOkCEg5OA"
     },
     {
       "album": {

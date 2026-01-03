@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Alan Walker, Ouse og mörgum fleiri!
 
-9,186 songs - 20 day 13 hr 44 min
+9,186 songs - 20 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1820,7 +1820,7 @@
 | [Daydream](https://open.spotify.com/track/1bg34brxVTDc7rGeJ4ssKi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Daydream](https://open.spotify.com/album/4SAAtduAEobXqWxIqok4xw) | 3:20 | 2025-08-22 | 2025-08-30 |
 | [Daydream](https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Daydream](https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb) | 3:23 | 2024-07-26 | 2024-08-03 |
 | [Daydream](https://open.spotify.com/track/1qzDBkPzj7DYHRaAHstMAW) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Daydream](https://open.spotify.com/album/3SdYa7DWxMidM4r7Jg6aAq) | 2:53 | 2025-02-28 | 2025-03-07 |
-| [daydreaming](https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [](https://open.spotify.com/album/null) | 2:56 | 2026-01-02 |  |
+| [daydreaming](https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [daydreaming](https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl) | 2:56 | 2026-01-02 |  |
 | [Daydreams](https://open.spotify.com/track/4P1v7B9pgk2LJdBNlw2r8F) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daydreams](https://open.spotify.com/album/1EKTr8EkYBwQUvCKknJGGn) | 2:10 | 2025-12-19 | 2026-01-02 |
 | [Daylight](https://open.spotify.com/track/6cjEnhHu5y0QD7n4G0pDoK) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Daylight](https://open.spotify.com/album/5cfqM9LcTcD14LXaUpSjwE) | 4:10 | 2024-05-17 | 2024-05-24 |
 | [Days Like These](https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:41 | 2025-10-03 | 2025-10-10 |
@@ -5074,6 +5074,7 @@
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-21 | 2025-02-28 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-23 | 2025-05-30 |
 | [MALUCO](https://open.spotify.com/track/7lxMijiP871RIB8bsJS9VG) | [KIKI CLUB](https://open.spotify.com/artist/7Bn7BvTnbHMuLDwBYxGUSn), [ReUnited](https://open.spotify.com/artist/3ba8XnU6tuDE8ZSpJNw6v1) | [MALUCO](https://open.spotify.com/album/42d8NridhaaYGlu0DoQwMG) | 2:34 | 2024-08-16 | 2024-08-23 |
+| [MAMA MIA](https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [Aggrxssor](https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa) | [MAMA MIA](https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi) | 1:40 | 2026-01-02 |  |
 | [Mamadona](https://open.spotify.com/track/4bCbJ8BY8LFCh0XQP6rVB9) | [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Mamadona](https://open.spotify.com/album/2MXUTTjpheKu416Ek1e1Ho) | 2:45 | 2025-07-04 | 2025-07-11 |
 | [Mama’s House](https://open.spotify.com/track/0s7SD8mzw7jw4N2QbrcNfq) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [The Kids Are Still Awake](https://open.spotify.com/album/6JbCONWYhKKmpIjREglYIF) | 3:05 | 2024-05-03 | 2024-05-10 |
 | [Man](https://open.spotify.com/track/1l8CTi31bZ5BKcl1GckWjH) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Man](https://open.spotify.com/album/2jJmvh73sUtVkAmwOv8TWF) | 3:20 | 2025-01-17 | 2025-01-24 |
@@ -8235,7 +8236,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2024-12-14 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-06-28 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
-| [Track 1](https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-02 |  |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |
 | [Trails](https://open.spotify.com/track/37drBnXJEDVWIZqvHctE03) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Trails](https://open.spotify.com/album/1EgHatheLbD86h4mfgO4ri) | 2:30 | 2024-05-10 | 2024-05-17 |

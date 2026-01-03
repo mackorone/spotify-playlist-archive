@@ -1,13 +1,29 @@
 {
   "description": "50% techno, 50% house \ud83d\udca5 Tech house operators, featuring Roddy Lima",
-  "num_followers": 695236,
+  "num_followers": 695317,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1kt4l0ZylOK4TNRpR1Z8wQIOYw",
+  "snapshot_id": "AAAAAIWqVtJl+QFM7NemzTfafpkAya6S",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
+    },
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
@@ -23,6 +39,58 @@
       "duration_ms": 213375,
       "name": "EYES",
       "url": "https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1"
+    },
+    {
+      "added_at": "2026-01-02 16:42:37",
+      "album": {
+        "name": "House Revolution",
+        "url": "https://open.spotify.com/album/7pXjIRbuOT4y6r5fBweBHX"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "House Revolution",
+      "url": "https://open.spotify.com/track/7qiD587jBobezwf18RHLFW"
+    },
+    {
+      "added_at": "2025-11-28 05:04:31",
+      "album": {
+        "name": "Caramelle",
+        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Caramelle",
+      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
+    },
+    {
+      "added_at": "2025-12-29 01:19:31",
+      "album": {
+        "name": "Lights Go Red",
+        "url": "https://open.spotify.com/album/4ajxRX4245DiZQRBv4AFTy"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Lights Go Red",
+      "url": "https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc"
     },
     {
       "added_at": "2025-12-12 05:00:35",
@@ -51,22 +119,6 @@
     {
       "added_at": "2025-12-05 05:00:23",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
         "name": "Take Your Places",
         "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
       },
@@ -83,26 +135,6 @@
       "duration_ms": 237341,
       "name": "Take Your Places",
       "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
-    },
-    {
-      "added_at": "2025-12-29 01:19:31",
-      "album": {
-        "name": "Lights Go Red",
-        "url": "https://open.spotify.com/album/4ajxRX4245DiZQRBv4AFTy"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Lights Go Red",
-      "url": "https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc"
     },
     {
       "added_at": "2025-12-12 05:00:35",
@@ -173,20 +205,20 @@
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     },
     {
-      "added_at": "2025-11-28 05:04:31",
+      "added_at": "2026-01-02 16:42:37",
       "album": {
-        "name": "Caramelle",
-        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
+        "name": "Life Is Just 4 Fun EP",
+        "url": "https://open.spotify.com/album/1O9fVyKm4bguciAPt3npYh"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Balanka",
+          "url": "https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Caramelle",
-      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
+      "duration_ms": 202790,
+      "name": "Life Is Just 4 Fun",
+      "url": "https://open.spotify.com/track/27jDEKr90ftNzfXnQwZLlL"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1045,22 +1077,6 @@
       "url": "https://open.spotify.com/track/6leein4CtEbHqA17pyEnGH"
     },
     {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "BASSLINE RUMBLE",
-        "url": "https://open.spotify.com/album/7F0Ew1G0qqcOYOAGRxIpQj"
-      },
-      "artists": [
-        {
-          "name": "LUCATI",
-          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
-        }
-      ],
-      "duration_ms": 380000,
-      "name": "BASSLINE RUMBLE",
-      "url": "https://open.spotify.com/track/4CehEcG87tSCrPjE4D0Huc"
-    },
-    {
       "added_at": "2025-11-28 21:44:54",
       "album": {
         "name": "Come Inside",
@@ -1439,26 +1455,6 @@
       "duration_ms": 217968,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/4DeTlsPjmgrjeM4DgMSoMQ"
-    },
-    {
-      "added_at": "2025-11-14 05:00:31",
-      "album": {
-        "name": "Provide",
-        "url": "https://open.spotify.com/album/5I72UpUTDxDdAIfQA6qByS"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        },
-        {
-          "name": "Rob Marion",
-          "url": "https://open.spotify.com/artist/2B1oIKQTFQn04kCW6chegm"
-        }
-      ],
-      "duration_ms": 197952,
-      "name": "Provide",
-      "url": "https://open.spotify.com/track/0syF2z8puWwWyVjioMSNE8"
     },
     {
       "added_at": "2025-11-07 05:00:37",

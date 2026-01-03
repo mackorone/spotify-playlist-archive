@@ -4,7 +4,7 @@
 
 > New Music from Shoday, MOLIY, Doechii, Moelogo, Zinoleesky, Katseye and more
 
-4,709 songs - 9 day 21 hr 46 min
+4,710 songs - 9 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Beautiful](https://open.spotify.com/track/65rg9O681ZOyobmwuXlgo2) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Beautiful](https://open.spotify.com/album/4EkdpaG2y23uu49ypYAqNt) | 2:29 | 2025-02-14 | 2025-02-21 |
 | [Beautiful \(Remix\)](https://open.spotify.com/track/3qUMr8mq6eZ2z98gVmWAZQ) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Beautiful](https://open.spotify.com/album/5xqPZ5JUNnRaaNj1fhAFDv) | 3:37 | 2025-06-20 | 2025-06-27 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 | 2025-03-14 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-02 |  |
 | [Beauty](https://open.spotify.com/track/2wnQBnuWST7oTqYn7CPolq) | [Rayona](https://open.spotify.com/artist/2fY601KxxVSsTiDtBhFslt) | [Ray of sunshine](https://open.spotify.com/album/7Cl6LaRrjZCMPow7ZZx0pV) | 2:57 | 2025-10-03 | 2025-10-10 |
 | [Beauty On Fire](https://open.spotify.com/track/4pdPlm1uWitjLJ2Y8665Dg) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Colorful Generation](https://open.spotify.com/album/0nIEkzSwKoMM2Chsgew9DV) | 3:23 | 2025-01-17 | 2025-01-25 |
 | [Bebe](https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Soundgod Fest IV](https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv) | 2:08 | 2025-06-27 | 2025-07-04 |

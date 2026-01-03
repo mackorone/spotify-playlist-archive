@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11131,
+  "num_followers": 11141,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABe3Bm4DgvMYFgeH83PhcLz",
+  "snapshot_id": "aVW5AAAAAAAOXDb6wQ1QZ7QsDz/VvHfV",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 262449,
-      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
-      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
     },
     {
       "added_at": null,
@@ -215,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinocchio (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 117693,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+      "duration_ms": 262449,
+      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
+      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby Tarantino III",
         "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 140370,
       "name": "Inside (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -815,26 +799,6 @@
       "duration_ms": 183973,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
-        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
-      },
-      "artists": [
-        {
-          "name": "Morgan James & Company",
-          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 230782,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
     },
     {
       "added_at": null,
@@ -855,6 +819,42 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
+      },
+      "artists": [
+        {
+          "name": "Morgan James & Company",
+          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 230782,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -955,22 +939,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspirational",
-        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
-        {
-          "name": "Alison Jiear",
-          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 360527,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together (Soundtrack from Year in Search)",
+        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+        },
+        {
+          "name": "Matt Jones (Re-Collective Orchestra)",
+          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
+        }
+      ],
+      "duration_ms": 192873,
+      "name": "Together (Soundtrack from Year in Search)",
+      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

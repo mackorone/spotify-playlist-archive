@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jFzidjghhZ.md) - [plain]
 
 > Des chansons pour sensibiliser vos enfants à la défense de l'environnement
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

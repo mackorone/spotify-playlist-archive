@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kidwild
 
-2,221 songs - 4 day 14 hr 6 min
+2,222 songs - 4 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2212,6 +2212,7 @@
 | [Yardstyle](https://open.spotify.com/track/2NmsUZBB19eCcxUpKBN1qa) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Yardstyle](https://open.spotify.com/album/6rHbChyJOWaXFSJffz0UsK) | 2:02 | 2024-03-08 | 2024-05-17 |
 | [yawn](https://open.spotify.com/track/56CNfi2sGoySvA6onBw8J5) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [yawn](https://open.spotify.com/album/6RsIlpOoQ9egYfuKuLGQ5l) | 3:45 | 2024-03-15 | 2024-04-19 |
 | [Yeh Yeh](https://open.spotify.com/track/0RxCXZ9Hqc30NHxYaREx87) | [Izzie Gibbs](https://open.spotify.com/artist/3BdNGqMrOUmUQRSh6u6GHo), [Rawza](https://open.spotify.com/artist/7quVq2BLoNa1p9xG4Cv7ym) | [Join The Club](https://open.spotify.com/album/4QpBZeNz6lTumZ8OEnGrjq) | 2:54 | 2020-07-25 | 2020-09-05 |
+| [Yesterday](https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Yesterday](https://open.spotify.com/album/19eoX2kxUm5dIbUymagNMF) | 3:12 | 2026-01-02 |  |
 | [Ying](https://open.spotify.com/track/4jxKTdZ3Y3qK3waiwS3Z3l) | [Skengdo](https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg) | [Ying](https://open.spotify.com/album/47ttuDVvWZPK3u2G3N9T2C) | 2:57 | 2020-08-21 | 2020-10-02 |
 | [Ying & Yang \(feat\. Chip & Deno\)](https://open.spotify.com/track/3JbjaZt9rtVCRQNI8TOw1K) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [GRM 10](https://open.spotify.com/album/01hcMlcR5FUjoSAKxlVPxK) | 2:27 | 2020-06-19 | 2020-07-18 |
 | [Ying Dat](https://open.spotify.com/track/0iT6u0OSo1lthHCAruJEuw) | [Gully](https://open.spotify.com/artist/1xYVI9pSD1zVoJPx7ThoQW) | [Ying Dat](https://open.spotify.com/album/0MsNdmdzEizzRVVmSW7cHD) | 2:44 | 2020-09-26 | 2020-11-03 |

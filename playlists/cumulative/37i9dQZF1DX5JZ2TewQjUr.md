@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Teddy Fan & 米爺
 
-1,590 songs - 3 day 18 hr 2 min
+1,592 songs - 3 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1201,6 +1201,7 @@
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-05-26 | 2022-07-29 |
 | [回憶半分鐘 \(feat\. Gordon Flanders\) \- Aurora Version](https://open.spotify.com/track/30oOj7kQ6o0sMj2y5F0zwU) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk), [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [回憶半分鐘 \(feat\. Gordon Flanders\) \[Aurora Version\]](https://open.spotify.com/album/24BfobCbKKh3pjL2m13Z5h) | 3:47 | 2024-03-14 | 2024-11-15 |
 | [回歸日](https://open.spotify.com/track/0kAgC8FFL0kjOmqTtN9e3K) | [KID ALVIN](https://open.spotify.com/artist/7ypKMq4idveSB1ax6PjCIo), [MU 木](https://open.spotify.com/artist/11kY3ZdZA2hjGdxSfoN9i5) | [回歸日](https://open.spotify.com/album/4Leb4qk9jVBp5HFVyVr8oh) | 2:46 | 2024-10-17 | 2025-02-14 |
+| [回溯](https://open.spotify.com/track/2m4i5ReW4teN71ReCCP9DS) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [回溯](https://open.spotify.com/album/03Qmy5tAGD81CzEJWgEwh6) | 4:26 | 2026-01-02 |  |
 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 | 2022-11-04 |
 | [在下一陣風來之前](https://open.spotify.com/track/6l17A7oYVPcQCESCD9aORl) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [在下一陣風來之前](https://open.spotify.com/album/0JR5nVUM1yR6AnMT6oFleD) | 3:46 | 2025-08-28 | 2025-11-21 |
 | [在憂鬱的熱帶](https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [在憂鬱的熱帶](https://open.spotify.com/album/0hZUeIpNSBw7mjoZLDkzeW) | 3:46 | 2025-02-27 | 2025-07-11 |
@@ -1458,6 +1459,7 @@
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-11-04 |
 | [百鬼夜行](https://open.spotify.com/track/4WWYhgUUXt4SesG2OwmxQe) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [百鬼夜行](https://open.spotify.com/album/3sHdBZLhLCN9wOh24BzDd7) | 3:30 | 2023-10-19 | 2024-01-05 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-02-22 | 2024-06-07 |
+| [真心有病](https://open.spotify.com/track/2VWFZ4SGhtQO7ldILHGBC7) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [米爺](https://open.spotify.com/artist/4VSNdg5c0V26Srdi4MOHR7) | [真心有病](https://open.spotify.com/album/396LSdL0kyRtvB0pYRh9LZ) | 3:11 | 2026-01-02 |  |
 | [睡行症](https://open.spotify.com/track/1nloWUX0UaVbk9lsTgwHq2) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [睡行症](https://open.spotify.com/album/6QQTjaGL3KBBqLQcBRb6mV) | 4:02 | 2022-05-26 | 2022-06-10 |
 | [石投大海](https://open.spotify.com/track/2BhgI1HD643fa8TNzD5ipH) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [石投大海](https://open.spotify.com/album/6UW4UbhloQsuimI5wHyP4E) | 3:48 | 2025-02-06 | 2025-05-30 |
 | [石沉大海](https://open.spotify.com/track/0Mu3cQmroCADlBs3t8qSQG) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [石沉大海](https://open.spotify.com/album/1tsylDEKEqx9LCjuIy67TS) | 5:31 | 2025-01-30 | 2025-05-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > Back with fresh tracks on January 9\. Happy holidays!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,637 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,725 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 58 | [Moon Or Stars](https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Moon Or Stars](https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl) | 3:42 |
 | 59 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 |
 
-Snapshot ID: `AAAAAERxkMLcf6LsT3+OJX/FRt4IAp7+`
+Snapshot ID: `AAAAAO6gmGHmDjTIWwmQGHyfabP6ikMA`

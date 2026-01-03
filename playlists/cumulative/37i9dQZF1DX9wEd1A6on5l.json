@@ -6507,6 +6507,32 @@
     },
     {
       "album": {
+        "name": "Give U",
+        "url": "https://open.spotify.com/album/2mxQrdagZVtcd1RDWJF0fb"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "King Carsley",
+          "url": "https://open.spotify.com/artist/7fj63M0dam8Ydp9TUrXrkZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152631,
+      "name": "Give U",
+      "url": "https://open.spotify.com/track/5wjTaDHumqCrhhZVK1ign5"
+    },
+    {
+      "album": {
         "name": "Glamorous (feat. Mayorkun)",
         "url": "https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi"
       },
@@ -13102,7 +13128,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 155866,
       "name": "Ring",
       "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"

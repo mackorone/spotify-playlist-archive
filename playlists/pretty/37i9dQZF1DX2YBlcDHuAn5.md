@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,834 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,832 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 47 | [Hold Your Fire](https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Hold Your Fire](https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY) | 3:16 |
 | 48 | [Frozen \- Live from Best of Pop](https://open.spotify.com/track/2ALhSY3Su4JB7vXJUORY34) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Frozen \(Live from Best of Pop\)](https://open.spotify.com/album/3akNEfhr26BayeUYvZHhnk) | 2:57 |
 | 49 | [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 |
-| 50 | [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 |
+| 50 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
 
 Snapshot ID: `AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV`

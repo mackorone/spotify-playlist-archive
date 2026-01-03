@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Dos Monos
 
-2,913 songs - 7 day 14 hr 16 min
+2,914 songs - 7 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1648,7 +1648,7 @@
 | [that place is burning](https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [that place is burning](https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea) | 5:35 | 2023-06-27 | 2024-04-24 |
 | [That’s New Now!](https://open.spotify.com/track/6MuPWibcnpP37FzKmRZXsr) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [New Now! crew](https://open.spotify.com/artist/54VuJoEZ9PmNmSvmbBsqzC) | [That’s New Now! \(feat\. New Now! crew\)](https://open.spotify.com/album/0qKQlIGuhJjBdPrlk5yugk) | 5:15 | 2023-11-21 | 2023-11-29 |
 | [THE ALTERNATIVE ROCK AT TWILIGHT](https://open.spotify.com/track/0CI7NdC5nPVwym2C2thD9H) | [cosmomule](https://open.spotify.com/artist/2b6n1PNRSAndWevprO7iDX) | [THE ALTERNATIVE ROCK AT TWILIGHT](https://open.spotify.com/album/7satlXeHkfps21zVxRX3VU) | 2:54 | 2024-01-09 | 2024-01-12 |
-| [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 | 2025-11-11 |  |
+| [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 | 2025-11-11 | 2026-01-03 |
 | [The Cosmic Law](https://open.spotify.com/track/4H3qpAVmoQEI3kE9YGhZrC) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [The Cosmic Law](https://open.spotify.com/album/08tqLADQIO4IbNn4CsJohz) | 3:30 | 2023-02-21 | 2023-03-25 |
 | [THE FAKE ESCAPE](https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [THE FAKE ESCAPE](https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1) | 3:40 | 2024-09-10 | 2024-11-06 |
 | [The Fog](https://open.spotify.com/track/4czOo1VDyx2530tyycxwg4) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [The Fog](https://open.spotify.com/album/51FtNQ2by5vwtcLJ9JwcRR) | 2:55 | 2023-11-29 | 2023-12-06 |
@@ -2597,6 +2597,7 @@
 | [抜けていく](https://open.spotify.com/track/6Xes5DgfEgPlGKwIQwRVGQ) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [Through The Lonely Nights](https://open.spotify.com/album/07aGzvY0kMQTTWFuGu9WTV) | 4:34 | 2023-12-28 | 2024-01-17 |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [指切り \(Cornelius Remix\)](https://open.spotify.com/track/2Dw3iSdLAXAEPRvfvpOLBg) | [大瀧詠一](https://open.spotify.com/artist/7wqLKZlQrecUHehboPBPHG), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Eiichi Ohtaki’s NIAGARA 50th Odyssey Remix EP](https://open.spotify.com/album/5fOtEsX0zSikm5l4Ll7lA4) | 3:52 | 2025-07-08 | 2025-07-16 |
+| [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 | 2025-12-27 |  |
 | [換気](https://open.spotify.com/track/7qZVdyDeJC488Nfknqx4eb) | [Yoshida Yohei group](https://open.spotify.com/artist/31ysUnRxadhX0h9zQVE23h) | [Happiness Comes in Waves](https://open.spotify.com/album/27hltEvHkO0F85UkkQ2ZSJ) | 5:15 | 2025-08-19 | 2025-09-04 |
 | [放春花](https://open.spotify.com/track/0jZRUt5GtTFu1WjZsPTe7v) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [放春花](https://open.spotify.com/album/12DSwGJs8J0aGZqTdrpE5v) | 4:15 | 2025-04-15 | 2025-04-23 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |

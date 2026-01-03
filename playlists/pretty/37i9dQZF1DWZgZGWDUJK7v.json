@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \uc791\uc804\uba85 \uc21c\uc815(Operation: True Love)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 119611,
+  "num_followers": 119607,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
+        "name": "1 Min 1 Sec (Odd Girl Out X HYUN SEO) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1SKq5EMdhbqcpop9lSyLPH"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "1 Min 1 Sec",
+      "url": "https://open.spotify.com/track/5hGceyyHIvXEeOGGtdYejj"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
         "name": "Flower, Wind, You (Blue Archive)",
         "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
       },
@@ -1111,38 +1127,18 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "1 Min 1 Sec (Odd Girl Out X HYUN SEO) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1SKq5EMdhbqcpop9lSyLPH"
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
       },
       "artists": [
         {
-          "name": "HYUN SEO",
-          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         }
       ],
-      "duration_ms": 161320,
-      "name": "1 Min 1 Sec",
-      "url": "https://open.spotify.com/track/5hGceyyHIvXEeOGGtdYejj"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
     },
     {
       "added_at": "2025-11-19 05:15:44",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
       "artists": [
         {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2025-11-19 05:15:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
         "name": "Love Revolution (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "Better for Me (Nth Romance X MeloMance)",
-        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Better for Me (Nth Romance X MeloMance)",
-      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
         "name": "The Extra (One of a Kind Romance)",
         "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 175480,
       "name": "The Extra (One of a Kind Romance)",
       "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
     },
     {
       "added_at": "2025-11-19 05:15:44",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
+        "name": "LETTER (True Beauty X VIINI)",
+        "url": "https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o"
+      },
+      "artists": [
+        {
+          "name": "VIINI",
+          "url": "https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F"
+        }
+      ],
+      "duration_ms": 222207,
+      "name": "LETTER (True Beauty X VIINI)",
+      "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
         "name": "Webtoon <Myst, Might, Mayhem> OST Part. 2 Draw the Moon",
         "url": "https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 210146,
       "name": "Draw the Moon (feat. MIYAVI)",
       "url": "https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
-        "name": "LETTER (True Beauty X VIINI)",
-        "url": "https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o"
-      },
-      "artists": [
-        {
-          "name": "VIINI",
-          "url": "https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F"
-        }
-      ],
-      "duration_ms": 222207,
-      "name": "LETTER (True Beauty X VIINI)",
-      "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
     },
     {
       "added_at": "2025-11-19 05:15:44",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "Webtoon YeonNom OST Part.4",
-        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "I'm into you, I mean Love you",
-      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
         "name": "Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1",
         "url": "https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 260173,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
+        "name": "Webtoon YeonNom OST Part.4",
+        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "I'm into you, I mean Love you",
+      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
     },
     {
       "added_at": "2025-11-19 05:15:44",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-11-19 05:15:44",
       "album": {
-        "name": "Rest In You (This is a Campus Romance Series X YUJU) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/6FEjOw29wqn7LgJ6OHKRn3"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Rest In You",
-      "url": "https://open.spotify.com/track/4QWcURfrKtwMrH84w1Qpus"
-    },
-    {
-      "added_at": "2025-11-19 05:15:44",
-      "album": {
         "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 207333,
       "name": "How about you?",
       "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
+    },
+    {
+      "added_at": "2025-11-19 05:15:44",
+      "album": {
+        "name": "Rest In You (This is a Campus Romance Series X YUJU) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/6FEjOw29wqn7LgJ6OHKRn3"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Rest In You",
+      "url": "https://open.spotify.com/track/4QWcURfrKtwMrH84w1Qpus"
     },
     {
       "added_at": "2025-11-19 05:15:44",

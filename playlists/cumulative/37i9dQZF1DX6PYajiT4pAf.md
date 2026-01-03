@@ -4,7 +4,7 @@
 
 > La Oreja de Van Gogh, Cris MJ,  Beny Jr y el resto de novedades de la semana.
 
-4,189 songs - 8 day 21 hr 56 min
+4,190 songs - 8 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Balada Malvada](https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Balada Malvada](https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d) | 4:22 | 2025-10-16 | 2025-10-24 |
 | [Balada Pop](https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Balada Pop](https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz) | 2:22 | 2024-11-21 | 2024-11-29 |
 | [balada triste](https://open.spotify.com/track/6GGr8VRtJeko80PTuA0zDo) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [balada triste](https://open.spotify.com/album/4fyvYH66v81cibVPg0vHEG) | 3:02 | 2025-06-19 | 2025-06-27 |
+| [BALLER FREESTYLE](https://open.spotify.com/track/0H3sJxYivD4Od2YCoQk3ZH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [BALLER FREESTYLE](https://open.spotify.com/album/0erQFKf9imolskkP4anuYE) | 1:52 | 2026-01-01 |  |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-05-09 |
 | [Banana](https://open.spotify.com/track/2U7dwtUr03JZpaFacfGGRp) | [Karina y Marina](https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe), [Hugo23](https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ), [Osquitar](https://open.spotify.com/artist/5smLedhD7CXY0jD44PIbuD) | [Banana](https://open.spotify.com/album/0VM4T3xjIWycuL6ruDRltx) | 3:09 | 2025-02-28 | 2025-03-07 |
 | [Banda](https://open.spotify.com/track/0TXnPOsRZQIFjPkzyKMFXv) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:33 | 2025-07-04 | 2025-07-11 |
@@ -2803,7 +2804,7 @@
 | [Padam, Padam](https://open.spotify.com/track/5A6kp3e3lRy0hewFOtHjvQ) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Padam, Padam](https://open.spotify.com/album/4D6qbMoyl0V3JAM9Fk4Iep) | 3:32 | 2024-10-17 | 2024-10-25 |
 | [Padiante](https://open.spotify.com/track/0RdRTdsqK9BVJnmbQPWLOX) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Padiante](https://open.spotify.com/album/2KxHh90sAc9vmtWID0mRoE) | 2:49 | 2025-05-08 | 2025-05-16 |
 | [PAdMIrARTe](https://open.spotify.com/track/7qFqFKz2HPmDBd7ZTD0dCy) | [BadB](https://open.spotify.com/artist/3Nx7D89Xt54ut15c4rfgnv), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PAdMIrARTe](https://open.spotify.com/album/4pNwJkxLSRaRhraOIVAgPl) | 3:40 | 2025-05-15 | 2025-05-23 |
-| [Padre](https://open.spotify.com/track/3oCEgWhmBqZq6srjlCa3wP) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [](https://open.spotify.com/album/null) | 3:25 | 2026-01-01 |  |
+| [Padre](https://open.spotify.com/track/3oCEgWhmBqZq6srjlCa3wP) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [Tú](https://open.spotify.com/album/2wXYZJKcXH46woQ9FTZQuB) | 3:25 | 2026-01-01 |  |
 | [Painkiller](https://open.spotify.com/track/0mHu0w7NEmkAv48haoZL9M) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Painkiller](https://open.spotify.com/album/7zelnhW4FH2IHGfQWeS7UN) | 2:24 | 2025-07-24 | 2025-08-01 |
 | [PAJARITO](https://open.spotify.com/track/4UFxZCWEelaqUPUYJ8XfM2) | [Baby Loud](https://open.spotify.com/artist/6VSlGCOiyCqCRfFsThtvA7) | [PAJARITO](https://open.spotify.com/album/4yObdov9lkip6lpAOYyG4d) | 2:52 | 2025-06-19 | 2025-06-27 |
 | [Palabras](https://open.spotify.com/track/1sPYPGTBFf88n9l6L1uvMq) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Las Manos y la Voz](https://open.spotify.com/album/4hLpDzpS1AWC2lWldbLvkg) | 4:45 | 2025-11-20 | 2025-11-28 |

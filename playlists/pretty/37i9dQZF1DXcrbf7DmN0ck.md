@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,616 likes - 55 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,615 likes - 55 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/track/3BkmFNFRtArv4tXPcPvyNB) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg) | 3:33 |
+| 1 | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Iron Voice\)](https://open.spotify.com/track/3BkmFNFRtArv4tXPcPvyNB) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Iron Voice\)](https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg) | 3:33 |
 | 2 | [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\)](https://open.spotify.com/track/2AdS87CC9erkHMXQHK8Eww) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\)](https://open.spotify.com/album/1M8dqwS44SI3vNniHl65Ct) | 4:38 |
 | 3 | [Like an Indian Doll](https://open.spotify.com/track/6dYBbyqyZiNssyoEs2xtiy) | [NAMI](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [아무말 않으리 / 미움인지 그리움인지](https://open.spotify.com/album/2xnUssKFd5wlsdtozG2B0z) | 3:56 |
 | 4 | [And July](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:46 |

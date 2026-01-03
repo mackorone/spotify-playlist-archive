@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Gilga Sahid
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,073 likes - 99 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,183 likes - 99 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 6 | [Ropang \- NDX A.K.A Version](https://open.spotify.com/track/5l6mQ6QOhmwPmPjUxkDTta) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ropang \(NDX A.K.A Version\)](https://open.spotify.com/album/5l2hjtoFAUeUYqVOoguj2A) | 3:54 |
 | 7 | [Sikep "Siap Kelangan Pengarep Arep"](https://open.spotify.com/track/0QheyPV6fQ3xaaavPXLmPm) | [Tiara Amora](https://open.spotify.com/artist/7qVKpwVR1Dy3aqpzq0b7xW), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Sikep "Siap Kelangan Pengarep Arep"](https://open.spotify.com/album/5mTukLvoT78r57nJVtPIK5) | 4:59 |
 | 8 | [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 |
-| 9 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/224NGC6XAr74nyYDgYCTHj) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
+| 9 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
 | 10 | [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 |
 | 11 | [Pepujaning Ati](https://open.spotify.com/track/4tjEUUh3Fs2jt0h0iYQze8) | [START KOPLO](https://open.spotify.com/artist/3NSHD91wHPskJuktHal5ma) | [Pepujaning Ati](https://open.spotify.com/album/7Gy2waMtq4S0glNCGQWNBh) | 5:14 |
 | 12 | [Koyo Jogja Istimewa \- From "Cidro Asmoro"](https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr) | 4:29 |

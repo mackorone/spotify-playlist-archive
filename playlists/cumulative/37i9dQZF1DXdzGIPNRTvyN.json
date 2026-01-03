@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Innstreymi",
+        "url": "https://open.spotify.com/album/6jsVkd1nsfFmQNe44KmCK9"
+      },
+      "artists": [
+        {
+          "name": "Arnkatla",
+          "url": "https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Innstreymi",
+      "url": "https://open.spotify.com/track/0W2alSnYcL442CPRsGDpgz"
+    },
+    {
+      "album": {
         "name": "Insirium",
         "url": "https://open.spotify.com/album/1gPruQqi2RQqUDKp6y5LCH"
       },
@@ -5590,7 +5608,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 154134,
       "name": "Silver Stream",
       "url": "https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc"

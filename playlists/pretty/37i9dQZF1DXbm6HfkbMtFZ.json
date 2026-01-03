@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 832231,
+  "num_followers": 832340,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me (feat. De La Soul)",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me (feat. De La Soul)",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235870,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235870,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Thrill Seekers",
-        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
-      },
-      "artists": [
-        {
-          "name": "Petite League",
-          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
-        }
-      ],
-      "duration_ms": 170075,
-      "name": "Pantone Karaoke",
-      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "Telling The Truth",
         "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 222213,
       "name": "Nantucket Island",
       "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Thrill Seekers",
+        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "Pantone Karaoke",
+      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
+        "name": "Tomorrow Again",
+        "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
+      },
+      "artists": [
+        {
+          "name": "Saint Saviour",
+          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
+        },
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Rock Pools",
+      "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
-        "name": "Tomorrow Again",
-        "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
-      },
-      "artists": [
-        {
-          "name": "Saint Saviour",
-          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
-        },
-        {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Rock Pools",
-      "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+      },
+      "artists": [
+        {
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
         "name": "Little Push",
         "url": "https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 185187,
       "name": "Little Push",
       "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
-      },
-      "artists": [
-        {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 190964,
-      "name": "Next to Normal",
-      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
-    },
-    {
-      "added_at": "2025-12-31 18:37:08",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 210240,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+    },
+    {
+      "added_at": "2025-12-31 18:37:08",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
     },
     {
       "added_at": "2025-12-31 18:37:08",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2025-12-31 18:37:08",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE"
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or"
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
     },
     {
       "added_at": "2025-12-31 18:37:08",

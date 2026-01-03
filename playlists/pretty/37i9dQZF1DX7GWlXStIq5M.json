@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS",
-  "num_followers": 365656,
+  "num_followers": 365628,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "FEL\u00cdDIA",
-        "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
-      },
-      "artists": [
-        {
-          "name": "GIANA",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 179874,
-      "name": "Gata Anos 2000",
-      "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "FEL\u00cdDIA",
+        "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 179874,
+      "name": "Gata Anos 2000",
+      "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -207,38 +207,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "AFF",
-        "url": "https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 146789,
-      "name": "AFF",
-      "url": "https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -259,6 +227,38 @@
       "duration_ms": 201230,
       "name": "DISK NAMORADA",
       "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "AFF",
+        "url": "https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 146789,
+      "name": "AFF",
+      "url": "https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Falo Demais",
         "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 171951,
       "name": "Falo Demais",
       "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Eu Fim, Voc\u00ea In\u00edcio",
-        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 200735,
-      "name": "Eu Fim, Voc\u00ea In\u00edcio",
-      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Vis\u00f5es",
         "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 159117,
       "name": "Vis\u00f5es",
       "url": "https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Eu Fim, Voc\u00ea In\u00edcio",
+        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 200735,
+      "name": "Eu Fim, Voc\u00ea In\u00edcio",
+      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
     },
     {
       "added_at": "2025-12-19 03:00:23",

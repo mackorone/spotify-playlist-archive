@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Sabrina Carpenter  and more!
 
-12,146 songs - 28 day 5 hr 59 min
+12,147 songs - 28 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [Beautiful Mess \- NV](https://open.spotify.com/track/3eoiGKNjN25R7O4UYTmeAv) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess \- NV](https://open.spotify.com/album/0OkNw35Vv1Qy6lpnnyVr3r) | 3:22 | 2024-10-03 | 2024-10-11 |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-08 | 2024-08-16 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 | 2025-03-14 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-01 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-01-19 |
 | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 | 2025-01-30 | 2025-02-07 |
 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-24 | 2025-08-01 |

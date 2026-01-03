@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 283 likes - 57 songs - 3 hr 33 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 284 likes - 58 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 55 | [Summertime \(2025\)](https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 4:33 |
 | 56 | [Sometimes](https://open.spotify.com/track/5U1VJztDR0Dj59N0DIMe2x) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Sometimes](https://open.spotify.com/album/78Vn2njYDYqLAKl7LWAMKC) | 3:37 |
 | 57 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 |
+| 58 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 |
 
-Snapshot ID: `AAAA81t1aOPPZCrRamshxEXt+ceuOzUE`
+Snapshot ID: `AAAA9BP3eUKNWfr53fCrOFZWXyZ3Z7v0`

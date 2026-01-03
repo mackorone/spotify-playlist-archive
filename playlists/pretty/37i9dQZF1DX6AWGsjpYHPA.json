@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 184244,
+  "num_followers": 184299,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Slick",
+        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "Intimate Friends",
+      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -447,34 +463,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
         }
       ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "Intimate Friends",
-      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
       "artists": [
         {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 275719,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Time Is Slipping Away",
         "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 345400,
       "name": "The Sweetest Pain",
       "url": "https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 275719,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
-      },
-      "artists": [
-        {
-          "name": "Hugo Massien",
-          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
-        }
-      ],
-      "duration_ms": 373666,
-      "name": "God Knows We Tried",
-      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 415706,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
+      },
+      "artists": [
+        {
+          "name": "Hugo Massien",
+          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
+        }
+      ],
+      "duration_ms": 373666,
+      "name": "God Knows We Tried",
+      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
     },
     {
       "added_at": "2025-06-06 04:00:14",

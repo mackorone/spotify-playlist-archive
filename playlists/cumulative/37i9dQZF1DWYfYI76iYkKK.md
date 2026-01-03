@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-588 songs - 1 day 14 hr 21 min
+589 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,6 @@
 | [The Joy Of Sorrow](https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy Of Sorrow](https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9) | 3:27 | 2022-07-28 | 2023-04-25 |
 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 | 2024-11-27 |
 | [Tonight](https://open.spotify.com/track/3BICx8lcXhtncZF2opKtLt) | [Mirasole 亭安](https://open.spotify.com/artist/4bEy0ystPD4oD5n668cGVJ) | [Tonight](https://open.spotify.com/album/2syuZPWyjEr6CcLC1iIjvF) | 4:18 | 2025-10-23 | 2025-10-31 |
-| [Track 4](https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [TTYL](https://open.spotify.com/track/6ZNCCEHyU70fSeWZJtp1Ok) | [史斯宇](https://open.spotify.com/artist/5KFPBuZ5A3eHa3PHZVD2cx) | [柔韌有餘 Gentle Armor](https://open.spotify.com/album/5B8QQIdDrP7ehoM0KIFULd) | 4:35 | 2025-01-09 | 2025-01-17 |
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 | 2022-12-02 |
@@ -116,6 +115,7 @@
 | [不屬於](https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [不屬於](https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf) | 4:01 | 2025-07-31 | 2025-10-02 |
 | [不想愛人的原因](https://open.spotify.com/track/77w7VXa6AFbfB3cjL37D1C) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [不想愛人的原因](https://open.spotify.com/album/5vytIZJ4l6doUFJ7V2irfM) | 3:57 | 2023-09-07 | 2023-09-22 |
 | [不懂絕望](https://open.spotify.com/track/1RLSpChhEUOWkPKRvWt9oY) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5) | [MAMAK](https://open.spotify.com/album/7J5hXDwdHTzIycAm38yZ65) | 4:09 | 2023-11-09 | 2023-11-24 |
+| [不是你想像的那種好人](https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [a piece of peace](https://open.spotify.com/album/0cbtcUKQDGyd1zNWJo4CuY) | 4:00 | 2026-01-01 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 | 2024-04-19 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/7KAhj1obJrK5Avezca7YVL) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/4q7WSRlVNR02cyiCrCj2bo) | 4:00 | 2022-06-02 | 2022-07-29 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/7xBe5EKRxZk4icCZw91SMM) | 3:41 | 2022-06-02 | 2022-07-29 |
@@ -197,6 +197,7 @@
 | [只要你願意回頭我都在](https://open.spotify.com/track/2VKOms1UfMdaq7bwT9FTeq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [Zoma](https://open.spotify.com/artist/27ScV4GsE5DatNFzTNz9Y2) | [只要你願意回頭我都在](https://open.spotify.com/album/2Pk1W00itfJOMlngFxBrKx) | 3:35 | 2024-02-02 | 2024-02-09 |
 | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/track/61wIEHBhxCURz08r0E4pzg) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/album/3JDLRMAREurKUXxHpdeDw1) | 4:35 | 2022-07-21 | 2022-07-27 |
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
+| [可是你已經夠好了](https://open.spotify.com/track/3kbg9W00SVKWTuKxqKg5Wy) | [童心Valentina](https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1) | [可是你已經夠好了](https://open.spotify.com/album/1UHvGUwavNgTiqm31ZgsZI) | 3:37 | 2026-01-01 |  |
 | [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 | 2022-10-06 | 2024-06-06 |
 | [同舟（影視劇《反詐·獵蜂者》主題曲）](https://open.spotify.com/track/0T20akOc1TlckPOLbBzcRG) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [《反詐·獵蜂者》影視原聲帶](https://open.spotify.com/album/648nR97COEUu4Aa9zHXKMG) | 4:00 | 2025-08-14 | 2025-09-26 |
 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 | 2025-07-31 |  |

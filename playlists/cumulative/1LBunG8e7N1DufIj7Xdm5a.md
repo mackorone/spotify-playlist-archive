@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,793 songs - 8 day 9 hr 21 min
+3,796 songs - 8 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Catch the Beat \(another\)](https://open.spotify.com/track/5SEWvkw0I2xRTtBNiargF4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Swing Modern Music](https://open.spotify.com/album/68kCqjqSu6mUcKp8ZqOJYH) | 1:55 | 2025-09-18 |  |
 | [Catch the Fever](https://open.spotify.com/track/1ENI9GPwUGD95y1bmMvuup) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Songs](https://open.spotify.com/album/05FrEwmYYgu2IwnICoZLiB) | 3:14 | 2025-09-17 |  |
 | [Catch the Fever \(another\)](https://open.spotify.com/track/4Jf7ipa6ML1ymHykbdhmyN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Songs](https://open.spotify.com/album/05FrEwmYYgu2IwnICoZLiB) | 3:28 | 2025-09-17 |  |
+| [Catching Matches](https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Catching Matches](https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ) | 3:28 | 2026-01-02 |  |
 | [Cavalli E Cavalle](https://open.spotify.com/track/3WoAUoAJGU0nYeei3jfL9I) | [PGR Per Grazia Ricevuta](https://open.spotify.com/artist/2Y3CBpoxTeB5zE5qHfZUda) | [ConFusione \(9 Canzoni Disidratate Da Franco Battiato\)](https://open.spotify.com/album/6XBL0mC21x2u8V43aXTqbH) | 3:52 | 2025-11-12 |  |
 | [Cavan Cola](https://open.spotify.com/track/77vaWJVSJL6aANzh08lp31) | [Sons of Southern Ulster](https://open.spotify.com/artist/163H9BzUOjxSpO4ID6l6lM) | [Foundry Folk Songs](https://open.spotify.com/album/5AVfboJoZrrXZJelKoQA0F) | 3:03 | 2025-11-05 |  |
 | [Cavedio d'amore \- Unplugged](https://open.spotify.com/track/1HUrIaLK2FQ6BPzA1aKi4V) | [Dario Corso](https://open.spotify.com/artist/2UKPaa2TFpjhsquHhmT4wS) | [Cavedio d'amore \(Unplugged\)](https://open.spotify.com/album/4e7edatUr3QcTYq1BWPoGj) | 2:35 | 2025-05-27 |  |
@@ -835,6 +836,7 @@
 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 | 2025-04-09 |  |
 | [DIE YOUNG](https://open.spotify.com/track/16FOHUVpQYdKeWQsqaeNgY) | [EVLTEC](https://open.spotify.com/artist/1Ourv2T5MuybpVOslAxuyC), [Nadir Nineteen](https://open.spotify.com/artist/27Wy032goVRoygKrZ1YzxB) | [DIE YOUNG](https://open.spotify.com/album/7kUdl6957WxiX6gpDcigHj) | 2:13 | 2025-03-03 |  |
 | [Dietro ad un sorriso](https://open.spotify.com/track/2gQGOdCjUtHWvyevPKiBjv) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:30 | 2025-06-06 |  |
+| [Different dimension](https://open.spotify.com/track/2KKRxIJvYd2vPgKo0XUjtE) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Different dimension](https://open.spotify.com/album/27bu2Ejndm5xxkEhQzsWjI) | 2:33 | 2026-01-02 |  |
 | [Digi Dreams](https://open.spotify.com/track/2SvC64kuZhfUfx8StO8lCb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 2:55 | 2025-05-27 |  |
 | [Digi Dreams \(another\)](https://open.spotify.com/track/2BRVaOSJIP1vTqy2httlqV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 3:13 | 2025-09-17 |  |
 | [Digital](https://open.spotify.com/track/2VAEGgOpWh4HzFAIlr3xIA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 4:00 | 2025-05-31 |  |
@@ -2169,6 +2171,7 @@
 | [My world](https://open.spotify.com/track/1E6cj2wwvxYsdDarhPRRee) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [My World](https://open.spotify.com/album/5bnuWFTsZu4pHE3DYlSDAA) | 2:45 | 2025-03-10 |  |
 | [Mystery Steps](https://open.spotify.com/track/16CIR4WeVYaniceuYk5hra) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Electra Vortex](https://open.spotify.com/album/6chz9aZrb360hj7GVU9DUd) | 8:16 | 2025-06-04 |  |
 | [Mystic Nights](https://open.spotify.com/track/2bkvZ7oVqFTMcbycjepu4Z) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 2:59 | 2025-09-18 |  |
+| [Mystic Nights](https://open.spotify.com/track/7fYozI27b4N7RSwA54e2BR) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Mystic Nights](https://open.spotify.com/album/16JBSSVfEExxNIlgnQS6QK) | 3:06 | 2026-01-02 |  |
 | [Mystic Nights \(another\)](https://open.spotify.com/track/2pknSqyoaXY2f4vDfIIT3w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 2:39 | 2025-09-18 |  |
 | [Mystic Tides](https://open.spotify.com/track/4GvyNCIzXlrT7SU5A1Yfnf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:23 | 2025-07-16 |  |
 | [Mystic Tides \(another\)](https://open.spotify.com/track/10hGgsOhWgpNycFjIWdAmW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:41 | 2025-09-19 |  |

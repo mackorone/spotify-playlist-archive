@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Dina Ögon.
 
-1,068 songs - 2 day 13 hr 44 min
+1,068 songs - 2 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 | 2024-09-12 | 2024-11-15 |
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 | 2024-11-15 |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-20 |  |
+| [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 | 2026-01-01 |  |
 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 | 2025-04-03 | 2025-06-20 |
 | [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2025-12-18 |  |
 | [Moneydog](https://open.spotify.com/track/3NGNQfW7OPWwoB9JAF2SpE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Moneydog](https://open.spotify.com/album/25gZana38pfeiXG7T6lOmK) | 4:34 | 2024-12-19 | 2025-02-28 |
@@ -964,7 +965,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |

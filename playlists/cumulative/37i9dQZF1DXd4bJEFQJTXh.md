@@ -4,7 +4,7 @@
 
 > Saja Boys vs HUNTR/X \- your soul is the prize!
 
-241 songs - 12 hr 31 min
+242 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-08 |  |
 | [Beyond The Sea](https://open.spotify.com/track/2fjRInUmwqLhgvW9hQtbo6) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 4:26 | 2022-03-25 | 2025-01-18 |
 | [Beyond the Sea](https://open.spotify.com/track/0zaAUrSvMYrBGcLcmWKcxy) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Beyond The Sea](https://open.spotify.com/album/6pXwZ3QYQOcP3mNVN1F6CB) | 4:27 | 2023-05-15 | 2024-04-19 |
+| [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-01-02 |  |
 | [Big Mouth](https://open.spotify.com/track/2IdCw3L1uesUcAOA4KqKZB) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/3BU5ehRs8JdDm2bW78tAS5) | 1:50 | 2022-03-25 | 2024-06-28 |
 | [Big Mouth](https://open.spotify.com/track/4kBcn9KBpSpq4eTqNFfK9i) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 1:50 | 2022-03-25 | 2024-04-19 |
 | [Brand New Day](https://open.spotify.com/track/5mWJq6BNuI2uizWoQxllnz) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Brand New Day](https://open.spotify.com/album/5MOogZNoZVsofgmG8rla4z) | 2:39 | 2022-03-25 |  |
@@ -248,6 +249,6 @@
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 | 2022-03-25 | 2024-04-19 |
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Zero \(From the Original Motion Picture "Ralph Breaks The Internet"\)](https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq) | 3:30 | 2022-03-25 | 2022-11-14 |
 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-25 |  |
-| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-11-19 |  |
+| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-11-19 | 2026-01-03 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

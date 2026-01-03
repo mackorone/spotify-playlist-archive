@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40987,
+  "num_followers": 40997,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAAx5C65nQ3Rz04Vl1NPHppj",
+  "snapshot_id": "aVW5AAAAAAB25qh9pPUuyw2eJ8i7+hw4",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Como Eu Te Quero",
+      "url": "https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abaixo de Zero: Hello Hell",
+        "url": "https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Carta Pra Amy",
+      "url": "https://open.spotify.com/track/6zrAWJ9BF9pAkd1IjjCtSh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.O.N.E (Caminhando Onde Ningu\u00e9m Enxerga)",
         "url": "https://open.spotify.com/album/31ygMemgMdsW4I7HmxzoaG"
       },
@@ -99,38 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abaixo de Zero: Hello Hell",
-        "url": "https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Carta Pra Amy",
-      "url": "https://open.spotify.com/track/6zrAWJ9BF9pAkd1IjjCtSh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Como Eu Te Quero",
-      "url": "https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Final de Semana",
         "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
       },
@@ -155,26 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 178948,
-      "name": "TOCA NO MORRO E NA PISTA",
-      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": null,
@@ -195,18 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
       "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+      "duration_ms": 178948,
+      "name": "TOCA NO MORRO E NA PISTA",
+      "url": "https://open.spotify.com/track/67aY8ERS9wBSo8HmugaOsp"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 237746,
+      "name": "Mister Niter\u00f3i",
+      "url": "https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 237746,
-      "name": "Mister Niter\u00f3i",
-      "url": "https://open.spotify.com/track/6eQjwvQmfY4vBs4c9IKiuW"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
+      "duration_ms": 268146,
+      "name": "Na Segunda Vinda",
+      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 268146,
-      "name": "Na Segunda Vinda",
-      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
     },
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+      "duration_ms": 180160,
+      "name": "Caminhos do Destino",
+      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
       "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 180160,
-      "name": "Caminhos do Destino",
-      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
       "duration_ms": 244239,
       "name": "Falando do Meu Bem",
       "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Per\u00edcia Na Del\u00edcia",
+      "url": "https://open.spotify.com/track/1ToSJIoW4JyI6qHrurcNQP"
     },
     {
       "added_at": null,
@@ -459,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Per\u00edcia Na Del\u00edcia",
-      "url": "https://open.spotify.com/track/1ToSJIoW4JyI6qHrurcNQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 220709,
       "name": "ZEROVINTEUM - Ao Vivo",
       "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -595,6 +579,26 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Somos o Mundo",
+      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
     },
     {
       "added_at": null,
@@ -643,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Somos o Mundo",
-      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00c3O VAMOS DESISTIR",
         "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 245920,
       "name": "N\u00c3O VAMOS DESISTIR",
       "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangue de Free",
         "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 210959,
       "name": "Sangue de Free",
       "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,

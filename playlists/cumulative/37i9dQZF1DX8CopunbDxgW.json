@@ -3840,6 +3840,24 @@
     {
       "album": {
         "name": "Better",
+        "url": "https://open.spotify.com/album/7aXyqdNlaSsdpxzmzIAkcj"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309302,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/02pnMOuhlDIhb89haEyorN"
+    },
+    {
+      "album": {
+        "name": "Better",
         "url": "https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX"
       },
       "artists": [
@@ -9822,6 +9840,28 @@
       "duration_ms": 231616,
       "name": "Don't Wait (feat. Yahtzel)",
       "url": "https://open.spotify.com/track/2oWfyTJMRjOK38Repljm2S"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/3epA9IPG0ZupK7xVBGK5dE"
+      },
+      "artists": [
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+        },
+        {
+          "name": "Mike Mago",
+          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151068,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/36npbjNjaozTvCR9LdbOz2"
     },
     {
       "album": {
@@ -36214,7 +36254,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 399360,
       "name": "The Choice - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/3aL5D0PiRJlAU5uZGt9Eic"
@@ -37138,7 +37178,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 266493,
       "name": "Theme For Z",
       "url": "https://open.spotify.com/track/5sYq6gWpaSGQ1DjScmxR7u"

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 320660,
+  "num_followers": 320658,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Welcome To Hell (feat. Emmure)",
         "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Camel Dancefloor",
         "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 214775,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 214775,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
     },
     {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
       "added_at": "2024-07-19 13:56:32",
       "album": {
         "name": "Bloom",
@@ -1287,6 +1271,22 @@
       "duration_ms": 228583,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Breaks",
-        "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
-      },
-      "artists": [
-        {
-          "name": "Gone Is Gone",
-          "url": "https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg"
-        }
-      ],
-      "duration_ms": 235214,
-      "name": "Breaks",
-      "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 269265,
       "name": "Power",
       "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Breaks",
+        "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
+      },
+      "artists": [
+        {
+          "name": "Gone Is Gone",
+          "url": "https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg"
+        }
+      ],
+      "duration_ms": 235214,
+      "name": "Breaks",
+      "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
-      },
-      "artists": [
-        {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
-        }
-      ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Light and Darkness",
         "url": "https://open.spotify.com/album/780e6IocGd5aaLIdnF980y"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/5kyZcZxcgdQwjG9Uhn93Bj"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "EUGH!",
+        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
+      },
+      "artists": [
+        {
+          "name": "SPIIRAL",
+          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
+        }
+      ],
+      "duration_ms": 82926,
+      "name": "EUGH!",
+      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB"
-      },
-      "artists": [
-        {
-          "name": "Culted",
-          "url": "https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F"
-        }
-      ],
-      "duration_ms": 298991,
-      "name": "Lifers",
-      "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "The Triumphal Chariot of Antimony",
         "url": "https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 339053,
       "name": "The Triumphal Chariot of Antimony",
       "url": "https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB"
+      },
+      "artists": [
+        {
+          "name": "Culted",
+          "url": "https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F"
+        }
+      ],
+      "duration_ms": 298991,
+      "name": "Lifers",
+      "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
     },
     {
       "added_at": "2024-07-19 10:51:43",

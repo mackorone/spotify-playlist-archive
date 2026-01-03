@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167277,
+  "num_followers": 167270,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Last Chance to Win",
-        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 151728,
-      "name": "I Almost Told Her",
-      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Last Chance to Win",
+        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 151728,
+      "name": "I Almost Told Her",
+      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256877,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Smoky Mountain DNA: Family, Faith and Fables",
         "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179389,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 256877,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Ain't No Sin",
-        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Ain't No Sin",
-      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Skating on the Harbourfront",
         "url": "https://open.spotify.com/album/0HJBSbUJHtaU1GAOCUYW9s"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 166975,
       "name": "Skating on the Harbourfront",
       "url": "https://open.spotify.com/track/5Brkc4oQQebavOBIaNMTXS"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Ain't No Sin",
+        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ain't No Sin",
+      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Hang Around for the Heartbreak",
         "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 171055,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Looking Past the Pain (The Cowboy Song)",
-        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 237905,
-      "name": "Looking Past the Pain (The Cowboy Song)",
-      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+        "name": "Lifetime To Go",
+        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
         }
       ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+      "duration_ms": 259534,
+      "name": "Lifetime to Go",
+      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
     }
   ],
   "unique_name": "Grass Roots",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,703 songs - 4 day 7 hr 10 min
+1,705 songs - 4 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Hot Top Pick](https://open.spotify.com/track/0T1L1x6ZwHMr0bP3Vtdu85) | [Hello Shello](https://open.spotify.com/artist/7Eg1zSQ6rFxL8nmRHoKldR), [EllySupreme](https://open.spotify.com/artist/0topBrsHa073uHFdyqvRJd) | [Hot Top Pick](https://open.spotify.com/album/70joadd9G8ddQ7P3ljJ2l8) | 4:06 | 2025-10-07 |  |
 | [How Many Times](https://open.spotify.com/track/4Qo18boB7KWoKbt44RuZsW) | [Some Kyle](https://open.spotify.com/artist/5vuWRkuiuTHFeUBRyw8lCS) | [How Many Times](https://open.spotify.com/album/2Jh5liZAXhjj1t8Ak28gmm) | 3:51 | 2025-10-21 |  |
 | [How's Your Mom Doing?](https://open.spotify.com/track/23vzWwZSWjCHWJT6JBRFWt) | [Timothy Martini](https://open.spotify.com/artist/3HI3gZDtJ1EpDp3z9g7taU) | [How's Your Mom Doing?](https://open.spotify.com/album/0b9B1Ex9yH8ipBEXrfBWBv) | 4:20 | 2025-08-12 |  |
+| [Howling at the Moon](https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Howling at the Moon](https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs) | 4:12 | 2026-01-02 |  |
 | [Humble Lion](https://open.spotify.com/track/6tNfaOmlIRS883YMh31X9c) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 6:39 | 2024-05-01 |  |
 | [Humo](https://open.spotify.com/track/0i6gOreYdFC33MZyCEi8Td) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo](https://open.spotify.com/album/3Xn8L2YufyPCYxxv1L8Xwy) | 3:02 | 2025-12-07 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2023-03-15 |  |
@@ -939,6 +940,7 @@
 | [Mi Otra Mitad](https://open.spotify.com/track/2coAMdbQvb6xgeUBSAvVUA) | [Fernando Rodriguez](https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs) | [Mi Otra Mitad](https://open.spotify.com/album/358cTZXI515nink2UKDkpX) | 2:37 | 2025-09-20 |  |
 | [Mi Piaci](https://open.spotify.com/track/3zSlNcv2dBJRtGXAHs2WZI) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Mi Piaci](https://open.spotify.com/album/7mnsDOmktahrGHryyMkG5Y) | 3:23 | 2025-02-28 |  |
 | [Mia cara](https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:23 | 2022-08-16 |  |
+| [Miel](https://open.spotify.com/track/0woqLoAOOZc6YauijRcMN9) | [Compass](https://open.spotify.com/artist/7AVshRAO9zcYZH05T2WNCg) | [Miel](https://open.spotify.com/album/3tQtt41sROzZhAxfHOeJAD) | 4:56 | 2026-01-02 |  |
 | [Miele](https://open.spotify.com/track/7cdXoOa0776c7rAvakp1fZ) | [NeroVivo](https://open.spotify.com/artist/0op0Ux45RUDErA0Fi00qew) | [Miele](https://open.spotify.com/album/06FOn7MtByN77ZG4PbXQII) | 3:52 | 2025-08-14 |  |
 | [Mil historias](https://open.spotify.com/track/4zrvkZ2lWDtkE2eptSMTNa) | [Carmen Medina](https://open.spotify.com/artist/6ZLUv9UIr1MenBK4LPGIee) | [Mil historias](https://open.spotify.com/album/77n6l3YxN57Dj9LfNuxfAU) | 2:55 | 2025-10-26 |  |
 | [Minds Eye Dub](https://open.spotify.com/track/3mjVDhtVAT5UKwxFS3Vd2F) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:36 | 2024-03-25 |  |

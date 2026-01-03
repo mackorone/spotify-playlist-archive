@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
@@ -6072,7 +6072,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw"
@@ -16308,7 +16308,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 266280,
       "name": "\u0e02\u0e35\u0e49\u0e2b\u0e36\u0e07",
       "url": "https://open.spotify.com/track/1nmdJTwB575vxvNm6PdXHq"
@@ -16820,7 +16820,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 266750,
       "name": "\u0e04\u0e34\u0e14(\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48)\u0e16\u0e36\u0e07 (Same Page?)",
       "url": "https://open.spotify.com/track/6zZsio19rHayse0WDDLboq"
@@ -19924,7 +19924,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -21305,6 +21305,28 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ"
+      },
+      "artists": [
+        {
+          "name": "Season Five",
+          "url": "https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H"
+        },
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (repeat)",
         "url": "https://open.spotify.com/album/1cXnOf7dMtpsiGzvDjREAq"
       },
@@ -21432,7 +21454,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 283079,
       "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
       "url": "https://open.spotify.com/track/1QbP49w60Db4mrhYbsQ8bg"
@@ -22368,7 +22390,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 246973,
       "name": "\u0e40\u0e25\u0e48\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e39\u0e07",
       "url": "https://open.spotify.com/track/5ILPWem0xm3v85WeXqrTKP"

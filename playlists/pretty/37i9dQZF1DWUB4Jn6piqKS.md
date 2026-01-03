@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,920 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,933 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 69 | [You Don't Know Where Your Interest Lies \- Single Version](https://open.spotify.com/track/7aTc1LlMPysvBW3XOotQEt) | [Dana Valery](https://open.spotify.com/artist/3yck88MVltjEcA4CAO4dra) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:13 |
 | 70 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
 | 71 | [Too Late](https://open.spotify.com/track/7F7iU4t2IGL5VrmVOASbpW) | [Larry Williams & Johnny Watson](https://open.spotify.com/artist/20HVf2j1u1qObPT1ZZERcl) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:20 |
-| 72 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
-| 73 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
+| 72 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
+| 73 | [My Love Is Getting Stronger](https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:51 |
 | 74 | [I Surrender](https://open.spotify.com/track/4vwwhYgJU23tJPrBZiKL6U) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:05 |
 | 75 | [Something New to Do](https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV) | [Bobby Sheen](https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:33 |
 | 76 | [Soul Meeting](https://open.spotify.com/track/4n46NRBjkQizu6j5gGDw7x) | [Soul Clan](https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK) | [Soul Clan](https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy) | 3:27 |
 | 77 | [Let Love Come Between Us](https://open.spotify.com/track/6b1ZEXdMikajKUfrLzgOwj) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [The Pure Sound Of The Purifys](https://open.spotify.com/album/5kb8JoUSVy5itxArhE7kD3) | 2:27 |
-| 78 | [Skiing in the Snow](https://open.spotify.com/track/0MGUfjPDUqMUJBhfWGQhHx) | [The Invitations](https://open.spotify.com/artist/32vBCJI7CQEKdZPmUgAJQB) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
-| 79 | [I'm In a World of Trouble \- Single Version](https://open.spotify.com/track/2odfCOYhjN8mo75tUclkrO) | [The Sweet Things](https://open.spotify.com/artist/604AUHQHCsMb50eBHNvwe1) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:34 |
+| 78 | [I'm In a World of Trouble \- Single Version](https://open.spotify.com/track/2odfCOYhjN8mo75tUclkrO) | [The Sweet Things](https://open.spotify.com/artist/604AUHQHCsMb50eBHNvwe1) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:34 |
+| 79 | [Skiing in the Snow](https://open.spotify.com/track/0MGUfjPDUqMUJBhfWGQhHx) | [The Invitations](https://open.spotify.com/artist/32vBCJI7CQEKdZPmUgAJQB) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
 | 80 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
 | 81 | [Gonna Get Along Without You Now \- Single Version](https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [New Vibrations](https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh) | 2:07 |
 | 82 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |

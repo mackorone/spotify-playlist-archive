@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 261 likes - 3,830 songs - 8 day 11 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 262 likes - 3,833 songs - 8 day 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3838,5 +3838,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3828 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 |
 | 3829 | [Button](https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Alive And Well](https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V) | 3:15 |
 | 3830 | [Somewhere Unknown](https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Somewhere Unknown](https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9) | 3:01 |
+| 3831 | [Different dimension](https://open.spotify.com/track/2KKRxIJvYd2vPgKo0XUjtE) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Different dimension](https://open.spotify.com/album/27bu2Ejndm5xxkEhQzsWjI) | 2:33 |
+| 3832 | [Mystic Nights](https://open.spotify.com/track/7fYozI27b4N7RSwA54e2BR) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Mystic Nights](https://open.spotify.com/album/16JBSSVfEExxNIlgnQS6QK) | 3:06 |
+| 3833 | [Catching Matches](https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Catching Matches](https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ) | 3:28 |
 
-Snapshot ID: `AAAGhce7+UwxfHcLNmKfNq1gjqMq9lUH`
+Snapshot ID: `AAAGiNdbuaYwtSjemJbmwxQ252+wVfKj`

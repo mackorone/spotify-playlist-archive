@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05G4EKYbiXi.md) - [plain]
 
 > Your favorite Eurovision songs, like you've never heard before.<br/>Cover: BABIE LATO, Loreen, Nemo, ENNIO and Marina Satti
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,777 likes - 10 songs - 28 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 10 songs - 28 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

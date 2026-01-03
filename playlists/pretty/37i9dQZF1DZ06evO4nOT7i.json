@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 382485,
+  "num_followers": 382481,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAAVDMTxhQ+Vk4UZ4lHYduzb",
+  "snapshot_id": "aVW5AAAAAACu18rUI06cjE/OHwwuM4i/",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,25 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 107170,
-      "name": "Rex (Intro)",
-      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
+      "duration_ms": 259734,
+      "name": "Belly (The Grass Stains)",
+      "url": "https://open.spotify.com/track/4tVJ827zOdHHv3vIharAOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 259734,
-      "name": "Belly (The Grass Stains)",
-      "url": "https://open.spotify.com/track/4tVJ827zOdHHv3vIharAOQ"
+      "duration_ms": 107170,
+      "name": "Rex (Intro)",
+      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
     },
     {
       "added_at": null,

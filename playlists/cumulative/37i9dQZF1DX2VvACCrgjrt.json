@@ -3237,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/61pX8HxPi9OleVRgi2W0Cu"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174755,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/1ZgUkVgUcgzAyzMjtErXGE"
+    },
+    {
+      "album": {
         "name": "Bored Ape Rave Club",
         "url": "https://open.spotify.com/album/5fNa1rYMfbMkAbZn9sv1cm"
       },
@@ -9363,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/40VpDGfBH04QMJI9jSU3Mb"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "ANSWER (CN)",
+          "url": "https://open.spotify.com/artist/15bEUD9D3zRtYSVk0Y5ePW"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224179,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/33S857xw5q9fPkepdtKXtN"
+    },
+    {
+      "album": {
         "name": "Give It",
         "url": "https://open.spotify.com/album/41bkZGn9xpTqunwJOIA2oh"
       },
@@ -12994,7 +13038,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 186461,
       "name": "License To Be Bad",
       "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
@@ -17130,7 +17174,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 181153,
       "name": "Pale In Comparison - Don Diablo Edit",
       "url": "https://open.spotify.com/track/379ytOqHp89UDZbjGjTRor"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Ozuna y Be\u00e9le en portada",
+  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Rawayana en portada",
   "name": "Flow Tranqui",
   "tracks": [
     {
@@ -3083,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "SPERA",
+        "url": "https://open.spotify.com/album/6P5OVXiedgNLBmLeLymlZ6"
+      },
+      "artists": [
+        {
+          "name": "Mike Castillo",
+          "url": "https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "DESVELADA",
+      "url": "https://open.spotify.com/track/5EoRNoOwUrvQ4U2XOR9fvw"
+    },
+    {
+      "album": {
         "name": "DICIEMBRE",
         "url": "https://open.spotify.com/album/3HV3chanuZQZ302jOq7C4x"
       },
@@ -4214,7 +4232,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 193426,
       "name": "Grande",
       "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
@@ -4688,7 +4706,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 205013,
       "name": "IDIOTA",
       "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
@@ -4776,6 +4794,28 @@
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Ingl\u00e9s En Miami",
+      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
     },
     {
       "album": {
@@ -6904,7 +6944,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 157682,
       "name": "MORENA",
       "url": "https://open.spotify.com/track/4PYWWJqLEF5T5lwvcfbsDy"
@@ -9136,7 +9176,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 174626,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/5qQtwtKAu9tHfJUTr4yJC0"
@@ -9348,7 +9388,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 179354,
       "name": "Roulin",
       "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
@@ -11662,6 +11702,24 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "Ya No Lloro Por Ti",
+        "url": "https://open.spotify.com/album/0j9SxmdZ6B28PNTbvBwdF2"
+      },
+      "artists": [
+        {
+          "name": "La Quinna",
+          "url": "https://open.spotify.com/artist/7LGuLcZGN3C0UCqg1vuDb5"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Ya No Lloro Por Ti",
+      "url": "https://open.spotify.com/track/38zjErQuN1wDu1V6GtuG3H"
     },
     {
       "album": {

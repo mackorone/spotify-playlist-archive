@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1468863,
+  "num_followers": 1469108,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Push The Feeling On",
         "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
-      },
-      "artists": [
-        {
-          "name": "No Mercy",
-          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
+      },
+      "artists": [
+        {
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Omen - The Story Continues",
-        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
-      },
-      "artists": [
-        {
-          "name": "Magic Affair",
-          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Omen III - Single Edit",
-      "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 226533,
       "name": "Sandstorm - Radio Edit",
       "url": "https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Omen - The Story Continues",
+        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
+      },
+      "artists": [
+        {
+          "name": "Magic Affair",
+          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Omen III - Single Edit",
+      "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
-      },
-      "artists": [
-        {
-          "name": "Mark 'Oh",
-          "url": "https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "United - Short Mix",
-      "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Captain Jack",
         "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 215066,
       "name": "I Give You My Heart",
       "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
+      },
+      "artists": [
+        {
+          "name": "Mark 'Oh",
+          "url": "https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "United - Short Mix",
+      "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ"
-      },
-      "artists": [
-        {
-          "name": "U96",
-          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Life In The Streets",
         "url": "https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 238200,
       "name": "Happy People (feat. Marky Mark)",
       "url": "https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Don\u2019t Stop Movin\u2019",
         "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 319866,
       "name": "Don't Stop Movin'",
       "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi"
     },
     {
       "added_at": "2024-07-15 19:54:53",

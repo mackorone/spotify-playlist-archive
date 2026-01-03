@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 82563,
+  "num_followers": 82597,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABg6yrF5vbEuOLSC+c5ZDDx",
+  "snapshot_id": "aVW5AAAAAADXxTx+y12axhe/pIebdbjS",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUSEXUA Afterglow",
-        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Wild And Alone (feat. PinkPantheress)",
-      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 176930,
       "name": "Picture in My Mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Wild And Alone (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
+      "duration_ms": 136573,
+      "name": "True romance",
+      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 136573,
-      "name": "True romance",
-      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
+      "duration_ms": 181280,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
     },
     {
       "added_at": null,

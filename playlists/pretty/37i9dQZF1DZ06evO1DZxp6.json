@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 239141,
+  "num_followers": 239201,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABeR8E31gFfCmucF3yYrWs8",
+  "snapshot_id": "aVW5AAAAAAAp2ghRdZvWF0MSZ014WRK6",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "El Ladr\u00f3n (with Julieta Venegas)",
+      "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 177160,
       "name": "Bien o Mal",
       "url": "https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "El Ladr\u00f3n (with Julieta Venegas)",
-      "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tristeza de la Ciudad",
         "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 164925,
       "name": "Tristeza de la Ciudad",
       "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

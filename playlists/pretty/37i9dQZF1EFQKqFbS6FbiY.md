@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 476 songs - 23 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 476 songs - 23 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,8 +299,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 289 | [Mulher que ama \- Ao vivo](https://open.spotify.com/track/0b2lytyqjzZd47t0V0Kvyj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:01 |
 | 290 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/0c0o2r5EwBTXc84J84zE5r) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:58 |
 | 291 | [Casquinha da Ferida](https://open.spotify.com/track/5tDEE0xISZ8mCKCHDdZYxg) | [Rodrigo Freitas](https://open.spotify.com/artist/3wB9jAUYvJVcOHJLda8twf) | [Mentirosa](https://open.spotify.com/album/2nBG37oTmypMFRDO59TITw) | 3:27 |
-| 292 | [Não Para de Postar \- Ao Vivo](https://open.spotify.com/track/6IDzxHn7ILvrdknlqpexEQ) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:39 |
-| 293 | [Eu Pirei \- Ao Vivo](https://open.spotify.com/track/1eoGU7A6597G7z1xlZX6N9) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6fpnoV6C7KFM5A7ZrM8gv7) | 2:33 |
+| 292 | [Eu Pirei \- Ao Vivo](https://open.spotify.com/track/1eoGU7A6597G7z1xlZX6N9) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6fpnoV6C7KFM5A7ZrM8gv7) | 2:33 |
+| 293 | [Não Para de Postar \- Ao Vivo](https://open.spotify.com/track/6IDzxHn7ILvrdknlqpexEQ) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Junto e Misturado \(Ao Vivo\)](https://open.spotify.com/album/6w5n80QFECw1l9r6pz8YRh) | 2:39 |
 | 294 | [Figo Bão](https://open.spotify.com/track/4NWe9QIk7UjS6BTAjlFZbM) | [Fernando Souza e Matheus](https://open.spotify.com/artist/2weq76M4O67H31FgYGf20v) | [Modão](https://open.spotify.com/album/3pVSqLrf4ARCCvFNDKCiJI) | 3:01 |
 | 295 | [Ladra de Sonhos \- Ao Vivo](https://open.spotify.com/track/217uGYqLm5iEX4sLaqPaCX) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 3:13 |
 | 296 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 |
@@ -485,4 +485,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 475 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 476 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcF0UAAAAAAWEg+WyVVFj31LZHzJtRpt`
+Snapshot ID: `AcF58AAAAAALSCLQLxdRa8O0nQRO8oNG`

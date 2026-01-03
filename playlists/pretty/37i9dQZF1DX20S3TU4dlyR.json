@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 71602,
+  "num_followers": 71629,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Oyelo",
+      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Oyelo",
-      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 248093,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "The Lady in Red",
         "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 225703,
       "name": "The Lady in Red",
       "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Fiesta de Zombis",
-        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 254328,
-      "name": "Fiesta de zombis",
-      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "Aguas Frescas De Jamaica",
         "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 178953,
       "name": "Si no Regreso",
       "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Fiesta de Zombis",
+        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Fiesta de zombis",
+      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "S\u00ed Ser\u00e1s",
         "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1339,48 +1339,24 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Se va la luna",
-        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
         }
       ],
-      "duration_ms": 181889,
-      "name": "Se va la luna",
-      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Te Prefiero",
-        "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Te Prefiero",
-      "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
       "artists": [
         {
@@ -1388,25 +1364,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Torito",
-        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Torito",
-      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1431,34 +1391,18 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+        "name": "Torito",
+        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
       },
       "artists": [
         {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Momento Tiempo",
-        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
-      },
-      "artists": [
-        {
-          "name": "Delfines de Etiopia",
-          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "De Tanto Caminar",
-      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
+      "duration_ms": 196000,
+      "name": "Torito",
+      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1499,6 +1443,46 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Te Prefiero",
+        "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Te Prefiero",
+      "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
+      },
+      "artists": [
+        {
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2025-11-21 03:00:36",

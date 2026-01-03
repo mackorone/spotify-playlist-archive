@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAffbhxWbxPK3WAZ5R2605Fd+UtuDpc",
+  "snapshot_id": "AAAff10mE+ECMterCk80/ffHNS7aItrX",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -7783,6 +7783,46 @@
       "duration_ms": 181197,
       "name": "Stress Off The Chest",
       "url": "https://open.spotify.com/track/3rknRtghzrvPvc175inFq3"
+    },
+    {
+      "added_at": "2026-01-02 16:30:28",
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Gold Watch",
+      "url": "https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh"
+    },
+    {
+      "added_at": "2026-01-02 17:04:15",
+      "album": {
+        "name": "Below The Heavens",
+        "url": "https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd"
+      },
+      "artists": [
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "The Narrow Path",
+      "url": "https://open.spotify.com/track/522EzHJ8ZblG3iLawNQ6S2"
     }
   ],
   "unique_name": "main ",

@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Das Boot",
+        "url": "https://open.spotify.com/album/182zfpTz3imgGrnli7vrfc"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/5A3IdgGphzKS2etiGFB73S"
+    },
+    {
+      "album": {
         "name": "Now I'm Singin'... (And the Party Keeps on Rollin')",
         "url": "https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs"
       },
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"

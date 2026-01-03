@@ -4,21 +4,18 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,564 likes - 12 songs - 39 min 35 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,564 likes - 9 songs - 33 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Astray](https://open.spotify.com/track/2lacB2rMJ5zQY58DwQuHZW) | [The Wonderers](https://open.spotify.com/artist/5tQZOy9tnPAMGZPr6WgzUL) | [Astray](https://open.spotify.com/album/4LyJ5FjXiTerGVsRUnwDR5) | 3:10 |
-| 2 | [Stack Or Starve](https://open.spotify.com/track/5IEGgUDRbLFtO9BihFmHKj) | [Freddyrobb baby](https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw) | [Stack Or Starve](https://open.spotify.com/album/6amQlclkzVGDDL0ogIUv9G) | 2:59 |
-| 3 | [what's the vibe](https://open.spotify.com/track/2qwqBxqRE8ipwGT1W34eIN) | [wilsden](https://open.spotify.com/artist/50DA02Cs1Ax5YOpK6iHUmV) | [what's the vibe](https://open.spotify.com/album/154scGvIvXVZ1N7U1QYzkV) | 2:14 |
-| 4 | [I´m just a Machine](https://open.spotify.com/track/3vmPJeTdFK1YkYjIzoC32f) | [Jimmy Granlund](https://open.spotify.com/artist/7dnRyt5ilDRWFPcbvOGUEs) | [I´m just a Machine](https://open.spotify.com/album/2emua2aQO2DZcy8g0xkHqC) | 3:43 |
-| 5 | [ZIRKLE](https://open.spotify.com/track/0v9Dm9EFiJSfmxEiaUogtK) | [yobifare](https://open.spotify.com/artist/2mr5AgQZDLzM6eEkWYJnY8) | [ZIRKLE](https://open.spotify.com/album/5mkzQ7Sie8sixW2twRQiq2) | 2:40 |
-| 6 | [Your Love](https://open.spotify.com/track/56GdNAVgerSVb7D1NAKzCO) | [De Dope Def](https://open.spotify.com/artist/1rNkyhO6WsJlrNvNVTr0fZ) | [Your love](https://open.spotify.com/album/6DjhZbkpQQ1JxcmNkPTW7C) | 2:56 |
-| 7 | [Santa Ain't Comin'](https://open.spotify.com/track/7y2otCRcEcB7rFX20lh0Df) | [Dogg's Noggin](https://open.spotify.com/artist/3b6st9DMRFtOFrYd1QHvhl) | [Santa Ain't Comin'](https://open.spotify.com/album/2Uxcut8AmiwtnS6OHJyWw9) | 2:39 |
-| 8 | [Bright Blue](https://open.spotify.com/track/1fWliH0ZN9RvwDFptAeaih) | [Gekko](https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa) | [Bright Blue](https://open.spotify.com/album/40iXkP9MCtCbqblSvCGCfi) | 3:26 |
-| 9 | [Står stark](https://open.spotify.com/track/5HIZ76it3nXtspWq7IATwl) | [ELS73](https://open.spotify.com/artist/7xAvRkarxUWeZhVGdB2YpS) | [Står stark](https://open.spotify.com/album/3erAtieNVW43sdCvabrJA9) | 4:28 |
-| 10 | [Was al van jou \(voor ik je kende\)](https://open.spotify.com/track/2GiIgxhyrVz8OrLb04uWmx) | [NOORT](https://open.spotify.com/artist/73hHy6qNLunzOrzJevSSmc) | [Was al van jou \(voor ik je kende\)](https://open.spotify.com/album/5GOOmXRUgHErjM29q1aQq5) | 3:15 |
-| 11 | [Please come home for Christmas](https://open.spotify.com/track/4fFe9SxdaW3gVitH3FycjT) | [Bottleneck John](https://open.spotify.com/artist/7eXbcPTAtEkoxkT4HyBa59) | [Please come home for Christmas](https://open.spotify.com/album/2hfuFJqXFeKIml1WVT2NFA) | 4:07 |
-| 12 | [Fredsbossa](https://open.spotify.com/track/45WmUYJetr4gtuGToldoNW) | [Sjånadrotten med Vänner](https://open.spotify.com/artist/5nVQpAhbB3WLimjv0RkBUv) | [Fredsbossa](https://open.spotify.com/album/7lTpBKu6jMG2jaytaTp20W) | 3:52 |
+| 1 | [Juno](https://open.spotify.com/track/0FYVWVHYWDFpgXmc96ZjtB) | [Kal\-El](https://open.spotify.com/artist/0p0bJVJ56ozF6Ejhkdymcf) | [Juno](https://open.spotify.com/album/6P7yEigR39EHWERC19fJWv) | 5:56 |
+| 2 | [Tålamod](https://open.spotify.com/track/3uuKRCOlw3FbDkC7HNjkZD) | [DRÖÖG](https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv) | [A Fast Detour \(Through Dogsword City\)](https://open.spotify.com/album/7dI05Uszdy19uUf5PT9wTV) | 4:34 |
+| 3 | [Close to ghosts](https://open.spotify.com/track/0MWFt1jeFkUt2CX4v1SNjD) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [Close to ghosts](https://open.spotify.com/album/12Z6XT2XRARLMLdZOs1nhg) | 2:38 |
+| 4 | [You're Not Nice](https://open.spotify.com/track/47JjQ1m8fFZr8IvprOW15h) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [You're Not Nice](https://open.spotify.com/album/5WmbLxXyjG5Z7esbvEU8NN) | 2:14 |
+| 5 | [Breakaway](https://open.spotify.com/track/0lKd4m2zzpkQLnDSeqkKGm) | [Gekko](https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa) | [Breakaway](https://open.spotify.com/album/3g47nYfW0yUrjfK0Jt5FCv) | 4:13 |
+| 6 | [Too Deep](https://open.spotify.com/track/3YVRwJnYfK4KaKeI8Zr9RJ) | [Fred Bundy](https://open.spotify.com/artist/5RB8BedbGhfsXwSXoGzLfJ) | [Too Deep](https://open.spotify.com/album/6klnHXDs9q9cdU68wJo6BF) | 3:07 |
+| 7 | [Новогодняя](https://open.spotify.com/track/3rjCoZqOYQVyES5hhojuo8) | [DOMNK](https://open.spotify.com/artist/4Zu0EWqK5ZRt5vQ6z46DMB) | [Новогодняя](https://open.spotify.com/album/5sTcSsvR71Adq1vpc3GVc7) | 2:34 |
+| 8 | [Corrections](https://open.spotify.com/track/1STobMYemaTslRnDRHNoLp) | [Hereby Sunday](https://open.spotify.com/artist/6HzlModpAwyQH3Ouulxcb4), [Paul Ledsham](https://open.spotify.com/artist/62asv5Vu90GTuraco3gayx) | [Corrections](https://open.spotify.com/album/0bGtD2dXYlzKNTXXcXpUB3) | 4:55 |
+| 9 | [If You Wanna Hate Me \(Then Go Ahead\)](https://open.spotify.com/track/20tLitUbDbywXhKvv3c5P9) | [Stephen Murphy](https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm) | [If You Wanna Hate Me \(Then Go Ahead\)](https://open.spotify.com/album/7B9238mUhymA4oIrl9yNP1) | 2:54 |
 
-Snapshot ID: `AAAEcJcJtHHE4O6RAbWlkZPu5WkkpbJq`
+Snapshot ID: `AAAEcszC3rpmKkqPjO6mdWz0kAbtWydY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tony Boy, Kid Yugi e ANNA, Geolier e 50 Cent, Sabrina Carpenter e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,330 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,625 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | [Memories](https://open.spotify.com/track/5Rm3UEd5GJSCURITd71dID) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Memories](https://open.spotify.com/album/32PZmURdlFp6Z6TZ0VL8k7) | 2:50 |
 | 35 | [pienoinverno](https://open.spotify.com/track/0zICsLsnwk8WiIdWxTq29x) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [pienoinverno](https://open.spotify.com/album/09PA94G5nlJrDFPhcy7pmD) | 1:52 |
 | 36 | [WBTM](https://open.spotify.com/track/1X881Sbr0paAQ5p0VYZFz6) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [WBTM](https://open.spotify.com/album/11fGcA6nhd1AwF6UoshTLo) | 2:00 |
-| 37 | [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 |
+| 37 | [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 |
 | 38 | [Signal Fire](https://open.spotify.com/track/1jWOzFlHcYJtZLXEspRT6t) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Signal Fire](https://open.spotify.com/album/2AuWJhaS4IdzErMHI2djAp) | 3:02 |
 | 39 | [Please Stay](https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Please Stay](https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4) | 3:04 |
 | 40 | [Nn è un gioco](https://open.spotify.com/track/2w8ejXsrVLaPDNvICPPqN4) | [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Nn è un gioco](https://open.spotify.com/album/5FZJHTqQMII1mkUbZ0ToT5) | 1:45 |

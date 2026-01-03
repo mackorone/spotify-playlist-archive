@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 523,
+  "num_followers": 527,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAACx8o6PA8VUpkJr0xPK62tc3/uVk1w",
+  "snapshot_id": "AAACyc+2Due0k9D8csxVG6JnAGnJ8lOV",
   "tracks": [
     {
       "added_at": "2025-10-21 13:53:17",
@@ -3107,6 +3107,38 @@
       "duration_ms": 207872,
       "name": "Cyberpunk Elegy",
       "url": "https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I"
+    },
+    {
+      "added_at": "2026-01-03 00:03:04",
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl"
+      },
+      "artists": [
+        {
+          "name": "Young Naughty G",
+          "url": "https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw"
+        }
+      ],
+      "duration_ms": 79670,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm"
+    },
+    {
+      "added_at": "2026-01-03 00:04:57",
+      "album": {
+        "name": "\u539f\u4f86\u767c\u73fe",
+        "url": "https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S"
+      },
+      "artists": [
+        {
+          "name": "Relic",
+          "url": "https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO"
+        }
+      ],
+      "duration_ms": 230357,
+      "name": "\u539f\u4f86\u767c\u73fe",
+      "url": "https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Bu hafta kısa bir ara veriyoruz\. 9 Ocak'ta haftanın en iyi çıkışlarıyla görüşmek üzere!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,416 likes - 95 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,964 likes - 95 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 50 | [The Day Snow Cried](https://open.spotify.com/track/5SBaSLXyDLbaFnVpe4QqdO) | [Tavlı](https://open.spotify.com/artist/4zimpMiJxY9JRbG9XcLNrd), [Bedirhan Koçak](https://open.spotify.com/artist/5xs84x3gLHGei06gsBs45F) | [The Day Snow Cried](https://open.spotify.com/album/6QDVQU602xGwQthEG51PbN) | 1:44 |
 | 51 | [Şeytanla Dans](https://open.spotify.com/track/6lNmoISYHVwNvTU76tpg50) | [Bertzo](https://open.spotify.com/artist/1PlejC9Ved1LVVUnFwD91z), [Xzep](https://open.spotify.com/artist/1JH7jwqREVXEWSQbOtNQkb) | [Şeytanla Dans](https://open.spotify.com/album/2RSl3atJygGx5TPgV9lUxp) | 2:30 |
 | 52 | [Bizden Olmaz](https://open.spotify.com/track/4dF95rDcf4b3EzihIetehS) | [PALTA](https://open.spotify.com/artist/6aoKtHBUH7xENCXilYldgY) | [Bizden Olmaz](https://open.spotify.com/album/2Tw3d42v5WAuDkzN2zj1X9) | 2:27 |
-| 53 | [Hatunun Croplar](https://open.spotify.com/track/1a9vgPzhThlnX1fCDC42vl) | [k4anmcfian](https://open.spotify.com/artist/6zgY494LHbR58VVZl8ABxM), [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [Hatunun Croplar](https://open.spotify.com/album/1WxuqOe1RFhm45QvH2XgVG) | 1:54 |
+| 53 | [Hatunun Croplar](https://open.spotify.com/track/1a9vgPzhThlnX1fCDC42vl) | [k4anmcfian](https://open.spotify.com/artist/6zgY494LHbR58VVZl8ABxM), [Kava](https://open.spotify.com/artist/0ytEJ1WcHS7BYQXcvH8aG2) | [Hatunun Croplar](https://open.spotify.com/album/1WxuqOe1RFhm45QvH2XgVG) | 1:54 |
 | 54 | [Meşgul](https://open.spotify.com/track/7GrNZHkCQWqER7NOtzoFV9) | [KERBEROS](https://open.spotify.com/artist/42kZ4094Di1FT0wVxQ1eBb), [Sertan Tatlıgöl](https://open.spotify.com/artist/1erWxudXAmsTElGon8Q2sW) | [Meşgul](https://open.spotify.com/album/3I77W7l2KXfTtTCsmyQ7ew) | 2:06 |
 | 55 | [Harman Yeri](https://open.spotify.com/track/1tP2OhqnENJ9wsD1mcVDyR) | [Zeynep Başkan](https://open.spotify.com/artist/47bXR9alQD6AUNUYQX2nO4) | [Ela Ela \(17 Süper Eser\)](https://open.spotify.com/album/664NHdiZ2yB2m4dLdhFYaH) | 3:47 |
 | 56 | [sesler](https://open.spotify.com/track/3jdt3Io9NrsGL72Hh9Yafg) | [mertohguap](https://open.spotify.com/artist/6nLseSRBFRlrBcTb0nEvtS), [Yang](https://open.spotify.com/artist/6G9JvXzXHCCi6qmDLiw3FU) | [sesler](https://open.spotify.com/album/7w0bwjAfVIlu8tdumZMhp0) | 2:25 |

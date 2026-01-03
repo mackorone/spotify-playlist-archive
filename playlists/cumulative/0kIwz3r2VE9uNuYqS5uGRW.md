@@ -4,7 +4,7 @@
 
 > 
 
-132 songs - 6 hr 55 min
+133 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Miradita](https://open.spotify.com/track/4df7p7ZKZs2FR33kgufL0O) | [GlakTka](https://open.spotify.com/artist/3cydtlH4cwJnMRKswWK7wb) | [Miradita](https://open.spotify.com/album/4OiJ0ugns2DqRAzLR4W487) | 1:18 | 2025-05-26 |  |
 | [Miss you](https://open.spotify.com/track/2iOZyY6QNKmivaA09P7r7k) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Miss you](https://open.spotify.com/album/0NRBaZWZkEJ8uTOtc8XjBB) | 2:42 | 2025-04-14 |  |
 | [MMA Rooky](https://open.spotify.com/track/4DNReWW0F9YaLDt6yqc2u1) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [Figurants](https://open.spotify.com/album/08njCEqmT3aT9CW0knBFGt) | 3:05 | 2025-03-12 |  |
+| [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 | 2026-01-02 |  |
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
 | [no evidence](https://open.spotify.com/track/3SbYA5SX1jA1sLpbume305) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [anytime but now](https://open.spotify.com/album/3DHm8gapNXPAuy9RuRD6xc) | 2:52 | 2025-08-14 |  |
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |

@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-1,031 songs - 2 day 7 hr 26 min
+1,032 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-06-09 | 2023-08-12 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 | 2023-08-19 |
 | [Freaking Out](https://open.spotify.com/track/5boqkVlc0CWhfTjksnpc1X) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [COLD NIGHTS // SUMMER DAYS](https://open.spotify.com/album/1dzaDo0C4SjXQlHlASP5sD) | 3:19 | 2019-09-05\* | 2021-08-28 |
-| [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 | 2025-09-19 |  |
+| [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 | 2025-09-19 | 2026-01-03 |
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-12 | 2024-08-10 |
 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 | 2025-07-01 | 2025-09-14 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 | 2022-09-10 |
@@ -552,6 +552,7 @@
 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/0zEKfIm5b8EUcDM3qoPXKX) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:18 | 2019-09-05\* | 2021-09-25 |
 | [Lose You Again](https://open.spotify.com/track/2xzefshjUCbnclKWe6KStt) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic), [BRÅVES](https://open.spotify.com/artist/6x041MgK6W2MyccJc7EyWs) | [Lose You Again](https://open.spotify.com/album/2AqBW9viIo30axMM29S7wt) | 3:36 | 2019-09-11 | 2020-04-10 |
 | [Loser](https://open.spotify.com/track/0HIQTdxeEgAim6XGO31tGl) | [Mob Rich](https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5) | [Loser](https://open.spotify.com/album/12SkuNMHLY4fxHUZBtmkTN) | 2:25 | 2019-11-03 | 2021-09-25 |
+| [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 | 2026-01-02 |  |
 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-24 | 2024-07-09 |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-11-13 | 2022-01-22 |
 | [Love Actually](https://open.spotify.com/track/1rkwEvRdpZirixNHJ8x61R) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Love Actually](https://open.spotify.com/album/70nGn5MEgxq623PBvNo0DI) | 3:24 | 2019-09-05\* | 2020-01-30 |

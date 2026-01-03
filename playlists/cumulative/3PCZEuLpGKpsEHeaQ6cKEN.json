@@ -7319,6 +7319,28 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/3epA9IPG0ZupK7xVBGK5dE"
+      },
+      "artists": [
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+        },
+        {
+          "name": "Mike Mago",
+          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151068,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/36npbjNjaozTvCR9LdbOz2"
+    },
+    {
+      "album": {
         "name": "Don't You Cry",
         "url": "https://open.spotify.com/album/0ed7zAIrD6uFH8KuYrmg40"
       },
@@ -30310,6 +30332,28 @@
       "duration_ms": 167786,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/0bhd0kIKArygQxBeH9a6NP"
+    },
+    {
+      "album": {
+        "name": "Sun Shines On Me",
+        "url": "https://open.spotify.com/album/0OcgpZcrgkBF95mareaXOh"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210454,
+      "name": "Sun Shines On Me",
+      "url": "https://open.spotify.com/track/5fEgyoVKE07j5TGhnyr5Kq"
     },
     {
       "album": {

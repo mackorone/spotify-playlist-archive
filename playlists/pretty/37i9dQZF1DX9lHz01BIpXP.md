@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,165 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,166 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 38 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
 | 39 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
 | 40 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
-| 41 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
-| 42 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
+| 41 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
+| 42 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
 | 43 | [Massive](https://open.spotify.com/track/5T9YoFqvvLDBMvjRw71WSx) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Massive](https://open.spotify.com/album/1kLvAMqMrqd1KbPamJfxah) | 2:57 |
 | 44 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 45 | [Tyd Saam](https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z) | [EAZY CPT](https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm) | [Tyd Saam](https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c) | 2:47 |

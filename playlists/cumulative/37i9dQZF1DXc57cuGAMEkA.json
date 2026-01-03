@@ -19141,6 +19141,24 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227979,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw"
+    },
+    {
+      "album": {
         "name": "Beautiful People (Stay High)",
         "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
       },

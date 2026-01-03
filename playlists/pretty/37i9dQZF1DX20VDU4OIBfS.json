@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3035600,
+  "num_followers": 3035520,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 157493,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 168306,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "En carne viva",
+        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Estar enamorado",
+      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "En carne viva",
-        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
       "artists": [
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 294720,
-      "name": "Estar enamorado",
-      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -871,22 +887,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "1 + 1 = 2 Enamorados",
-        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 205909,
-      "name": "1+1=2 Enamorados",
-      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Llorar\u00e1s",
         "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+        "name": "1 + 1 = 2 Enamorados",
+        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+      "duration_ms": 205909,
+      "name": "1+1=2 Enamorados",
+      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Canta...Raphael",
         "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 159560,
       "name": "Yo soy aqu\u00e9l",
       "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
-        "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 242693,
-      "name": "Enamorandonos (Just Like Starting Over)",
-      "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Exitos Con Trio",
         "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
+        "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 242693,
+      "name": "Enamorandonos (Just Like Starting Over)",
+      "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Amandote",
-      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Heridas",
         "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Amandote",
+      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Mambo No 5",
+      "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 185560,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/2KIUDhvmBGVNJW76YtjJ6C"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "15 Exitos Originales Con Rocio Jurado",
-        "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "15 Exitos Originales Con Rocio Jurado",
+        "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Un Angel",
         "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 172626,
       "name": "Cachetada",
       "url": "https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Mambo No 5",
-        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Mambo No 5",
-      "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Yo Mismo",
         "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
       },
@@ -1871,6 +1855,38 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Cuba Classics 1: Silvio Rodriguez",
-        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+        "name": "Cuba Classics 1: Silvio Rodriguez",
+        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
       },
       "artists": [
         {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
+      "duration_ms": 351400,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
-        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
-      },
-      "artists": [
-        {
-          "name": "Manolo Galvan",
-          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 183933,
       "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
       "url": "https://open.spotify.com/track/4tOpQs1UNniDYeVAc9Ck8u"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "20 Secretos de Amor - Manolo Galv\u00e1n",
+        "url": "https://open.spotify.com/album/4MCG1gzqoCpGhXSEueSwZR"
+      },
+      "artists": [
+        {
+          "name": "Manolo Galvan",
+          "url": "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Yo Te Pido Amor",
-      "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion Original: Rocio Jurado",
         "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
       },
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/7JqCob0wCNfmvPYx9sd5ba"
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/169fypnmX8pWC6cdUR19bt"
+      "duration_ms": 226333,
+      "name": "Yo Te Pido Amor",
+      "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2187,6 +2171,22 @@
       "duration_ms": 162626,
       "name": "Vuelvo A vivir, Vuelvo A Cantar",
       "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7JqCob0wCNfmvPYx9sd5ba"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/169fypnmX8pWC6cdUR19bt"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2307,38 +2307,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Denise De Kalafe 10 Exitos",
-        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
-      },
-      "artists": [
-        {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 179984,
-      "name": "Mamma Maria",
-      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Dos Idolos Cantando",
         "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
       },
@@ -2359,6 +2327,38 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 179984,
+      "name": "Mamma Maria",
+      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Llorar\u00e1s / Te Juro Que Te Amo / Luto de Mi Alma",
         "url": "https://open.spotify.com/album/3hDV4xnm96DEaiF5bdWs0e"
       },
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lila Deneken......Por Cobard\u00eda",
-        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
-      },
-      "artists": [
-        {
-          "name": "Lila Deneken",
-          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
-        }
-      ],
-      "duration_ms": 284440,
-      "name": "Por Cobard\u00eda",
-      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Vestida De Besos",
         "url": "https://open.spotify.com/album/7pNndCTTAskilWzSjKwaFU"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 314066,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Lila Deneken......Por Cobard\u00eda",
+        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
+      },
+      "artists": [
+        {
+          "name": "Lila Deneken",
+          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
+        }
+      ],
+      "duration_ms": 284440,
+      "name": "Por Cobard\u00eda",
+      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
     },
     {
       "added_at": "2024-06-04 19:16:04",

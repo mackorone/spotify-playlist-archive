@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,056 likes - 186 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,062 likes - 186 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [DUNKA](https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [DUNKA](https://open.spotify.com/album/5tCF1xd7LA0DMHJdxuHwSp) | 1:57 |
 | 2 | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/track/2VGr0aQXozpnj3yUmGtVIW) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/album/4W8FH9yOCerJSaJGwg07dp) | 2:34 |
 | 3 | [FLYGPLAN](https://open.spotify.com/track/56hHCESKiK3vkjEI1Bl7zG) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [FLYGPLAN](https://open.spotify.com/album/0Ewd7P2H50TqvafPL6sJOf) | 1:56 |
 | 4 | [Snyggaste](https://open.spotify.com/track/16NsjDB2F9eP4c0upomZBm) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [Snyggaste](https://open.spotify.com/album/5sIJTqMKzLx7Hchvu0cB3O) | 2:03 |

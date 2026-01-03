@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33679,
+  "num_followers": 33684,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 176843,
       "name": "Cio che e' scritto nel vento",
       "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -743,26 +743,6 @@
       "duration_ms": 190053,
       "name": "Bach Aire",
       "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Bosso",
-          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
-        },
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 388854,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -795,6 +775,26 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "duration_ms": 388854,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+        "name": "Taish\u014dgoto",
+        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
         }
       ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
+      "duration_ms": 304173,
+      "name": "Taish\u014dgoto",
+      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Taish\u014dgoto",
-        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
       },
       "artists": [
         {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 304173,
-      "name": "Taish\u014dgoto",
-      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Grammegna",
-        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
       "artists": [
         {
-          "name": "The Funkin' Machine",
-          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
         }
       ],
-      "duration_ms": 285981,
-      "name": "Grammegna",
-      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
+      "duration_ms": 241966,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1455,22 +1459,18 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+        "name": "Grammegna",
+        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
       },
       "artists": [
         {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+          "name": "The Funkin' Machine",
+          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
         }
       ],
-      "duration_ms": 241966,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+      "duration_ms": 285981,
+      "name": "Grammegna",
+      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1487,6 +1487,30 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Nidi di Note",
+        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Sonia Peana",
+          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Inizi\u00f2",
+      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1535,30 +1559,6 @@
       "duration_ms": 348375,
       "name": "Here We Gong",
       "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "Nidi di Note",
-        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Sonia Peana",
-          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Inizi\u00f2",
-      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-12-11 14:00:35",

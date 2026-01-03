@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,064 likes - 300 songs - 10 hr 20 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,066 likes - 300 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 299 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
 | 300 | [Dreaming Of The Ocean](https://open.spotify.com/track/3Ks4Hahd76tjEytQIOrUHB) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Dreaming Of The Ocean](https://open.spotify.com/album/2wk2KGrQNw3tHLFZI9yLI9) | 1:54 |
 
-Snapshot ID: `AAAIpl1CiyuNgaDHJTMUY+NiGksJDM3h`
+Snapshot ID: `AAAIp0n/Gdae0Re2i+/FIxyj5HuqPi4b`

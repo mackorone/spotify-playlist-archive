@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Age Of Innocence",
+        "url": "https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254421,
+      "name": "Age Of Innocence",
+      "url": "https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88"
       },
@@ -2293,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Sugarfoot",
+        "url": "https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO"
+      },
+      "artists": [
+        {
+          "name": "Foolish Manure",
+          "url": "https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Pretty Fishes",
+      "url": "https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y"
+    },
+    {
+      "album": {
         "name": "Prisoner Of My Fate",
         "url": "https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z"
       },
@@ -2762,6 +2798,42 @@
       "duration_ms": 166401,
       "name": "Stay With You",
       "url": "https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY"
+    },
+    {
+      "album": {
+        "name": "Steal",
+        "url": "https://open.spotify.com/album/75FwO5KTjdbGbkLuEnfl3Q"
+      },
+      "artists": [
+        {
+          "name": "Foolish Manure",
+          "url": "https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202241,
+      "name": "Steal",
+      "url": "https://open.spotify.com/track/53Zzy3zWCdZrn7PUl05nFO"
+    },
+    {
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv"
+      },
+      "artists": [
+        {
+          "name": "Josiah Lee",
+          "url": "https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ"
     },
     {
       "album": {

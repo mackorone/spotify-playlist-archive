@@ -2,7 +2,7 @@
 
 ### [Party Hits](https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr)
 
-> NYE 2026, we ready? Fred.\. hit the track
+> 2026.\. we ready? Fred, hit the track
 
 742 songs - 1 day 14 hr 42 min
 

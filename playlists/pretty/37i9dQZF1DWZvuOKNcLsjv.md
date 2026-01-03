@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,358 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,360 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 69 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 |
 | 70 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
 
-Snapshot ID: `AAAAAMe1uEI+2LSd/x8nVeuihazSL5UI`
+Snapshot ID: `AAAAAJKiwfKF2taMbs9g5I4ZaMWmcoKW`

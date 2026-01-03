@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60580,
+  "num_followers": 60593,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
         "name": "F\u00f6rlora dig l\u00e5ngsamt",
         "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
         "name": "Feelings You Don't Say Out Loud",
         "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
       },
@@ -623,34 +623,18 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -667,22 +651,6 @@
       "duration_ms": 229994,
       "name": "Klara",
       "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -707,18 +675,34 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Steep Hills",
-        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
       },
       "artists": [
         {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 187135,
-      "name": "Steep Hills",
-      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -735,6 +719,22 @@
       "duration_ms": 211171,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
+        "name": "Steep Hills",
+        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 187135,
+      "name": "Steep Hills",
+      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
         "name": "Jag m\u00e5ste v\u00e4lja",
         "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
+        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
         "name": "Han vill ha dig",
         "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 208845,
       "name": "Han vill ha dig",
       "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1147,18 +1147,34 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
       },
       "artists": [
         {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
         }
       ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1211,22 +1227,6 @@
       "duration_ms": 168947,
       "name": "Lover's Rock",
       "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Regn \u00f6ver Zinken",
-        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
+        "name": "Stockholm City",
+        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Regn \u00f6ver Zinken",
-      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
+      "duration_ms": 160465,
+      "name": "Stockholm City",
+      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
-        "name": "Stockholm City",
-        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
+        "name": "Regn \u00f6ver Zinken",
+        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
       },
       "artists": [
         {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 160465,
-      "name": "Stockholm City",
-      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
     },
     {
       "added_at": "2026-01-01 23:00:33",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-01-01 23:00:33",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2026-01-01 23:00:33",
+      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 205000,
       "name": "i miss you",
       "url": "https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G"
-    },
-    {
-      "added_at": "2026-01-01 23:00:33",
-      "album": {
-        "name": "4Eternity",
-        "url": "https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1"
-      },
-      "artists": [
-        {
-          "name": " louii lane",
-          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
-        }
-      ],
-      "duration_ms": 136451,
-      "name": "IN YOUR BLUE",
-      "url": "https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO"
     }
   ],
   "unique_name": "p\u00e5 repeat",

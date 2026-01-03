@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Revolucionario",
+        "url": "https://open.spotify.com/album/3c4lI2t1UOKu5YRsx6xouK"
+      },
+      "artists": [
+        {
+          "name": "Xantos",
+          "url": "https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW"
+        },
+        {
+          "name": "Dynell",
+          "url": "https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO"
+        }
+      ],
+      "date_added": "2024-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240006,
+      "name": "Bailame Despacio",
+      "url": "https://open.spotify.com/track/3RyZEdTyJlARGByMo3cUiQ"
+    },
+    {
+      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -110,7 +132,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 266626,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/2R4uUwgfrFjT1kMGcPq6mp"

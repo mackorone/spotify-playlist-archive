@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Las Preferidas Del Pueblo",
+        "url": "https://open.spotify.com/album/4kyPTPIqGa47CUb27whbfx"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Amores fingidos",
+      "url": "https://open.spotify.com/track/64fikwVTuQhF9QAgOWKJ48"
+    },
+    {
+      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -70,10 +88,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 183613,
       "name": "Cazador de Asesinos",
       "url": "https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Cazador de Asesinos",
+      "url": "https://open.spotify.com/track/699gstMwCAfQ0UXovIw3Ch"
     },
     {
       "album": {
@@ -304,10 +340,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 190906,
       "name": "El Caballo Jovero",
       "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "El Caballo Jovero",
+      "url": "https://open.spotify.com/track/7KLfQ4cx2w4Wv26r0MZKQM"
     },
     {
       "album": {
@@ -708,6 +762,24 @@
     {
       "album": {
         "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/1jG0m4TKRb7ipRXhHnUzXR"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
@@ -718,7 +790,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 192920,
       "name": "La Tragedia de Rosita",
       "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
@@ -798,6 +870,24 @@
     {
       "album": {
         "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3T2OtROIK6VIDKnchtsNsU"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
@@ -808,7 +898,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 183893,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
@@ -1168,10 +1258,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 164520,
       "name": "Polvo Maldito",
       "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
+    },
+    {
+      "album": {
+        "name": "Una L\u00e1grima y Un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "Polvo Maldito",
+      "url": "https://open.spotify.com/track/7kVJEGxq80CLA3f1YRUAP1"
     },
     {
       "album": {
@@ -1582,7 +1690,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 140813,
       "name": "Ven a Buscarme",
       "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"

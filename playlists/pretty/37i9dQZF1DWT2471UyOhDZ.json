@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mumford & Sons, Hozier",
-  "num_followers": 93697,
+  "num_followers": 93694,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -611,18 +611,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 257547,
-      "name": "Goodbye (Don\u2019t Tell Me)",
-      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Little Black Dress",
-        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
-      },
-      "artists": [
-        {
-          "name": "Francis of Delirium",
-          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-        }
-      ],
-      "duration_ms": 191620,
-      "name": "Little Black Dress",
-      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Little Black Dress",
+        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 191620,
+      "name": "Little Black Dress",
+      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "I See A Darkness",
         "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 265346,
       "name": "I See A Darkness",
       "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1363,22 +1363,6 @@
       "duration_ms": 148440,
       "name": "Still Above",
       "url": "https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Bell",
-        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 268768,
-      "name": "Bell",
-      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1419,6 +1403,22 @@
       "duration_ms": 267769,
       "name": "Never Felt Better",
       "url": "https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Dialing In",
-        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 280968,
-      "name": "Dialing In",
-      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "NATIONAL AVERAGE.",
         "url": "https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 189842,
       "name": "GOD SAVE THE PONY.",
       "url": "https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Dialing In",
+        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 280968,
+      "name": "Dialing In",
+      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Lake Run Drive",
-        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
       },
       "artists": [
         {
-          "name": "The Man The Myth The Meatslab",
-          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
         }
       ],
-      "duration_ms": 226785,
-      "name": "Lake Run Drive",
-      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+        "name": "Lake Run Drive",
+        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
         }
       ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+      "duration_ms": 226785,
+      "name": "Lake Run Drive",
+      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
     },
     {
       "added_at": "2025-10-23 23:00:21",

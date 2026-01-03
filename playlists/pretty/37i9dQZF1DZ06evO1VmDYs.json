@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 198532,
+  "num_followers": 198546,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABOKqteTTh8T2rc14WUduzW",
+  "snapshot_id": "aVW5AAAAAAASiOZ4OruQd4DT2Hz3sJS8",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+        "name": "Raditude (Deluxe)",
+        "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+      "duration_ms": 208773,
+      "name": "(If You're Wondering If I Want You To) I Want You To",
+      "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raditude (Deluxe)",
-        "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 208773,
-      "name": "(If You're Wondering If I Want You To) I Want You To",
-      "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Keep Fishin'",
-      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+      "duration_ms": 172266,
+      "name": "Keep Fishin'",
+      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
     },
     {
       "added_at": null,

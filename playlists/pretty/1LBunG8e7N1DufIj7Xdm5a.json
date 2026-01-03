@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 261,
+  "num_followers": 262,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGhce7+UwxfHcLNmKfNq1gjqMq9lUH",
+  "snapshot_id": "AAAGiNdbuaYwtSjemJbmwxQ252+wVfKj",
   "tracks": [
     {
       "added_at": "2026-01-01 23:36:12",
@@ -62543,6 +62543,54 @@
       "duration_ms": 181187,
       "name": "Somewhere Unknown",
       "url": "https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca"
+    },
+    {
+      "added_at": "2026-01-02 08:32:54",
+      "album": {
+        "name": "Different dimension",
+        "url": "https://open.spotify.com/album/27bu2Ejndm5xxkEhQzsWjI"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Quantico",
+          "url": "https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Different dimension",
+      "url": "https://open.spotify.com/track/2KKRxIJvYd2vPgKo0XUjtE"
+    },
+    {
+      "added_at": "2026-01-02 08:33:12",
+      "album": {
+        "name": "Mystic Nights",
+        "url": "https://open.spotify.com/album/16JBSSVfEExxNIlgnQS6QK"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Quantico",
+          "url": "https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB"
+        }
+      ],
+      "duration_ms": 186839,
+      "name": "Mystic Nights",
+      "url": "https://open.spotify.com/track/7fYozI27b4N7RSwA54e2BR"
+    },
+    {
+      "added_at": "2026-01-02 09:50:58",
+      "album": {
+        "name": "Catching Matches",
+        "url": "https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ"
+      },
+      "artists": [
+        {
+          "name": "Dymer",
+          "url": "https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv"
+        }
+      ],
+      "duration_ms": 208873,
+      "name": "Catching Matches",
+      "url": "https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC"
     }
   ],
   "unique_name": "playlist spotify free",

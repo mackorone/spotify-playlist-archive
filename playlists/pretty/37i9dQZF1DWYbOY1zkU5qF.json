@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 221512,
+  "num_followers": 221582,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Lobo Hombre En Par\u00eds",
-        "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV"
-        }
-      ],
-      "duration_ms": 185136,
-      "name": "Lobo Hombre En Par\u00eds",
-      "url": "https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Oye Mi Amor",
         "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 195346,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Lobo Hombre En Par\u00eds",
+        "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV"
+        }
+      ],
+      "duration_ms": 185136,
+      "name": "Lobo Hombre En Par\u00eds",
+      "url": "https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
-      },
-      "artists": [
-        {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
-        }
-      ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 172839,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+      },
+      "artists": [
+        {
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+        }
+      ],
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "A Dios Le Pido",
-        "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
-      },
-      "artists": [
-        {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
-        }
-      ],
-      "duration_ms": 258113,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Dime Que No",
         "url": "https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 291500,
       "name": "Dime Que No",
       "url": "https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "A Dios Le Pido",
+        "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 258113,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr"
     },
     {
       "added_at": "2022-02-18 06:00:00",

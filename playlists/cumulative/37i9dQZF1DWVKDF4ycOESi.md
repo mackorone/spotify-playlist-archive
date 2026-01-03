@@ -4,7 +4,7 @@
 
 > Nuovi brani di Tony Boy, Kid Yugi e ANNA, Geolier e 50 Cent, Sabrina Carpenter e tanti altri.
 
-7,412 songs - 15 day 13 hr 46 min
+7,412 songs - 15 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4197,6 +4197,7 @@
 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 | 2024-08-01 | 2024-08-09 |
 | [MOLTIPLICARLI](https://open.spotify.com/track/4imCAwk5G0538VtmPwmFUk) | [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [GOTTI MAFIA](https://open.spotify.com/album/1XYWq6p743QRBZRSqt7Xhf) | 2:32 | 2025-05-08 | 2025-05-16 |
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-06-27 | 2024-07-05 |
+| [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 | 2026-01-02 |  |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-05-30 |
 | [MOMO DESIGN](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 | 2025-07-24 | 2025-08-01 |
 | [MON AMI](https://open.spotify.com/track/41MriyKRwP0eMriWsmId52) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MON AMI](https://open.spotify.com/album/1NYxqkXQJULTM3qSMkwHyh) | 2:22 | 2024-10-24 | 2024-11-01 |
@@ -6721,7 +6722,6 @@
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2024-12-13 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-05 |
-| [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-02 |  |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-10-25 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-05 | 2025-12-12 |

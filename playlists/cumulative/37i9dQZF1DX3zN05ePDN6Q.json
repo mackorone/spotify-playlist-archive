@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "10, Talvez 9",
+        "url": "https://open.spotify.com/album/16QETkyYmCPp1bFdEyFQs0"
+      },
+      "artists": [
+        {
+          "name": "Parteum",
+          "url": "https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225942,
+      "name": "10, Talvez 9",
+      "url": "https://open.spotify.com/track/4DReOCtr2yXWD7w0wdu3YC"
+    },
+    {
+      "album": {
         "name": "100 Balas",
         "url": "https://open.spotify.com/album/7g9DZuaJKWTeB9C9E17NK4"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 121627,
       "name": "Alucina\u00e7\u00f5es e Reflex\u00f5es",
       "url": "https://open.spotify.com/track/5VCs1YptggXPpaBzlxIrb1"
@@ -7084,7 +7102,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 190284,
       "name": "Hard Crocante",
       "url": "https://open.spotify.com/track/2YiCtJoxUc2NgtD15qasXf"
@@ -17798,7 +17816,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 164050,
       "name": "\u00d4mega Chucro Freeverse",
       "url": "https://open.spotify.com/track/6bAftOEmHudO6nA2sy3mRg"

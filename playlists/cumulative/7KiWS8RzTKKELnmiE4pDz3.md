@@ -4,7 +4,7 @@
 
 > 
 
-1,284 songs - 2 day 19 hr 2 min
+1,286 songs - 2 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Goin' To Hell](https://open.spotify.com/track/3opC4kS9RpbNJw7aORFmGF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Oxy & Codeine](https://open.spotify.com/album/35UOSWUudVMViGWMUXiNQC) | 1:08 | 2022-05-24 | 2023-05-09 |
 | [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 | 2025-07-26 |  |
 | [Gold Shine \(feat\. Three 6 Mafia\)](https://open.spotify.com/track/38rCYQyqFwL2JImdrTpEbe) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 3:55 | 2024-12-15 | 2025-05-21 |
+| [Gold Watch](https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:12 | 2026-01-02 |  |
 | [Golden Child!](https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-08-27 | 2023-08-20 |
 | [Golden Lady](https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:58 | 2025-04-14 |  |
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-06-01 |  |
@@ -1131,6 +1132,7 @@
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-07-10 | 2023-12-14 |
 | [The LifeStyle!](https://open.spotify.com/track/5Umai3Zrbd80hOcvgAlBmw) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 1:33 | 2022-10-26 | 2023-04-12 |
 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 | 2023-05-31 | 2023-12-14 |
+| [The Narrow Path](https://open.spotify.com/track/522EzHJ8ZblG3iLawNQ6S2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below The Heavens](https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd) | 5:11 | 2026-01-02 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2025-07-01 |  |
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 | 2023-08-20 |
 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2025-04-10 |  |

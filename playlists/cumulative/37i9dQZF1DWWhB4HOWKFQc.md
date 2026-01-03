@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Tohpati, Nadhif Basalamah
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Piche Kota
 
 1,449 songs - 3 day 15 hr 8 min
 

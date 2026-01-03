@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/68bXT1MZWZvLOJc0FZrgf7.md) - cumulative - [plain](/playlists/plain/68bXT1MZWZvLOJc0FZrgf7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68bXT1MZWZvLOJc0FZrgf7)
 
-### [Dance For Days 🪩🕺 2025 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
+### [Dance For Days 🪩🕺 2026 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
+> Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
 
 788 songs - 1 day 17 hr 29 min
 

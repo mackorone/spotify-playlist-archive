@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Cloak of Black Noise",
+        "url": "https://open.spotify.com/album/0zHBG1hOIrhuKrBt5fnYv5"
+      },
+      "artists": [
+        {
+          "name": "Holuka",
+          "url": "https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201322,
+      "name": "Cloak of Black Noise",
+      "url": "https://open.spotify.com/track/7uiOw5Yg6HcMfyNQXsCBhj"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes To Black Noise",
         "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
       },
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 150000,
       "name": "Infrasonic Black Noise",
       "url": "https://open.spotify.com/track/4W9TsNGmpYzTPdYSH3srBD"

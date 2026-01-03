@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-403 songs - 19 hr 9 min
+409 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,12 @@
 | [Aminifar](https://open.spotify.com/track/2liKjvr48Fr6Els1qRpGM7) | [5th Floor](https://open.spotify.com/artist/0nBdnQzr3D07IUBJuBSswk) | [Aminifar](https://open.spotify.com/album/32XEZolwUSanLP4QOFHoer) | 2:09 | 2025-05-02 |  |
 | [Ant](https://open.spotify.com/track/66jYKtkdtP2euHonaFFQh5) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Ant](https://open.spotify.com/album/7lyv0VgNVdfyTAjGbfPyVZ) | 4:11 | 2022-12-16 | 2023-03-04 |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-11-11 | 2022-09-02 |
+| [Aquarelle](https://open.spotify.com/track/3B7Nm0i0gwyzwVXFS6R2b9) | [Satin Air](https://open.spotify.com/artist/43v3IXb6BvcstQ0ITYMT0r) | [Aquarelle](https://open.spotify.com/album/52wmmMfMRSWhFTDHGmfBgs) | 1:51 | 2026-01-02 |  |
+| [Arena Blanca](https://open.spotify.com/track/1BImSGMpJPB0iYh0MmdcRR) | [Pjor](https://open.spotify.com/artist/5ONyfDG8cTuCReEUHd9LVn) | [Arena Blanca](https://open.spotify.com/album/34SqNLcWPaIyBKtm4yBIkF) | 2:29 | 2026-01-02 |  |
 | [Awe\-inspiring](https://open.spotify.com/track/0OnAbpXMAplXMoTdeCo958) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Awe\-inspiring](https://open.spotify.com/album/0HWSUdk7fwbYYOz3qQ4NFM) | 2:24 | 2024-12-13 |  |
 | [Azucena](https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Azucena](https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi) | 3:05 | 2022-06-03 | 2023-06-03 |
 | [Back Again](https://open.spotify.com/track/0J23hq8n0XLU7SRB8wVXdm) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Back Again](https://open.spotify.com/album/4YeAFBkwu1MpowmKHLADPG) | 2:33 | 2025-05-02 |  |
+| [Back to you](https://open.spotify.com/track/781VuiceSrzPAiSn1DzmGz) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Back to you](https://open.spotify.com/album/5d8COcVOVaGqchixuGSPV3) | 2:19 | 2026-01-02 |  |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2021-11-11 | 2025-03-01 |
 | [Bandicoot](https://open.spotify.com/track/4ymvStMWa68d2OWYY7SDqT) | [Hula Hoops](https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y) | [Bandicoot](https://open.spotify.com/album/5JNhBaqbW3uAFlIN38nVmo) | 2:46 | 2024-09-06 | 2025-06-25 |
 | [Barefoot](https://open.spotify.com/track/6MBUGQCYBFQBKZLkk0DhHQ) | [Coahira](https://open.spotify.com/artist/1QEfw9jXIznhQF5JoLa3jC) | [Barefoot](https://open.spotify.com/album/0Ki22D1UJyVAtJHdMoXQ17) | 2:06 | 2025-09-05 |  |
@@ -86,6 +89,7 @@
 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 | 2023-06-19 |  |
 | [Duane](https://open.spotify.com/track/6OFnPWtW3pANhBtcG8orIg) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Duane](https://open.spotify.com/album/51Hqtsc3EsOYeDIuYunnjd) | 3:12 | 2023-03-31 | 2023-10-13 |
 | [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
+| [Easy Rider](https://open.spotify.com/track/4UvC8Wog1WD0Iu0KcA4PLl) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Easy Rider](https://open.spotify.com/album/2pNOhbiXVtu6uZVyU0dPyl) | 2:28 | 2026-01-02 |  |
 | [Eclectic](https://open.spotify.com/track/4gIaQxsjoRtFHsMYi4dQTP) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Eclectic](https://open.spotify.com/album/0kJC32LxROqeN6Bnz57XbK) | 2:36 | 2025-06-24 |  |
 | [Empty House](https://open.spotify.com/track/7wPcRUPmexFpFgqcpiN1hj) | [Hausward](https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0) | [Empty House](https://open.spotify.com/album/28S41X0uWLSCPjdLKDyyK6) | 2:45 | 2025-09-05 |  |
 | [Endless Dance](https://open.spotify.com/track/2KtdpLteZl66ZymcasX2UV) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Endless Dance](https://open.spotify.com/album/6ArHOmHwLqHBeNuzcnLoXC) | 2:40 | 2025-06-24 |  |
@@ -162,6 +166,7 @@
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 | 2023-02-10 |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 | 2023-03-10 |
 | [Ibittsa](https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Ibittsa](https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9) | 3:57 | 2022-09-02 | 2023-08-05 |
+| [Ice Bloom](https://open.spotify.com/track/3odfT6lx2SgNqoH0yzK9GV) | [Pure Recall](https://open.spotify.com/artist/2dUzuRhlSLxwEeMZ5C2hTt) | [Ice Bloom](https://open.spotify.com/album/5jHY2gqe0LiTpUlfJA3rPA) | 2:19 | 2026-01-02 |  |
 | [Imagination](https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Imagination](https://open.spotify.com/album/7azMMhLw5xBgBi0Ir7uaOH) | 2:29 | 2023-09-15 | 2024-09-07 |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
 | [In His Image](https://open.spotify.com/track/2tbC45aa2SKmSIjv3N4fOF) | [IANCU](https://open.spotify.com/artist/7lj0Y1P2gqTIru3ERk8HtU) | [In His Image](https://open.spotify.com/album/7LreptOnQaKQrBiWdf1GNY) | 2:37 | 2025-10-20 |  |
@@ -270,6 +275,7 @@
 | [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 | 2023-08-05 |
 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 | 2023-04-14 |  |
 | [Reboot](https://open.spotify.com/track/35Wlnt6eX5mHK5ZphndzeO) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Reboot](https://open.spotify.com/album/5PlVNnQsDRVKvBzk6Nbul5) | 2:21 | 2025-02-28 |  |
+| [Remedy](https://open.spotify.com/track/42eNbOpzQb8FxeJS1TQwRx) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [Remedy](https://open.spotify.com/album/6hlodKmdtZ2ZzkLmlXaYui) | 2:31 | 2026-01-02 |  |
 | [Renaissance](https://open.spotify.com/track/0Ehgq0I49NC6FwpArofFdk) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Renaissance](https://open.spotify.com/album/2guusLpexyacviaKX9hMvv) | 4:00 | 2022-12-09 | 2023-03-10 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-11-11 | 2023-08-05 |
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 | 2024-09-07 |

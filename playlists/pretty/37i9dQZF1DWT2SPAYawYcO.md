@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Young Franco, Charlotte Plank, Kali Uchis, DaBaby, STÜM, X & Ivy, Peach PRC + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,349 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,712 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

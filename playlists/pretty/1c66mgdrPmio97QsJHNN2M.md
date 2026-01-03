@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,698 likes - 278 songs - 15 hr 8 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,717 likes - 286 songs - 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,5 +286,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 276 | [You Were with Me](https://open.spotify.com/track/7tZcQ49zuNpe5M9fjfJdzx) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [You Were with Me](https://open.spotify.com/album/5jtXmjATMpMRfnopCt2tkD) | 3:21 |
 | 277 | [Alone And Tricky](https://open.spotify.com/track/4slgvtEjrAzRYcTtoF0yRh) | [Vignê](https://open.spotify.com/artist/0fjft05jSy2bLiQYZ63LfN) | [Alone And Tricky](https://open.spotify.com/album/0IE1nQL2wD13hTfQCljqmD) | 3:27 |
 | 278 | [Days Go By](https://open.spotify.com/track/1J1gh4SlZViM3dbI6yksuK) | [REWL](https://open.spotify.com/artist/1jk3vHOzuNEFKUCPIwrswh) | [Days Go By](https://open.spotify.com/album/0GmqvawyGxMLIddFjcmdOs) | 3:00 |
+| 279 | [I Want Peace, Not War](https://open.spotify.com/track/36IwXfaiSTMyE28yrAkum8) | [Amy Iggy](https://open.spotify.com/artist/2TsBb3IfMolovpqz90nCQ3) | [I Want Peace, Not War](https://open.spotify.com/album/6yKMu9TLpaZEMFr3U8vQj9) | 3:08 |
+| 280 | [Fine](https://open.spotify.com/track/6sOAG3OgB3YqPc35nJ9huM) | [CR33PIA](https://open.spotify.com/artist/0qyYZ1jH3kYBdWUpJNGukG) | [Fine](https://open.spotify.com/album/19iIit9dUd3hKf45HAVjJ0) | 2:52 |
+| 281 | [One Side](https://open.spotify.com/track/4iNwyX5Q3OpwoE80bbtRTy) | [Jeet Bhowal](https://open.spotify.com/artist/1NFQ8OKXLJ4G5615hXwELV), [Nivesh Sharma](https://open.spotify.com/artist/60F73cVMqkJbJwsqb0mmxv), [Nathan Brumley](https://open.spotify.com/artist/0qczR3tMEP8VsRu9pCAWHP) | [One Side](https://open.spotify.com/album/6NQ4fX4jivQX46P6jnIMv3) | 2:13 |
+| 282 | [Whisker Wobble](https://open.spotify.com/track/4TtUripV0NZxPLRyiu6J5l) | [mkDUBBY](https://open.spotify.com/artist/4kWnfpTnVzZt3wyAqDEvDt) | [Whisker Wobble](https://open.spotify.com/album/44az5rrbObxMPypzD8RuRZ) | 4:14 |
+| 283 | [Shine On](https://open.spotify.com/track/0qXC3o4BrP3BqhzeKUnW23) | [Lucigenic](https://open.spotify.com/artist/1lVDqniuDCvT75gxpbaoaJ) | [Shine On](https://open.spotify.com/album/4Sh0BtIeH17hFy2Y8IRVMY) | 4:19 |
+| 284 | [Orange](https://open.spotify.com/track/3uBxZHVqO7E6DPOAAo00c7) | [JAGG](https://open.spotify.com/artist/69skMRcuhKKPyJxa7CqmnG) | [Car Fires on the Freeway](https://open.spotify.com/album/19TMlYT1akpb0IJIgSxX4q) | 3:33 |
+| 285 | [Slow Disco](https://open.spotify.com/track/2GRPQMScalgUUnC84NBMGX) | [Kim Logan & the Silhouettes](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Saturnalia](https://open.spotify.com/album/0peuz85fBVMp4yGg1p03Fx) | 3:51 |
+| 286 | [Hex Girl](https://open.spotify.com/track/46asTlY8z9HP9oEON23EmT) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Hex Girl](https://open.spotify.com/album/766G8rjZkrfGn543XZ1WuL) | 3:03 |
 
-Snapshot ID: `AAAzLehFrQL7kDvEBuzKhTuTVlz1b4Uc`
+Snapshot ID: `AAAzNZbhTjfFFV4UQBWR0jZsj5MQwbod`

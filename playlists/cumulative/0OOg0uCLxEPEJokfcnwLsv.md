@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-205 songs - 12 hr 33 min
+209 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 | 2025-12-12 |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-10-18 |  |
 | [Affection](https://open.spotify.com/track/1MbXQOK884LNMc6DzIyn4h) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed](https://open.spotify.com/album/2fe1lqChqutX3RlqZB5rqN) | 4:27 | 2025-11-04 | 2025-12-12 |
+| [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2026-01-03 |  |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-23 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 | 2025-12-28 |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
@@ -134,6 +135,7 @@
 | [Plummeting](https://open.spotify.com/track/7mIYYO8ISbtuPahooGa6ha) | [Moviegoer](https://open.spotify.com/artist/3SjWkSiIhsJDqU05WfrUJG) | [Plummeting](https://open.spotify.com/album/0GQqX233VMGh74rhPJcdVz) | 2:39 | 2025-12-20 |  |
 | [Pop Punk Was Dead](https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8) | [Bad Halloween](https://open.spotify.com/artist/2twrObmRnmEG5sF2njB0tr) | [Pop Punk Was Dead](https://open.spotify.com/album/1RsRlGI6VRobAOMVhdZEV3) | 3:32 | 2025-09-17 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-12-20 |  |
+| [Pretty Fishes](https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 3:30 | 2026-01-03 |  |
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-11-27 |  |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-12 |
 | [Reactor Startup](https://open.spotify.com/track/2q57gWobR1INudWdwk5V6Y) | [The Naives](https://open.spotify.com/artist/05VhSO0dsvH5xk905U9fdo) | [Reactor Startup](https://open.spotify.com/album/5YDkIYrHq4EGq96ThcWq28) | 2:43 | 2025-09-04 |  |
@@ -160,6 +162,8 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 |  |
 | [SOUP](https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F) | [Felix Rice](https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ) | [SOUP](https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx) | 2:33 | 2025-12-20 |  |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-24 |  |
+| [Steal](https://open.spotify.com/track/53Zzy3zWCdZrn7PUl05nFO) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Steal](https://open.spotify.com/album/75FwO5KTjdbGbkLuEnfl3Q) | 3:22 | 2026-01-03 |  |
+| [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2026-01-03 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-20 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 591 likes - 98 songs - 6 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 591 likes - 102 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 96 | [When It's Gone](https://open.spotify.com/track/6UK0nanyICljgemAndWzw8) | [Wildstreet](https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r) | [When It's Gone](https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG) | 3:53 |
 | 97 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
 | 98 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 |
+| 99 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 |
+| 100 | [Pretty Fishes](https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 3:30 |
+| 101 | [Steal](https://open.spotify.com/track/53Zzy3zWCdZrn7PUl05nFO) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Steal](https://open.spotify.com/album/75FwO5KTjdbGbkLuEnfl3Q) | 3:22 |
+| 102 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 |
 
-Snapshot ID: `AAAEXMj9l8tCGPjjaeKRxPBlGw07fzc3`
+Snapshot ID: `AAAEYPJDqoj1v54XufGK4OxB7UAMsxHf`

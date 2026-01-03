@@ -14965,6 +14965,24 @@
     },
     {
       "album": {
+        "name": "The Sky High",
+        "url": "https://open.spotify.com/album/1nIZsMJDQgsOBLsJUTV7qP"
+      },
+      "artists": [
+        {
+          "name": "Elektronomia",
+          "url": "https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195156,
+      "name": "The Sky High",
+      "url": "https://open.spotify.com/track/7K82FtZwQ346kxTfifaYMN"
+    },
+    {
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/3rYyOaZMBlyUD3Olle9r0g"
       },

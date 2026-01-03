@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,362 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,832 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 7 | [567AM](https://open.spotify.com/track/1Ib3NLoWJ5yev5BVzHLQHA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [567AM](https://open.spotify.com/album/0ekpmMf9L0YDnR6tuGFY95) | 2:08 |
 | 8 | [wto](https://open.spotify.com/track/2plETOOc7WEIb4BBLy4oEE) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [TeeRowdy](https://open.spotify.com/artist/3eoXjqgj0qDqNqG581rKpg), [Slim Bizzle](https://open.spotify.com/artist/6B2HSue5iZ1ep7g5s50K0D) | [OOAK Vol\. 2](https://open.spotify.com/album/3PoeFoI05yrgf80C53ynoX) | 2:16 |
 | 9 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 |
-| 10 | [Dread \- The Moment \(Original Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(Original Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 |
+| 10 | [Dread \- The Moment \(The Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(The Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 |
 | 11 | [Satisfaction Skank](https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank](https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW) | 3:19 |
 | 12 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
 | 13 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |

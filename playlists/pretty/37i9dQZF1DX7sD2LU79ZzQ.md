@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Elsa Japasal
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,645 likes - 124 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,663 likes - 124 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 39 | [SWITCH!](https://open.spotify.com/track/1yTbJuJcejZISS31XWBbrS) | [FN!](https://open.spotify.com/artist/1pOgH2pAgRAVlWC9h1Z3hh), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws), [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [SWITCH!](https://open.spotify.com/album/4uWLrLul353a0mbsbYdEsl) | 3:05 |
 | 40 | [Selamat Menempuh Hidup Baru](https://open.spotify.com/track/29d3anBxUyxPu63ZlLJE8u) | [yowha](https://open.spotify.com/artist/6fNC8J5n7BnYgmRXWQdb3m) | [Selamat Menempuh Hidup Baru](https://open.spotify.com/album/5avraNK4LA39trw3rzKBKq) | 4:29 |
 | 41 | [CERITA ROMANSA](https://open.spotify.com/track/2DbFzTzMVHnHLBw2GX2oFC) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [CERITA ROMANSA](https://open.spotify.com/album/2rcoMGGxPi17x0aAGzIdkN) | 3:55 |
-| 42 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/224NGC6XAr74nyYDgYCTHj) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
+| 42 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
 | 43 | [Arti Yang Sama](https://open.spotify.com/track/3dLu8IZ4u6pvVIq7Y8QoxM) | [Closehead](https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR) | [Arti Yang Sama](https://open.spotify.com/album/02iBjyWeEtg2gpHVJFuH6L) | 2:48 |
 | 44 | [Mend This Break](https://open.spotify.com/track/1hHVteu6kkog8POlNIwJEP) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Reckless \(the album\)](https://open.spotify.com/album/7thmL6AdtyHv3jg76LNNdc) | 3:50 |
 | 45 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |

@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 257619,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/2utRLaGMLLQZtdUTckFbxG"
@@ -7108,7 +7108,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -11872,7 +11872,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -13666,7 +13666,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
@@ -16404,7 +16404,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 199694,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/5WHIJHRMcsNFFi7w1kU24M"
@@ -18098,7 +18098,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 238010,
       "name": "Destello...",
       "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
@@ -27866,7 +27866,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 144923,
       "name": "GUARACHEETAH",
       "url": "https://open.spotify.com/track/4ZhesgbRwUahpXs1xyBJbO"
@@ -34480,7 +34480,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 187794,
       "name": "La Parab\u00f3lica",
       "url": "https://open.spotify.com/track/15flr4ERWIsYVrSbS4ykH3"
@@ -38118,7 +38118,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 186680,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
@@ -38604,7 +38604,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Macondo - Duo Con Luisin Land\u00e1ez",
       "url": "https://open.spotify.com/track/5bf77ytze59m8jhYWe8xgy"
@@ -54690,7 +54690,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 223863,
       "name": "Que Hace Con El",
       "url": "https://open.spotify.com/track/1pvfO12SyprY7NR11F1Wk5"
@@ -58538,6 +58538,24 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
+        "name": "Celebramos el Bicentenario",
+        "url": "https://open.spotify.com/album/7ugWraf3GmQNoQ0oMLjw7q"
+      },
+      "artists": [
+        {
+          "name": "La Sonora De Tommy Rey",
+          "url": "https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178365,
+      "name": "Se Muri\u00f3 Tite",
+      "url": "https://open.spotify.com/track/4xK2iG0maiiaTCEpy6WmsE"
     },
     {
       "album": {

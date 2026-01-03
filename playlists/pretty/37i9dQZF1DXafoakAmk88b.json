@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 57571,
+  "num_followers": 57572,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 186666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 107563,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     },
     {
       "added_at": "2025-06-13 18:04:13",

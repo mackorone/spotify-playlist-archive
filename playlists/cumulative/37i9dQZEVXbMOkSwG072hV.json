@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 123711,
       "name": "2026",
       "url": "https://open.spotify.com/track/0Ou9oOoAsOYULeemku9Cj9"
@@ -7590,7 +7590,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 139062,
       "name": "BACKSTAGE",
       "url": "https://open.spotify.com/track/5TKTBDb9p1npApJLuQLd7M"
@@ -21788,7 +21788,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 151353,
       "name": "Dingo Bell",
       "url": "https://open.spotify.com/track/2hupdDq30eIxa8ttDBS0GL"
@@ -31344,6 +31344,24 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
+    },
+    {
+      "album": {
+        "name": "My Name Is Gretchen",
+        "url": "https://open.spotify.com/album/1KynnGQ6kvXtZQcvS3wkJS"
+      },
+      "artists": [
+        {
+          "name": "Gretchen",
+          "url": "https://open.spotify.com/artist/5l16yCOBayxKJwDKRZ8n0T"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229735,
+      "name": "Freak Le Boom Boom",
+      "url": "https://open.spotify.com/track/012uvmp8cdLDI38VbzCx8W"
     },
     {
       "album": {
@@ -43894,7 +43912,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "Marcas do Que Se Foi",
       "url": "https://open.spotify.com/track/1pXlXUusMGKhaHhOL20hKZ"
@@ -48786,7 +48804,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 125538,
       "name": "MONTAGEM BAILE DE FAVELA",
       "url": "https://open.spotify.com/track/0B0V6mIB9zsL5YyBsgSL02"
@@ -49398,7 +49416,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 72727,
       "name": "Montagem Miau",
       "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
@@ -74849,6 +74867,24 @@
     },
     {
       "album": {
+        "name": "MPB das Antigas",
+        "url": "https://open.spotify.com/album/0z32eKIoo9B6Ynj6P4RXOe"
+      },
+      "artists": [
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "Sujeito De Sorte",
+      "url": "https://open.spotify.com/track/0FVM8F2EY2Nv4yZ1rRaZq6"
+    },
+    {
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -74998,7 +75034,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 151136,
       "name": "Superfantasticamente (Superfantastico)",
       "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
@@ -88078,6 +88114,32 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
+        "name": "you broke my heart (Hoodtrap / Mylancore Remix)",
+        "url": "https://open.spotify.com/album/1AX1aBVD36drto6U4vFWof"
+      },
+      "artists": [
+        {
+          "name": "Kryd",
+          "url": "https://open.spotify.com/artist/1JCkyoTjnXO1tOVkcabgci"
+        },
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        },
+        {
+          "name": "Myla",
+          "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101571,
+      "name": "you broke my heart (Hoodtrap / Mylancore Remix)",
+      "url": "https://open.spotify.com/track/217s7lvmWNl9x6WhjwQB3F"
     },
     {
       "album": {

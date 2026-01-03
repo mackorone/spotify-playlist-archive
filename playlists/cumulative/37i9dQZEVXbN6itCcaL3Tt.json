@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "1998 (mam to we krwi)",
       "url": "https://open.spotify.com/track/5WOnkFszDc0OY8PZw4gygY"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 149126,
       "name": "911",
       "url": "https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m"
@@ -8966,7 +8966,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 148187,
       "name": "CA\u0141E LATO",
       "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
@@ -12115,6 +12115,44 @@
     },
     {
       "album": {
+        "name": "21 Gram",
+        "url": "https://open.spotify.com/album/2KJwj8JJ4R1fa3wpY7g0S7"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "Kamil",
+          "url": "https://open.spotify.com/artist/6aHb6wqILOV17hDGM0uhZx"
+        },
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "730purp",
+          "url": "https://open.spotify.com/artist/3lp8q43K1xBj61ANUF2UT0"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Delegacja",
+      "url": "https://open.spotify.com/track/3BClCkumTIJpEmlpFODvdY"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -14504,7 +14542,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 151058,
       "name": "DZY\u0143 DZY\u0143 DZY\u0143",
       "url": "https://open.spotify.com/track/6eoQnSlZBUzCnEujWNYAQL"
@@ -15430,7 +15468,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -17698,7 +17736,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 162171,
       "name": "Genera\u0142",
       "url": "https://open.spotify.com/track/6uh2Q3k0s7KbwhhaRDzXjt"
@@ -17800,7 +17838,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -18072,7 +18110,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -21832,6 +21870,28 @@
       "duration_ms": 153600,
       "name": "Jad\u0119 noc\u0105 na Mazurach 2",
       "url": "https://open.spotify.com/track/6oV6tM8BZgvuh1zzFpHwrn"
+    },
+    {
+      "album": {
+        "name": "Import / Export",
+        "url": "https://open.spotify.com/album/3Y3wuBV80VAHltwS9VI1mr"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157970,
+      "name": "Jagodzianki",
+      "url": "https://open.spotify.com/track/0LgdOeB2FXEWsDfZefvrkW"
     },
     {
       "album": {
@@ -26800,7 +26860,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 214253,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/7niKvvcvyBcVqADldDftBj"
@@ -28972,7 +29032,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 198169,
       "name": "Mandacik",
       "url": "https://open.spotify.com/track/6Zrh2zsDLqdjpkHsbTbMV5"
@@ -35640,7 +35700,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 176692,
       "name": "Obejmuj\u0119 noce",
       "url": "https://open.spotify.com/track/5d8JEUZ5PiMNE2mPnD6220"
@@ -36728,7 +36788,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
@@ -43399,6 +43459,28 @@
     },
     {
       "album": {
+        "name": "Import / Export",
+        "url": "https://open.spotify.com/album/3Y3wuBV80VAHltwS9VI1mr"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "K Koke",
+          "url": "https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173622,
+      "name": "Robie YEAH",
+      "url": "https://open.spotify.com/track/47qskZHot8gBmU4gkf9Jvi"
+    },
+    {
+      "album": {
         "name": "amfisbena (DELUXE)",
         "url": "https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc"
       },
@@ -43794,7 +43876,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -44124,7 +44206,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -49242,7 +49324,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 187637,
       "name": "TEMPERATURA",
       "url": "https://open.spotify.com/track/0U29CCc7QjzPRdfiWMFzrT"
@@ -51638,7 +51720,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
@@ -51660,7 +51742,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 177386,
       "name": "Turn The Lights Off (feat. Jon)",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"

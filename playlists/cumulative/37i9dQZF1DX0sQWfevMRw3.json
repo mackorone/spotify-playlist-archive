@@ -6301,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "DUNKA",
+        "url": "https://open.spotify.com/album/5tCF1xd7LA0DMHJdxuHwSp"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117818,
+      "name": "DUNKA",
+      "url": "https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk"
+    },
+    {
+      "album": {
         "name": "Dunka dunka",
         "url": "https://open.spotify.com/album/1mmgbzT6PICTGNA115DW91"
       },
@@ -29024,24 +29042,6 @@
       "duration_ms": 142874,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/5inSBp35LuAbMdW5KnkaKd"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lia Larsson",
-          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk"
     },
     {
       "album": {

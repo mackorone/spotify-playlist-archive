@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan terbaru tiap pekannya akan kembali di 9 Januari 2026\. Selamat natal dan tahun baru!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,662 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,111 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 52 | [Moon Or Stars](https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Moon Or Stars](https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl) | 3:42 |
 | 53 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 |
 
-Snapshot ID: `AAAAAITqF+oR/6LMobDsnaKkV2V17nOl`
+Snapshot ID: `AAAAAJykVZIimRVI5TJ0tvpGJPGhJrFL`

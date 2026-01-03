@@ -4,7 +4,7 @@
 
 > New music from MOLIY,  Doechii, KindlyNxsh and more.
 
-8,943 songs - 26 day 5 hr 57 min
+8,945 songs - 26 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Beautiful Chaos](https://open.spotify.com/track/5oqjG7aUawv8rnZqRWLajt) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Beautiful Chaos](https://open.spotify.com/album/6QVTQ8VxDP2WYDFRFoUa4u) | 2:37 | 2025-11-06 | 2025-11-14 |
 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 | 2025-07-25 | 2025-08-01 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 | 2025-03-14 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-02 |  |
 | [Beautiful People \- THEMBA Remix](https://open.spotify.com/track/6UNHnSIMCbHSEy70Ct0tQN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Beautiful People \(THEMBA Remix\)](https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU) | 3:45 | 2025-05-15 | 2025-05-23 |
 | [Beautiful Soul](https://open.spotify.com/track/5kvisLh0xQePh6bl9zpsw0) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Beautiful Soul](https://open.spotify.com/album/38uhWlkhtJc5PiLeJObr1r) | 4:02 | 2024-11-21 | 2024-11-29 |
 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 | 2025-01-10 |
@@ -5335,6 +5336,7 @@
 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 | 2024-06-13 | 2024-06-21 |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-06-27 | 2025-07-04 |
 | [Need2know](https://open.spotify.com/track/2wUYQxwYhrxIo6yn0uRX7b) | [Chaise Williams](https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z) | [Inception](https://open.spotify.com/album/6XdcAii9sbIpxIFroBw5ky) | 2:46 | 2024-08-15 | 2024-08-24 |
+| [Needed You](https://open.spotify.com/track/2UXVLPB8Ga8h4Zw6xT1PDN) | [Tendaness](https://open.spotify.com/artist/7dY6wxtWc7wx7qfkk0TJe5), [Kyle Deutsch](https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL) | [Needed You](https://open.spotify.com/album/2Kqvpziz2zKgHp1XWwQL2f) | 5:05 | 2026-01-02 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-08 | 2023-12-16 |
 | [NEEDY](https://open.spotify.com/track/2aZIg7TaLrbKUsvthU0PRj) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [NEEDY](https://open.spotify.com/album/3TabBrRi5NikOnQS5oipDW) | 3:02 | 2025-06-06 | 2025-06-13 |
 | [Neighborhood Hero](https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 2:56 | 2024-04-19 | 2024-04-26 |

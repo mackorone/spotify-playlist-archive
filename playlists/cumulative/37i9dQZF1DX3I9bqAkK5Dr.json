@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 265250,
       "name": "Neetho",
       "url": "https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS"
@@ -6317,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Padipoya Nee Premalo",
+        "url": "https://open.spotify.com/album/4kapNBN4e2oUhDUjmH1HcO"
+      },
+      "artists": [
+        {
+          "name": "Tarun Donipati",
+          "url": "https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344117,
+      "name": "Padipoya Nee Premalo",
+      "url": "https://open.spotify.com/track/22bjkfQt5qLAnK4xijhVuB"
+    },
+    {
+      "album": {
         "name": "Pakkane Le",
         "url": "https://open.spotify.com/album/2ZTTOKRMhEYjPj6VJ7UPuI"
       },
@@ -6548,6 +6566,28 @@
       "duration_ms": 198333,
       "name": "Photo Tisthava",
       "url": "https://open.spotify.com/track/1p8yKnn8UkL32O3EBdhqV8"
+    },
+    {
+      "album": {
+        "name": "Pichi Pichi",
+        "url": "https://open.spotify.com/album/2HMNk2L48fFRMbMHXXypYd"
+      },
+      "artists": [
+        {
+          "name": "Durga Prasad Mittireddi",
+          "url": "https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220153,
+      "name": "Pichi Pichi",
+      "url": "https://open.spotify.com/track/2vXAuKhjRYyUl7iutWOT6O"
     },
     {
       "album": {
@@ -9132,7 +9172,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 217776,
       "name": "Vellake",
       "url": "https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f"

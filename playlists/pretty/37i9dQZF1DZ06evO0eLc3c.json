@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53398,
+  "num_followers": 53411,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABS8hwFrbmycLqnx4j606Gt",
+  "snapshot_id": "aVW5AAAAAACbwMSaycrYieIAg5rShfLc",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Ain't It Strange",
-      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
+      "duration_ms": 189733,
+      "name": "Ask the Angels",
+      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+      "duration_ms": 227219,
+      "name": "April Fool",
+      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
     },
     {
       "added_at": null,
@@ -452,15 +452,15 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Ask the Angels",
-      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+      "duration_ms": 396360,
+      "name": "Ain't It Strange",
+      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 227219,
-      "name": "April Fool",
-      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Snowball",
-      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
       },
       "artists": [
         {
@@ -532,25 +532,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Summer Cannibals",
-      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+      "duration_ms": 194002,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 309493,
       "name": "Peaceable Kingdom",
       "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Summer Cannibals",
+      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Dream of Life",
-      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 279506,
+      "name": "Dream of Life",
+      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
     },
     {
       "added_at": null,

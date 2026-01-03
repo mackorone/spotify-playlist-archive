@@ -1,12 +1,12 @@
 {
   "description": "Music around the world \u2708\ufe0f",
-  "num_followers": 49999,
+  "num_followers": 50005,
   "original_name": "Kitsun\u00e9 Musique Essentials",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAMqw4zkvEmelzTQa26Pb/OjAfdXX+z",
+  "snapshot_id": "AAAMrP4Q/kjRRtM+X4lhpp39fhRX0plJ",
   "tracks": [
     {
       "added_at": "2025-11-03 10:48:27",
@@ -1123,6 +1123,34 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2026-01-02 14:47:37",
+      "album": {
+        "name": "Liquid Bodies",
+        "url": "https://open.spotify.com/album/6AAf7bFQsWTAwZGHOWSr7F"
+      },
+      "artists": [
+        {
+          "name": "2FA",
+          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Liquid Bodies - Perel Remix",
+      "url": "https://open.spotify.com/track/4QDmWrLKTlFDwefEsoej7V"
     }
   ],
   "unique_name": "Kitsun\u00e9 Musique Essentials",

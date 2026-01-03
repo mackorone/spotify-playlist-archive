@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,747 likes - 68 songs - 4 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,752 likes - 66 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 58 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 |
 | 59 | [Trip](https://open.spotify.com/track/38B1TVdt8Xu3i0bWtBvZ8Y) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:58 |
 | 60 | [Some Small Hope](https://open.spotify.com/track/6x6NI8zyUjvJLUg1DEEQQL) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [Mellow 80's](https://open.spotify.com/album/3DPsH0iJNKax1bTDXUoDb5) | 4:10 |
-| 61 | [不變](https://open.spotify.com/track/4pp3H1juhrzNqvkCAXDjNh) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [天空](https://open.spotify.com/album/4J3XjEzUvDKGNyCESR2Jls) | 4:45 |
-| 62 | [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:40 |
-| 63 | [Carnage](https://open.spotify.com/track/48Zr1JPrdjgbSFjNwpyqru) | [Political Asylum](https://open.spotify.com/artist/4vp78ch6qKQGJtcdnmlGuj) | [Winter](https://open.spotify.com/album/4KZkLwaHFDl5AQIueGeozH) | 2:01 |
-| 64 | [Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Deliver](https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp) | 2:58 |
-| 65 | [In Other Words](https://open.spotify.com/track/10he6VQJ3nYdpxD7mAOO5S) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [Consumer Complaints](https://open.spotify.com/album/42RqHFdcbVrGn7u6Gy30eo) | 3:12 |
-| 66 | [Mr\. Chill](https://open.spotify.com/track/4nWuo3JijyNAyHSzdftaoU) | [Friendship](https://open.spotify.com/artist/3IxsVnysqUrIyJ3eKdpugA) | [Love the Stranger](https://open.spotify.com/album/4o57TCoYfoKGnbUeD3Rnpx) | 3:11 |
-| 67 | [Drunk and High](https://open.spotify.com/track/2midSSQ3FZsR9J8EfWCbMu) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/028b1SjRJpiDteFXEVUl10) | 2:19 |
-| 68 | [Timeless](https://open.spotify.com/track/1nMge5njZEFQ4m9oESnBSJ) | [Oregon](https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t) | [Friends](https://open.spotify.com/album/1fNj64kRg1OAF5LNLuPnKT) | 8:21 |
+| 61 | [Carnage](https://open.spotify.com/track/48Zr1JPrdjgbSFjNwpyqru) | [Political Asylum](https://open.spotify.com/artist/4vp78ch6qKQGJtcdnmlGuj) | [Winter](https://open.spotify.com/album/4KZkLwaHFDl5AQIueGeozH) | 2:01 |
+| 62 | [Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Deliver](https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp) | 2:58 |
+| 63 | [In Other Words](https://open.spotify.com/track/10he6VQJ3nYdpxD7mAOO5S) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [Consumer Complaints](https://open.spotify.com/album/42RqHFdcbVrGn7u6Gy30eo) | 3:12 |
+| 64 | [Mr\. Chill](https://open.spotify.com/track/4nWuo3JijyNAyHSzdftaoU) | [Friendship](https://open.spotify.com/artist/3IxsVnysqUrIyJ3eKdpugA) | [Love the Stranger](https://open.spotify.com/album/4o57TCoYfoKGnbUeD3Rnpx) | 3:11 |
+| 65 | [Drunk and High](https://open.spotify.com/track/2midSSQ3FZsR9J8EfWCbMu) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/028b1SjRJpiDteFXEVUl10) | 2:19 |
+| 66 | [Timeless](https://open.spotify.com/track/1nMge5njZEFQ4m9oESnBSJ) | [Oregon](https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t) | [Friends](https://open.spotify.com/album/1fNj64kRg1OAF5LNLuPnKT) | 8:21 |
 
-Snapshot ID: `AAANvLPEwsAJFHFnvkcnlEt3T8vbtdAr`
+Snapshot ID: `AAANvRtPxaoOdKLtfEKBvbx42JgMFb9D`

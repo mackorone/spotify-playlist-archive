@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 264325,
+  "num_followers": 264373,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Saudade Demais",
         "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 264000,
       "name": "Isabel Tchau",
       "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Chuvas De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -847,6 +847,30 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Bossa nova - Girls from Bela Vista",
+        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
+      },
+      "artists": [
+        {
+          "name": "Petit Comit\u00e9",
+          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
+        },
+        {
+          "name": "Maur\u00edcio Tagliari",
+          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
+        },
+        {
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
+        }
+      ],
+      "duration_ms": 264722,
+      "name": "Girls from Bela Vista",
+      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Bossa nova - Girls from Bela Vista",
-        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
-      },
-      "artists": [
-        {
-          "name": "Petit Comit\u00e9",
-          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
-        },
-        {
-          "name": "Maur\u00edcio Tagliari",
-          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
-        },
-        {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
-        }
-      ],
-      "duration_ms": 264722,
-      "name": "Girls from Bela Vista",
-      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
-      },
-      "artists": [
-        {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Bim Bom",
         "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 101793,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
+        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+      },
+      "artists": [
+        {
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+        }
+      ],
+      "duration_ms": 145974,
+      "name": "Esse Ano",
+      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Tin Tin Por Tin Tin",
         "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 140112,
       "name": "Tin Tin Por Tin Tin",
       "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
-      },
-      "artists": [
-        {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
-        }
-      ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
       "artists": [
         {
-          "name": "Isaac Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2"
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
         }
       ],
-      "duration_ms": 209254,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Rapaz de Bem",
-        "url": "https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi"
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
       },
       "artists": [
         {
-          "name": "Vanessa Jackson",
-          "url": "https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP"
+          "name": "Isaac Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2"
         }
       ],
-      "duration_ms": 209830,
-      "name": "Rapaz de Bem",
-      "url": "https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt"
+      "duration_ms": 209254,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
-        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+        "name": "Rapaz de Bem",
+        "url": "https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi"
       },
       "artists": [
         {
-          "name": "Vitto Meirelles",
-          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+          "name": "Vanessa Jackson",
+          "url": "https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP"
         }
       ],
-      "duration_ms": 145974,
-      "name": "Esse Ano",
-      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
+      "duration_ms": 209830,
+      "name": "Rapaz de Bem",
+      "url": "https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt"
     },
     {
       "added_at": "2025-09-19 14:10:48",

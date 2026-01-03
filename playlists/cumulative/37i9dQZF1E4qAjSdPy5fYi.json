@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 132310,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1833,6 +1833,32 @@
     },
     {
       "album": {
+        "name": "bunnywonderland.deluxe",
+        "url": "https://open.spotify.com/album/7FiZcYqaMGucvlKaFR4Wsz"
+      },
+      "artists": [
+        {
+          "name": "heykalil",
+          "url": "https://open.spotify.com/artist/3JFj1ZTOTyjXo17ajYfYiZ"
+        },
+        {
+          "name": "yanno",
+          "url": "https://open.spotify.com/artist/2HA2MA1o03ZV3hsHCvlH2J"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "fresh carcasses.",
+      "url": "https://open.spotify.com/track/5znRinARbnUolImY145V1A"
+    },
+    {
+      "album": {
         "name": "FUKOUNA GIRL (REMIX)",
         "url": "https://open.spotify.com/album/4CzlyXXOI3kvMr890ZHjJk"
       },
@@ -1924,7 +1950,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 185403,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
@@ -1996,7 +2022,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 107934,
       "name": "HEWWO KITTY! >:3c",
       "url": "https://open.spotify.com/track/4FiiLjiitN0a93CGSVuCzX"
@@ -2072,7 +2098,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "HOW TO FORGET YOU (destroy you)",
       "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
@@ -2206,7 +2232,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2362,7 +2388,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 99596,
       "name": "IDK",
       "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
@@ -2566,7 +2592,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -2816,7 +2842,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -2976,7 +3002,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 87719,
       "name": "mango girl",
       "url": "https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H"
@@ -3182,7 +3208,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 272713,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/1Jm8NcQznEVoaJKTo55lWu"
@@ -3236,7 +3262,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
@@ -3688,7 +3714,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 173337,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t"
@@ -3706,7 +3732,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -3814,7 +3840,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -4704,7 +4730,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 249692,
       "name": "UNDER THE MOON",
       "url": "https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW"
@@ -4838,7 +4864,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 164500,
       "name": "Who are you pretending to be?",
       "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
@@ -4856,7 +4882,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 125500,
       "name": "Why do i miss u",
       "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"

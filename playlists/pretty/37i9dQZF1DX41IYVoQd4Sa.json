@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d9\u05d6\u05d9 \u05d5\u05d2\u05f3\u05f3\u05d9\u05df \u05d1\u05d5\u05e8\u05d3\u05d5",
-  "num_followers": 33068,
+  "num_followers": 33072,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL"
+        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
       "artists": [
         {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
         }
       ],
-      "duration_ms": 238838,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
+      "duration_ms": 174452,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
+      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
         }
       ],
-      "duration_ms": 174452,
-      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
-      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+      "duration_ms": 238838,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "The Call Of The Flow",
-        "url": "https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc"
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
       "artists": [
         {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 236221,
-      "name": "The Call Of The Flow",
-      "url": "https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA"
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
+        "name": "The Call Of The Flow",
+        "url": "https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc"
       },
       "artists": [
         {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
         }
       ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+      "duration_ms": 236221,
+      "name": "The Call Of The Flow",
+      "url": "https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "Unfurl",
-        "url": "https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx"
-      },
-      "artists": [
-        {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "I Don't Know When, I Don't Know How, I Don't Know Why",
-      "url": "https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
         "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
         "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
+        "name": "Unfurl",
+        "url": "https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "I Don't Know When, I Don't Know How, I Don't Know Why",
+      "url": "https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
         "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
       },
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 196262,
-      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
         "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
         "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 218000,
       "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
       "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "duration_ms": 196262,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
     },
     {
       "added_at": "2025-12-18 22:00:32",

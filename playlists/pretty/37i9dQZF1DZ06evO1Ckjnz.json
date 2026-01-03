@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20040,
+  "num_followers": 20042,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAC4pzofV0OSei1UaSGW2rYf",
+  "snapshot_id": "aVW5AAAAAAAjXdyjaNdjWJWYSOqAbrIM",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 120964,
       "name": "OHFR?",
       "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
         "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
       },
@@ -739,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Is Better",
-        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
+        "name": "Speed It Up (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
       },
       "artists": [
         {
-          "name": "Token",
-          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 155657,
-      "name": "High Heels (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+      "duration_ms": 143277,
+      "name": "Speed It Up (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
     },
     {
       "added_at": null,
@@ -775,42 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+        "name": "Pink Is Better",
+        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speed It Up (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 143277,
-      "name": "Speed It Up (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
+      "duration_ms": 155657,
+      "name": "High Heels (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
     },
     {
       "added_at": null,

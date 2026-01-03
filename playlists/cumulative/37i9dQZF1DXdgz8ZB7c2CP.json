@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Beat Go",
+        "url": "https://open.spotify.com/album/4KUaCyeb5enDQY7yX99JiX"
+      },
+      "artists": [
+        {
+          "name": "BeenWell",
+          "url": "https://open.spotify.com/artist/0Kv68mwSW6qOY3ng460cVv"
+        },
+        {
+          "name": "45AM",
+          "url": "https://open.spotify.com/artist/5xEVA2zqKZsTmBeE6C2mLR"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Beat Go",
+      "url": "https://open.spotify.com/track/4hB4gwSVJTlSf0KKnkE0T4"
+    },
+    {
+      "album": {
         "name": "Beats Me Up (feat. Coucheron)",
         "url": "https://open.spotify.com/album/5DSbyvgNw8WBaWUwpwVNI9"
       },
@@ -5354,7 +5376,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 115490,
       "name": "do i feel real to you",
       "url": "https://open.spotify.com/track/0qlRDkvOKazSkeDzzEr126"
@@ -8486,6 +8508,24 @@
       "duration_ms": 160332,
       "name": "GET RIGHT",
       "url": "https://open.spotify.com/track/1SIUAeA91vefUtqyUfXu4W"
+    },
+    {
+      "album": {
+        "name": "GET WHAT I WANT",
+        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "GET WHAT I WANT",
+      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
     },
     {
       "album": {
@@ -13256,7 +13296,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 132080,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy"

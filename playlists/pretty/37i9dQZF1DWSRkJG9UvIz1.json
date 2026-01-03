@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 135594,
+  "num_followers": 135583,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 198895,
-      "name": "Voltei Pra Mim",
-      "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 130955,
       "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 198895,
+      "name": "Voltei Pra Mim",
+      "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "SEM MALDADE",
+        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 170465,
+      "name": "SEM MALDADE",
+      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Flor de Laranjeira",
         "url": "https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 210866,
       "name": "N\u00f3",
       "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "SEM MALDADE",
-        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 170465,
-      "name": "SEM MALDADE",
-      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Ya S\u00e9",
         "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 163519,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Bossa No S\u00e9 (feat. Jean Carter)",
+        "url": "https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Jean Carter",
+          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Bossa No S\u00e9 (feat. Jean Carter)",
+      "url": "https://open.spotify.com/track/3SFnloABPd4n3d2B2KU2Zd"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Bossa No S\u00e9 (feat. Jean Carter)",
-        "url": "https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Jean Carter",
-          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Bossa No S\u00e9 (feat. Jean Carter)",
-      "url": "https://open.spotify.com/track/3SFnloABPd4n3d2B2KU2Zd"
     },
     {
       "added_at": "2023-06-23 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512897,
+  "num_followers": 1512836,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Energia Surreal (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Energia Surreal - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Milk Box",
         "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Energia Surreal (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Energia Surreal - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
     },
     {
       "added_at": "2024-08-02 18:37:00",

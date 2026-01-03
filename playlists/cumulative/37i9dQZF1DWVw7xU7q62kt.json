@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 152378,
       "name": "amber",
       "url": "https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8"
@@ -3550,6 +3550,28 @@
       "duration_ms": 123946,
       "name": "Elements",
       "url": "https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq"
+    },
+    {
+      "album": {
+        "name": "Mount Neverest",
+        "url": "https://open.spotify.com/album/19rJkUEV3Ye0Eo47FCvjl1"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        },
+        {
+          "name": "Joshua Milo",
+          "url": "https://open.spotify.com/artist/35mfohrC8ta589xwv2und2"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141363,
+      "name": "Elixier",
+      "url": "https://open.spotify.com/track/6GeYp27nYXMNkhzJoqZM8F"
     },
     {
       "album": {
@@ -7658,7 +7680,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 123750,
       "name": "Marbled",
       "url": "https://open.spotify.com/track/43Et9hbmjxUdnpMpGpMIWU"
@@ -12026,7 +12048,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 134000,
       "name": "Spring Season",
       "url": "https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q"

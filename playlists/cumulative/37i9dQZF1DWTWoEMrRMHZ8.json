@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "A \u00daltima M\u00fasica (Acusticamente)",
+        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228778,
+      "name": "A \u00daltima M\u00fasica (Acusticamente)",
+      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
+    },
+    {
+      "album": {
         "name": "A \u00faltima, quem sabe",
         "url": "https://open.spotify.com/album/11YF1bkfXHO3Wiox6fBTUd"
       },
@@ -5924,6 +5942,24 @@
       "duration_ms": 244330,
       "name": "Deus Dar\u00e1",
       "url": "https://open.spotify.com/track/0BYlm0AWV6jp1lQ37BR027"
+    },
+    {
+      "album": {
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "album": {
@@ -15780,7 +15816,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 321115,
       "name": "Praia do Futuro",
       "url": "https://open.spotify.com/track/78HsMq1JAmcODsD2jvfXyc"
@@ -22322,7 +22358,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 201866,
       "name": "V\u00eanus ou Urano",
       "url": "https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8"

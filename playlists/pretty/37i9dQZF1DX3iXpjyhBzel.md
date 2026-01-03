@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Eli Soares, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,586 likes - 100 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,629 likes - 100 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 56 | [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 |
 | 57 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 58 | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Ninguém Pode Parar \(Ao Vivo\)](https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn) | 5:41 |
-| 59 | [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 |
-| 60 | [Espírito Santo \(Inhabit\)](https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento](https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM) | 5:23 |
+| 59 | [Espírito Santo \(Inhabit\)](https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento](https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM) | 5:23 |
+| 60 | [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 |
 | 61 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 |
 | 62 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |
 | 63 | [Sião / Derrama \- Ao Vivo](https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sião / Derrama \(Ao Vivo\)](https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9) | 8:28 |

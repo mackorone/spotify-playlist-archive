@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  TheARTI$T
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,905 likes - 203 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,920 likes - 203 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 33 | [beauty to me](https://open.spotify.com/track/3gV1LhLQkV9wi3hptPPJVq) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Ayyo Will](https://open.spotify.com/artist/77STBrN6re4jsrgWR6KRlN) | [beauty to me](https://open.spotify.com/album/4O7Mfz8q4FSOOmLPzoqPWH) | 2:56 |
 | 34 | [AGAIN](https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [AGAIN](https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn) | 2:31 |
 | 35 | [Daily!](https://open.spotify.com/track/15klwfNZblMfdGLiqgATFU) | [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Daily!](https://open.spotify.com/album/356QCIJgTv7vh7ucQv52K6) | 2:26 |
-| 36 | [When The Money Calls](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
+| 36 | [When The Money Comes](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
 | 37 | [Dedication 6](https://open.spotify.com/track/0BqM09B7nQxZn0zKb8gfPC) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Cowboy From Brooklyn](https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW) | 3:48 |
 | 38 | [Cyanide](https://open.spotify.com/track/1vHlshHlOXS6b6cMkvGJzy) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Cyanide](https://open.spotify.com/album/5PGqBNGP2wKKQHFWLSYTSv) | 3:12 |
 | 39 | [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 |

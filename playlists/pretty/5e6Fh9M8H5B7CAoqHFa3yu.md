@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,768 songs - 4 day 11 hr 11 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,770 songs - 4 day 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1776,5 +1776,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1766 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 |
 | 1767 | [Grape Vines](https://open.spotify.com/track/48jkYOrR3hxMfzmAHje3iD) | [Krosst Out](https://open.spotify.com/artist/5SLzIGQL3GubJ4ri5PFGqM) | [Grape Vines](https://open.spotify.com/album/1Uljy3P4atifyuDcshyVlA) | 3:55 |
 | 1768 | [Rita Line](https://open.spotify.com/track/6HulHrVy8G9vPPdLsvE2gH) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Rita Line](https://open.spotify.com/album/4wZqO6GsvIH83Z8FZ7CmDn) | 3:41 |
+| 1769 | [Miel](https://open.spotify.com/track/0woqLoAOOZc6YauijRcMN9) | [Compass](https://open.spotify.com/artist/7AVshRAO9zcYZH05T2WNCg) | [Miel](https://open.spotify.com/album/3tQtt41sROzZhAxfHOeJAD) | 4:56 |
+| 1770 | [Howling at the Moon](https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Howling at the Moon](https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs) | 4:12 |
 
-Snapshot ID: `AAAHuYRtyCMEyogVixtDCMhXB3jVto0s`
+Snapshot ID: `AAAHuwQEZLIJhqAhu8DgcreZ36C9fhVw`

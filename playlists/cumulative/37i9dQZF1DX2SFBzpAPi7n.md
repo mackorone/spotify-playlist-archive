@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Car, the garden\(카더가든\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,093 songs - 2 day 18 hr 35 min
+1,095 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Let's Burn Down](https://open.spotify.com/track/3V8c7NeQIwxcsuHSsCo89e) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [The Escape of the Seven : Resurrection OST Part.1](https://open.spotify.com/album/3GYhbIyOKMR2MtpPv9nifY) | 3:38 | 2024-04-09 | 2024-05-10 |
 | [LET'S DO](https://open.spotify.com/track/4Qw55P1sgRoSP1hx8pH9bv) | [Neul](https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA) | [LET'S DO](https://open.spotify.com/album/46Q2Smvsfn2kUZ99muta0E) | 3:46 | 2022-04-22 | 2022-04-24 |
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
-| [Let's Rock](https://open.spotify.com/track/6Aczp9lo3zwB8Sw2MkjlwC) | [OHAH](https://open.spotify.com/artist/4j8xYBYQAoMcuDdJnMGJML) | [Let's Rock](https://open.spotify.com/album/7LZc6bNzhS1wJtjIwANKsZ) | 3:25 | 2025-12-15 |  |
+| [Let's Rock](https://open.spotify.com/track/6Aczp9lo3zwB8Sw2MkjlwC) | [OHAH](https://open.spotify.com/artist/4j8xYBYQAoMcuDdJnMGJML) | [Let's Rock](https://open.spotify.com/album/7LZc6bNzhS1wJtjIwANKsZ) | 3:25 | 2025-12-15 | 2026-01-03 |
 | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/track/6k0ApE2WFw3nV1xQrtIZp1) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR) | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/album/5Ixd8BpltXP3GiVjwu45KV) | 3:07 | 2023-01-14 | 2023-01-26 |
 | [Letter](https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Letter](https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb) | 3:33 | 2024-05-08 | 2024-05-10 |
 | [LETTER](https://open.spotify.com/track/0dKUOQ2wshWmgpTOxN3toL) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [A Letter of Romance](https://open.spotify.com/album/4pSN7e4D1E37yck2EwpPkC) | 2:52 | 2025-09-18 | 2025-09-22 |
@@ -822,6 +822,7 @@
 | [Shoulda Loved You Less \(with LEE HONG GI of FTISLAND\)](https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Shoulda Loved You Less](https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7) | 3:30 | 2025-06-23 | 2025-06-26 |
 | [Silent rainfalls](https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [History of Nerds](https://open.spotify.com/album/4ZusrPbu6N5ObAayvhz5Yq) | 3:35 | 2025-03-24 | 2025-04-01 |
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
+| [Sincere Lies \(Feat\. GARY\)](https://open.spotify.com/track/1NK9RWPSHo1sti3n5gSR7z) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Sincere Lies](https://open.spotify.com/album/0RSOcggFx99ZgUGlTT5UfO) | 3:33 | 2026-01-02 |  |
 | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/track/5vsd3VTGm8VSR52y3ZvAkW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Jinjunwang](https://open.spotify.com/artist/2ZF8BPqVBSjgtJZvUUDa5i), [우찬미](https://open.spotify.com/artist/75ZHFjuHsBVGuNnfgKBJAq) | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/album/1c8aYeuCBcpqns2321Xfpa) | 2:51 | 2022-05-11 | 2022-07-13 |
 | [SITCOM](https://open.spotify.com/track/0jnrL4VAV0x3Jk4PlzkuLa) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [SITCOM](https://open.spotify.com/album/74io9lr0VPPNF52vAdOKQU) | 3:15 | 2022-05-11 | 2022-06-07 |
 | [Sitting on a chair](https://open.spotify.com/track/2WCTjz29wiRtxAprTetQx4) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sitting on a chair](https://open.spotify.com/album/2rwrsaxb4wXANnbgnBNZgl) | 3:41 | 2024-05-08 | 2024-05-18 |
@@ -869,6 +870,7 @@
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
+| [Still, a Flower](https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Still, a Flower](https://open.spotify.com/album/3N5X7dF6350QVWQUYWX4SV) | 3:43 | 2026-01-02 |  |
 | [STOP IT](https://open.spotify.com/track/23rtmmIgcIsCEiIPDwxPrd) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [TOP NOTE](https://open.spotify.com/album/3JX0mIUcLLvvaye1HjFINP) | 3:23 | 2025-07-03 | 2025-07-10 |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
@@ -951,7 +953,7 @@
 | [Tomorrow \(Song by E.R.E.R\)](https://open.spotify.com/track/1F2Sy1UnZk4oNpT7sKBfhp) | [STEAL HEART CLUB](https://open.spotify.com/artist/7pxiQtuIBhM9BjigTPAHOh) | [STEAL HEART CLUB \- BAND UNIT BATTLE](https://open.spotify.com/album/3eLk28vzp3TUbMXHCE3Zoi) | 2:57 | 2025-11-28 | 2025-12-09 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 | 2025-09-26 | 2025-10-07 |
-| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
+| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 | 2026-01-03 |
 | [Transfigure \(Feat\. Kim Doyeong\)](https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Kim Doyeong](https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:31 | 2023-07-12 | 2023-07-29 |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |

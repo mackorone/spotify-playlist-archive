@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6999,
+  "num_followers": 7000,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAADOthAKjgpjQtRN9iNDxfnc",
+  "snapshot_id": "aVW5AAAAAAD/5DRspjvHFZR7HkJOecyZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 221425,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 281757,
       "name": "2020",
       "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 221425,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 374728,
+      "name": "Despierten",
+      "url": "https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos la Gente (Somos 2)",
         "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 210906,
       "name": "Luz",
       "url": "https://open.spotify.com/track/4SoW3apb8bu1X5DusdV9PO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 374728,
-      "name": "Despierten",
-      "url": "https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,

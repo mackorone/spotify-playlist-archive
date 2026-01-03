@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 933057,
+  "num_followers": 933170,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABlBY0aL5v3ATboFPobkFHF",
+  "snapshot_id": "aVW5AAAAAACv40ahBRE+BtvfxgPuwCz2",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Overprotected - Radio Edit",
-      "url": "https://open.spotify.com/track/5p0KCAuu5nrHpTuAIhHdLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Femme Fatale (Deluxe Version)",
         "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 210266,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Overprotected - Radio Edit",
+      "url": "https://open.spotify.com/track/5p0KCAuu5nrHpTuAIhHdLw"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Born to Make You Happy",
-      "url": "https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Femme Fatale (Deluxe Version)",
         "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 237946,
       "name": "Till the World Ends",
       "url": "https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Born to Make You Happy",
+      "url": "https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Britney Jean (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/0DOgMeHlNponAEqczZoxX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 216706,
       "name": "What U See (Is What U Get)",
       "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Britney Jean (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0DOgMeHlNponAEqczZoxX0"
     },
     {
       "added_at": null,

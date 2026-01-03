@@ -2706,9 +2706,27 @@
           "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
         }
       ],
-      "date_added": "2025-12-19",
+      "date_added": "2026-01-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195009,
+      "name": "Alles \u00e4ndert sich",
+      "url": "https://open.spotify.com/track/5CiAYPrMavnvMgMh6jqMbB"
+    },
+    {
+      "album": {
+        "name": "Alles \u00e4ndert sich",
+        "url": "https://open.spotify.com/album/42KFN79FsWTEpTL26LeQPN"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2026-01-03",
       "duration_ms": 174000,
       "name": "Alles \u00e4ndert sich...ich nicht",
       "url": "https://open.spotify.com/track/1t4strQfGiPLEIRceDLxiH"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 91220,
       "name": "AXOLOTL AT THE DIVE BAR",
       "url": "https://open.spotify.com/track/0pmveW09aJtjaS76Q5vpxF"
@@ -10997,6 +11015,24 @@
     },
     {
       "album": {
+        "name": "CHROME HORIZON",
+        "url": "https://open.spotify.com/album/1F3TfJU3zaHFnCR0P9gUqG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311719,
+      "name": "CHROME HORIZON",
+      "url": "https://open.spotify.com/track/7uoEJDDFZqoXuylRw9s6ON"
+    },
+    {
+      "album": {
         "name": "Chucks (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
       },
@@ -11848,7 +11884,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 162307,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/1hEBqEGc07Q6ShelO7LFHC"
@@ -11870,7 +11906,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 162307,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/5XxvmI7iuq5sxLkmddBar1"
@@ -36545,6 +36581,28 @@
     },
     {
       "album": {
+        "name": "Luxury Bunkers",
+        "url": "https://open.spotify.com/album/20I1gmO6UU9MIUqfgeBclv"
+      },
+      "artists": [
+        {
+          "name": "Outerboros",
+          "url": "https://open.spotify.com/artist/3ERMWtNSgcNKh1i5vBvit1"
+        },
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Luxury Bunkers",
+      "url": "https://open.spotify.com/track/5nZ1hNtpkaEUS5aMmUA70k"
+    },
+    {
+      "album": {
         "name": "lying",
         "url": "https://open.spotify.com/album/3dpdGF4c93TAUko86BVhia"
       },
@@ -40961,6 +41019,32 @@
     },
     {
       "album": {
+        "name": "NEXXXT LEVEL",
+        "url": "https://open.spotify.com/album/3VlhViao8FkF5kNUNe3wDJ"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "NEXXXT LEVEL",
+      "url": "https://open.spotify.com/track/6EGIyAaq4Csz557wLXuK7V"
+    },
+    {
+      "album": {
         "name": "NFL",
         "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
       },
@@ -41320,7 +41404,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 234479,
       "name": "NO MEMORIES",
       "url": "https://open.spotify.com/track/4OYSGQiaZcp5ulIyqkqaoQ"
@@ -51146,7 +51230,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 113898,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/1EXzGvkveG8LvJMW5akpOb"
@@ -51690,6 +51774,36 @@
       "duration_ms": 49192,
       "name": "She\u2019s Expecting You (feat. Phylicia Rashad)",
       "url": "https://open.spotify.com/track/2UCvpSQfAKuvog6gwnorRN"
+    },
+    {
+      "album": {
+        "name": "BUBBLE",
+        "url": "https://open.spotify.com/album/62F4yFTDdE2zxMstIRUquG"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mac Dre",
+          "url": "https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH"
+        },
+        {
+          "name": "Swifty McVay",
+          "url": "https://open.spotify.com/artist/1rKtdSLEWRyGiOF4knk8vU"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Shifty",
+      "url": "https://open.spotify.com/track/6y4iFrtv7ZkuFYlT2bFXfM"
     },
     {
       "album": {
@@ -55612,7 +55726,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 232378,
       "name": "Such A Funny Way",
       "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
@@ -68067,6 +68181,100 @@
     },
     {
       "album": {
+        "name": "Year End Party Mashup",
+        "url": "https://open.spotify.com/album/0KrwNzfXsRWh4APSHVon5P"
+      },
+      "artists": [
+        {
+          "name": "Vishal",
+          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
+        },
+        {
+          "name": "Shekhar",
+          "url": "https://open.spotify.com/artist/56F6WyCJno1s5RrYEUg5r8"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Aastha",
+          "url": "https://open.spotify.com/artist/6OUer1U5KXv9ewP3qfo8LR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541147,
+      "name": "Year End Party Mashup",
+      "url": "https://open.spotify.com/track/06LY1Ak2M7d6FzfPZwrAXM"
+    },
+    {
+      "album": {
         "name": "Years Ago",
         "url": "https://open.spotify.com/album/2OzbZJ4FOyUzIv90LRxmzD"
       },
@@ -68130,7 +68338,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 144639,
       "name": "Yeehaw",
       "url": "https://open.spotify.com/track/3zvpqxPFQxtFLD1FdCBiOf"

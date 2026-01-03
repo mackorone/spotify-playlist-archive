@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-282 songs - 13 hr 12 min
+283 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Balcons Verdoyants](https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Balcons Verdoyants](https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq) | 3:25 | 2023-09-01 | 2025-06-12 |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-03-03 | 2025-06-12 |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 | 2025-04-19 |
-| [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 |  |
+| [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 | 2026-01-03 |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 | 2024-03-21 |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2025-06-12 |
 | [Birds of Lydia](https://open.spotify.com/track/0zBQMEzF6difdESPGXREV4) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Birds of Lydia](https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC) | 3:16 | 2025-06-11 |  |
@@ -263,6 +263,7 @@
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 |  |
 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 | 2023-03-03 | 2025-05-17 |
 | [Time](https://open.spotify.com/track/0CX1Qm7MPcKv0sfOFQKA0H) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Time](https://open.spotify.com/album/3RHVDUwSrUqxPO9cBbHmNo) | 3:08 | 2025-06-11 | 2025-12-16 |
+| [Timeless Voyage](https://open.spotify.com/track/7tGzD3aIB69OOnOO65Cwhs) | [Ni Che](https://open.spotify.com/artist/77Pf6uoWxVn5ja9ZaTMmkY) | [Timeless Voyage](https://open.spotify.com/album/1NN4Jw81N8enQMJU8bGpqr) | 2:34 | 2025-12-03 |  |
 | [To Walk Alone](https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [To Walk Alone](https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07) | 2:31 | 2025-09-24 |  |
 | [Today is Tomorrow](https://open.spotify.com/track/7Amsh8XgzAx2NepJhLWZLT) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Today is Tomorrow](https://open.spotify.com/album/5jYyZt2gkx0A5TGk80vqKy) | 2:40 | 2025-01-15 |  |
 | [Tower Overgrown](https://open.spotify.com/track/3ZOjis0g4NgRmg3joGsJJx) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Tower Overgrown](https://open.spotify.com/album/5HnIxMwgY9esvqNCQbEuIQ) | 3:02 | 2025-05-16 |  |

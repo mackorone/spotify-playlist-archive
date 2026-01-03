@@ -1155,6 +1155,36 @@
     },
     {
       "album": {
+        "name": "Do It (Remix)",
+        "url": "https://open.spotify.com/album/7AYxbbZsfrME1i6iuY2oWx"
+      },
+      "artists": [
+        {
+          "name": "Multiverse",
+          "url": "https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL"
+        },
+        {
+          "name": "Damndef",
+          "url": "https://open.spotify.com/artist/4jFOzswJGUdE6LFx1ZbOjS"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222212,
+      "name": "Do It - Remix",
+      "url": "https://open.spotify.com/track/0NqBFuN6Ntfhh8AfNzpaV1"
+    },
+    {
+      "album": {
         "name": "\u677e\u4e00\u53e3\u6c14\uff01",
         "url": "https://open.spotify.com/album/0pV7ChVoff2LV1MWm7VC5K"
       },

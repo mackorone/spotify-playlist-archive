@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "567AM",
+        "url": "https://open.spotify.com/album/0ekpmMf9L0YDnR6tuGFY95"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128111,
+      "name": "567AM",
+      "url": "https://open.spotify.com/track/1Ib3NLoWJ5yev5BVzHLQHA"
+    },
+    {
+      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -9544,7 +9562,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 66206,
       "name": "BOMB",
       "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
@@ -19116,7 +19134,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 181357,
       "name": "Dot Dot (feat. Interplanetary Criminal & Flowdan)",
       "url": "https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt"
@@ -22802,6 +22820,28 @@
       "duration_ms": 167538,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm"
+    },
+    {
+      "album": {
+        "name": "Fear Me",
+        "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166376,
+      "name": "Fear Me",
+      "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
     },
     {
       "album": {
@@ -28195,6 +28235,24 @@
     },
     {
       "album": {
+        "name": "2025 Archive",
+        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Going To London",
+      "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
+    },
+    {
+      "album": {
         "name": "Gold (Diviners Remix)",
         "url": "https://open.spotify.com/album/1h1QSEcJquHTDlICnSb14I"
       },
@@ -33088,6 +33146,24 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "album": {
+        "name": "I Get This Feeling",
+        "url": "https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5"
+      },
+      "artists": [
+        {
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211019,
+      "name": "I Get This Feeling",
+      "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
     },
     {
       "album": {
@@ -41152,6 +41228,32 @@
       "duration_ms": 214237,
       "name": "Liquid Gold",
       "url": "https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr"
+    },
+    {
+      "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "CIEL.",
+          "url": "https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU"
+        },
+        {
+          "name": "Radio Cargo",
+          "url": "https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
     },
     {
       "album": {
@@ -57418,7 +57520,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 215285,
       "name": "Report to the Dancefloor",
       "url": "https://open.spotify.com/track/7y6yEpOl7wrB9JNuFdYydw"
@@ -75352,7 +75454,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 164336,
       "name": "WATA (feat. Tasan)",
       "url": "https://open.spotify.com/track/6TwMlbPPTkG4YU8fSLShJE"
@@ -78894,7 +78996,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 97600,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/7lsiEEngDO2BLa1xR7PbJs"

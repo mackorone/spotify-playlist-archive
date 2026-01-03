@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag og den er paaacked! Ny musik fra Ida Laurberg,  JOSVA & Artigeardit, Anton Westerlin & ozzy og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,646 likes - 73 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,709 likes - 73 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 18 | [3AM](https://open.spotify.com/track/18D1W8sa7L0uXnjRFmfSLM) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [3AM](https://open.spotify.com/album/0rsaFGCNThDDc84FbxsMGX) | 3:24 |
 | 19 | [FOKUSER](https://open.spotify.com/track/3kbW0QyvYmd5WBHS7sK4Ge) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [FOKUSER](https://open.spotify.com/album/7aXiTZaY4z5kjYITRIpkbj) | 2:50 |
 | 20 | [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 |
-| 21 | [glemmer du, så husker jeg](https://open.spotify.com/track/5O1poqYNxIUDt6YSSGhm1v) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [glemmer du, så husker jeg](https://open.spotify.com/album/0I1Z8ak5FUeiAS8GjpXzyC) | 4:01 |
+| 21 | [Glemmer Du](https://open.spotify.com/track/5O1poqYNxIUDt6YSSGhm1v) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Glemmer Du](https://open.spotify.com/album/0I1Z8ak5FUeiAS8GjpXzyC) | 4:01 |
 | 22 | [IK GLEM](https://open.spotify.com/track/3hmJrJnh0CawAKeOKwXjeX) | [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [IK GLEM](https://open.spotify.com/album/2u5T9ImrAQe0I7TUG63Ryg) | 2:02 |
 | 23 | [Horses](https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Horses](https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9) | 3:02 |
 | 24 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 58 | [DHS](https://open.spotify.com/track/6QVaFkwLbO400TXcT4sfn4) | [Diboh](https://open.spotify.com/artist/38sDeCw54FoUFkq732EVU0), [Meso](https://open.spotify.com/artist/2I6FRu6Gn1jcMqrEL6nsfI) | [DHS](https://open.spotify.com/album/5eBCPKHhXYzOPgTOlAWXh9) | 2:21 |
 | 59 | [Better Days](https://open.spotify.com/track/5pd4FU72VMB66dMp1QqXfA) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Better Days](https://open.spotify.com/album/5oYmLKQqm3jge5xXPjaamD) | 2:27 |
 | 60 | [Petrichor](https://open.spotify.com/track/6He6NAABY7NRrfRrt1VgMy) | [Asili](https://open.spotify.com/artist/476qXIUGaPbtFgfT3Kuc5o) | [Ardhi](https://open.spotify.com/album/5JaRDQZmnU6VkkfmQGZznG) | 4:20 |
-| 61 | [daydreaming](https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [](https://open.spotify.com/album/null) | 2:56 |
+| 61 | [daydreaming](https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [daydreaming](https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl) | 2:56 |
 | 62 | [can't say no](https://open.spotify.com/track/5aahxne9UEjbACb9zViMRI) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [can't say no](https://open.spotify.com/album/0re5i2MdwgcdlrUf0mhPRH) | 2:51 |
 | 63 | [Funeral](https://open.spotify.com/track/15FRLDirCitAQFOZ8SdTwp) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Funeral](https://open.spotify.com/album/1jV5lfD2JGaKQ3kUafwhSd) | 3:15 |
 | 64 | [Will I Ever](https://open.spotify.com/track/6GqNzyHE084R4JheWzKIm6) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Will I Ever](https://open.spotify.com/album/1Pt56Y8fz3rS7AwOO6qjre) | 2:51 |

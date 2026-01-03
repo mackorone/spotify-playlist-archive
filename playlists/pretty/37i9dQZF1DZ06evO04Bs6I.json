@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116533,
+  "num_followers": 116526,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACFj2tXxrm/fGjxf/o4X1pk",
+  "snapshot_id": "aVW5AAAAAAAUiN47IQbPOOkiEVVHgWio",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Lindo Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 276080,
       "name": "Em Troca",
       "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dependente de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 242602,
+      "name": "Lindo Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
     },
     {
       "added_at": null,

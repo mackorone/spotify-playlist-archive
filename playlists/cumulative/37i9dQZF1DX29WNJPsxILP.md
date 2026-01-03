@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Naam Sujal
+> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-302 songs - 15 hr 15 min
+303 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 |  |
 | [Bhala Kyun](https://open.spotify.com/track/0PQCaJpJm0CLEkUW2V0uf2) | [DOTM](https://open.spotify.com/artist/2AL0XQ1mbnWU5xVR6R4KRa) | [Bhala Kyun](https://open.spotify.com/album/4LOMwtCuIoTwddmvBsxta6) | 2:45 | 2025-05-30 |  |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-24 | 2025-01-22 |
+| [Big Stepper](https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Big Stepper](https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y) | 7:54 | 2026-01-02 |  |
 | [Bigshots](https://open.spotify.com/track/76in3GYb0JA5ix0h8DfuP6) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO) | [Bigshots](https://open.spotify.com/album/3RFwbOZwpFWicFjsJiImUj) | 3:15 | 2025-09-05 | 2025-09-24 |
 | [BLACK MONEY](https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [BLACK MONEY](https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ) | 3:48 | 2025-01-06 |  |
 | [Blessed](https://open.spotify.com/track/4GivXw16d9aVeLbZgrEkIJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Blessed](https://open.spotify.com/album/23IYMJYNH8OYpk8C7kb9zy) | 3:02 | 2025-03-21 | 2025-07-12 |
@@ -184,7 +185,7 @@
 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 | 2024-02-08 | 2025-10-15 |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-28 | 2025-01-07 |
 | [Maujjan](https://open.spotify.com/track/30IqFmWVT7cZtyrD9sYdji) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [I](https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB) | 4:27 | 2023-03-10 | 2023-10-12 |
-| [Mera Naam Hai](https://open.spotify.com/track/5rlgt2kH4IaWZLMED9a1Jt) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera Naam Hai](https://open.spotify.com/album/4qyzV1ooqutYWLSMRpgtSS) | 3:01 | 2025-10-24 |  |
+| [Mera Naam Hai](https://open.spotify.com/track/5rlgt2kH4IaWZLMED9a1Jt) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera Naam Hai](https://open.spotify.com/album/4qyzV1ooqutYWLSMRpgtSS) | 3:01 | 2025-10-24 | 2026-01-03 |
 | [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 | 2024-12-05 |  |
 | [Mi Casa](https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Trapanese](https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu) | 2:21 | 2024-08-20 | 2024-11-30 |
 | [Mile High](https://open.spotify.com/track/7dwyIPg7lx2OXp508ErhLP) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:48 | 2025-09-26 | 2025-10-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair en portada.",
-  "num_followers": 69346,
+  "num_followers": 69370,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
+    },
+    {
+      "added_at": "2025-12-19 06:00:11",
+      "album": {
         "name": "TUCU",
         "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 156428,
       "name": "TUCU",
       "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2025-12-19 06:00:11",
-      "album": {
-        "name": "boss",
-        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "boss",
-      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "added_at": "2025-12-19 06:00:11",
@@ -727,6 +727,30 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "added_at": "2025-12-19 06:00:11",
+      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 190169,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
-    },
-    {
-      "added_at": "2025-12-19 06:00:11",
-      "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2025-12-19 06:00:11",
@@ -987,26 +987,22 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
-        "name": "Dancing On Dangerous",
-        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous",
-      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2025-12-19 06:00:11",
@@ -1031,22 +1027,26 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
       "artists": [
         {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
     },
     {
       "added_at": "2025-12-19 06:00:11",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2025-12-19 06:00:11",
+      "album": {
         "name": "Bella Peligrosa (Radio Edit)",
         "url": "https://open.spotify.com/album/77UrvszcMvxxYUAB3nkQRG"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 144761,
       "name": "Bella Peligrosa - Radio Edit",
       "url": "https://open.spotify.com/track/0q1m66WPH3beH6JhSXpWAC"
-    },
-    {
-      "added_at": "2025-12-19 06:00:11",
-      "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2025-12-19 06:00:11",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
-        "name": "SUSTANCIAS",
-        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
-      },
-      "artists": [
-        {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "SUSTANCIAS",
-      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
-    },
-    {
-      "added_at": "2025-12-19 06:00:11",
-      "album": {
         "name": "Flashing Lights",
         "url": "https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 184258,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W"
+    },
+    {
+      "added_at": "2025-12-19 06:00:11",
+      "album": {
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+      },
+      "artists": [
+        {
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
     },
     {
       "added_at": "2025-12-19 06:00:11",

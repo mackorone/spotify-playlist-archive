@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dwwIoKH0j7.md) - [plain]
 
 > The most streamed artists in the USA in 2025\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,347 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,415 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

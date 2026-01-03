@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xHKAQ0ENmr.md) - [plain]
 
 > 祝・漫画『<a href="https://promo.shonenjump.com/boukyaku/memorial\-party/">忘却バッテリー</a>』コミックス20巻発売！千早瞬平が聴いている楽曲をセレクト！Ⓒみかわ絵子／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,436 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,437 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

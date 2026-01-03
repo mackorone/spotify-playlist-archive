@@ -6297,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Final da pista (velocista)",
+        "url": "https://open.spotify.com/album/3z5kSH46TdeheCqCvNk3mv"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185052,
+      "name": "Final da pista (velocista)",
+      "url": "https://open.spotify.com/track/2l5LpboUXhBhlevTbhTEOz"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/6pzchJt5GogyQxID3zSgCO"
       },
@@ -7456,7 +7478,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 174556,
       "name": "Invis\u00edvel pt.2",
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"

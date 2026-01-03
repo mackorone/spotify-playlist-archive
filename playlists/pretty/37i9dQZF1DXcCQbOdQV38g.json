@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59987,
+  "num_followers": 59981,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Blijven Slapen",
-        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 170991,
-      "name": "Blijven Slapen",
-      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Kadootje",
         "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
       },
@@ -711,22 +691,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Stapje",
         "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 133000,
       "name": "Stapje",
       "url": "https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Blijven Slapen",
+        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 170991,
+      "name": "Blijven Slapen",
+      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 198908,
       "name": "Rendez-Vous",
       "url": "https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Lars",
         "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
         "name": "Eiland",
         "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "M\u00e1s M\u00e1s M\u00e1s",
-        "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
-      },
-      "artists": [
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        }
-      ],
-      "duration_ms": 154332,
-      "name": "M\u00e1s M\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Pi\u00f1a Colada",
         "url": "https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 166849,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "M\u00e1s M\u00e1s M\u00e1s",
+        "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
+      },
+      "artists": [
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "duration_ms": 154332,
+      "name": "M\u00e1s M\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Zij Wil Mij",
-        "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Zij Wil Mij",
-      "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
         "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 205448,
       "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
       "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Zij Wil Mij",
+        "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Zij Wil Mij",
+      "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Un Chance",
-        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
       },
       "artists": [
         {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
         }
       ],
-      "duration_ms": 172385,
-      "name": "Un Chance",
-      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
+      "duration_ms": 156050,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
     },
     {
       "added_at": "2025-12-26 23:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4lzA0GA8RYf.md) - [plain]
 
 > Las clásicas de los ídolos de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,779 likes - 264 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,912 likes - 264 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

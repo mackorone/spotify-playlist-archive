@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from 21 Savage, Lil Uzi Vert and Esdeekid.
+> New music from Lil Uzi Vert, Esdeekid and 21 Savage.
 
-2,605 songs - 5 day 15 hr 1 min
+2,606 songs - 5 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1319,6 +1319,7 @@
 | [Lurkin \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/777evZve3OzCbGOVaVAGiU) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lurkin \(feat\. Polo G\) \(Remix\)](https://open.spotify.com/album/1aEluL4QV9hP3smy9LdHHx) | 2:28 | 2021-07-17 | 2021-07-24 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 | 2023-09-08 | 2023-09-17 |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-22 | 2025-03-29 |
+| [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2026-01-02 |  |
 | [LWRW](https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LWRW](https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN) | 2:39 | 2024-03-15 | 2024-03-23 |
 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 | 2024-02-16 | 2024-02-24 |
 | [Lyrical Eazy](https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Lyrical Eazy](https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo) | 1:40 | 2023-10-20 | 2023-11-11 |
@@ -2235,7 +2236,7 @@
 | [That's Not Gangsta](https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [That's Not Gangsta](https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB) | 3:24 | 2025-02-14 | 2025-03-15 |
 | [That's Tuff \(feat\. Quavo\)](https://open.spotify.com/track/3JERoo6pokCgQ81z79Jpmo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [That's Tuff](https://open.spotify.com/album/4mJn7IXnxGkOf9J8IhC711) | 2:34 | 2019-12-06 | 2020-01-31 |
 | [That’s It](https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:48 | 2020-11-13 | 2021-03-06 |
-| [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 | 2025-12-12 |  |
+| [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 | 2025-12-12 | 2026-01-03 |
 | [The Adventures of Moon Man & Slim Shady \(with Eminem\)](https://open.spotify.com/track/38iBrrbbXyWaSPkmuDNgjZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Adventures of Moon Man & Slim Shady \(with Eminem\)](https://open.spotify.com/album/4Cr6vlJh83a5Eby9DZRPwD) | 4:24 | 2020-07-22 | 2020-08-01 |
 | [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 | 2025-04-18 | 2025-07-19 |
 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 | 2020-06-12 | 2020-10-02 |

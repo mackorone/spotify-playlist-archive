@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chill r&b\. Cover: Tone Stith
+> Chill r&b\. Cover: Jill Scott
 
-1,486 songs - 3 day 9 hr 44 min
+1,488 songs - 3 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 | 2023-02-24 | 2023-03-11 |
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2022-09-30 | 2023-08-26 |
 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 | 2023-01-20 | 2023-03-18 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-02 |  |
 | [beautiful war \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 2:02 | 2024-10-11 | 2025-08-02 |
 | [Become](https://open.spotify.com/track/1H3B3MtjUbP5YTt0Jv0BDY) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [The Burnout](https://open.spotify.com/album/3d1OX2PYnY8npzYm7Y3Rhn) | 4:09 | 2025-12-12 |  |
 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 | 2021-06-19 | 2021-11-10 |
@@ -1455,6 +1456,7 @@
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-21 | 2023-11-04 |
 | [Where R U Now \- Acoustic](https://open.spotify.com/track/0nChB3pqbznFzQKiAlb9gu) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Where R U Now \(Acoustic\)](https://open.spotify.com/album/2NeC3shfWGxCcfAhdO69di) | 2:46 | 2023-12-01 | 2024-05-25 |
 | [Where's This Going?](https://open.spotify.com/track/4F9djVRlkypOycFnPbvFDX) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Where's This Going?](https://open.spotify.com/album/4eK2taAdfrNcKRvlIf95B1) | 3:52 | 2023-01-13 | 2023-08-26 |
+| [WHEREVER U ARE](https://open.spotify.com/track/2A32Bt0w2omtbebwQCV516) | [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5), [Scotty Apex](https://open.spotify.com/artist/55etRB3o03gVbdxxfWMsLs) | [WHEREVER U ARE](https://open.spotify.com/album/6CB1H6OXjgbkIH0qKvl7GF) | 2:49 | 2026-01-02 |  |
 | [wHIP](https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:48 | 2025-08-29 |  |
 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 | 2023-03-10 | 2023-09-09 |
 | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/track/3qMj6GQYGayyJjubOZ5sm4) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/album/6bI8Tj8V4fjpMvnzHVEkPS) | 2:58 | 2025-02-07 | 2025-04-05 |

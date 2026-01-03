@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 779523,
+  "num_followers": 779683,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Twelve Inch Mixes",
-        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 365160,
-      "name": "True",
-      "url": "https://open.spotify.com/track/4q2lRiodoQnyFO65watkse"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "The Twelve Inch Mixes",
+        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 365160,
+      "name": "True",
+      "url": "https://open.spotify.com/track/4q2lRiodoQnyFO65watkse"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Never Ending Story",
-        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
-      },
-      "artists": [
-        {
-          "name": "Limahl",
-          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
-        }
-      ],
-      "duration_ms": 320946,
-      "name": "Never Ending Story",
-      "url": "https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "They Called Him Tin Tin",
         "url": "https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 233824,
       "name": "Kiss Me (1985)",
       "url": "https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Never Ending Story",
+        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
+      },
+      "artists": [
+        {
+          "name": "Limahl",
+          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE"
     },
     {
       "added_at": "2024-02-06 15:45:26",

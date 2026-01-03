@@ -4181,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Ejusdem",
+        "url": "https://open.spotify.com/album/1LNtqOr6ljVSJDfFEBW9A0"
+      },
+      "artists": [
+        {
+          "name": "Opheralis",
+          "url": "https://open.spotify.com/artist/0Od9SGUAy2CmML18azdlVc"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Ejusdem",
+      "url": "https://open.spotify.com/track/605YeGIjGka3crKzVfz4Li"
+    },
+    {
+      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
       },
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 177615,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig"
@@ -9106,7 +9124,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 145983,
       "name": "Neverending",
       "url": "https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp"
@@ -9326,6 +9344,24 @@
       "duration_ms": 168200,
       "name": "Niveous",
       "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
+    },
+    {
+      "album": {
+        "name": "No Current",
+        "url": "https://open.spotify.com/album/36JbVMphaLA3o4Yj210MRk"
+      },
+      "artists": [
+        {
+          "name": "The Archive",
+          "url": "https://open.spotify.com/artist/0fpnXgno8SaeEd69t4K1dg"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172011,
+      "name": "No Current",
+      "url": "https://open.spotify.com/track/37ngUxARSZeT9Kshx3AhbN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1703950,
+  "num_followers": 1703682,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-09-05 04:48:26",
       "album": {
-        "name": "tus manias",
-        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "tus manias",
-      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
-    },
-    {
-      "added_at": "2025-09-05 04:48:26",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2025-09-05 04:48:26",
+      "album": {
+        "name": "tus manias",
+        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "tus manias",
+      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
     },
     {
       "added_at": "2025-09-05 04:48:26",

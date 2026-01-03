@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 97342,
       "name": "12.12.25 Remix Booska Charo",
       "url": "https://open.spotify.com/track/0Im1RDfUWwdPscNWvGJS0B"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 187560,
       "name": "A Little Thing Like Love",
       "url": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
@@ -18427,6 +18427,24 @@
     },
     {
       "album": {
+        "name": "Last Date",
+        "url": "https://open.spotify.com/album/0LYtNv326TvRBAKG6dQbM4"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5UBF4bnDbV4t0wdOzqLS6O"
+    },
+    {
+      "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
       },
@@ -19082,7 +19100,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 166401,
       "name": "heureux",
       "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
@@ -21968,7 +21986,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 188081,
       "name": "It's La Vida Loca",
       "url": "https://open.spotify.com/track/6b7kHZQC4ebIv1u3JjxyYH"
@@ -21986,7 +22004,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 188079,
       "name": "It's La Vida Loca",
       "url": "https://open.spotify.com/track/0ZcitQC78lqMjm8T6XQEvw"
@@ -26608,7 +26626,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -35504,7 +35522,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
@@ -41396,7 +41414,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
@@ -50561,6 +50579,28 @@
     },
     {
       "album": {
+        "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+    },
+    {
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -50576,7 +50616,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

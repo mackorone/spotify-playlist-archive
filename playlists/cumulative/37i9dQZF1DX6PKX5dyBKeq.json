@@ -45449,6 +45449,24 @@
     },
     {
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/19eoX2kxUm5dIbUymagNMF"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192513,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2"
+    },
+    {
+      "album": {
         "name": "Ying",
         "url": "https://open.spotify.com/album/47ttuDVvWZPK3u2G3N9T2C"
       },

@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-206 songs - 9 hr 25 min
+207 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Calming Black Noise](https://open.spotify.com/track/25xWNfk4rIKBqig425Nb3C) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Black Noise Serenade](https://open.spotify.com/album/0wZLfU9UB14vFGGmxbDmND) | 2:26 | 2023-03-10 | 2023-08-12 |
 | [Calming Black Noise \(Remastered\)](https://open.spotify.com/track/0xXLoqrSDiUzfDOgt5WcUY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:39 | 2023-04-21 | 2023-08-12 |
 | [Charming Black Noise](https://open.spotify.com/track/7tzor0BPgvWvqFqfPC1iO1) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Charming Black Noise](https://open.spotify.com/album/0oqJR0uGCERvFvL2eSxwMA) | 4:23 | 2025-12-19 |  |
+| [Cloak of Black Noise](https://open.spotify.com/track/7uiOw5Yg6HcMfyNQXsCBhj) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Cloak of Black Noise](https://open.spotify.com/album/0zHBG1hOIrhuKrBt5fnYv5) | 3:21 | 2025-12-19 |  |
 | [Close Your Eyes To Black Noise](https://open.spotify.com/track/4WOtxDTW0KnW0t0QVFmi8F) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 1:56 | 2023-03-10 | 2023-06-20 |
 | [Coal Echoes](https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Coal Echoes](https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj) | 4:47 | 2024-02-13 |  |
 | [Coal Whispers](https://open.spotify.com/track/2l3sVtG5YjEIVqCgU82Vcn) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Coal Whispers](https://open.spotify.com/album/6n96ZPOecgJMDFd7IDUwxK) | 5:37 | 2025-04-09 |  |
@@ -134,7 +135,7 @@
 | [Healing Black Noise](https://open.spotify.com/track/2IswQJThBN7riJqBofP1gK) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Healing Black Noise](https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu) | 2:19 | 2023-03-10 | 2023-07-06 |
 | [Healing Frequencies of Black Noise](https://open.spotify.com/track/6mluEKukHRCKj2i0fWLxqd) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Black Noise Tranquility](https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7) | 1:48 | 2023-03-10 | 2023-06-20 |
 | [Hypnotic Depths \- Black Noise](https://open.spotify.com/track/3sJfhU9JUHzkA2HxHJdaVC) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Ethereal Slumber & Hypnotic Depths \(Black Noise\)](https://open.spotify.com/album/7xRitZQaZnYeNzjQi6RONO) | 3:12 | 2023-08-11 |  |
-| [Infrasonic Black Noise](https://open.spotify.com/track/4W9TsNGmpYzTPdYSH3srBD) | [Sleep Liquids](https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC) | [Black Noise EP 2](https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga) | 2:30 | 2023-06-01 |  |
+| [Infrasonic Black Noise](https://open.spotify.com/track/4W9TsNGmpYzTPdYSH3srBD) | [Sleep Liquids](https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC) | [Black Noise EP 2](https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga) | 2:30 | 2023-06-01 | 2026-01-03 |
 | [Infrasound \(Black Noise\)](https://open.spotify.com/track/0IwBvFqcZQ2FjpZR4VngnT) | [Trip To Jupiter](https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw) | [Technical Silence](https://open.spotify.com/album/0Xir6UD5a3WgPN7vwFtpBP) | 2:31 | 2023-04-21 | 2024-02-14 |
 | [Inhale Exhale To Black Noise](https://open.spotify.com/track/6YjL19fXSIVmLsWBhYYxtr) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [Weightless Dream](https://open.spotify.com/album/51CKud3W481cM9U4tpIjNo) | 2:53 | 2023-06-01 | 2025-12-20 |
 | [Light Black Noise](https://open.spotify.com/track/5ZOctelnhBRHyHCoYXypUQ) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Dreamy Black Noise](https://open.spotify.com/album/5xiRrH7erxV3vAfmhqre3n) | 2:14 | 2023-06-19 | 2025-12-18 |

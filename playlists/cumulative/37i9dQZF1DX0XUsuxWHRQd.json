@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from 21 Savage, Lil Uzi Vert and Esdeekid. ",
+  "description": "New music from Lil Uzi Vert, Esdeekid and 21 Savage. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -27715,6 +27715,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "LWRW",
         "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
       },
@@ -46942,7 +46968,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 147495,
       "name": "the acronym (with Destroy Lonely)",
       "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"

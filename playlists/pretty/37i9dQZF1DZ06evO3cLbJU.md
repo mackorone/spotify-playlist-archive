@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,033 likes - 47 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,052 likes - 47 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 21 | [Alguien Que Lo Merece](https://open.spotify.com/track/2CfhFZfUYfb62O82qaJzv5) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 2:16 |
 | 22 | [Escupíme \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/7zxctRpTCwePgLqV2tMlg6) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:04 |
 | 23 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 |
-| 24 | [El Universo](https://open.spotify.com/track/6Lv326vIrChUYjAuXMXz78) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 2:16 |
-| 25 | [La Casa Fantasmal](https://open.spotify.com/track/2oNuYHTjwEsZ0GKPHSCxMb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/7ph1wgl97iq2aFdx6L0aSN) | 5:19 |
+| 24 | [La Casa Fantasmal](https://open.spotify.com/track/2oNuYHTjwEsZ0GKPHSCxMb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/7ph1wgl97iq2aFdx6L0aSN) | 5:19 |
+| 25 | [El Universo](https://open.spotify.com/track/6Lv326vIrChUYjAuXMXz78) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 2:16 |
 | 26 | [Chica Rutera](https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:58 |
 | 27 | [Nuestro Verano \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:03 |
 | 28 | [Terror](https://open.spotify.com/track/38jOdi0uFY0EbSfW0Uc790) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 2:12 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 38 | [Slippery People](https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Slippery People](https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru) | 5:40 |
 | 39 | [Doctora Muerte \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/4pM3DNnhGqjL9YOZ5ftaBr) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:32 |
 | 40 | [Buscando Más Allá](https://open.spotify.com/track/2pekaVVxEvCuXdilY92pdb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/7ph1wgl97iq2aFdx6L0aSN) | 5:14 |
-| 41 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
-| 42 | [La Celebración del Fuego](https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 2:47 |
+| 41 | [La Celebración del Fuego](https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 2:47 |
+| 42 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
 | 43 | [Terrorismo en la Copa del Mundo \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/05OoVaem9vngEmCW2rsZcd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 4:14 |
 | 44 | [El Rey de la Tv Italiana](https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:28 |
 | 45 | [Noche Negra \- Versión 2021](https://open.spotify.com/track/1gq4FV6nuuzhW1hiou3QY7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 2:26 |
 | 46 | [Lenguas de Fuego en el Cielo](https://open.spotify.com/track/6Z07AuS1QEeFv3vN6ENZNs) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:40 |
 | 47 | [Un Millón de Euros](https://open.spotify.com/track/4Hj4nomSWGUIQuTcOchHWE) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:14 |
 
-Snapshot ID: `aVRngAAAAABTgCzzGU4asQVFQvV+Lk9e`
+Snapshot ID: `aVW5AAAAAABMELDaoXzYpnYWM9It4HGU`

@@ -1,6 +1,6 @@
 {
   "description": "New music from KATSEYE, Ninho, Lost Frequencies and more...",
-  "num_followers": 47323,
+  "num_followers": 47484,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
       "duration_ms": 144520,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Been Undone (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 459519,
+      "name": "Been Undone - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -707,17 +723,21 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "M\u00c9THYL\u00c8NE 1.2",
+        "url": "https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO"
       },
       "artists": [
         {
           "name": "Guerta",
           "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
+        },
+        {
+          "name": "Eve La Marka",
+          "url": "https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 179999,
+      "name": "CLICK",
       "url": "https://open.spotify.com/track/560o3DjUMv3ePxn3oLMT3I"
     },
     {
@@ -907,6 +927,22 @@
       "duration_ms": 227586,
       "name": "pillow",
       "url": "https://open.spotify.com/track/56CBC6RIvEctmVWP8D8BwX"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 227979,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw"
     },
     {
       "added_at": "2026-01-01 23:00:37",

@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 380000,
       "name": "BASSLINE RUMBLE",
       "url": "https://open.spotify.com/track/4CehEcG87tSCrPjE4D0Huc"
@@ -20945,6 +20945,24 @@
     },
     {
       "album": {
+        "name": "House Revolution",
+        "url": "https://open.spotify.com/album/7pXjIRbuOT4y6r5fBweBHX"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "House Revolution",
+      "url": "https://open.spotify.com/track/7qiD587jBobezwf18RHLFW"
+    },
+    {
+      "album": {
         "name": "House Stepper",
         "url": "https://open.spotify.com/album/4vw7tuqc50NmnBTU0eOeqh"
       },
@@ -26056,6 +26074,24 @@
       "duration_ms": 171000,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
+    },
+    {
+      "album": {
+        "name": "Life Is Just 4 Fun EP",
+        "url": "https://open.spotify.com/album/1O9fVyKm4bguciAPt3npYh"
+      },
+      "artists": [
+        {
+          "name": "Balanka",
+          "url": "https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202790,
+      "name": "Life Is Just 4 Fun",
+      "url": "https://open.spotify.com/track/27jDEKr90ftNzfXnQwZLlL"
     },
     {
       "album": {
@@ -36124,7 +36160,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 197952,
       "name": "Provide",
       "url": "https://open.spotify.com/track/0syF2z8puWwWyVjioMSNE8"

@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Nathaniel Bassey
 
-7,050 songs - 21 day 14 hr 35 min
+7,051 songs - 21 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2026,6 +2026,7 @@
 | [God Abeg](https://open.spotify.com/track/3ZLbD1u5tI6UlVRtvXoS27) | [Enoch Agbonifo](https://open.spotify.com/artist/4IFhiskgEsBdB420NYWt9Z) | [God Abeg](https://open.spotify.com/album/3DeV0WEaCX9vhMjUHNmGSI) | 3:43 | 2025-10-24 | 2025-11-07 |
 | [God abeg](https://open.spotify.com/track/5diDmQkEpe6wbTGDSRh7yW) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Lucid Notes Vol\. I](https://open.spotify.com/album/0Ikgis3xcM49NfpohlUfoY) | 3:34 | 2024-03-29 | 2024-04-05 |
 | [God Abeg \(Run Ham For Me\)](https://open.spotify.com/track/6EThrcbVXxmdIoLoaXl33T) | [CKI](https://open.spotify.com/artist/4xkSnHNsTTnP373kjaBDe5) | [God Abeg \(Run Ham For Me\)](https://open.spotify.com/album/0eSiDzeHvV6Q9Ujtr3UYea) | 2:23 | 2023-08-04 | 2023-08-18 |
+| [God Ahbeg](https://open.spotify.com/track/6lxwfCjQdEdbE0BhBmR3Jq) | [GERALD ADUGBO](https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl) | [God Ahbeg](https://open.spotify.com/album/6zZjLRCBf04L21m9dCMO9H) | 1:59 | 2026-01-02 |  |
 | [God be praised](https://open.spotify.com/track/0HOEzKXhsaQP570ZPLkBzd) | [Big\_win](https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [God be praised](https://open.spotify.com/album/46ESEQMJl3m8OjgBTeyUjh) | 1:22 | 2025-08-08 | 2025-08-22 |
 | [God Don Do Am Again](https://open.spotify.com/track/0IszwngkfBqfLT2Tzyhobl) | [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [God Don Do Am Again](https://open.spotify.com/album/491cH2BvrASmOty4CIi0Wz) | 3:15 | 2024-11-29 | 2024-12-13 |
 | [God Don't Lie \(Alibi\)](https://open.spotify.com/track/55M2C2SIrYKvpdi7Yg5uC3) | [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3), [Rayen Drapper](https://open.spotify.com/artist/5q4vaBtxc1QBQADgAw8Idw) | [Alibi \( EP \)](https://open.spotify.com/album/7pgoSonm1hruLUpSv6h8TS) | 2:03 | 2025-01-24 | 2025-02-07 |
@@ -3779,7 +3780,7 @@
 | [Marvelous Doings \(Spontaneous Worship Version\)](https://open.spotify.com/track/5OnOeFYExzoCWgOxn63hcu) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [Marvelous Doings \(Spontaneous Worship Version\)](https://open.spotify.com/album/75HJkOc8W0lSzErYF9eMAe) | 15:38 | 2024-03-29 | 2024-04-12 |
 | [Marvelous Doings \(Spontaneous\)](https://open.spotify.com/track/0HffKSohmoTo1kgEe6p3nJ) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Marvelous Doings \(Spontaneous\)](https://open.spotify.com/album/0ZtJDpwFhlypwm2cnzoy6J) | 5:05 | 2023-11-17 | 2023-12-01 |
 | [Marvelous Things](https://open.spotify.com/track/0zVxKvmZMhAf7JBixel1pn) | [Jon Ogah](https://open.spotify.com/artist/7tQQRmgx4yIU0QxYQ8JLnG) | [Marvelous Things](https://open.spotify.com/album/0TOxJTDH3zr5CNdwtHClBK) | 5:02 | 2025-08-29 | 2025-09-12 |
-| [MARY'S PRAISE II](https://open.spotify.com/track/1MjoOeCCAYHKsMkEw40D1L) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz), [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [MARY'S PRAISE II](https://open.spotify.com/album/6qEXvwlDhA5y7eowp9p2gl) | 4:34 | 2026-01-02 |  |
+| [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/track/1MjoOeCCAYHKsMkEw40D1L) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz) | [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/album/6qEXvwlDhA5y7eowp9p2gl) | 4:34 | 2026-01-02 |  |
 | [MASA](https://open.spotify.com/track/4JQkhkBG7uDM5wI0NA3f9q) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [MASA](https://open.spotify.com/album/2IMwCklhUZdkv69ZUKLIMj) | 2:52 | 2024-09-27 | 2024-10-11 |
 | [MASOYINA](https://open.spotify.com/track/63DLalgNsxkKUxs7Zv5NSj) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [MASOYINA](https://open.spotify.com/album/59WQDjgBUGIJnyDTnb8X5p) | 2:31 | 2025-05-02 | 2025-05-16 |
 | [Masoyina \- Speed up version](https://open.spotify.com/track/5QY6fa6Z5xXOJwRLDwjGFe) | [Gina Pat](https://open.spotify.com/artist/2xP0hFdDNZCspgkAZzntli), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Masoyina \(Speed up version\)](https://open.spotify.com/album/0a5kRrFR2JTMP1rL8QxFeO) | 3:54 | 2023-08-11 | 2023-08-25 |

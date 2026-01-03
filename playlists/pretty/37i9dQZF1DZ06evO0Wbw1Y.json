@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29075,
+  "num_followers": 29071,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACcCZ3T1ZWDplumVFKPd9Or",
+  "snapshot_id": "aVW5AAAAAAAc3xlyc9yHtgz7Txbxdbqg",
   "tracks": [
     {
       "added_at": null,
@@ -147,38 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Perdon\u00e9",
-        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "Ya Te Perdon\u00e9",
-      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 189996,
-      "name": "Qu\u00e9 Hubiera Sido",
-      "url": "https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -267,6 +235,38 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 189996,
+      "name": "Qu\u00e9 Hubiera Sido",
+      "url": "https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Te Perdon\u00e9",
+        "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "Ya Te Perdon\u00e9",
+      "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 143737,
       "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00e1monos Antes",
-        "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 210406,
-      "name": "V\u00e1monos Antes",
-      "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inevitables",
         "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179084,
       "name": "Para Variar",
       "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00e1monos Antes",
+        "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "V\u00e1monos Antes",
+      "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+      "duration_ms": 181253,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 150424,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 150424,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cu\u00e1nto Me Duele",
         "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 163210,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3DkoXgQ0hZhKSNaeqCQZqZ.md) - cumulative - [plain](/playlists/plain/3DkoXgQ0hZhKSNaeqCQZqZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
+### [FURRY RADIO](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
 > FurryRadio.com, made for furs, by furs.
 
-452 songs - 23 hr 56 min
+455 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [ANTIHUMAN](https://open.spotify.com/track/3gUeMsbYV3mktmkknKWrnq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIHUMAN](https://open.spotify.com/album/0qB4GkfoPpEbDawVEpfn8r) | 3:31 | 2023-08-26 |  |
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-04-24 |  |
 | [antler crimes](https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy) | 4:43 | 2025-03-11 |  |
-| [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 |  |
+| [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 | 2026-01-03 |
 | [ANTONYMPH](https://open.spotify.com/track/6wmn9nN4of6GOnJ15qWfjU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [CUTIEMARKS \(And the Things That Bind Us\)](https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB) | 4:02 | 2025-07-05 |  |
 | [anxiety](https://open.spotify.com/track/0nlySXaY4zkVNNmFfXO8FS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [chattybaxi](https://open.spotify.com/artist/5bpBEpapbvKC10RUCJWESj) | [anxiety](https://open.spotify.com/album/7FB48AGZIDX4JkMqsOjWlX) | 1:51 | 2025-07-18 |  |
 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 | 2024-05-28 |  |
@@ -58,6 +58,7 @@
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 | 2025-10-05 |
 | [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 | 2025-10-21 |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 |  |
+| [can't let go](https://open.spotify.com/track/2frSr3yYR4kavDgpntENvx) | [elliestation](https://open.spotify.com/artist/5bjBGNzmL0Ro8u0xYTnWdH) | [can't let go](https://open.spotify.com/album/0awaO9su8qwaYdGmoYMZss) | 2:34 | 2026-01-02 |  |
 | [CAN'T STOP](https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CAN'T STOP](https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT) | 2:58 | 2024-11-03 |  |
 | [Candy Heaven](https://open.spotify.com/track/6Gn1p6UBqBHRvIlK8rmPTp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Candy Heaven](https://open.spotify.com/album/4CaJy3M7jYKZmuygaN6PWt) | 3:28 | 2023-06-14 |  |
 | [card](https://open.spotify.com/track/2kNuf5L0935uC0Sp6m23Cu) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:34 | 2024-08-15 |  |
@@ -83,6 +84,7 @@
 | [Crimson Galaxies](https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Crimson Galaxies](https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c) | 3:22 | 2025-10-26 |  |
 | [CROSSPOIN2](https://open.spotify.com/track/645OW5CjvCvUCrcKbDb61a) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [CROSSPOIN2](https://open.spotify.com/album/1zMd8rI0tkkeQkq1kd7EBc) | 6:33 | 2025-12-20 |  |
 | [crush on you](https://open.spotify.com/track/76olX1Q3j5mumCBBeUEYyD) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [friends](https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk) | 2:10 | 2025-08-01 |  |
+| [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 | 2026-01-02 |  |
 | [cut it out](https://open.spotify.com/track/7dtLaXlmmCkuzQdXEH2tI9) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [talk to me burnaby](https://open.spotify.com/album/11HIqDOT2HRCVUqtRJHrgf) | 2:57 | 2024-02-09 |  |
 | [CYBERNETIC HEART](https://open.spotify.com/track/7p1MBFFf6XTYJGh5elBNhM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2024-07-30 |  |
 | [Daily](https://open.spotify.com/track/0GEWuY45tW39x9HrkDh39O) | [EJECTDISK](https://open.spotify.com/artist/2IlshD0SdZs0HJppuv2YrO) | [Catastrophe](https://open.spotify.com/album/4BTVGr9BU83d1mObIvbaRw) | 2:27 | 2024-11-18 |  |
@@ -423,6 +425,7 @@
 | [Threads of the Stars \(Theme of Furality Somna\)](https://open.spotify.com/track/1Cw5uRquKZQSuJ55Zak864) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 2:41 | 2025-07-17 |  |
 | [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2024-02-10 |  |
 | [tiny windows](https://open.spotify.com/track/52x6HZ6BZSVCbYo8O5etd2) | [Tanger](https://open.spotify.com/artist/77JLoURVdxC8jnr3DPY05x), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [tiny windows](https://open.spotify.com/album/09HVB7hJsvNgmI5CTmcW8p) | 2:32 | 2024-11-25 |  |
+| [TOKYO ANNIVERSARY](https://open.spotify.com/track/7d1ukj9PbtQzPTHBrnDBoF) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [MRSHLMusic](https://open.spotify.com/artist/6hX9Jvgj2AAVJZCr4uLTaA) | [TOKYO ANNIVERSARY](https://open.spotify.com/album/05xmffzaDDnyXJKpLSLygd) | 3:33 | 2026-01-02 |  |
 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 | 2024-10-31 |  |
 | [trail](https://open.spotify.com/track/6P3FopPSVuqeuKxtkHQzFQ) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [trail](https://open.spotify.com/album/78oCCp2iWSo3zxfllN4JBE) | 2:20 | 2024-04-15 |  |
 | [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 | 2025-09-15 |  |

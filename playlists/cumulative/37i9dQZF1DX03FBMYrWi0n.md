@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Alice Bro
 
-343 songs - 19 hr 29 min
+344 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Beau baptême](https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Beau baptême](https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm) | 3:40 | 2023-06-02 | 2023-06-20 |
 | [Besoin d'un 2](https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Party piscine, Vol\. 1](https://open.spotify.com/album/5aqqq9TnuG20irlqhamWka) | 3:35 | 2024-06-07 | 2024-09-25 |
 | [bla bla bla](https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [bla bla bla](https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx) | 2:52 | 2024-07-05 | 2024-11-12 |
+| [Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ) | [teen\*](https://open.spotify.com/artist/0rippXAXb6jSyQIc8BnEtd), [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [Bleed Me Back to Yesterday](https://open.spotify.com/album/37OwUtKhUtSDdKeSaNu0Um) | 3:11 | 2026-01-02 |  |
 | [Blonde à personne](https://open.spotify.com/track/3kvaIljDaI3rGbUkHfRd6r) | [Alice Bro](https://open.spotify.com/artist/2EgU3uf1M88Fz6Iz7HHk4o) | [Blonde à personne](https://open.spotify.com/album/2AfLb4XJFWhiFs3ODg1SbI) | 3:01 | 2025-12-12 |  |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 | 2025-10-11 |
 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 | 2024-05-24 | 2025-10-11 |
@@ -196,7 +197,7 @@
 | [LIKE ME LIKE THAT](https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [GO BIG OR GO HOME](https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf) | 2:33 | 2025-12-12 |  |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-07 |
 | [longue nuit / grande maison](https://open.spotify.com/track/3FHuKUUy0hu791gD9cDnGE) | [hôte](https://open.spotify.com/artist/2TN2ejUvw00uSbRc6GV6ev) | [longue nuit / grande maison](https://open.spotify.com/album/36wJyDURMA22nGnkNy4Pg9) | 4:19 | 2025-06-13 |  |
-| [LUCKY8](https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [LUCKY8](https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4) | 2:46 | 2025-09-11 |  |
+| [LUCKY8](https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC) | [Ribbon Skirt](https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca) | [LUCKY8](https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4) | 2:46 | 2025-09-11 | 2026-01-03 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2025-09-22 |
 | [Ma maison](https://open.spotify.com/track/2OuvHFcMCxr4Y3allMuic3) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [Urubu, gospel d’un charognard](https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz) | 3:37 | 2025-11-14 |  |

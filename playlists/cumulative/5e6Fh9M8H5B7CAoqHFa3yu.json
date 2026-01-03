@@ -12231,6 +12231,24 @@
     },
     {
       "album": {
+        "name": "Howling at the Moon",
+        "url": "https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "Howling at the Moon",
+      "url": "https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7"
+    },
+    {
+      "album": {
         "name": "Son of Solomon",
         "url": "https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL"
       },
@@ -17884,6 +17902,24 @@
       "duration_ms": 203817,
       "name": "Mia cara",
       "url": "https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a"
+    },
+    {
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/3tQtt41sROzZhAxfHOeJAD"
+      },
+      "artists": [
+        {
+          "name": "Compass",
+          "url": "https://open.spotify.com/artist/7AVshRAO9zcYZH05T2WNCg"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296591,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/0woqLoAOOZc6YauijRcMN9"
     },
     {
       "album": {

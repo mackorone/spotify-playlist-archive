@@ -1,6 +1,6 @@
 {
   "description": "Grupo Benzadeus, J.Eskine e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443878,
+  "num_followers": 443839,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-12-26 16:10:40",
       "album": {
+        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+    },
+    {
+      "added_at": "2025-12-26 16:10:40",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -635,22 +655,38 @@
     {
       "added_at": "2025-12-26 16:10:40",
       "album": {
-        "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
+        "name": "Pra Decidir (Os Caras Da Rua)",
+        "url": "https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
         },
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1rVwEMWJl0BUiYZW8oR5r4"
+      "duration_ms": 172906,
+      "name": "Pra Decidir (Os Caras Da Rua)",
+      "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
     },
     {
       "added_at": "2025-12-26 16:10:40",
@@ -735,42 +771,6 @@
       "duration_ms": 152158,
       "name": "Number One",
       "url": "https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe"
-    },
-    {
-      "added_at": "2025-12-26 16:10:40",
-      "album": {
-        "name": "Pra Decidir (Os Caras Da Rua)",
-        "url": "https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG"
-      },
-      "artists": [
-        {
-          "name": "FM O Dia",
-          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        },
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
-        },
-        {
-          "name": "Fabinho",
-          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
-        },
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Pra Decidir (Os Caras Da Rua)",
-      "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
     },
     {
       "added_at": "2025-12-26 16:10:40",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-12-26 16:10:40",
       "album": {
+        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 229131,
+      "name": "Banjo E Bon\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
+    },
+    {
+      "added_at": "2025-12-26 16:10:40",
+      "album": {
         "name": "DOIS Quebrada Inteligente Pro Max",
         "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 242007,
       "name": "VIL\u00c3O DA M\u00cdDIA. - Remix",
       "url": "https://open.spotify.com/track/4alGpR1ZfjuxjPkQSUfRw6"
-    },
-    {
-      "added_at": "2025-12-26 16:10:40",
-      "album": {
-        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 229131,
-      "name": "Banjo E Bon\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
     },
     {
       "added_at": "2025-12-26 16:10:40",
@@ -951,6 +951,54 @@
     {
       "added_at": "2025-12-26 16:10:40",
       "album": {
+        "name": "Amor ou Ressentimento",
+        "url": "https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF"
+      },
+      "artists": [
+        {
+          "name": "Mannda Lym",
+          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Amor ou Ressentimento",
+      "url": "https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9"
+    },
+    {
+      "added_at": "2025-12-26 16:10:40",
+      "album": {
+        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 172767,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
+    },
+    {
+      "added_at": "2025-12-26 16:10:40",
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
+    },
+    {
+      "added_at": "2025-12-26 16:10:40",
+      "album": {
         "name": "Quando Voc\u00ea Ligou",
         "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
       },
@@ -975,54 +1023,6 @@
       "duration_ms": 189268,
       "name": "Quando Voc\u00ea Ligou",
       "url": "https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS"
-    },
-    {
-      "added_at": "2025-12-26 16:10:40",
-      "album": {
-        "name": "Amor ou Ressentimento",
-        "url": "https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF"
-      },
-      "artists": [
-        {
-          "name": "Mannda Lym",
-          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Amor ou Ressentimento",
-      "url": "https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9"
-    },
-    {
-      "added_at": "2025-12-26 16:10:40",
-      "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
-      },
-      "artists": [
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
-    },
-    {
-      "added_at": "2025-12-26 16:10:40",
-      "album": {
-        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 172767,
-      "name": "A Fila Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
     },
     {
       "added_at": "2025-12-26 16:10:40",
@@ -1055,34 +1055,34 @@
     {
       "added_at": "2025-12-26 16:10:40",
       "album": {
-        "name": "DOIS Quebrada Inteligente Pro Max",
-        "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
+        "name": "Os Caras da Rua, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
         },
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
         },
         {
-          "name": "DJ Mzl Ori",
-          "url": "https://open.spotify.com/artist/7b2orftrm2hU49EZKOD2Tz"
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
         },
         {
-          "name": "MC LCKaiique",
-          "url": "https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS"
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
         }
       ],
-      "duration_ms": 192000,
-      "name": "USD, \u00c9 USD. - Remix",
-      "url": "https://open.spotify.com/track/0QAe9gPsy4eUrQ4ORTQO1H"
+      "duration_ms": 92389,
+      "name": "Nosso Lance - Ao Vivo",
+      "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
     },
     {
       "added_at": "2025-12-26 16:10:40",

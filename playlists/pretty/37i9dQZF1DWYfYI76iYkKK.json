@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130560,
+  "num_followers": 130565,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2026-01-01 16:00:29",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "a piece of peace",
+        "url": "https://open.spotify.com/album/0cbtcUKQDGyd1zNWJo4CuY"
       },
       "artists": [
         {
@@ -68,8 +68,8 @@
           "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 240000,
+      "name": "\u4e0d\u662f\u4f60\u60f3\u50cf\u7684\u90a3\u7a2e\u597d\u4eba",
       "url": "https://open.spotify.com/track/7BTWULmMfJ3SFAmb9CJEF9"
     },
     {
@@ -87,6 +87,22 @@
       "duration_ms": 263173,
       "name": "\u592a\u8070\u660e",
       "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2026-01-01 16:00:29",
+      "album": {
+        "name": "\u53ef\u662f\u4f60\u5df2\u7d93\u5920\u597d\u4e86",
+        "url": "https://open.spotify.com/album/1UHvGUwavNgTiqm31ZgsZI"
+      },
+      "artists": [
+        {
+          "name": "\u7ae5\u5fc3Valentina",
+          "url": "https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "\u53ef\u662f\u4f60\u5df2\u7d93\u5920\u597d\u4e86",
+      "url": "https://open.spotify.com/track/3kbg9W00SVKWTuKxqKg5Wy"
     },
     {
       "added_at": "2026-01-01 16:00:29",
@@ -423,22 +439,6 @@
     {
       "added_at": "2026-01-01 16:00:29",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
-    },
-    {
-      "added_at": "2026-01-01 16:00:29",
-      "album": {
         "name": "\u5de6\u908a\u7684\u4eba",
         "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 216585,
       "name": "\u5de6\u908a\u7684\u4eba",
       "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
+    },
+    {
+      "added_at": "2026-01-01 16:00:29",
+      "album": {
+        "name": "\u4e0d\u4f54\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "\u4e0d\u4f54\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
     },
     {
       "added_at": "2026-01-01 16:00:29",
@@ -587,22 +603,6 @@
     {
       "added_at": "2026-01-01 16:00:29",
       "album": {
-        "name": "\u611b\u7684\u5c0d\u767d",
-        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
-    },
-    {
-      "added_at": "2026-01-01 16:00:29",
-      "album": {
         "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
         "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
+    },
+    {
+      "added_at": "2026-01-01 16:00:29",
+      "album": {
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
     },
     {
       "added_at": "2026-01-01 16:00:29",
@@ -751,6 +767,22 @@
     {
       "added_at": "2026-01-01 16:00:29",
       "album": {
+        "name": "\u8f38\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
+      },
+      "artists": [
+        {
+          "name": "J.Sheon",
+          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "\u8f38\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2026-01-01 16:00:29",
+      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -767,22 +799,6 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
-    },
-    {
-      "added_at": "2026-01-01 16:00:29",
-      "album": {
-        "name": "\u8f38\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
-      },
-      "artists": [
-        {
-          "name": "J.Sheon",
-          "url": "https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "\u8f38\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
     },
     {
       "added_at": "2026-01-01 16:00:29",

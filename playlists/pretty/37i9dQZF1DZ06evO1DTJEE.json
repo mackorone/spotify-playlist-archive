@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 64147,
+  "num_followers": 64177,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABsypH+w0m3UunrYpNgbXKF",
+  "snapshot_id": "aVW5AAAAAADIj/Iz06mu0DapPSaggwuq",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slow Dancing In A Burning Room (Spotify Singles)",
         "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 188674,
       "name": "I Hope She's Drinkin' Tonight",
       "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq"
     },
     {
       "added_at": null,
@@ -611,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+      "duration_ms": 221946,
+      "name": "She Used to Be Mine (with Riley Green)",
+      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
     },
     {
       "added_at": null,
@@ -663,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "She Used to Be Mine (with Riley Green)",
-      "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury Me In Dixie",
         "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188250,
       "name": "Bury Me In Dixie",
       "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
     },
     {
       "added_at": null,

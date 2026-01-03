@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacvy5Jp2y6k.md) - [plain]
 
 > Songs that will make you fall in love without even seeing your date 👀 Meira and Oskar from Netflix series Love is Blind Sweden bless us with their best ❤️ songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,843 likes - 29 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,845 likes - 29 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

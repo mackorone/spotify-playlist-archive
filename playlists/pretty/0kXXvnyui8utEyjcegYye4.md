@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 346 songs - 20 hr 29 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 348 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,5 +354,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 344 | [Lost Soul Down / Floki](https://open.spotify.com/episode/0K8DGfkYymNOtB18XtEpbf) | [ardaxrd](https://open.spotify.com/show/2xF0CyHShTWyAB3Jv8MI23) | [ardaxrd](https://open.spotify.com/album/2xF0CyHShTWyAB3Jv8MI23) | 2:43 |
 | 345 | [Tout donner \(Tiktok version \- Electric guitar\)](https://open.spotify.com/episode/0RnNTDUqrAlctRphk4xSXq) | [Sahari Podcasts ](https://open.spotify.com/show/0HApT3E6cTeAKAbDG7dni3) | [Sahari Podcasts ](https://open.spotify.com/album/0HApT3E6cTeAKAbDG7dni3) | 3:00 |
 | 346 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |
+| 347 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
+| 348 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 |
 
-Snapshot ID: `AAADi5XKle7/Od5QI00UqwW5PX5n1tOI`
+Snapshot ID: `AAADjdpJkQl+WHN5dkkQGCOaS/SBlCXK`

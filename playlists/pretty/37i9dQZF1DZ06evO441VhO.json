@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18307,
+  "num_followers": 18308,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAADoMyOkLPR54VCKKY85jwi+",
+  "snapshot_id": "aVW5AAAAAAAOXfjyU8OnhwDywQa+8/s9",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 173788,
       "name": "Homesick for Hope",
       "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 179178,
       "name": "Keep It to Myself",
       "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 198892,
-      "name": "A Long Way Down",
-      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 198892,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 190013,
       "name": "Save Your Breath",
       "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lay Me to Rest",
-        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
     },
     {
       "added_at": null,
@@ -696,9 +664,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lay Me to Rest",
+        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 217401,
-      "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
-      "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
       },
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday on the Radio",
-        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -760,9 +728,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 170029,
-      "name": "Doomsday on the Radio",
-      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 217401,
+      "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
+      "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 171897,
       "name": "Who Brings a Knife to a Gunfight?",
       "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday on the Radio",
+        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Doomsday on the Radio",
+      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
     },
     {
       "added_at": null,

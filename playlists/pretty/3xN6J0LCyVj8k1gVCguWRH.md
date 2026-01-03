@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,359 likes - 160 songs - 9 hr 29 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,349 likes - 160 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 86390,
+  "num_followers": 86409,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAAWhu7QmQtKwb4Tj+FRgBdT",
+  "snapshot_id": "aVW5AAAAAAChraeviMMPqwES5uqBmHgS",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 396048,
-      "name": "Mi Sueno",
-      "url": "https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 396048,
+      "name": "Mi Sueno",
+      "url": "https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS"
     },
     {
       "added_at": null,

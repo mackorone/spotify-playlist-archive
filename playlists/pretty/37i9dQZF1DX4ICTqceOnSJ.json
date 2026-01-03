@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 412892,
+  "num_followers": 412911,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El Vuelo del Pez",
-        "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Fruta (Vol. II)",
         "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Vuelo del Pez",
+        "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El Fin del Mundo",
-        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
         {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 188093,
-      "name": "El Fin del Mundo",
-      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -611,18 +607,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+        "name": "El Fin del Mundo",
+        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+      "duration_ms": 188093,
+      "name": "El Fin del Mundo",
+      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pol\u00edtico",
         "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
       "artists": [
         {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
+      "duration_ms": 238146,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "LA FORMA DE TUS HUESOS",
         "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205569,
       "name": "Hablar de Ti",
       "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+      "duration_ms": 188660,
+      "name": "Me Conecto (feat. Jorge Drexler)",
+      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 188660,
-      "name": "Me Conecto (feat. Jorge Drexler)",
-      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
       "artists": [
         {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

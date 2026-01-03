@@ -4,7 +4,7 @@
 
 > 
 
-2,781 songs - 6 day 0 hr 30 min
+2,783 songs - 6 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,6 +1207,7 @@
 | [I Can't Call You Mine](https://open.spotify.com/track/1j7GJmfnxV8MNeml1hGrfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [I Can't Call You Mine](https://open.spotify.com/album/2zhDAlLGThfPeNfSvc0ZTg) | 2:58 | 2024-04-01 |  |
 | [I Can't Take It](https://open.spotify.com/track/5hF58SQmcjUwD5F1hqmxVR) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [I Can't Take It](https://open.spotify.com/album/6By3bJu40jt2B2zBvDjOmi) | 2:49 | 2025-02-14 |  |
 | [I COULD BE THE ONE \(TECHNO SPED UP\)](https://open.spotify.com/track/5wRrUDhC0FamuVFWejGgs8) | [TECHNO N TEQUILLA](https://open.spotify.com/artist/3nZ3AabGubephVrPTp8rRz) | [I COULD BE THE ONE \(TECHNO\)](https://open.spotify.com/album/1oYeOxPHyGzUHluYVBlRpI) | 2:00 | 2024-03-29 |  |
+| [I Could Be Yoshi](https://open.spotify.com/track/7MV3EmKme75bPXxqmm30j9) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [I Could Be Yoshi](https://open.spotify.com/album/2xdP9mWsFnLLN2gZpT2Tjd) | 2:36 | 2026-01-02 |  |
 | [I CRY](https://open.spotify.com/track/285RaaqTlCC0AL32o0T7fP) | [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [I CRY](https://open.spotify.com/album/26sOLDUZJW8gcWgo0cWXq8) | 2:07 | 2025-04-25 |  |
 | [I DRINK YOUR BLOOD](https://open.spotify.com/track/1kvcYKCe038kO81iQ49Vom) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [I DRINK YOUR BLOOD](https://open.spotify.com/album/6UmiHrnuglBaPhWjNGz251) | 2:28 | 2025-08-02 |  |
 | [I Feel Alive](https://open.spotify.com/track/4NsHzdH6cv804yQpphQ1KD) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [IgikoPop](https://open.spotify.com/artist/1dhrJCLL3RRASgYE4LzopP) | [I Feel Alive](https://open.spotify.com/album/7GtNjxyhKKIJDum2pmJa8Z) | 3:36 | 2022-07-25 |  |
@@ -2084,6 +2085,7 @@
 | [Round My Head](https://open.spotify.com/track/542YJaaKolRVtYswni3upP) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Round My Head](https://open.spotify.com/album/0cbcXYIF7X4STj3zcHC9JO) | 1:41 | 2025-05-31 |  |
 | [ROXBOX](https://open.spotify.com/track/3SYKZZRN9r1Id3Fb54DODK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [minority room](https://open.spotify.com/album/6GwFoOMMZhVXtgkhO6fAKa) | 3:37 | 2022-02-22 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-06 |  |
+| [Rule My Heart](https://open.spotify.com/track/2zLQxS3GNTWreWdEJNJqxL) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Rule My Heart](https://open.spotify.com/album/7tqp3lhYwtyLBP1cD8MJDe) | 2:48 | 2026-01-02 |  |
 | [Run Away](https://open.spotify.com/track/77IxOiVpFXzl9F1w9zz4Ra) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Run Away](https://open.spotify.com/album/05NaULJBc3q005BEtApZd3) | 2:28 | 2023-05-20 |  |
 | [Run For Cover](https://open.spotify.com/track/0LZ13SxBDtB4ANMRrVK6hO) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Run For Cover](https://open.spotify.com/album/3ZAtTEbwX4IS1XhTmS7u7A) | 3:02 | 2024-06-04 |  |
 | [RUN IT BACK \(feat\. CRYBLOOD\)](https://open.spotify.com/track/6cNbM573w0Qx6EnU4EHZQN) | [DEATH CODE](https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06), [CRYBLOOD](https://open.spotify.com/artist/0dapaBles04lbm4sydV9To) | [RUN IT BACK \(feat\. CRYBLOOD\)](https://open.spotify.com/album/4iy2xEB1u2ueAdLaBEhCJn) | 2:33 | 2024-08-13 |  |

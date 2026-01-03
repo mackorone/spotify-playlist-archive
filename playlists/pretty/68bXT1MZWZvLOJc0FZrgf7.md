@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain](/playlists/plain/68bXT1MZWZvLOJc0FZrgf7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68bXT1MZWZvLOJc0FZrgf7)
 
-### [Dance For Days 🪩🕺 2025 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
+### [Dance For Days 🪩🕺 2026 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
+> Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 93,589 likes - 100 songs - 5 hr 39 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 93,585 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 99 | [I HAVEN'T SAID ENOUGH \- Shallou Remix](https://open.spotify.com/track/5FDeBI6hUUHiJIWsOtdjKJ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I HAVEN'T SAID ENOUGH \(Shallou Remix\)](https://open.spotify.com/album/2fyTxt4NFQrXwP4RgDrTH2) | 3:33 |
 | 100 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
 
-Snapshot ID: `AAARk9Z5Y35z5DTJeK06tXg7B2N+9u7Q`
+Snapshot ID: `AAARlvEYqZsMXdSNtigcDrpltExTlqhu`

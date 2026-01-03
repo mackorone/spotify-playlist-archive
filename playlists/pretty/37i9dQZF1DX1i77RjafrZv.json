@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317604,
+  "num_followers": 317612,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "La Valse A Mille Temps (Vol.4)",
+        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Ne me quitte pas",
+      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 280826,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "La Valse A Mille Temps (Vol.4)",
-        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Ne me quitte pas",
-      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "10 ans de nous",
-      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "La vieille",
         "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 327200,
       "name": "Je vais t'aimer",
       "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "10 ans de nous",
+      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Besoin De Rien, Envie De Toi",
+        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
+      },
+      "artists": [
+        {
+          "name": "Peter & Sloane",
+          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Besoin de rien, envie de toi",
+      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Solune",
         "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 331800,
       "name": "Pas toi",
       "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Besoin De Rien, Envie De Toi",
-        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
-      },
-      "artists": [
-        {
-          "name": "Peter & Sloane",
-          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Besoin de rien, envie de toi",
-      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
     },
     {
       "added_at": "2024-10-15 19:50:17",

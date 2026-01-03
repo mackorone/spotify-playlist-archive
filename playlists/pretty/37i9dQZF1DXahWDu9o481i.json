@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Kelsea Ballerini",
-  "num_followers": 57450,
+  "num_followers": 58764,
   "original_name": "Editors' Picks: Best Songs of November",
   "owner": {
     "name": "Spotify",
@@ -399,30 +399,6 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "CiCi (Deluxe)",
-        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Nice n' Sweet (feat. MOLIY)",
-      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
         "name": "Finally Over It (The Afterparty)",
         "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet (feat. MOLIY)",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
         "name": "A Hundred Alibis",
         "url": "https://open.spotify.com/album/5pBP3gp4Xm7jNUoylvFhhN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 242000,
       "name": "Loveseat",
       "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
     },
     {
       "added_at": "2025-12-01 17:54:59",

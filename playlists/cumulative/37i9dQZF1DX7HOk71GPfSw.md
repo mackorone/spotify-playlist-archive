@@ -4,7 +4,7 @@
 
 > we love you Danny Brown 🌸
 
-2,529 songs - 4 day 19 hr 37 min
+2,531 songs - 4 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 | 2023-05-19 | 2023-10-07 |
 | [Colorado](https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Colorado](https://open.spotify.com/album/3YwG5jr7mC2EzDtbvgTvL0) | 2:38 | 2024-06-28 |  |
 | [Come 2 Brazil](https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Come 2 Brazil](https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq) | 2:14 | 2023-03-10 | 2023-07-01 |
+| [Come Find Me \(with Clementine Douglas\) \- Danny L Harle Remix](https://open.spotify.com/track/7sXBFCN5U9BlwKfQqY0tyj) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Come Find Me \(with Clementine Douglas\) \[Danny L Harle Remix\]](https://open.spotify.com/album/67PTtH3IDyV8YRckiNAwLE) | 4:22 | 2026-01-02 |  |
 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 | 2022-06-10 | 2022-07-23 |
 | [Come For Me](https://open.spotify.com/track/5HqP2ewvvut1OAZAZRhNm8) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:44 | 2022-09-30 | 2022-10-15 |
 | [come thru](https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [come thru](https://open.spotify.com/album/64tGtfAUug6pBCPyn8jHyy) | 2:12 | 2022-01-05 | 2022-03-19 |
@@ -638,7 +639,7 @@
 | [drained to my core](https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [drained to my core](https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl) | 2:30 | 2024-08-09 | 2025-10-18 |
 | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/track/3VzW3IXIwEvZ0HcKZEFZjJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/album/3CR9ZfCeWVq7LbQg5deUqu) | 2:00 | 2021-05-03 | 2021-09-24 |
 | [draugr](https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx) | [draugr](https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf) | 1:57 | 2022-12-02 | 2023-01-25 |
-| [Dread \- The Moment \(Original Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(Original Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 | 2025-12-05 |  |
+| [Dread \- The Moment \(The Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(The Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 | 2025-12-05 |  |
 | [DREAM](https://open.spotify.com/track/3G3v3bxo2cYUnWx1bNrT65) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g), [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy) | [DREAM](https://open.spotify.com/album/7mfdaG6cwzlcjce1cdoGh5) | 2:55 | 2024-06-14 | 2025-05-24 |
 | [Dream II](https://open.spotify.com/track/1F5rO7jHAD0Olx2ZXIisvL) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY) | [Post Eternity](https://open.spotify.com/album/5Xj3sazRGMR15tVj5IQByy) | 2:22 | 2020-12-11 | 2021-05-15 |
 | [dream of me](https://open.spotify.com/track/4sy70Ji7zl3zYK8gmYZK8N) | [sh4dows](https://open.spotify.com/artist/4DPKSbupqoAbyidbz3SHTM) | [dream of me](https://open.spotify.com/album/0hEVkJTZCzVPIifsHpfgNE) | 4:07 | 2025-04-04 |  |
@@ -1763,6 +1764,7 @@
 | [poptarts](https://open.spotify.com/track/2p5fipLQ7cQRAKRBEj8Ykn) | [FINLINCE!](https://open.spotify.com/artist/6QBAsmqSEXHYH3ES6AppN8) | [poptarts](https://open.spotify.com/album/6ApKlnIUxv5X4tyUOiHXxq) | 1:23 | 2021-01-08 | 2021-02-10 |
 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 | 2022-05-13 | 2022-08-20 |
 | [portland](https://open.spotify.com/track/4SHZsJ8mwyWkv1zK6uGfP5) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [portland](https://open.spotify.com/album/74QxIstmSZX5IAGTATvbRC) | 2:22 | 2022-02-18 | 2022-05-12 |
+| [POSE!](https://open.spotify.com/track/5s35aAgXqaJZ4TJfqJw70r) | [aidn.](https://open.spotify.com/artist/4omuqQ7ohlcuOto359qQsn) | [POSE!](https://open.spotify.com/album/0w4Ani4loJimE9QnWqv6yB) | 2:25 | 2026-01-02 |  |
 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 | 2024-03-04 | 2025-04-12 |
 | [positions](https://open.spotify.com/track/25QDu1sjeUKdszBienrNx7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [positions](https://open.spotify.com/album/0vR5A8fv2WpBjIiLN2OF7V) | 2:50 | 2021-11-05 | 2022-02-26 |
 | [Poster Girl](https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Poster Girl](https://open.spotify.com/album/3ntPrJhjhD6pjmhw3OSNtP) | 3:43 | 2023-09-15 | 2024-03-23 |

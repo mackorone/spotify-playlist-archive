@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21779,
+  "num_followers": 21781,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAABJVKG1XmMRsC5UpJdZDqi6",
+  "snapshot_id": "aVW5AAAAAAD9Abt7pEp3Y/S2s+XltXEq",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00e9s Bom",
         "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 202000,
       "name": "Tu \u00e9s Bom",
       "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 327866,
       "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 382880,
       "name": "Vem",
       "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
-        }
-      ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,

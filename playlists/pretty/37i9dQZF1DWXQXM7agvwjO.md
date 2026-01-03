@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Silica Gel
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,858 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,991 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Already Shown](https://open.spotify.com/track/3SbtnxQxWyfSsbwhgXdPDV) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Drift With Me](https://open.spotify.com/album/1wMxrX1hcxYZE8Xt4QtrTc) | 3:22 |
 | 100 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
 
-Snapshot ID: `AAAAAINA7K1/WYTEoDXgEiwuLXF4tHrK`
+Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`

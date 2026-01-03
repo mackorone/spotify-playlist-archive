@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191510,
+  "num_followers": 191498,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Old Shadows",
-        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 246764,
-      "name": "Old Shadows",
-      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 210520,
       "name": "4am",
       "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Old Shadows",
+        "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 246764,
+      "name": "Old Shadows",
+      "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        },
-        {
-          "name": "Camille Camille",
-          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
-        }
-      ],
-      "duration_ms": 253919,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        },
+        {
+          "name": "Camille Camille",
+          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
+        }
+      ],
+      "duration_ms": 253919,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 237635,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2025-12-18 23:00:10",

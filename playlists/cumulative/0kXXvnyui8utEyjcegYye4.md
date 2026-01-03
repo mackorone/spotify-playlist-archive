@@ -4,7 +4,7 @@
 
 > 
 
-359 songs - 21 hr 10 min
+361 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2 Lil Shorty](https://open.spotify.com/track/1Scp8ar1dnJOaSVEMIiB80) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Donny Womack](https://open.spotify.com/album/2VubyYz7rZ5Z68IJ3CjwNf) | 2:29 | 2023-07-13 |  |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2023-07-13 |  |
 | [24](https://open.spotify.com/track/2FVMbLuIxo0dz3KLXgN6Jh) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Epidemic](https://open.spotify.com/album/3RxpooDT1k9yceUKmArDXD) | 2:40 | 2023-07-13 |  |
+| [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2026-01-02 |  |
 | [4x4](https://open.spotify.com/track/5KEL3nc5dlsA6hyS87ozRZ) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [4x4](https://open.spotify.com/album/1oIEyFl9D14dKAGJ3KyEMO) | 3:41 | 2023-07-13 |  |
 | [5% TINT](https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:16 | 2023-07-13 |  |
 | [679 \(feat\. Monty\)](https://open.spotify.com/track/0w3Q3VFdrYzo24QUIGnBNy) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:06 | 2023-07-13 | 2025-06-18 |
@@ -183,6 +184,7 @@
 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2025-04-09 |  |
 | [Lust](https://open.spotify.com/track/2aEJaP9Q3OAsVef5MLmCQU) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Top Rap Hits](https://open.spotify.com/album/0KgTIuz41r1RJWIj7ViWGp) | 2:36 | 2023-07-13 |  |
 | [Lust](https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Life of a Dark Rose](https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE) | 2:36 | 2023-07-13 |  |
+| [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2026-01-02 |  |
 | [Man of my Word](https://open.spotify.com/track/4nNw167LUp6j2VvuJdbtv8) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:52 | 2023-07-13 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-07-13 | 2025-08-10 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2025-09-13 |  |

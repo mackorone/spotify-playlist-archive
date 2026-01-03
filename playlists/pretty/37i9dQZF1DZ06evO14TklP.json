@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 17872,
+  "num_followers": 17881,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAADu4NFFIgEAasl8XrAu+MiW",
+  "snapshot_id": "aVW5AAAAAABpB8KNd40MjCn3/O8SGXb2",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
       },
       "artists": [
         {
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+        },
+        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
     },
     {
       "added_at": null,
@@ -839,26 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
-        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
       "artists": [
         {
-          "name": "Alligatorz",
-          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
-        },
-        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
-      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,

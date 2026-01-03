@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Pooh Shiesty
 
-2,472 songs - 4 day 19 hr 36 min
+2,473 songs - 4 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 | 2022-10-15 |
 | [556 \(Green Tip\)](https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [556 \(Green Tip\)](https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h) | 1:57 | 2022-02-25 | 2022-05-14 |
 | [5AM](https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [5AM](https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX) | 1:42 | 2024-11-15 | 2025-01-04 |
-| [5AM](https://open.spotify.com/track/30J3SGbsmsnKwMiBXhbofy) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [5AM](https://open.spotify.com/album/045MSAlI6oPK2Kx3og4PAe) | 2:54 | 2025-12-19 |  |
+| [5AM](https://open.spotify.com/track/30J3SGbsmsnKwMiBXhbofy) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [5AM](https://open.spotify.com/album/045MSAlI6oPK2Kx3og4PAe) | 2:54 | 2025-12-19 | 2026-01-03 |
 | [5AM](https://open.spotify.com/track/3gYut1o4Wp1yPtpw8vLymj) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [5AM](https://open.spotify.com/album/0OV7ADd4vn1iTdB1h3g0R9) | 2:18 | 2023-03-17 | 2023-03-28 |
 | [5G](https://open.spotify.com/track/08j2Jh51yVfb9sD33TAPYJ) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5G](https://open.spotify.com/album/79nZhu9My4y3JRzooOkCoL) | 3:26 | 2025-07-11 | 2025-07-26 |
 | [6 Months \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 2:55 | 2022-06-17 | 2022-08-27 |
@@ -855,6 +855,7 @@
 | [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 2:53 | 2025-01-10 | 2025-05-24 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2023-12-16 |
 | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-02-23 | 2024-05-11 |
+| [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-02 |  |
 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 | 2024-08-23 | 2024-08-31 |
 | [Girls Gone Wild](https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Girls Gone Wild](https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF) | 3:27 | 2025-11-07 | 2025-11-29 |
 | [Give Em Hell](https://open.spotify.com/track/2wQimirOzzK9MH4cQJGrF1) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Give Em Hell](https://open.spotify.com/album/69EpOPwrGGGEnr58rZJGPv) | 3:09 | 2025-10-17 | 2025-11-01 |

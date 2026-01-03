@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma & Tito Double P
 
-1,910 songs - 4 day 4 hr 15 min
+1,913 songs - 4 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [BICHOTAG](https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:13 | 2023-08-11 | 2023-12-09 |
 | [Bichote](https://open.spotify.com/track/3uAMclV6aORpZCZDds3c4m) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Recap \(LV Edition\)](https://open.spotify.com/album/6CzdtIpxl08xpF1smdISXq) | 4:01 | 2024-04-05 | 2024-12-05 |
 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 | 2024-04-12 | 2025-01-23 |
+| [Bienvenidos A La Tierra](https://open.spotify.com/track/4xDTwjCmUFh6P5fsiJdvwU) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:52 | 2026-01-02 |  |
 | [Big Bang](https://open.spotify.com/track/6u7lzip5DLfQzyOph4PUR8) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Realismo Mágico](https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P) | 3:24 | 2024-04-12 | 2024-12-05 |
 | [BIGSHORTYS](https://open.spotify.com/track/50cQxtYpWuqViXC9b7PnzI) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [PISTOLA](https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY) | 3:06 | 2025-03-07 |  |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2024-04-26 | 2024-12-05 |
@@ -787,6 +788,7 @@
 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 | 2023-08-05 |
 | [Incondicional](https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:32 | 2023-04-14 | 2023-07-08 |
 | [Influencer](https://open.spotify.com/track/7qEPiZyQmliBHQI4PHYbIc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [XXX](https://open.spotify.com/album/5hEiUWJ6S4X1Lm2JYkuahP) | 2:23 | 2023-07-28 | 2023-11-18 |
+| [Inglés En Miami](https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 | 2026-01-02 |  |
 | [Injusto](https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [Injusto](https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd) | 3:33 | 2024-02-09 | 2024-12-05 |
 | [INSTINTO ANIMAL](https://open.spotify.com/track/5dzsEEl3PO4aHxx34Le8XT) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:38 | 2024-10-11 | 2024-12-05 |
 | [INTENTÉ SALVAR A DIOS](https://open.spotify.com/track/17YDwIluwr5yEoKJQr1osF) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 2:58 | 2025-04-25 |  |
@@ -1481,6 +1483,7 @@
 | [Resucito](https://open.spotify.com/track/0HoyN5MRw3UzgB01uCavZ3) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 2:39 | 2023-10-27 | 2024-02-10 |
 | [Revelación I](https://open.spotify.com/track/5RS74CJTksiP902hRNRYfY) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Vándalos](https://open.spotify.com/album/4sPqEkPXMrI8DoxnuOKWhT) | 2:47 | 2025-04-04 |  |
 | [Revolú](https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:35 | 2024-11-15 | 2024-12-05 |
+| [Reyimiller](https://open.spotify.com/track/2wBrtYgA27EDPE7Fpyzpdx) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:22 | 2026-01-02 |  |
 | [Riendo Y Llorando](https://open.spotify.com/track/0f8OHsoXOiQCzeK5fK0Mjo) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:15 | 2024-04-05 | 2024-12-05 |
 | [Rifles y Dracos](https://open.spotify.com/track/5D1Hk4eyXuEfMiQOfzOvow) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:23 | 2025-05-09 |  |
 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 | 2023-06-02 | 2023-07-29 |

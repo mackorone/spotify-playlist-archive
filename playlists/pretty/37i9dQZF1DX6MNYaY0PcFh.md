@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Higgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,913 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,919 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 60 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 61 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 | 62 | [Pied Piper 2025](https://open.spotify.com/track/3bXiZRRB49MxBlDBXrJtiX) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Pied Piper 2025](https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6) | 2:16 |
-| 63 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
-| 64 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
+| 63 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
+| 64 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
 | 65 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
-| 66 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
-| 67 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
+| 66 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 67 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
 | 68 | [Back 2 Front](https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Back 2 Front](https://open.spotify.com/album/6GyV9Uov54iX2ldS2333is) | 3:30 |
-| 69 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 69 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
 | 70 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
 
 Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

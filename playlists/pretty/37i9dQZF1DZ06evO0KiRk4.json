@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 576888,
+  "num_followers": 576938,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAACXewmCp08MHpDK7w24uzMl",
+  "snapshot_id": "aVW5AAAAAADw2GNJ0hE+2EGiZm8xB619",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 259208,
-      "name": "Which Witch",
-      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You've Got The Love (Jamie xx Rework)",
         "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 342990,
       "name": "You've Got The Love - Jamie xx Rework",
       "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 259208,
+      "name": "Which Witch",
+      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 214046,
-      "name": "Daffodil",
-      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
+      "duration_ms": 164566,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
     },
     {
       "added_at": null,

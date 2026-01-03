@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 8 hr 6 min
+173 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Knights](https://open.spotify.com/track/7B3vxbu42Z0eR8EveO5q8N) | [AQ](https://open.spotify.com/artist/6rYTTx9HCMsfRL3GBecubd) | [Knights](https://open.spotify.com/album/4ey9tfEfPkIniJn5SP61mU) | 2:48 | 2025-06-01 |  |
 | [Know You Bare](https://open.spotify.com/track/19kCmuqL53m9Hr6hAUnbQn) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:11 | 2025-06-01 |  |
 | [let u back in](https://open.spotify.com/track/7AZRI11SKhBBGl22dXupwg) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 3:12 | 2025-06-01 |  |
-| [Life B Changin](https://open.spotify.com/track/7bWvuK1v7TDflGkWiOLHSi) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Joony](https://open.spotify.com/artist/3yUPti6GXZjfvYmxOmYWaU) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:56 | 2025-06-01 |  |
+| [Life B Changin](https://open.spotify.com/track/0WqhI3MKygdmcuRC9yDu3F) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Joony](https://open.spotify.com/artist/0p1TgVWKr0kT2N7RJChAd0) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/56zJMbW6YominpuxrywIjr) | 2:56 | 2026-01-02 |  |
+| [Life B Changin](https://open.spotify.com/track/7bWvuK1v7TDflGkWiOLHSi) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Joony](https://open.spotify.com/artist/3yUPti6GXZjfvYmxOmYWaU) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:56 | 2025-06-01 | 2026-01-03 |
 | [LIKE LIGHTNING](https://open.spotify.com/track/5EKjP9x1386n9aTFht111j) | [UPTOWN BOYBAND](https://open.spotify.com/artist/6MnJElZ2G5UGqjCvimyE2c) | [LIKE LIGHTNING](https://open.spotify.com/album/6SwJFwMaYnktyliNXpfVRK) | 3:17 | 2025-06-01 |  |
 | [Like Woah](https://open.spotify.com/track/3zLejPGyTFJTx0ygDxOFWR) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:03 | 2025-06-01 |  |
 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 | 2025-06-01 |  |

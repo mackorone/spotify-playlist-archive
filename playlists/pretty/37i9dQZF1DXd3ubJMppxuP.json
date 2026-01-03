@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85414,
+  "num_followers": 85431,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Ik Ben Kachel (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U"
+      },
+      "artists": [
+        {
+          "name": "OBZ",
+          "url": "https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA"
+        }
+      ],
+      "duration_ms": 151775,
+      "name": "Ik Ben Kachel - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Weet Je Wel Wie Wij Zijn",
         "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 170926,
       "name": "Weet Je Wel Wie Wij Zijn",
       "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Ik Ben Kachel (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U"
-      },
-      "artists": [
-        {
-          "name": "OBZ",
-          "url": "https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA"
-        }
-      ],
-      "duration_ms": 151775,
-      "name": "Ik Ben Kachel - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -695,6 +695,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Bietje Bas",
+        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Schorre Chef & MC Vals",
+          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Bietje Bas",
+      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Bietje Bas",
-        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Schorre Chef & MC Vals",
-          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Bietje Bas",
-      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
       "added_at": "2025-10-21 11:57:23",

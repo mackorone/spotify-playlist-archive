@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-363 songs - 1 day 0 hr 47 min
+364 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-09-08 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-09-08 | 2022-07-25 |
 | [Dance The Night Away](https://open.spotify.com/track/1N67xd3y9s23vitoiP3Zv5) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Trampoline](https://open.spotify.com/album/2JG2T3NBIs5HDWFX7CPysZ) | 4:22 | 2021-09-08 |  |
+| [Das Boot](https://open.spotify.com/track/5A3IdgGphzKS2etiGFB73S) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/182zfpTz3imgGrnli7vrfc) | 5:14 | 2024-07-12 |  |
 | [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 | 2024-12-29 |
 | [Do You See the Light? \(Looking For\) \[feat\. Niki Haris\] \- 7" Edit](https://open.spotify.com/track/1ClsTc9ppIu8aU3KaGAB0g) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/0f7ZSi2EcurDJU0UeKFjuZ) | 4:14 | 2021-09-08 | 2022-07-27 |
 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 | 2021-09-08 |  |
@@ -265,7 +266,7 @@
 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 | 2021-09-08 |  |
 | [Set You Free](https://open.spotify.com/track/1Gees6TmaSHNkprVFOSiKH) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt) | [Set You Free](https://open.spotify.com/album/30uRwKVpPuSTyp0Bq1fo47) | 4:22 | 2021-09-08 | 2022-07-29 |
 | [Set You Free \- 1994 Edit](https://open.spotify.com/track/0JxdP3ctbORCiQUMo7Xmyi) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt) | [Set You Free \(1994 Edit\)](https://open.spotify.com/album/0PiOraXcUPTwFbRKnTRtAx) | 4:14 | 2022-10-11 | 2023-04-17 |
-| [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 | 2024-03-15 |  |
+| [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 | 2024-03-15 | 2026-01-03 |
 | [Sex on the Beach \- Radio Mix](https://open.spotify.com/track/0IprUQmGWvCtnbcpHj9UIi) | [T\-Spoon](https://open.spotify.com/artist/6AGGV787LmMPGeyCgZqy6U) | [The Hit Collection](https://open.spotify.com/album/47vSyDEsXn8mG7JKDMiK5L) | 3:46 | 2021-09-08 | 2022-08-30 |
 | [Sexy Eyes](https://open.spotify.com/track/0eJle2gkR9YlGECb4QV4ZA) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Whigfield 1](https://open.spotify.com/album/024sl8R7bYLjUvx5iikxP9) | 3:58 | 2021-09-08 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Cool Summer Reggae](https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji) | 3:46 | 2021-09-08 | 2022-07-29 |

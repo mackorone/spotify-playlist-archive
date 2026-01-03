@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Wynp5mlXCZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Wynp5mlXCZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Wynp5mlXCZ)
 
-### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
+### [ТОП ПОП 2026](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Khrystyna Soloviy & Iryna Bilyk
 

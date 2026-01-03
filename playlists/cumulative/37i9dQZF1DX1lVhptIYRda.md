@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Cody Johnson
+> Today's top country hits\. Cover: Thomas Rhett
 
 947 songs - 2 day 3 hr 13 min
 

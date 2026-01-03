@@ -4,7 +4,7 @@
 
 > Nieuw: Joost, KATSEYE, Lijpe/Frenna en meer..
 
-13,960 songs - 30 day 9 hr 27 min
+13,962 songs - 30 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-08 | 2024-08-17 |
 | [Beautiful Odyssey](https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Beautiful Odyssey](https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb) | 2:50 | 2025-08-01 | 2025-08-08 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-06 | 2025-03-14 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-01 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-01-19 |
 | [Beautiful Ride](https://open.spotify.com/track/1gjb1qgh4RscpV6pw1SDS0) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 3:45 | 2023-03-30 | 2023-04-07 |
 | [Beautiful Ruin](https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out: 10th Anniversary Edition](https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY) | 3:45 | 2024-09-12 | 2024-09-20 |
@@ -1253,6 +1254,7 @@
 | [Been So Long](https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Been So Long](https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd) | 3:16 | 2025-03-20 | 2025-03-28 |
 | [Been So Long](https://open.spotify.com/track/0nGBUI1nmc07TCY9Nwx6HA) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Been So Long](https://open.spotify.com/album/2fP9dXnBoXjhAIDzdjMTez) | 3:53 | 2024-06-13 | 2024-06-21 |
 | [Been There Before](https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [LIVI](https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo) | [Been There Before](https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p) | 3:08 | 2024-10-24 | 2024-11-01 |
+| [Been Undone \- Dark\-Side Mix](https://open.spotify.com/track/2vXCiisu266PttmAVDOFtF) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Been Undone \(Dark\-Side Mix\)](https://open.spotify.com/album/3cm8NmlOZKcPoUN3YrpxIc) | 7:39 | 2026-01-01 |  |
 | [BEEP BEEP](https://open.spotify.com/track/0Kqd4Fsg6n4LwWwLR0hpy7) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [BEEP BEEP](https://open.spotify.com/album/70IEzFseMdNSwitPA18BUg) | 2:35 | 2025-09-04 | 2025-09-12 |
 | [Beep Beep \(feat\. 50 Cent\)](https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Beep Beep](https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388) | 2:27 | 2023-12-14 | 2023-12-16 |
 | [Beest Van De Nacht](https://open.spotify.com/track/5YO1IkuNsOvyJsrtAQyWJK) | [Jeffrey Kuipers](https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH) | [Beest Van De Nacht](https://open.spotify.com/album/5WsOBIwlgP3nfxa3LtW7Me) | 2:47 | 2024-08-01 | 2024-08-09 |

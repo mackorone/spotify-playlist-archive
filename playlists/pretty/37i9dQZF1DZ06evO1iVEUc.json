@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25755,
+  "num_followers": 25759,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVRngAAAAAD3Pie1ySobNmf8HrhQqItz",
+  "snapshot_id": "aVW5AAAAAABJglTptq+jkrdN8iVbr1xp",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Stay For A While (feat. Anthony Hamilton)",
-      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 269373,
       "name": "Happy Being Me",
       "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Stay For A While (feat. Anthony Hamilton)",
+      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Amazing: An All-Star Tribute To Luther Vandross",
         "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212306,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backup Plan",
-        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Backup Plan",
-      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 82866,
       "name": "Go Back To Your Life",
       "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backup Plan",
+        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Backup Plan",
+      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
     },
     {
       "added_at": null,

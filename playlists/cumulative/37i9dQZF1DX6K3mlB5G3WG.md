@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,449 songs - 5 day 5 hr 34 min
+2,449 songs - 5 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1389,6 +1389,7 @@
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-05 | 2024-10-04 |
 | [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 | 2025-06-12 | 2025-07-11 |
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-06-27 | 2024-07-19 |
+| [moments of glory](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [moments of glory](https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ) | 2:06 | 2026-01-01 |  |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-06-20 |
 | [Mon Amour](https://open.spotify.com/track/32MSyU9DbEBSmUGQWJm9Q4) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Mon Amour](https://open.spotify.com/album/1k9M6MbGeVeSmDCB5BRKix) | 2:17 | 2025-11-11 | 2025-11-28 |
 | [Mon Amour](https://open.spotify.com/track/1SUuldqtay5q3kIWL6FE1g) | [Ube](https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt) | [Mon Amour](https://open.spotify.com/album/3dKCzXauXJzEhDcPQiH5tU) | 2:17 | 2025-04-03 | 2025-04-25 |
@@ -2217,7 +2218,6 @@
 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-12 | 2025-03-07 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2025-01-10 |
-| [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Traitor](https://open.spotify.com/track/6RJUH9V6OBskrZlKhudD7p) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [MegaHits 2025 \- Die Erste](https://open.spotify.com/album/5tuEP1oRBPT1A3hsrsSkdw) | 2:28 | 2025-01-16 | 2025-02-12 |
 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 | 2024-10-03 | 2024-11-08 |
 | [TREMM'](https://open.spotify.com/track/2G2Safy0kVIjMwckMKbDcu) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 3:02 | 2025-03-20 | 2025-04-11 |

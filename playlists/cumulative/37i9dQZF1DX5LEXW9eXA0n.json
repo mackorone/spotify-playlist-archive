@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Cloud Koh (\uad6c\ub984)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \ucf00\uc774\uc2dc (Kassy)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 216000,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/7MAgjlXruiJwnGsLkNFBj8"
@@ -5139,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "Change Street Episode 2",
+        "url": "https://open.spotify.com/album/2fTTNZphQDEx6lGdelCIOd"
+      },
+      "artists": [
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274772,
+      "name": "Did We Really Love - Change Street Version",
+      "url": "https://open.spotify.com/track/0VygxhsyvZiF3xkZsPvl0O"
+    },
+    {
+      "album": {
         "name": "didn't say anything",
         "url": "https://open.spotify.com/album/3Gu1G42hDfGVVcHYZlawbt"
       },
@@ -5194,6 +5212,24 @@
       "duration_ms": 243133,
       "name": "Distant Fate",
       "url": "https://open.spotify.com/track/6cwog2cadHETvgU9wJWAs3"
+    },
+    {
+      "album": {
+        "name": "Nextar Project",
+        "url": "https://open.spotify.com/album/6SfnYWqz64DTPgZFRzirV6"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Do you know",
+      "url": "https://open.spotify.com/track/5skgrMCFS9SiBSOhcvJ9EQ"
     },
     {
       "album": {
@@ -6354,7 +6390,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 244000,
       "name": "Even if you can\u2032t love you can miss",
       "url": "https://open.spotify.com/track/4072LvIDKA8B3Kmhrk9aQc"
@@ -6816,6 +6852,24 @@
       "duration_ms": 209306,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
+    },
+    {
+      "album": {
+        "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+        "url": "https://open.spotify.com/album/1Rd33YoDQAIQLiU0WZ9CN1"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+      "url": "https://open.spotify.com/track/2dvq6LBNSBzopoxZHEAb4b"
     },
     {
       "album": {
@@ -7898,6 +7952,32 @@
       "duration_ms": 275928,
       "name": "Go for a Walk",
       "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
+    },
+    {
+      "album": {
+        "name": "Good Bye",
+        "url": "https://open.spotify.com/album/4O454vsQGTeGXh9xUGkLju"
+      },
+      "artists": [
+        {
+          "name": "Jin Minho",
+          "url": "https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY"
+        },
+        {
+          "name": "2NB",
+          "url": "https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL"
+        },
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Good Bye",
+      "url": "https://open.spotify.com/track/7m2Pu5bjNIyT2Y2VMUgMEa"
     },
     {
       "album": {
@@ -11588,7 +11668,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 245000,
       "name": "If I Love Again",
       "url": "https://open.spotify.com/track/1BvBbq3KAD41EeubqOfXrE"
@@ -14048,7 +14128,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 248000,
       "name": "Linger",
       "url": "https://open.spotify.com/track/7iPjaDwNB8zFDGCdZOQwME"
@@ -16049,6 +16129,24 @@
     },
     {
       "album": {
+        "name": "Miracle with eunyoung",
+        "url": "https://open.spotify.com/album/5hMTzKSqFdTWjdvvGdPGQC"
+      },
+      "artists": [
+        {
+          "name": "December",
+          "url": "https://open.spotify.com/artist/6WiANXryTQJOTCM3z8jENM"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Miracle with eunyoung",
+      "url": "https://open.spotify.com/track/7z1rWbz1KGBj59hFRLSoBF"
+    },
+    {
+      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
       },
@@ -16674,6 +16772,24 @@
       "duration_ms": 158213,
       "name": "My Feelings for You will Never Change",
       "url": "https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK"
+    },
+    {
+      "album": {
+        "name": "My first and last love",
+        "url": "https://open.spotify.com/album/7zWjdUH63JIM2VisA8myPq"
+      },
+      "artists": [
+        {
+          "name": "SoonSoonHee",
+          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "My first and last love",
+      "url": "https://open.spotify.com/track/46BTa0mRxUNMkIper1akV7"
     },
     {
       "album": {
@@ -19092,7 +19208,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 218000,
       "name": "Please Don't Stay Away",
       "url": "https://open.spotify.com/track/4GA7yi7kJ5xl1fjNQsFN6Q"
@@ -20484,7 +20600,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 260000,
       "name": "September 24th",
       "url": "https://open.spotify.com/track/3js6pmrpvOzpSXSwcilFp3"
@@ -21434,7 +21550,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 221626,
       "name": "Something I couldn't say to you",
       "url": "https://open.spotify.com/track/4t6fSrYAgfmVTxohPDSNLr"
@@ -23308,7 +23424,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 296000,
       "name": "That Spring, That Memory",
       "url": "https://open.spotify.com/track/2oy47CsiZtWwSg2Ah3lO8V"
@@ -23904,6 +24020,24 @@
       "duration_ms": 222480,
       "name": "The moment I saw you",
       "url": "https://open.spotify.com/track/0Nltox4UQt4rXyr2IuXcW4"
+    },
+    {
+      "album": {
+        "name": "The Moment My Heart",
+        "url": "https://open.spotify.com/album/47DIB2hz2EuXrzkpQaGhuw"
+      },
+      "artists": [
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "The Moment My Heart",
+      "url": "https://open.spotify.com/track/2RFal9mGAaI0unOTxL2TVN"
     },
     {
       "album": {
@@ -27311,6 +27445,24 @@
     },
     {
       "album": {
+        "name": "Winter Bloom",
+        "url": "https://open.spotify.com/album/0fMygnh8zLxHVbswysFhoJ"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Winter Bloom",
+      "url": "https://open.spotify.com/track/1tMwuLI97riAphTmpftMa3"
+    },
+    {
+      "album": {
         "name": "Winter is Coming (2NB, Lee A Young, by me, Chu Hwa Jeong, Voicemail X Blooming project)",
         "url": "https://open.spotify.com/album/6xuet7yExO6yfmjkfjJbnM"
       },
@@ -29319,6 +29471,24 @@
     },
     {
       "album": {
+        "name": "\ubc14\ub77c\ub358 \uc774\ubcc4\uc740 \ub9c8\uc74c\uc5d0 \ub4dc\ub098\uc694",
+        "url": "https://open.spotify.com/album/2KhTt4Xjbiy9vzKu2I0PLz"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222130,
+      "name": "\ubc14\ub77c\ub358 \uc774\ubcc4\uc740 \ub9c8\uc74c\uc5d0 \ub4dc\ub098\uc694",
+      "url": "https://open.spotify.com/track/45aFlbSfWtHMznVdTzgcgL"
+    },
+    {
+      "album": {
         "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 - \uae40\ub098\uc601",
         "url": "https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X"
       },
@@ -29612,7 +29782,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-03",
       "duration_ms": 228000,
       "name": "\uc219\ub140\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/797bO4AkZBQpjg1Tqm07EJ"

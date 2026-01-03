@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "AZOLEAO",
+        "url": "https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH"
+      },
+      "artists": [
+        {
+          "name": "Zalek",
+          "url": "https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE"
+        },
+        {
+          "name": "Flovv coco",
+          "url": "https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135061,
+      "name": "AZOLEAO",
+      "url": "https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N"
+    },
+    {
+      "album": {
         "name": "BAHAMAS",
         "url": "https://open.spotify.com/album/53dLGokQOFB83lmF9OB5cd"
       },

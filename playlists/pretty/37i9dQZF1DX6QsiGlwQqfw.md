@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,828 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,835 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 22 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
 | 23 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 24 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
-| 25 | [The Beginning](https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 3:36 |
-| 26 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
+| 25 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
+| 26 | [The Beginning](https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 3:36 |
 | 27 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 28 | [Raga Jansanmohini \- Alap Jod Zala \- Gat Vilambit Roopak Taal \- Gat Drut Teentaal](https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN) | [Pandit Vibhav Nageshkar](https://open.spotify.com/artist/4wIohauC6Hl22Kt2F2bD1m), [Zarin Daruwala](https://open.spotify.com/artist/3xXsIF0r4I6TRbRdY1SS78) | [Zarin Daruwala](https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb) | 6:58 |
 | 29 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |

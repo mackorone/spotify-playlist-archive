@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,273 likes - 151 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,250 likes - 151 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Priceless](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ladies & Gentlemen](https://open.spotify.com/album/0e9xHx3eej1r3qemB8wNlf) | 2:34 |
 | 2 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
 | 3 | [Sorry](https://open.spotify.com/track/2nit19fwNrXnK5yM63c8oN) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Sorry](https://open.spotify.com/album/7m8GBBgPn4Sh1t1i0ZqeVA) | 2:25 |
 | 4 | [Spola tillbaks](https://open.spotify.com/track/2SeWCyfAqcNuRzEIjsKOIo) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Spola tillbaks](https://open.spotify.com/album/1WfLwJyNkuiEXOQWOrzOBr) | 2:15 |

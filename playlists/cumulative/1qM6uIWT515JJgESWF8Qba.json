@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Stockholm Syndrome",
+        "url": "https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB"
+      },
+      "artists": [
+        {
+          "name": "Arnold Alaniz",
+          "url": "https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "album": {
         "name": "Sugar Husk",
         "url": "https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh"
       },

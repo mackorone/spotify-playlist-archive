@@ -4,7 +4,7 @@
 
 > Music around the world ✈️
 
-162 songs - 9 hr 26 min
+163 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Leather Free Seats \- Mosey Remix](https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ) | [Leather Free Seats \(Mosey Remix\)](https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R) | 2:58 | 2023-01-11 | 2023-05-31 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Liquid Bodies](https://open.spotify.com/track/5IqpiBuuTzdDeI0OSa4Y5f) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 | 2025-06-26 | 2025-08-08 |
+| [Liquid Bodies \- Perel Remix](https://open.spotify.com/track/4QDmWrLKTlFDwefEsoej7V) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Liquid Bodies](https://open.spotify.com/album/6AAf7bFQsWTAwZGHOWSr7F) | 5:57 | 2026-01-02 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Lluvia](https://open.spotify.com/track/5FzLZd5k2yQ0euepil3ndS) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Lluvia](https://open.spotify.com/album/3tsviyEAfWJxgzqyR6OYvf) | 4:19 | 2023-05-30 |  |
 | [Long Way Up \- Mixed](https://open.spotify.com/track/6tFqRbhUPbLbyIityAAA1l) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 2:17 | 2023-05-30 |  |
