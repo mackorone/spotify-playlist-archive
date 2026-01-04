@@ -4354,10 +4354,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 217413,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63"
+    },
+    {
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/2qoCKMv39Jo7oakx8YdMY5"
     },
     {
       "album": {
@@ -9766,7 +9784,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 226000,
       "name": "Time",
       "url": "https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > ❌ se você n entende ja sabe né ❌  \(vai, bichão solto mm\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,289 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,213 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Safe](https://open.spotify.com/track/4dhRf2GRUJGYEMgW9i3fav) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [Safe](https://open.spotify.com/album/1wLc4AUOfWOEYpjMpFTje0) | 2:49 |
 | 55 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 
-Snapshot ID: `AAAAAM4o0cZIB3G+wUjJnt2KMDjbDUNy`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

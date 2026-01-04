@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41515,
+  "num_followers": 41512,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACXyA6Z7GLq6D+pCxUgewqR",
+  "snapshot_id": "aVcKgAAAAAD4zcjpURUcZLtu9+tLnMut",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jes\u00fas El Rey",
-        "url": "https://open.spotify.com/album/5KJmOHHkQm5Il4K1Ul2c7s"
-      },
-      "artists": [
-        {
-          "name": "Susy Gonzalez",
-          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 320314,
-      "name": "Jes\u00fas El Rey",
-      "url": "https://open.spotify.com/track/6O166RACqSEgx7GesuI8xB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus People",
         "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 245621,
       "name": "Cristo Es Necesario",
       "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jes\u00fas El Rey",
+        "url": "https://open.spotify.com/album/5KJmOHHkQm5Il4K1Ul2c7s"
+      },
+      "artists": [
+        {
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 320314,
+      "name": "Jes\u00fas El Rey",
+      "url": "https://open.spotify.com/track/6O166RACqSEgx7GesuI8xB"
     },
     {
       "added_at": null,

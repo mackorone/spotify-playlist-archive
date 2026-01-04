@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,107 likes - 95 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,131 likes - 95 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 94 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 |
 | 95 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 |
 
-Snapshot ID: `AAAAAL12+lgvczdFrWlHszVJ2Ea4/iYj`
+Snapshot ID: `AAAAAAt7OfXB+PQgQzeaXKF+n/xAe60K`

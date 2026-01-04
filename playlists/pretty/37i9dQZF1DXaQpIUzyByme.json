@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 80586,
+  "num_followers": 80611,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAEnqx6NixhaUBYjgLkGZz3EeCJRl",
   "tracks": [
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Als Geen Ander",
-        "url": "https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Ik Leef Niet Meer Voor Jou",
-      "url": "https://open.spotify.com/track/45I37gu7jG5JsXyqYm4YDT"
-    },
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 274293,
       "name": "Avond",
       "url": "https://open.spotify.com/track/3n3F07lHLyRKwqg4q64eYA"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Als Geen Ander",
+        "url": "https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Ik Leef Niet Meer Voor Jou",
+      "url": "https://open.spotify.com/track/45I37gu7jG5JsXyqYm4YDT"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Marco",
-        "url": "https://open.spotify.com/album/0OELFWvZ1tR4wKREmndcEJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Dromen Zijn Bedrog",
-      "url": "https://open.spotify.com/track/2o4iWZOFE8kkl0tK66WADw"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Naar Huis",
         "url": "https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 242493,
       "name": "Niet Of Nooit Geweest",
       "url": "https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Marco",
+        "url": "https://open.spotify.com/album/0OELFWvZ1tR4wKREmndcEJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Dromen Zijn Bedrog",
+      "url": "https://open.spotify.com/track/2o4iWZOFE8kkl0tK66WADw"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "De Bestemming",
-        "url": "https://open.spotify.com/album/4hW03mjO8bRizIMv86hvF3"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 265933,
-      "name": "De Bestemming",
-      "url": "https://open.spotify.com/track/78vBe7yQRROyT42PzT5Xpm"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 225733,
       "name": "Het Regent Zonnestralen",
       "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "De Bestemming",
+        "url": "https://open.spotify.com/album/4hW03mjO8bRizIMv86hvF3"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        }
+      ],
+      "duration_ms": 265933,
+      "name": "De Bestemming",
+      "url": "https://open.spotify.com/track/78vBe7yQRROyT42PzT5Xpm"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Als Geen Ander",
-        "url": "https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Margherita",
-      "url": "https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Acda en de Munnik",
         "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 205680,
       "name": "Lopen Tot De Zon Komt",
       "url": "https://open.spotify.com/track/6svNJ2WPO69uhVOgyBr2VF"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Als Geen Ander",
+        "url": "https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Margherita",
+      "url": "https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Onvoorspelbaar",
+        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Hart Van Mijn Gevoel",
+      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "De Waarheid",
         "url": "https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 235933,
       "name": "Wereld Zonder Jou",
       "url": "https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Onvoorspelbaar",
-        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Hart Van Mijn Gevoel",
-      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Als Ze Er Niet Is",
+      "url": "https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 225040,
       "name": "Het Is Een Nacht... (Levensecht)",
       "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Als Ze Er Niet Is",
-      "url": "https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Het Mooiste & Het Beste",
-        "url": "https://open.spotify.com/album/3XiJiFN96NyaWs728epe59"
-      },
-      "artists": [
-        {
-          "name": "Frank Boeijen",
-          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Zeg Me Dat Het Niet Zo Is",
-      "url": "https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Niemand In De Stad",
         "url": "https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 291066,
       "name": "Niemand In De Stad",
       "url": "https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Het Mooiste & Het Beste",
+        "url": "https://open.spotify.com/album/3XiJiFN96NyaWs728epe59"
+      },
+      "artists": [
+        {
+          "name": "Frank Boeijen",
+          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Zeg Me Dat Het Niet Zo Is",
+      "url": "https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/31fhPugCfBmbpfjQx64Zd1"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Mooi Was Die Tijd",
+      "url": "https://open.spotify.com/track/5IyD0833vUHAZG4w2TvsVq"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 253493,
       "name": "Per Spoor (Kedeng Kedeng)",
       "url": "https://open.spotify.com/track/5FdLWxpHT56vitVh3CGiFV"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/31fhPugCfBmbpfjQx64Zd1"
-      },
-      "artists": [
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Mooi Was Die Tijd",
-      "url": "https://open.spotify.com/track/5IyD0833vUHAZG4w2TvsVq"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH"
+      },
+      "artists": [
+        {
+          "name": "Raymond Van Het Groenewoud",
+          "url": "https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Liefde voor muziek",
+      "url": "https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 210666,
       "name": "Verliefd Zijn",
       "url": "https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH"
-      },
-      "artists": [
-        {
-          "name": "Raymond Van Het Groenewoud",
-          "url": "https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Liefde voor muziek",
-      "url": "https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Mijn Allergrootste Successen",
+        "url": "https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq"
+      },
+      "artists": [
+        {
+          "name": "Henk Wijngaard",
+          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+        }
+      ],
+      "duration_ms": 211788,
+      "name": "He Suzie",
+      "url": "https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 214733,
       "name": "Zo Ver Weg",
       "url": "https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Mijn Allergrootste Successen",
-        "url": "https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq"
-      },
-      "artists": [
-        {
-          "name": "Henk Wijngaard",
-          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
-        }
-      ],
-      "duration_ms": 211788,
-      "name": "He Suzie",
-      "url": "https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u"
     },
     {
       "added_at": "2024-07-09 16:41:04",

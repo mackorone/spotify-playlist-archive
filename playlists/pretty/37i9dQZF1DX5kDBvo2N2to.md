@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,593 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,589 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 23 | [Josephine](https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Josephine](https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx) | 2:15 |
 | 24 | [Sygeplejerske på nattevagt \(feat\. Molly Sandén & Delara\)](https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:59 |
 | 25 | [Superhjältar](https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Superhjältar](https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm) | 2:24 |
-| 26 | [Tar mig alltid upp](https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Tar mig alltid upp](https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg) | 2:24 |
-| 27 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 |
+| 26 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 |
+| 27 | [Tar mig alltid upp](https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Tar mig alltid upp](https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg) | 2:24 |
 | 28 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 |
 | 29 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 |
 | 30 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 48 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 |
 | 49 | [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 |
 | 50 | [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 |
-| 51 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 |
-| 52 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 |
-| 53 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 |
+| 51 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 |
+| 52 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 |
+| 53 | [Nostalgi](https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Nostalgi](https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5) | 2:20 |
 | 54 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 |
-| 55 | [Cutting Ties](https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Cutting Ties](https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp) | 4:21 |
-| 56 | [Jag måste välja](https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Jag måste välja](https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE) | 3:15 |
+| 55 | [Jag måste välja](https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Jag måste välja](https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE) | 3:15 |
+| 56 | [Cutting Ties](https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Cutting Ties](https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp) | 4:21 |
 | 57 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
 | 58 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 |
 | 59 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 |
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 69 | [Same Old Dirt](https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Same Old Dirt](https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM) | 3:06 |
 | 70 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 |
 | 71 | [Någon annan än dig](https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Någon annan än dig](https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB) | 2:44 |
-| 72 | [sunday night](https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [sunday night](https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre) | 2:47 |
-| 73 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 |
+| 72 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 |
+| 73 | [sunday night](https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [sunday night](https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre) | 2:47 |
 | 74 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 |
 | 75 | [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 |
 | 76 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 |
 | 77 | [...being mad bad sad \(DSM\-5\)](https://open.spotify.com/track/2u2WAcPmcpZ1WwtqSI2K0x) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...being mad bad sad \(DSM\-5\)](https://open.spotify.com/album/3Z76JHYpa1PC8sIVLhqnmA) | 3:03 |
 | 78 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 |
 | 79 | [Dina fula skor](https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dina fula skor](https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX) | 2:18 |
-| 80 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
-| 81 | [RING MIG 112!!?](https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [RING MIG 112!!?](https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt) | 2:56 |
+| 80 | [RING MIG 112!!?](https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [RING MIG 112!!?](https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt) | 2:56 |
+| 81 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
 | 82 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 |
 | 83 | [Mjukt ljus](https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Mjukt ljus](https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe) | 2:40 |
 | 84 | [Is It Love?](https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Is It Love?](https://open.spotify.com/album/70WeBMKxVg8C06c68o1661) | 3:02 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 87 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 |
 | 88 | [Dansa med mig själv](https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Dansa med mig själv](https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn) | 2:07 |
 | 89 | [Fel](https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [YAKO](https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT) | 2:38 |
-| 90 | [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 |
+| 90 | [airbnb](https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [airbnb](https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo) | 2:53 |
 
 Snapshot ID: `AAAAAPoFutFFmyc8942dGi7fl/JbCTnD`

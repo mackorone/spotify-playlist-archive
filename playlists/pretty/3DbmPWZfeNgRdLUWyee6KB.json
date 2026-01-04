@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1143,
+  "num_followers": 1145,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOjxmeZPGuIGecCSu7RWeY46MYcdag",
+  "snapshot_id": "AAAOka6SSyEuS7i3XHc2BA2H70QrfF7u",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -3971,6 +3971,38 @@
       "duration_ms": 280093,
       "name": "Three Hundred - Slowed Down + Reverbed",
       "url": "https://open.spotify.com/track/4Yud8mlM573dunsyLWUPeO"
+    },
+    {
+      "added_at": "2026-01-03 19:16:44",
+      "album": {
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx"
+      },
+      "artists": [
+        {
+          "name": "Jen Maria",
+          "url": "https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN"
+        }
+      ],
+      "duration_ms": 223180,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy"
+    },
+    {
+      "added_at": "2026-01-03 22:23:21",
+      "album": {
+        "name": "SELF ACCEPT your way to inner respect",
+        "url": "https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW"
+      },
+      "artists": [
+        {
+          "name": "Nikir\u00e9",
+          "url": "https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY"
+        }
+      ],
+      "duration_ms": 274839,
+      "name": "SELF ACCEPT your way to inner respect",
+      "url": "https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL"
     }
   ],
   "unique_name": "New Indie Music",

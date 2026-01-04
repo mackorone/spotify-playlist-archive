@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25759,
+  "num_followers": 25758,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAABJglTptq+jkrdN8iVbr1xp",
+  "snapshot_id": "aVcKgAAAAAA0w7znpP5andKQhF5FGL+H",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All I'm Missing",
-        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        },
-        {
-          "name": "Jaunita Wynn",
-          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
         }
       ],
-      "duration_ms": 160671,
-      "name": "All I'm Missing",
-      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
+      "duration_ms": 262766,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
     },
     {
       "added_at": null,
@@ -267,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "All I'm Missing",
+        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        },
+        {
+          "name": "Jaunita Wynn",
+          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
         }
       ],
-      "duration_ms": 262766,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
+      "duration_ms": 160671,
+      "name": "All I'm Missing",
+      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
     },
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets - Love & Soul",
-        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+        "name": "Backup Plan",
+        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
       },
       "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 289271,
-      "name": "Love TKO",
-      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
+      "duration_ms": 206800,
+      "name": "Backup Plan",
+      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backup Plan",
-        "url": "https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz"
+        "name": "Duets - Love & Soul",
+        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
       },
       "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Backup Plan",
-      "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
+      "duration_ms": 289271,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
     },
     {
       "added_at": null,

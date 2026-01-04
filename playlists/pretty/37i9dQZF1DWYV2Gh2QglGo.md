@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Kelsi Mayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,390 likes - 109 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,388 likes - 109 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -23883,6 +23883,24 @@
     },
     {
       "album": {
+        "name": "EN EL SEX",
+        "url": "https://open.spotify.com/album/5zgqIKonvbUDyQEkSi55rG"
+      },
+      "artists": [
+        {
+          "name": "YOWDYLANN",
+          "url": "https://open.spotify.com/artist/5Ydm7wacl5pmkPOt8l70Ja"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153762,
+      "name": "EN EL SEX",
+      "url": "https://open.spotify.com/track/42PbWdzS1Gwcp74Gp3XpJC"
+    },
+    {
+      "album": {
         "name": "En Esta Boca",
         "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
@@ -70962,7 +70980,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 118176,
       "name": "Te Culi\u00e9",
       "url": "https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq"

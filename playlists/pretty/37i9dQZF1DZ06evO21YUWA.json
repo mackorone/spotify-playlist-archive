@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5755,
+  "num_followers": 5757,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAAWsJlleB1zIxM4LXpD8GDV",
+  "snapshot_id": "aVcKgAAAAAD5GMUlXxI3mDhIOMK7hyVE",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Not Yet Remembered - Remastered 2004",
-      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -323,6 +323,82 @@
       "duration_ms": 133200,
       "name": "Bloody And Blunt",
       "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "The Whispers",
+      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "The Pearl - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
     },
     {
       "added_at": null,
@@ -364,85 +440,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 194453,
-      "name": "The Pearl - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 133706,
-      "name": "The Chill Air - Remastered 2004",
-      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Eyes Are Mosaics",
-      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Mist",
-        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "The Whispers",
-      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "An Echo Of Night - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
+      "duration_ms": 252346,
+      "name": "Still Return - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 500026,
       "name": "Juno",
       "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 360333,
-      "name": "Nove Alberi",
-      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 244093,
       "name": "Losing My Breath",
       "url": "https://open.spotify.com/track/6mdXlrxfRugXebcFmux55L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jane 12-21",
         "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+      "duration_ms": 323733,
+      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
     },
     {
       "added_at": null,
@@ -827,38 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 323733,
-      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
@@ -872,9 +836,25 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 223026,
-      "name": "So Many Short Years Ago",
-      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "So Many Short Years Ago",
+      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
@@ -939,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 265573,
-      "name": "The Names of Those Never Here",
-      "url": "https://open.spotify.com/track/4pSAxFCffknwbI6Cdr8LXn"
+      "duration_ms": 133386,
+      "name": "L'enfant Perdu - 2013 Remaster",
+      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
     }
   ],
   "unique_name": "This Is Harold Budd",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
 | 50 | [Полудей](https://open.spotify.com/track/65b2wOG8iqfiZeWZ9bsLWw) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Полудей](https://open.spotify.com/album/6BdG8UCV6g1w2lCPjXkkFp) | 3:26 |
 
-Snapshot ID: `MOs2+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

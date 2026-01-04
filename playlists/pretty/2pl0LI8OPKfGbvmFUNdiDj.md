@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 527 likes - 190 songs - 10 hr 39 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 529 likes - 192 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,5 +198,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 188 | [Cyberpunk Elegy](https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I) | [Billy Manilli](https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT) | [Cyberpunk Elegy](https://open.spotify.com/album/1Px98AlqdHxUeAyNZ2b29y) | 3:27 |
 | 189 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 |
 | 190 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 |
+| 191 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 |
+| 192 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 |
 
-Snapshot ID: `AAACyc+2Due0k9D8csxVG6JnAGnJ8lOV`
+Snapshot ID: `AAACyzhUj6v17Zy3dmKEYrV00wFseb0X`

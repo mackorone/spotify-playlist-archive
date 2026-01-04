@@ -3807,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "Hvem skal nekte meg en \u00f8l?",
+        "url": "https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126027,
+      "name": "Hvem skal nekte meg en \u00f8l?",
+      "url": "https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb"
+    },
+    {
+      "album": {
         "name": "Blanke Ark",
         "url": "https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H"
       },
@@ -5818,7 +5836,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 204336,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"

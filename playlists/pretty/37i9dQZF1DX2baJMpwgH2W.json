@@ -1,6 +1,6 @@
 {
   "description": "Ballads from the best shows, from the West End and beyond.",
-  "num_followers": 178008,
+  "num_followers": 178010,
   "original_name": "Ballads From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
-        "name": "Chicago - Music From The Miramax Motion Picture",
-        "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e Zellweger",
-          "url": "https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Roxie",
-      "url": "https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 257106,
       "name": "I Know Him So Well",
       "url": "https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
+        "name": "Chicago - Music From The Miramax Motion Picture",
+        "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Zellweger",
+          "url": "https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Roxie",
+      "url": "https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG"
     },
     {
       "added_at": "2025-12-10 11:43:01",

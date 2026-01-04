@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 52987,
+  "num_followers": 52995,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAADS7HF6j+Z849sEQqcVn7xv",
+  "snapshot_id": "aVcKgAAAAAAPUUUFgLs8B9It4MI1cD3T",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
+        "name": "Ranchero Y Tosco",
+        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
       },
       "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 181984,
-      "name": "Chelas y Besos",
-      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
+      "duration_ms": 172600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero Y Tosco",
-        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
       },
       "artists": [
-        {
-          "name": "La Nueva Estrategia",
-          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
-        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Lo Dice El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
+      "duration_ms": 181984,
+      "name": "Chelas y Besos",
+      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalas o No Jalas",
-        "url": "https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Derrumb\u00e9 a Tus Pies",
         "url": "https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 204970,
       "name": "Me Derrumb\u00e9 a Tus Pies",
       "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jalas o No Jalas",
+        "url": "https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como una Fiera",
         "url": "https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 167509,
       "name": "Como una Fiera",
       "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh"
     },
     {
       "added_at": null,

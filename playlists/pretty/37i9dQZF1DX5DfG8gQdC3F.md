@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Happy New Year! ✨ New music from Nick Jonas, Doechii & SZA, Joji, Meltt, AHI, Katie Tupper and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,737 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,759 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 174175,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 182860,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 180000,
       "name": "Copenhagen Nights",
       "url": "https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi"
@@ -10737,6 +10737,24 @@
     },
     {
       "album": {
+        "name": "Deep Current",
+        "url": "https://open.spotify.com/album/0ZksixHCrp4FFlwz0RwMCA"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "Quiet Depths",
+      "url": "https://open.spotify.com/track/1CL5ZMezIF6mdZWXabbPHv"
+    },
+    {
+      "album": {
         "name": "Quiet Eternity",
         "url": "https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr"
       },
@@ -13571,6 +13589,24 @@
     },
     {
       "album": {
+        "name": "Susurrus",
+        "url": "https://open.spotify.com/album/0ZuQSCYr1vVCvhIsbnn5rq"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159316,
+      "name": "Susurrus",
+      "url": "https://open.spotify.com/track/5HTAFaV8M0xFgmtfKfmMT9"
+    },
+    {
+      "album": {
         "name": "Sutileza",
         "url": "https://open.spotify.com/album/7BhBK2Lrf2twjmiLa0iuSR"
       },
@@ -14512,6 +14548,24 @@
       "duration_ms": 171070,
       "name": "Universal Harmony",
       "url": "https://open.spotify.com/track/6i2cmPsBjRAlmYag9iozVV"
+    },
+    {
+      "album": {
+        "name": "Unleash Life",
+        "url": "https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv"
+      },
+      "artists": [
+        {
+          "name": "Ocean Pulse",
+          "url": "https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169763,
+      "name": "Unleash Life",
+      "url": "https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh"
     },
     {
       "album": {

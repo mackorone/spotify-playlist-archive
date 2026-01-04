@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1464324,
+  "num_followers": 1464488,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Lenine In Cit\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 231572,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
         "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 184119,
       "name": "Sabi\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Lenine In Cit\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 231572,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2025-11-30 17:39:04",

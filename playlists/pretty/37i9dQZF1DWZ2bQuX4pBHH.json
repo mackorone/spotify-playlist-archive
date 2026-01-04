@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 260366,
+  "num_followers": 260398,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -811,30 +811,34 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Rab Ne Bana Di Jodi",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
       },
       "artists": [
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Vasundhara Das",
+          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
         },
         {
-          "name": "Labh Janjua",
-          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
         },
         {
-          "name": "Jaideep Sahni",
-          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Loy Mendonsa",
+          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
         }
       ],
-      "duration_ms": 261015,
-      "name": "Dance Pe Chance",
-      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
+      "duration_ms": 333093,
+      "name": "It's the Time to Disco",
+      "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -867,6 +871,34 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
+        "name": "Rab Ne Bana Di Jodi",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Labh Janjua",
+          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "duration_ms": 261015,
+      "name": "Dance Pe Chance",
+      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -891,38 +923,6 @@
       "duration_ms": 265926,
       "name": "Do Pal",
       "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
-        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Vasundhara Das",
-          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Loy Mendonsa",
-          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
-        }
-      ],
-      "duration_ms": 333093,
-      "name": "It's the Time to Disco",
-      "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -987,30 +987,6 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
-      },
-      "artists": [
-        {
-          "name": "Alisha Chinai",
-          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
-        },
-        {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        }
-      ],
-      "duration_ms": 368480,
-      "name": "Aaj Ki Raat",
-      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
         "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 353880,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
+        "name": "Don",
+        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
+      },
+      "artists": [
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "duration_ms": 368480,
+      "name": "Aaj Ki Raat",
+      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
     },
     {
       "added_at": "2025-11-17 05:43:40",

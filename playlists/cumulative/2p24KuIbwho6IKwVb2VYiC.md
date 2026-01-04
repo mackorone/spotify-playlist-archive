@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-382 songs - 20 hr 0 min
+383 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dola re Dola](https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Dola re Dola](https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le) | 2:05 | 2024-02-16 | 2025-03-08 |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-03-21 |  |
 | [Dorothy \- Bolis Pupul 10th Anniversary Version](https://open.spotify.com/track/5s8PhhTY5hlcX5FehUNVjs) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Dorothy \(10th Anniversary Edition\)](https://open.spotify.com/album/3CVX0TnEq9ZsE20t4nVavI) | 4:44 | 2024-09-24 | 2025-01-22 |
+| [Dreams](https://open.spotify.com/track/1z6KDSVHP7QnNVCk2ZWcFQ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [The End Of Genesys \(Deluxe\)](https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT) | 2:32 | 2026-01-03 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-10-27 | 2023-11-25 |
 | [Drugs From Amsterdam \- Armand Van Helden Remix](https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Drugs From Amsterdam \(Armand Van Helden Remix\)](https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4) | 2:36 | 2023-10-27 | 2023-11-25 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-27 | 2025-03-22 |

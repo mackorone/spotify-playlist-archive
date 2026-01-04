@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 404203,
+  "num_followers": 404188,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
         "name": "Fort Worth",
         "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 216796,
       "name": "Fort Worth",
       "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 206266,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
-      },
-      "artists": [
-        {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2025-12-05 05:00:22",

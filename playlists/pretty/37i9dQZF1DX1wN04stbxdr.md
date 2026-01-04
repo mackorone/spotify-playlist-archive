@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør årets tolkninger her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,951 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,522 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uerstattele](https://open.spotify.com/track/7mwffCXSs61cYihxgqO04h) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Uerstattele](https://open.spotify.com/album/2ovPIfRdXrUfbCKPFL4Gty) | 3:18 |
 | 2 | [Baby, du er rå!](https://open.spotify.com/track/5pD6vZ2GG9ulDChjwwp8Hv) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Baby, du er rå!](https://open.spotify.com/album/6yFNlkxfGaZSMGEttBWmD7) | 3:01 |
 | 3 | [Nattevandrer](https://open.spotify.com/track/1QhuOdVg9DkGWndOn8A7CU) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nattevandrer](https://open.spotify.com/album/50XbfGzYLQj1OrYO4fUJwj) | 3:56 |
-| 4 | [Scared of Heights](https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Scared of Heights](https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c) | 3:15 |
+| 4 | [Høgdeskrekk](https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Høgdeskrekk](https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c) | 3:15 |
 | 5 | [Yum yum](https://open.spotify.com/track/5c9osogORn66Or8bMSgrDF) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Yum yum](https://open.spotify.com/album/6QLVKdya0mGoJIVtkSwy1H) | 2:55 |
 | 6 | [When Susannah cries](https://open.spotify.com/track/2wfBGlWqlk4gOjsQEk32Ue) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [When Susannah cries](https://open.spotify.com/album/3dIQebw8wnJYoaxvJcxVmX) | 3:46 |
 | 7 | [Friskis](https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Friskis](https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu) | 2:48 |

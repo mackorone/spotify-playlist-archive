@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,016 songs - 2 day 18 hr 58 min
+1,017 songs - 2 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,6 +879,7 @@
 | [The Homeless and the Jet Boots Boy](https://open.spotify.com/track/7zpucEpqQ4uqUR2L3lPu9m) | [Jupiter Apple](https://open.spotify.com/artist/305wP8s5kY4kW1HqkFSjDi) | [Hisscivilization](https://open.spotify.com/album/33qTAyCo4Xdjdbft2MFv9T) | 11:34 | 2025-03-29 |  |
 | [The Infanta](https://open.spotify.com/track/0irk3bHSVDK12T2eGeWBuz) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 5:07 | 2023-11-04 |  |
 | [The Introduction](https://open.spotify.com/track/1ffQI6OUl4BzgnUXIWVEly) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 0:19 | 2025-06-28 |  |
+| [The Iron Wall](https://open.spotify.com/track/6CsxP1KlLAUjCZeD4UYqH2) | [Infinity Knives](https://open.spotify.com/artist/4IRSrcFPOEhZgeNX5Ho0th), [Brian Ennals](https://open.spotify.com/artist/736tHn6tvEkK3cHqSEAAbO), [FRANKI3](https://open.spotify.com/artist/43LOE3QXfacVTe9h5Uc2Es) | [A City Drowned in God's Black Tears](https://open.spotify.com/album/6xL3agjy4clyjhfNwsqCy4) | 4:05 | 2026-01-04 |  |
 | [The Journey](https://open.spotify.com/track/50yW6FIY9isI5GmK1MNWfj) | [BE](https://open.spotify.com/artist/06kHjoBIuDUNyFBNBMoAC2) | [One](https://open.spotify.com/album/6I7J5zPGIdOGKl5jtCGzdh) | 18:52 | 2024-01-18 |  |
 | [The Knock](https://open.spotify.com/track/2oqDWu9cEgRcvk5FhIqEDU) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/7bR9KYRb6jfhlle5Y9U4BD) | 3:33 | 2025-04-28 |  |
 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 | 2023-10-30 | 2024-05-20 |

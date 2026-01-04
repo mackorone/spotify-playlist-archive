@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > melhor ser um guerreiro num jardim do que um jardineiro numa guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,887 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,792 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Percepción](https://open.spotify.com/track/1KWct3BVMyttFU0uKcWp2h) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Percepción](https://open.spotify.com/album/3krksR15hRduOvh2YnBXoe) | 2:27 |
 | 50 | [Segunda Chance](https://open.spotify.com/track/4pMuVA8t24Gnbu95a11thE) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [Segunda Chance](https://open.spotify.com/album/0uDDj3QQ7ziTjKTzwW5kuc) | 2:44 |
 
-Snapshot ID: `AAAAAIxCD7O2DsdBYSbBCyHo/gsZKkla`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-207 songs - 9 hr 29 min
+208 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [fallin' black noise](https://open.spotify.com/track/2Mhd7xjrpK5Np2pwqg2vGr) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [fallin' black noise](https://open.spotify.com/album/3cWDwqhxIsi4sTeupb0yL1) | 3:42 | 2025-04-09 |  |
 | [Focused Black Noise](https://open.spotify.com/track/4706E26ijxiFCGJAC8RbRi) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 2:05 | 2023-03-10 | 2024-02-14 |
 | [Focused Black Noise](https://open.spotify.com/track/5rURzzYYHLowCCnERjNBu5) | [LBE Sound Factory](https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc) | [Soothing Black Noise](https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc) | 2:13 | 2023-04-21 |  |
-| [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 |  |
+| [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 | 2026-01-04 |
 | [Galactic Black Noise](https://open.spotify.com/track/2DhYqpiV9GLi9mTVa35rFl) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Galactic Black Noise](https://open.spotify.com/album/6z7wXouzuZSvzsFcMG0Cfp) | 3:35 | 2025-12-19 |  |
 | [Gentle Black Noise](https://open.spotify.com/track/6cKQ38a2sw68PwIUC5Gbxu) | [Timmid](https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R) | [Gentle Black Noise](https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w) | 2:47 | 2023-03-10 | 2023-06-20 |
 | [Gentle Static Black Noise](https://open.spotify.com/track/5wghBv8Vw1g9GCg8qZJRBh) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Ambient Black Noise](https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq) | 2:51 | 2023-06-19 |  |
@@ -208,6 +208,7 @@
 | [The Soothing Sound of Black Noise](https://open.spotify.com/track/5y6xbJ2lPTn95YvaqUZ2cX) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Black Noise Tranquility](https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7) | 1:53 | 2023-03-10 | 2023-06-20 |
 | [Tranquil Black Noise](https://open.spotify.com/track/3DHtYe6uxhBUWzRqfGOM9I) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Tranquil Black Noise](https://open.spotify.com/album/7uQIqVmUs8BKNKlxXc7cQ6) | 2:05 | 2023-06-01 | 2025-08-18 |
 | [Tranquil Black Noise](https://open.spotify.com/track/16mqlk2a8x1JHZbQZcgI8J) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Relaxing Black Noise](https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP) | 2:04 | 2023-03-10 |  |
+| [Tranquil Black Noise](https://open.spotify.com/track/31CEiP9HABfOhV3jh3BYyR) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Tranquil Black Noise](https://open.spotify.com/album/5RbAxMIzf1fo39ZrdFxEGR) | 2:50 | 2025-12-19 |  |
 | [Tune In To Black Noise Pt.2](https://open.spotify.com/track/1SSDbd8BbKpW0kq08HK3wh) | [Nature Calm](https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P) | [Tune In To Black Noise](https://open.spotify.com/album/6az4sQ25wvUX44FmNXxt4E) | 2:29 | 2023-06-01 |  |
 | [Warm Black Noise](https://open.spotify.com/track/71jCCS4SUjrgvebOA9x9NP) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Black Noise For Sleep](https://open.spotify.com/album/1ApPzA3mdMFjAI1Uxp94Kk) | 2:11 | 2023-03-10 |  |
 | [Wave Black Noise Melody](https://open.spotify.com/track/7eH9nvJdLI0FtpR2Xc5Wtq) | [W\-Noise](https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB) | [Catching The Black Noise](https://open.spotify.com/album/1oMb0NNA9fVICpF3bNexIn) | 1:55 | 2023-03-10 | 2023-06-20 |

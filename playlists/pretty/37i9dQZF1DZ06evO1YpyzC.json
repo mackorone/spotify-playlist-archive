@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266004,
+  "num_followers": 266007,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAAMmiLy4Tgrrybh9X8XLCkZ",
+  "snapshot_id": "aVcKgAAAAACpxf8QanrN3+TeEkWbfvDG",
   "tracks": [
     {
       "added_at": null,
@@ -699,42 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "17 Problems",
-        "url": "https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 173215,
-      "name": "Song For My Son (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Fiddle in the Band",
-      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -755,6 +719,42 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "17 Problems",
+        "url": "https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 173215,
+      "name": "Song For My Son (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
     },
     {
       "added_at": null,

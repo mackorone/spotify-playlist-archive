@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,581 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,591 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 75 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
 | 76 | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/album/1XhCYaSTL2RoT0cNvpJcsV) | 3:32 |
 | 77 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
-| 78 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
-| 79 | [Right Now](https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Right Now](https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF) | 3:11 |
+| 78 | [Right Now](https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Right Now](https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF) | 3:11 |
+| 79 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
 | 80 | [Hello](https://open.spotify.com/track/2YEJHljehDT4kktVq9v6YZ) | [Yue](https://open.spotify.com/artist/1f2R89vpkJBEwIF8jla4FI) | [Hello](https://open.spotify.com/album/0l3YAPM3P5jlFlen2m45MU) | 3:14 |
 | 81 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 82 | [Hear My Call \(feat\. Mayelli\)](https://open.spotify.com/track/6wavKmZ3ji7mlrv0NUDnQX) | [Baika](https://open.spotify.com/artist/2eS4YApdBBq5lPwh7hfj2l), [Mayelli](https://open.spotify.com/artist/0avPPYPNS3Yxa04hX5ZYsK) | [Hear My Call \(feat\. Mayelli\)](https://open.spotify.com/album/43ZeTG1gQpIFjmwwS2Zb8S) | 3:18 |

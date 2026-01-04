@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-114 songs - 6 hr 57 min
+116 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-11-16 |  |
 | [Endings](https://open.spotify.com/track/2gP83aXOSFQYTEIwWZ7tHT) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 2:53 | 2025-11-16 |  |
 | [Escape](https://open.spotify.com/track/3V2s8iY5pq8OE5UQVwKi5B) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Escape](https://open.spotify.com/album/6rHwXEeEYTcAPPMk6mXtUX) | 3:31 | 2025-11-16 | 2025-12-08 |
+| [European Man](https://open.spotify.com/track/2W7vJTBjlH0mimbvgToFOC) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 5:17 | 2026-01-03 |  |
 | [Feet on the ground](https://open.spotify.com/track/58343pX3daGgogNc9ONZr6) | [Ant Thomaz](https://open.spotify.com/artist/2feSaRrLlSdjoDPVyibesT) | [Feet on the ground](https://open.spotify.com/album/4enfg1hvO7ul2Wo42lA74k) | 2:56 | 2025-11-16 | 2025-11-24 |
 | [Fever](https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z) | [CRASHKID!](https://open.spotify.com/artist/79gH2g5UhKfGvukkk3Mria) | [Fever](https://open.spotify.com/album/37Hg5Pzk6T83nxMSBy4ivP) | 3:15 | 2025-11-16 | 2025-11-24 |
 | [First Rap](https://open.spotify.com/track/4vY8rZrUFWwOV386qouWic) | [Werd \(SOS\)](https://open.spotify.com/artist/2JmBusSS5IQxCb3U4PV3z0), [Deeko](https://open.spotify.com/artist/4JtJlMJzCuJ3R7zhHkLSeq), [MOG](https://open.spotify.com/artist/7L97CynQqmNmrfCcHt5qqI) | [The Unplanned EP](https://open.spotify.com/album/4ycnKtcNOVmfz9b78VE4f1) | 3:35 | 2025-12-28 |  |
@@ -118,6 +119,7 @@
 | [Up For Air](https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:55 | 2025-11-23 |  |
 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 | 2025-11-16 |  |
 | [Warm/Safe](https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Warm/Safe](https://open.spotify.com/album/5ewK2wWp6uFddofEn3x9bO) | 2:55 | 2025-12-18 |  |
+| [When Did You Stop Dancing?](https://open.spotify.com/track/5TpbMuAVWV9u48WsnsJVer) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 4:26 | 2026-01-03 |  |
 | [Where Did the Time Go](https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt) | [Ellyn Oliver](https://open.spotify.com/artist/5b5vgWOGZ4uQYYb5eWk9Tl) | [Where Did the Time Go](https://open.spotify.com/album/4DSfBuovOzfL54pgqRwV95) | 4:06 | 2025-11-16 | 2025-12-01 |
 | [You \- You're All I Wanted](https://open.spotify.com/track/5QqtWZZkFXvP1A6IazZtO0) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:28 | 2025-12-14 | 2025-12-19 |
 | [You Got It Wrong](https://open.spotify.com/track/0P6AaC57uvo5fJQbOZqvNi) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [You Got It Wrong](https://open.spotify.com/album/78SpUOmuLnaVsOCndsPbI1) | 3:55 | 2025-11-16 | 2025-11-24 |

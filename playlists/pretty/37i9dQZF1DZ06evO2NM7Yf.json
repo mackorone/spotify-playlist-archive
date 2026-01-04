@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAAX5I0pxEPe7RGzpMyMeccl",
+  "snapshot_id": "aVcKgAAAAAAEgaf7ls273dCvs2d1oTk4",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 161060,
-      "name": "Girls Just Wanna Be Famous",
-      "url": "https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB"
+      "duration_ms": 175851,
+      "name": "Carlos, Get in the Car!",
+      "url": "https://open.spotify.com/track/5656maKIcmpPxsH0XKFIV3"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 175851,
-      "name": "Carlos, Get in the Car!",
-      "url": "https://open.spotify.com/track/5656maKIcmpPxsH0XKFIV3"
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 142419,
-      "name": "I've got a bad feeling...",
-      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
+      "duration_ms": 146054,
+      "name": "Dive Bar Opera",
+      "url": "https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 146054,
-      "name": "Dive Bar Opera",
-      "url": "https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb"
+      "duration_ms": 142419,
+      "name": "I've got a bad feeling...",
+      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
     },
     {
       "added_at": null,

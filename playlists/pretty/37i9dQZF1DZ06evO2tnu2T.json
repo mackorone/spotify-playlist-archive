@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1311,
+  "num_followers": 1315,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAABxInSOyq88+O36xwpX/jTD",
+  "snapshot_id": "aVcKgAAAAABf9z4j3WyAH7c6Sd6A4V9/",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye Glitter",
+        "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Goodbye Glitter",
+      "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 151500,
       "name": "Shades",
       "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye Glitter",
-        "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Goodbye Glitter",
-      "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-33 songs - 1 hr 59 min
+34 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Rhapsody of Lee Gang](https://open.spotify.com/track/0MvYgm9jXmB9omUonC2kqr) | [KIM SIHWAN](https://open.spotify.com/artist/28cqMY9MV18lRetgp0sUYA), [MOON SUNGJUN](https://open.spotify.com/artist/0MOf2HSEJ5Xkf76fOxqkrx), [PARK JAEHOON](https://open.spotify.com/artist/5njF2usEbKdd0787NTIN49), [TAIRA](https://open.spotify.com/artist/5ny0iH6L5rZ1ADPDAyhK4a) | [Rhapsody of Lee Gang](https://open.spotify.com/album/1Nt4gcn0KpUGK4zRli6eP4) | 2:46 | 2025-12-13 |  |
 | [Say You Love Me \(From "Dynamite Kiss"\)](https://open.spotify.com/track/7j0kGxwZ5XFFLDXohRIkgf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Say You Love Me \(From "Dynamite Kiss"\)](https://open.spotify.com/album/4UGcDJJ8buGQa8tBbH3q0Q) | 4:28 | 2025-12-03 |  |
 | [Summer](https://open.spotify.com/track/5xcYw37nCyK3ZbKus3hFDr) | [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [Summer](https://open.spotify.com/album/7xa5fCOTIUaTq1SHjhmzfh) | 3:58 | 2025-10-15 | 2025-10-29 |
+| [The Other Side](https://open.spotify.com/track/3gsazfhbfFmuaJIw7inrAu) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [The Other Side](https://open.spotify.com/album/5RArkzgwxGsxsD24kXk0mI) | 3:58 | 2026-01-03 |  |
 | [Think about you](https://open.spotify.com/track/0rDe9cOac9175L43dYzS6B) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Think about you](https://open.spotify.com/album/5pgmrPqABXofBAgao3fmYf) | 3:16 | 2025-10-15 |  |
 | [Wandering Star \(From "My Girlfriend is the Man"\)](https://open.spotify.com/track/5c64Oz6Uwld9b3YjKd8CsU) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [Wandering Star \(From "My Girlfriend is the Man"\)](https://open.spotify.com/album/1abvowZivDsnzw95NWSMBv) | 3:33 | 2025-08-12 |  |
 | [We're Already \(from "Nevertheless" Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/track/2hnLWui90ibtGKqVleP4R0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [We're Already \(from "Nevertheless" Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/5RZ8bSQSdpsHefGnY45F3d) | 4:01 | 2025-07-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37904,
+  "num_followers": 37909,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACjzJduurONWh8xHGIbvDpM",
+  "snapshot_id": "aVcKgAAAAABScH6TNoHuBTp8gu0ETLzF",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+      "duration_ms": 281636,
+      "name": "Eeehhh",
+      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
       "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 281636,
-      "name": "Eeehhh",
-      "url": "https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN"
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 265788,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
+      "duration_ms": 191949,
+      "name": "XTC Acid",
+      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 191949,
-      "name": "XTC Acid",
-      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
+      "duration_ms": 265788,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
     }
   ],
   "unique_name": "This Is SOPHIE",

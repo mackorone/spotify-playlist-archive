@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
-  "num_followers": 8475,
+  "num_followers": 8492,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
+        "name": "Gharama",
+        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Gharama",
+      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
         "name": "A DAY TO REMEMBER",
         "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 244645,
       "name": "EX WA NANI",
       "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
-        "name": "Gharama",
-        "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
-      },
-      "artists": [
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Gharama",
-      "url": "https://open.spotify.com/track/6cn01Swy0waWynPq386WBp"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 200921,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Shemeji Yako",
         "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 256350,
       "name": "Shemeji Yako",
       "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 200921,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -879,22 +879,18 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Ex Arudiwi",
-        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
       "artists": [
         {
-          "name": "AbduKiba",
-          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 199132,
-      "name": "Ex Arudiwi",
-      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -915,18 +911,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+        "name": "Ex Arudiwi",
+        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+      "duration_ms": 199132,
+      "name": "Ex Arudiwi",
+      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Kosa Langu",
-        "url": "https://open.spotify.com/album/0BKfyfvpxZj4j69IzW64ME"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Don Breezy",
-          "url": "https://open.spotify.com/artist/2W2NVgvQhDjg6eAWHRxRmy"
-        }
-      ],
-      "duration_ms": 269467,
-      "name": "Kosa Langu",
-      "url": "https://open.spotify.com/track/29Ef4yxnARlU2yykvmHq7s"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Kama Ujui Utajua",
         "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 239046,
       "name": "Kama Ujui Utajua",
       "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Kosa Langu",
+        "url": "https://open.spotify.com/album/0BKfyfvpxZj4j69IzW64ME"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Don Breezy",
+          "url": "https://open.spotify.com/artist/2W2NVgvQhDjg6eAWHRxRmy"
+        }
+      ],
+      "duration_ms": 269467,
+      "name": "Kosa Langu",
+      "url": "https://open.spotify.com/track/29Ef4yxnARlU2yykvmHq7s"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Weeeweeeeeeee",
-        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Weeeweeeeeeee",
-      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Nikizipata",
         "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 180000,
       "name": "Nikizipata",
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Weeeweeeeeeee",
+        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Weeeweeeeeeee",
+      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
       "artists": [
         {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1203,22 +1207,34 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
       },
       "artists": [
         {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
         }
       ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 282984,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1243,22 +1259,6 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
-        "name": "Dua",
-        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 282984,
-      "name": "Dua",
-      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Lipa",
-        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
-      },
-      "artists": [
-        {
-          "name": "Kiwanda",
-          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
-        },
-        {
-          "name": "Aslam Tz",
-          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
-        }
-      ],
-      "duration_ms": 223884,
-      "name": "Lipa",
-      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Maisha Yetu Usela",
         "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+      },
+      "artists": [
+        {
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
+        },
+        {
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+        }
+      ],
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
       "added_at": "2025-12-05 10:21:49",

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,587 songs - 10 day 10 hr 53 min
+4,588 songs - 10 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4331,6 +4331,7 @@
 | [Warp 1.9 \(feat\. Steve Aoki\) \- Westend & Cherry Tooth Remix](https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Warp 1.9 \(feat\. Steve Aoki\) \[Westend & Cherry Tooth Remix\]](https://open.spotify.com/album/7qCVuPyIdosx8QkFxuINON) | 2:47 | 2024-06-16 | 2024-06-21 |
 | [Warrior \(feat\. Diandra Faye\)](https://open.spotify.com/track/38LeH5EOw9Ii5PeHO7grji) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Warrior \(feat\. Diandra Faye\)](https://open.spotify.com/album/5Wqj2C9oOVJ7bjm5Sr7pag) | 4:04 | 2025-01-03 | 2025-01-11 |
 | [Wasabi \- Original Mix](https://open.spotify.com/track/34Y7YFAPqvYulm1yyRklzO) | [Bubba Brothers](https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz) | [Wasabi](https://open.spotify.com/album/0Ght6xRDOUMMTpWjMNHPJI) | 6:06 | 2025-04-21 | 2025-04-25 |
+| [Wasted](https://open.spotify.com/track/5GbwRgMGCTH1YxYmS5hf1f) | [KJUNTO](https://open.spotify.com/artist/6PWKpBLCIXIhUpJVirylR6) | [Wasted](https://open.spotify.com/album/2c6ULiGaJPgEPTtMeI8yL4) | 3:11 | 2026-01-03 |  |
 | [Wasted Love](https://open.spotify.com/track/4FUV7WUiUpBPkTiGL8ndFf) | [Puko](https://open.spotify.com/artist/3YqhqGVcG0zZNUNhknORWQ) | [Wasted Love](https://open.spotify.com/album/0krBiDQuWKP0bWQqV6lM6k) | 2:21 | 2024-09-26 | 2024-10-12 |
 | [Wasted On Your Love](https://open.spotify.com/track/3xbpj9eJNkvtw6abm806ci) | [EGGSTA](https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz) | [Wasted On Your Love](https://open.spotify.com/album/1YsYkrNIbqtCcFdSByVfdU) | 2:56 | 2025-06-06 | 2025-06-14 |
 | [Watch Me](https://open.spotify.com/track/2EhEhgPbTatJFlmKIcTbA0) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Watch Me](https://open.spotify.com/album/6RRZb7gBUFhXJYBywCZhm2) | 1:50 | 2025-02-28 | 2025-03-08 |

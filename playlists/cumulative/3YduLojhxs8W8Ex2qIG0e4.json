@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/4k7ksGcgauZsBqlSHnXa6Y"
+      },
+      "artists": [
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Folie \u00e0 Deux",
+      "url": "https://open.spotify.com/track/7zZsUdrHGe8jDZ0Q2eFLIG"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3"
       },

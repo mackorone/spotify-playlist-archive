@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3277,
+  "num_followers": 3278,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAB+AKNpGYxWLu+2sFRqi2P0",
+  "snapshot_id": "aVcKgAAAAABkPCRVKXDQRMD5J8qUy3G+",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 175612,
+      "name": "Good Morning, Beautiful You",
+      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 147952,
       "name": "Glorious - Rise Cast Version",
       "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "Good Morning, Beautiful You",
-      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
     },
     {
       "added_at": null,
@@ -579,34 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Graham Phillips",
-          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
-        },
-        {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 181644,
       "name": "The Perfect Me (Finale)",
       "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 131682,
       "name": "Start the Day Again",
       "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,

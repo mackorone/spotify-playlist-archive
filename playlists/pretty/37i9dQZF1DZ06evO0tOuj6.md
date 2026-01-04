@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,084 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,085 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 27 | [あの夏のあいまいME \- feat.SUPER EIGHT](https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [あの夏のあいまいME \(feat.SUPER EIGHT\)](https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm) | 3:53 |
 | 28 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 |
 | 29 | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 |
-| 30 | [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/0nDouEV8uGMwAfndyQ3iPH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:49 |
-| 31 | [流星とバラード](https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 4:33 |
+| 30 | [流星とバラード](https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 4:33 |
+| 31 | [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/0nDouEV8uGMwAfndyQ3iPH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:49 |
 | 32 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
 | 33 | [散りゆく花のせいで](https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散りゆく花のせいで](https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u) | 4:29 |
 | 34 | [まだ、諦めてないだろ？](https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [まだ、諦めてないだろ？](https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD) | 3:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 43 | [S.O.S\. \[Share One Sorrow\] \- feat.Tokyo Tanaka & Jean\-Ken Johnny](https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Tokyo Tanaka](https://open.spotify.com/artist/1CCYrklxWCwWnOEm2mn4zC), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [S.O.S\. \[Share One Sorrow\] \(feat.Tokyo Tanaka & Jean\-Ken Johnny\)](https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr) | 4:02 |
 | 44 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 |
 | 45 | [Pride Of Lions](https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
-| 46 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
+| 46 | [世界地図](https://open.spotify.com/track/2VPXJQa5KK96QVBp3EN2Ou) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Answer](https://open.spotify.com/album/0EY003PIVH4cGYCvOXqzTE) | 4:43 |
 | 47 | [Sweet G](https://open.spotify.com/track/52eeJHAFrtiQkJJVcjX6Jv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [FANTASIA](https://open.spotify.com/album/3p6GJ9Bk6zFOKTgIZruchB) | 5:43 |
-| 48 | [世界地図](https://open.spotify.com/track/2VPXJQa5KK96QVBp3EN2Ou) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Answer](https://open.spotify.com/album/0EY003PIVH4cGYCvOXqzTE) | 4:43 |
+| 48 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 49 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
 | 50 | [Wings Of Phoenix](https://open.spotify.com/track/7sxuNxmyl7qdsBfpn3q3q4) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:05 |
 
-Snapshot ID: `aVW5AAAAAADgJZKZS4RZSQ5nNBmCZgAS`
+Snapshot ID: `aVcKgAAAAAAHrmCwYp6KaUqYk2WpE2gn`

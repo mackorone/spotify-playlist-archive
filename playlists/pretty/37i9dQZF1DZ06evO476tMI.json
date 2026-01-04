@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 636842,
+  "num_followers": 636897,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAADT4Y59OZ6j/AecISIcw1z6",
+  "snapshot_id": "aVcKgAAAAAC9bdCnUomDPA/UG1/jrXT4",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "I Believe In You And Me - Film Version",
-      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 281493,
       "name": "Heartbreak Hotel (feat. Faith Evans & Kelly Price)",
       "url": "https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "I Believe In You And Me - Film Version",
+      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
     },
     {
       "added_at": null,

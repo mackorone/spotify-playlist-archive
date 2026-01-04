@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211036,
+  "num_followers": 211045,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,30 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "We Must Respond (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 419549,
+      "name": "Even Though I Walk - Live At Church",
+      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "We Must Respond (Deluxe) [Live]",
-        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 419549,
-      "name": "Even Though I Walk - Live At Church",
-      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Though I Walk",
+        "url": "https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        }
+      ],
+      "duration_ms": 254445,
+      "name": "Though I Walk",
+      "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 316843,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Though I Walk",
-        "url": "https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy"
-      },
-      "artists": [
-        {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        }
-      ],
-      "duration_ms": 254445,
-      "name": "Though I Walk",
-      "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 167449,
       "name": "Just Hold On",
       "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Just Like Jesus",
-        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Just Like Jesus",
-      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "You Again",
         "url": "https://open.spotify.com/album/4UQOnF0cbNqo7a747J7K8p"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Just Like Jesus",
+      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
+        "name": "GAIN",
+        "url": "https://open.spotify.com/album/58lg6PtkeEDrBYu8pJti1A"
       },
       "artists": [
         {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        },
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Jason Marvin",
+          "url": "https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560"
         }
       ],
-      "duration_ms": 203375,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei"
+      "duration_ms": 360000,
+      "name": "GAIN",
+      "url": "https://open.spotify.com/track/3sOqgK6crTwGqfHBq8NUpB"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1543,18 +1539,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "GAIN",
-        "url": "https://open.spotify.com/album/58lg6PtkeEDrBYu8pJti1A"
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
       },
       "artists": [
         {
-          "name": "Jason Marvin",
-          "url": "https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560"
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 360000,
-      "name": "GAIN",
-      "url": "https://open.spotify.com/track/3sOqgK6crTwGqfHBq8NUpB"
+      "duration_ms": 203375,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1667,6 +1667,26 @@
       "duration_ms": 247677,
       "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
       "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "A New Reality (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1807,26 +1827,6 @@
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "A New Reality (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        },
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi"
     },
     {
       "added_at": "2025-12-13 23:46:05",

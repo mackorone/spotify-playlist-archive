@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from KATSEYE, Ninho, Lost Frequencies and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,484 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,483 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

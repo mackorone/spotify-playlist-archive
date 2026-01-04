@@ -136277,6 +136277,24 @@
     },
     {
       "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/53aRq6gzsy8VyvsN5DcdNy"
+      },
+      "artists": [
+        {
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/3XVWZQ9pp5lmWU72TfdVbF"
+    },
+    {
+      "album": {
         "name": "Black Coast",
         "url": "https://open.spotify.com/album/2tDOC5QXlUXodWMdRwLxwp"
       },

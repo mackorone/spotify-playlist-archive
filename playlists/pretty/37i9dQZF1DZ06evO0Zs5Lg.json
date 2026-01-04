@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23641,
+  "num_followers": 23652,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAADa8GNXH8+50usmh8+zcuFh",
+  "snapshot_id": "aVcKgAAAAAA8GKY8amaZ2DfHMOU2oOgh",
   "tracks": [
     {
       "added_at": null,
@@ -170,15 +170,11 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Devils Gate (with Kevin Gates)",
-      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
+      "duration_ms": 182960,
+      "name": "Horse",
+      "url": "https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN"
     },
     {
       "added_at": null,
@@ -238,11 +234,15 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 182960,
-      "name": "Horse",
-      "url": "https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN"
+      "duration_ms": 215800,
+      "name": "Devils Gate (with Kevin Gates)",
+      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
     },
     {
       "added_at": null,
@@ -259,26 +259,6 @@
       "duration_ms": 188813,
       "name": "Andre The Giant",
       "url": "https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -303,6 +283,26 @@
       "duration_ms": 117894,
       "name": "Gone Fishin",
       "url": "https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headphone Concerto",
-        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
-      },
-      "artists": [
-        {
-          "name": "Amp Live",
-          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
-        },
-        {
-          "name": "Anya",
-          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
-        },
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 232483,
-      "name": "Penny Nickel Dime",
-      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Time Boy (with Zombie Juice & Meechy Darko of Flatbush Zombies)",
         "url": "https://open.spotify.com/album/0uundV8YMao02nkQffZWWq"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 175493,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Headphone Concerto",
+        "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
+      },
+      "artists": [
+        {
+          "name": "Amp Live",
+          "url": "https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL"
+        },
+        {
+          "name": "Anya",
+          "url": "https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 232483,
+      "name": "Penny Nickel Dime",
+      "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
     },
     {
       "added_at": null,

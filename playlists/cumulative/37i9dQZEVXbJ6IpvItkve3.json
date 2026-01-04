@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -11855,6 +11855,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05d1\u05d0 \u05dc\u05d0\u05d9\u05e8\u05d5\u05d5\u05d9\u05d6\u05d9\u05d5\u05df 2026 - \u05e4\u05e8\u05e7 17",
+        "url": "https://open.spotify.com/album/7FCpr3ZUUc5WBHYPjSQJzk"
+      },
+      "artists": [
+        {
+          "name": "\u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05d1\u05d0",
+          "url": "https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN"
+        },
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/5fKgzl3NkOSBwVdsYRqxdd"
+    },
+    {
+      "album": {
         "name": "\u05d5\u05d1\u05d9\u05e0\u05d9\u05d4\u05dd",
         "url": "https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU"
       },
@@ -13952,7 +13974,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 187786,
       "name": "\u05d1\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/5edYMsNo852Zw29Qni9p8t"
@@ -14152,7 +14174,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "\u05d1\u05d7\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK"
@@ -16634,7 +16656,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 191129,
       "name": "\u05d7\u05d5\u05dc\u05de\u05ea",
       "url": "https://open.spotify.com/track/3N48942rc1DKId7vmDDcy0"
@@ -20174,7 +20196,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 142314,
       "name": "\u05de\u05d8\u05d5\u05e8\u05e4\u05ea",
       "url": "https://open.spotify.com/track/7LA51LhQTW9tulMfS3IhiL"
@@ -23156,7 +23178,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "\u05e4\u05e8\u05d5\u05e4\u05d9\u05dc 97",
       "url": "https://open.spotify.com/track/4KO1zi2sp4jU3V6M23cbLr"
@@ -24004,7 +24026,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"

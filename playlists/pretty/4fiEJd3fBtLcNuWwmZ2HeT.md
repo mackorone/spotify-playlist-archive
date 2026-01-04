@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 406 songs - 23 hr 24 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 407 songs - 23 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -414,5 +414,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 404 | [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 |
 | 405 | [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 |
 | 406 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 |
+| 407 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
 
-Snapshot ID: `AAAJkL6nLWrkMUA09cvLrtE+VxbyKWtC`
+Snapshot ID: `AAAJkaAWgmZ/8YB4zh4tCLK4FbmJvKXL`

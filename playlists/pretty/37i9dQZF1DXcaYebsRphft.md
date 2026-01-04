@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『BABYMONSTER “LOVE MONSTERS” JAPAN FAN CONCERT 2025』のセットリストをMCとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,644 likes - 20 songs - 52 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,637 likes - 20 songs - 52 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

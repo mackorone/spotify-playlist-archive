@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,046 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,220 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Quando Você Chegou](https://open.spotify.com/track/457V49BhoC82JATzMaX7HJ) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:31 |
 | 75 | [Pura Ilusão](https://open.spotify.com/track/79BnBZ90gDoxrORXGU1zOY) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Pura Ilusão](https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph) | 2:47 |
 
-Snapshot ID: `AAAAADZfcIWAuNDOG0TxF7bAR44D5jQl`
+Snapshot ID: `AAAAANDal0+KdjugunfKMMHs9Utm45UG`

@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-286 songs - 15 hr 41 min
+287 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 | 2025-11-29 |
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/1GE7KYGZW7qIFQSXaK328F) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [A Living Room Christmas](https://open.spotify.com/album/1T6dFnGqYWcZpnQbWgumWm) | 3:12 | 2023-10-16 | 2024-11-12 |
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
-| [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 |  |
+| [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2026-01-04 |
 | [Christmas Everyday](https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Christmas Everyday \- Single](https://open.spotify.com/album/0XX9kEAXQZRSxxlAwSADvU) | 2:09 | 2021-11-12 | 2022-07-29 |
 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 | 2021-11-12 |  |
 | [Christmas in Prison \(feat\. John Prine\)](https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Christmas in Prison \(feat\. John Prine\)](https://open.spotify.com/album/5nVgGDtBrNJyoPL3inGgk7) | 4:57 | 2023-12-08 | 2024-09-27 |
@@ -224,6 +224,7 @@
 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Someone to Spend Christmas With](https://open.spotify.com/track/3eJp4DzlpCrP6TNCTBOng2) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Someone to Spend Christmas With](https://open.spotify.com/album/01muwahIzp9KIyxf0MkWo5) | 4:02 | 2021-11-12 | 2022-07-27 |
 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 | 2022-11-08 |  |
+| [Tchotchkes](https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T), [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchkes](https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA) | 3:42 | 2025-12-17 |  |
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 | 2021-11-12 | 2024-04-19 |
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:18 | 2021-11-12 |  |
 | [The Blizzard](https://open.spotify.com/track/0442MxTJy5BBYDLYtTB3Gr) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/6BLCOiSMOaY1pFZ2hTWrxW) | 4:14 | 2021-11-12 | 2022-07-28 |

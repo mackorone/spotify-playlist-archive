@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some festive EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,921 likes - 110 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,887 likes - 110 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

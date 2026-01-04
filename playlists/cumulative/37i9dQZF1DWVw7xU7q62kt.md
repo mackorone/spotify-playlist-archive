@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-734 songs - 1 day 7 hr 37 min
+735 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
 | [Paper Planes](https://open.spotify.com/track/1HcbPmeokxD8x87M4Gg23x) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Paper Planes](https://open.spotify.com/album/0yWx9GV1HrXnbZ0x3n5WZw) | 1:50 | 2025-09-26 | 2025-10-17 |
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |
-| [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 |  |
+| [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 | 2026-01-04 |
 | [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 | 2025-05-28 |
 | [Paros](https://open.spotify.com/track/5ON4nhxbTrFO2Hz519V7qr) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Paros](https://open.spotify.com/album/1iuRXRyzwJAh6Vfdli8Tu2) | 2:03 | 2025-10-17 | 2025-11-29 |
 | [Peaches and Cream](https://open.spotify.com/track/3hI24Dpu2L2YZy3p5Lj1vX) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Peaches and Cream](https://open.spotify.com/album/1E7mqoRRnViuleWdArhxvx) | 2:03 | 2025-08-22 | 2025-09-13 |
@@ -688,6 +688,7 @@
 | [Unstoppable](https://open.spotify.com/track/4ClTudzzBvQxF42J8ruUvo) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Unstoppable](https://open.spotify.com/album/3YUesCmuboRnj3OdGyCfuJ) | 1:56 | 2025-10-24 |  |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 | 2025-02-08 |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-08-22 | 2025-02-08 |
+| [Upright Smooth](https://open.spotify.com/track/1HbQpQ6rkV4sHAuH2ilLB6) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Upright Smooth](https://open.spotify.com/album/21ge0evJv4seDex75nvJQU) | 2:04 | 2025-12-26 |  |
 | [Urban Oasis](https://open.spotify.com/track/68q3yCwDpiaoSQzp2ZWeG2) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Urban Oasis](https://open.spotify.com/album/3q6FnpTsnNq0J1JYFh83fa) | 2:30 | 2023-12-08 | 2025-04-12 |
 | [Vacance](https://open.spotify.com/track/2u1l8kifo56UZPrvHj2VAo) | [Max Merseny](https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Vacance](https://open.spotify.com/album/4RhpbollpgVvWeDZS3sh0m) | 2:13 | 2025-03-28 |  |
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2023-08-22 | 2024-04-19 |

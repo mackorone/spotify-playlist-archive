@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 49 | [Can't Buy My Love](https://open.spotify.com/track/3hSIPdRYLbvfsx7JLaXc6v) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Can't Buy My Love](https://open.spotify.com/album/1Ihv1m7tx6llJBcunYo2ot) | 2:40 |
 | 50 | [Papaya \(feat\. Lord Afrixana\)](https://open.spotify.com/track/3CFzETSNTZKAyC2jHQ8Ero) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 3:18 |
 | 51 | [Figured Out](https://open.spotify.com/track/4SiuRpIF4w6d8Jcd6EqCSf) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:04 |
-| 52 | [Lose Me \(feat\. Buddy\)](https://open.spotify.com/track/6xRA0uWn06G0A5oPddcQmF) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:08 |
-| 53 | [Play](https://open.spotify.com/track/7jdL6NTClwvVkJipnLRdhi) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 3:19 |
+| 52 | [Play](https://open.spotify.com/track/7jdL6NTClwvVkJipnLRdhi) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 3:19 |
+| 53 | [Lose Me \(feat\. Buddy\)](https://open.spotify.com/track/6xRA0uWn06G0A5oPddcQmF) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:08 |
 | 54 | [Real Man](https://open.spotify.com/track/1c6yJ3DE0AEhG76jFJk6Gn) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [A MAN'S WORLD](https://open.spotify.com/album/1pzcFK7h8rWhhIZcL484lt) | 3:08 |
 | 55 | [My Love \(feat\. Ayra Starr and BEAM\) \- Crate Classics Remix](https://open.spotify.com/track/10Nro5eWjwoG71jVE7J79L) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx) | [My Love \(feat\. Ayra Starr\) \[Remixes\]](https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu) | 3:02 |
 | 56 | [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 61 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 62 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AcF5vgAAAABfkhhYd5bbjiNmtM2QyP2E`
+Snapshot ID: `AcF/mgAAAABNHhRgBXhPYKru3PXUEpml`

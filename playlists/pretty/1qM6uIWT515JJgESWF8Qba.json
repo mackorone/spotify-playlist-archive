@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 284,
+  "num_followers": 288,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA9BP3eUKNWfr53fCrOFZWXyZ3Z7v0",
+  "snapshot_id": "AAAA9bJyhcj42LVhweAFs5yC59/k8z+c",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -943,6 +943,22 @@
       "duration_ms": 197706,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "added_at": "2026-01-03 23:47:37",
+      "album": {
+        "name": "7 De Octubre",
+        "url": "https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7"
+      },
+      "artists": [
+        {
+          "name": "Protocolo Snob",
+          "url": "https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "7 De Octubre",
+      "url": "https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs"
     }
   ],
   "unique_name": "Local Rock Bands",

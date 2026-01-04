@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-382 songs - 1 day 0 hr 37 min
+384 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Pretty Thing](https://open.spotify.com/track/2rW9GxH8MrqLNVAWyUhF6h) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 | 2025-04-26 | 2025-07-19 |
 | [Private Idaho](https://open.spotify.com/track/1y5V5qja332UyMeUurFhDS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/1K4t7Jv7DuolDWnFLxKxkd) | 3:36 | 2025-09-05 |  |
 | [Private Idaho](https://open.spotify.com/track/65euzegUp4McfXBsygxDwi) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/2ONa8B1QHj5gqF9Axgc86E) | 3:36 | 2025-04-04 |  |
+| [Purple Rain \- 2015 Paisley Park Remaster](https://open.spotify.com/track/1vfvy1Of0iJLDjh5eMfVyI) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 8:44 | 2026-01-03 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2R1LhAwMJIc8ab5BMzzb1O) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Fancy](https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6) | 3:13 | 2025-05-16 |  |
 | [Ramblin' Gamblin' Man](https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ramblin' Gamblin' Man](https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE) | 2:25 | 2025-07-25 |  |
 | [Reckoner](https://open.spotify.com/track/5a4vg531ZVktGPmR521xpo) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [Reckoner](https://open.spotify.com/album/3W0ErLTmFyX4uGfoXEcNOm) | 6:14 | 2022-05-18 | 2024-05-02 |
@@ -366,6 +367,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-05-01 |  |
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-05-01 | 2025-06-07 |
 | [What’s The Frequency, Kenneth? \- Remix](https://open.spotify.com/track/0LXoDahNUHXVx2SCTQEEhZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Revolution \(Demo\)](https://open.spotify.com/album/1LcdKQCPzQ9EwQLanqXmSd) | 3:39 | 2022-05-18 | 2024-05-02 |
+| [When Doves Cry \- 2015 Paisley Park Remaster](https://open.spotify.com/track/5wYgc53ayonbzaDc0o3bAP) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 5:53 | 2026-01-03 |  |
 | [When It's Sleepy Time Down South](https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Sparks, Nevada 1964!](https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm) | 3:00 | 2025-05-02 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 | 2022-05-18 | 2024-05-02 |
 | [Whip My Hair](https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Whip My Hair](https://open.spotify.com/album/2RQeZABxfNPeYpLPglJ56h) | 3:15 | 2025-03-28 | 2025-06-27 |

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-915 songs - 1 day 20 hr 5 min
+916 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2023-03-23 | 2023-05-06 |
 | [Lucidity](https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Lucidity](https://open.spotify.com/album/6haBGLYkEAozj08quqeStB) | 2:34 | 2025-12-03 |  |
 | [Lueur Douce](https://open.spotify.com/track/2sVWZpQoXINyHwERzoR7Xi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Lueur Douce](https://open.spotify.com/album/4wmfSjubmk2BXI6kJmJqmA) | 2:57 | 2025-11-12 |  |
+| [Lumina](https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Lumina](https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY) | 2:12 | 2025-12-17 |  |
 | [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-05-04 | 2024-06-19 |
 | [Luminescence](https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Luminescence](https://open.spotify.com/album/3TvEUPEaYRKxhQW4A7sAWu) | 2:45 | 2025-04-23 |  |
 | [Luminous Fade](https://open.spotify.com/track/2vBitzz07lHuwMqECshe7n) | [Nicolaj Stavrenko](https://open.spotify.com/artist/30C9fRGfoh7b2dg9g7coHv) | [Luminous Fade](https://open.spotify.com/album/2tjzy1zRLqplUrG6kSdLZ6) | 2:39 | 2025-12-17 |  |
@@ -549,7 +550,7 @@
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2023-03-23 | 2024-04-06 |
 | [Nebulith](https://open.spotify.com/track/6kUw11kP5u86xesGhYlKtn) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Nebulith](https://open.spotify.com/album/4Y1DKGsMwxMEefEvwLhOG3) | 2:51 | 2025-09-23 |  |
 | [Neiel](https://open.spotify.com/track/2tfhr5e8EC9dkfPDA6CuYS) | [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Neiel](https://open.spotify.com/album/6zxATBSRTBCcZSJ6Olyzwa) | 2:20 | 2025-11-12 |  |
-| [Neith](https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Neith](https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P) | 2:42 | 2025-11-12 |  |
+| [Neith](https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Neith](https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P) | 2:42 | 2025-11-12 | 2026-01-04 |
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 | 2025-06-13 |
 | [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-25 | 2025-10-31 |
 | [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 | 2025-12-03 |

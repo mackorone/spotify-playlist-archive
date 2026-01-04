@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 86 | [Bad Karma](https://open.spotify.com/track/3RVirB4bHhZtl1QTAVWHSo) | [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [Bad Karma](https://open.spotify.com/album/7c6BhXUAOuIfbqGEwnJakE) | 3:25 |
 | 87 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 |
 | 88 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
-| 89 | [The Nights](https://open.spotify.com/track/2yzYAI0iQ0IzUScLyH5f7w) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [The Nights](https://open.spotify.com/album/7xE7DIfeA6OcMNnFI2u1yk) | 2:20 |
-| 90 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 |
+| 89 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 |
+| 90 | [The Nights](https://open.spotify.com/track/2yzYAI0iQ0IzUScLyH5f7w) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [The Nights](https://open.spotify.com/album/7xE7DIfeA6OcMNnFI2u1yk) | 2:20 |
 | 91 | [VIELLEICHT \- Intro](https://open.spotify.com/track/1AsxPpTZji5ID11pwrmZ3t) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [I SEE YOU WHEN I SEE YOU](https://open.spotify.com/album/6opoFip0TslsRO61u8baue) | 1:38 |
 | 92 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
 | 93 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 151 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 152 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcF5vgAAAABkSA8hr00XCvfQubEPvcLt`
+Snapshot ID: `AcF/mgAAAAATbwhCz4pqZXrFNqjWcGpm`

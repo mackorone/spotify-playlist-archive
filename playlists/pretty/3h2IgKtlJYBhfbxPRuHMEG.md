@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Kill Safari
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 505 likes - 79 songs - 4 hr 23 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 504 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

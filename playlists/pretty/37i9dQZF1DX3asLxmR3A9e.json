@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2014. Cover: BANKS",
-  "num_followers": 110126,
+  "num_followers": 110153,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Pop Psychology",
-        "url": "https://open.spotify.com/album/0GWiQsYkFersPWJ0I3ZNUC"
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
       "artists": [
         {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Sleeping With A Friend",
-      "url": "https://open.spotify.com/track/6fFuOXIrVHUmSI8IM889wa"
+      "duration_ms": 231320,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1627,6 +1611,22 @@
       "duration_ms": 170840,
       "name": "Ch\u00e2teau Lobby #4 (In C for Two Virgins)",
       "url": "https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Pop Psychology",
+        "url": "https://open.spotify.com/album/0GWiQsYkFersPWJ0I3ZNUC"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Sleeping With A Friend",
+      "url": "https://open.spotify.com/track/6fFuOXIrVHUmSI8IM889wa"
     }
   ],
   "unique_name": "Best of Indie 2014",

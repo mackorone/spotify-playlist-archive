@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1607080,
+  "num_followers": 1607154,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+        "name": "Different Way (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+      "duration_ms": 193920,
+      "name": "Different Way - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
     },
     {
       "added_at": "2025-12-19 05:00:38",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
-        "name": "Different Way (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Different Way - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2025-12-19 05:00:38",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
-        "name": "Losing Control (feat. Nathan Nicholson)",
-        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209056,
-      "name": "Losing Control (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2025-12-19 05:00:38",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/3pUuzw75v7nqmsbXWUqBWu"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 263636,
       "name": "Letting Go - Rinzen Remix",
       "url": "https://open.spotify.com/track/1fnLqkmEIEq7no8DIeMl2Y"
+    },
+    {
+      "added_at": "2025-12-19 05:00:38",
+      "album": {
+        "name": "Losing Control (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209056,
+      "name": "Losing Control (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
     },
     {
       "added_at": "2025-12-19 05:00:38",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
+        "name": "Lost In Light",
+        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Lost In Light",
+      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
+    },
+    {
+      "added_at": "2025-12-19 05:00:38",
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1327,22 +1347,18 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
-        "name": "Lost In Light",
-        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Lost In Light",
-      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2025-12-19 05:00:38",
@@ -1379,22 +1395,6 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:38",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2025-12-19 05:00:38",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-12-19 05:00:38",
       "album": {
-        "name": "New Life",
-        "url": "https://open.spotify.com/album/0WH5YamAVud3swr26NHitS"
-      },
-      "artists": [
-        {
-          "name": "Cult Member",
-          "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/20YZM0p9zdqOVoLTiykfMx"
-    },
-    {
-      "added_at": "2025-12-19 05:00:38",
-      "album": {
         "name": "Sunrise To The Morning",
         "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 268000,
       "name": "Sunrise To The Morning",
       "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
+    },
+    {
+      "added_at": "2025-12-19 05:00:38",
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/0WH5YamAVud3swr26NHitS"
+      },
+      "artists": [
+        {
+          "name": "Cult Member",
+          "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/20YZM0p9zdqOVoLTiykfMx"
     },
     {
       "added_at": "2025-12-19 05:00:38",

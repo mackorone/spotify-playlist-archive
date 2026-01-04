@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 46017,
+  "num_followers": 46044,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
+        "name": "Wedding Songs Of Punjab Volume 2",
+        "url": "https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2"
+      },
+      "artists": [
+        {
+          "name": "Madan Bala Sindhu",
+          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
+        }
+      ],
+      "duration_ms": 259825,
+      "name": "Ambarsare Di",
+      "url": "https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
         "name": "Lok Boliyan",
         "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 566160,
       "name": "Lok Boliyan",
       "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
-        "name": "Wedding Songs Of Punjab Volume 2",
-        "url": "https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2"
-      },
-      "artists": [
-        {
-          "name": "Madan Bala Sindhu",
-          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
-        }
-      ],
-      "duration_ms": 259825,
-      "name": "Ambarsare Di",
-      "url": "https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Charkha Chanan Da - Single",
-        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
-      },
-      "artists": [
-        {
-          "name": "Vanitaa Pande",
-          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Charkha Chanan Da",
-      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Geet Shagna De",
         "url": "https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 150586,
       "name": "Ve Gurdit Deya Lalaa",
       "url": "https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Charkha Chanan Da - Single",
+        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
+      },
+      "artists": [
+        {
+          "name": "Vanitaa Pande",
+          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
+        }
+      ],
+      "duration_ms": 161359,
+      "name": "Charkha Chanan Da",
+      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Wedding Songs",
-        "url": "https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF"
+        "name": "Mehndi (Punjabi Wedding Songs)",
+        "url": "https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S"
       },
       "artists": [
         {
-          "name": "Musarrat Nazir",
-          "url": "https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t"
+          "name": "Madan Bala Sindhu",
+          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
         }
       ],
-      "duration_ms": 166295,
-      "name": "Chitta Kukkad",
-      "url": "https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG"
+      "duration_ms": 261378,
+      "name": "Punjabi Wedding Boliyan",
+      "url": "https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j"
     }
   ],
   "unique_name": "Folk Punjabi",

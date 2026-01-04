@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64586,
+  "num_followers": 64595,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "...Un Poco M\u00e1s",
@@ -267,6 +251,38 @@
       "duration_ms": 370613,
       "name": "Al Son de la Marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -287,22 +303,6 @@
       "duration_ms": 285386,
       "name": "2 Cartas",
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -443,6 +427,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -479,22 +479,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer - Remastered",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -515,18 +511,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
       "artists": [
         {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
         }
       ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer - Remastered",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
+      "added_at": "2022-01-14 03:44:06",
+      "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Prieto",
+          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
+        }
+      ],
+      "duration_ms": 458280,
+      "name": "Horizonte Lejano",
+      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -615,22 +631,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2022-01-14 03:44:06",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Prieto",
-          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
-        }
-      ],
-      "duration_ms": 458280,
-      "name": "Horizonte Lejano",
-      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -687,26 +687,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir - Desde Casa",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir - Desde Casa",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 352952,
       "name": "En Cualquier Momento",
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
+      },
+      "artists": [
+        {
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2024-08-29 03:09:23",

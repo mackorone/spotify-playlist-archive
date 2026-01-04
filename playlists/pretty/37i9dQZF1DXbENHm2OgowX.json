@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 309399,
+  "num_followers": 309533,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "now i know what i mean",
-        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
-      },
-      "artists": [
-        {
-          "name": "v\u00e5nda",
-          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
-        },
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 121550,
-      "name": "now i know what i mean",
-      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "now i know what i mean",
+        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
+      },
+      "artists": [
+        {
+          "name": "v\u00e5nda",
+          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
+        },
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 121550,
+      "name": "now i know what i mean",
+      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "fly high",
-        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
-      },
-      "artists": [
-        {
-          "name": "ambit.",
-          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
-        }
-      ],
-      "duration_ms": 107056,
-      "name": "fly high",
-      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 219000,
       "name": "From a Convenient Grass",
       "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "CROW! (after the snowfall)",
-        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "antihistamine. - instrumental",
-      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2025-12-04 13:11:44",

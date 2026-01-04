@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Fúria, Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,967 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,955 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [BrusaDaNike e GShock](https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [SHAK](https://open.spotify.com/artist/3U28JqFKDrXW0WHFN6ieGL), [VCR Slim](https://open.spotify.com/artist/17yxCujICJdjk64A1J7NAd) | [MUITA LUTA MIXTAPE](https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD) | 3:06 |
 | 50 | [RANDANDAN](https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:40 |
 
-Snapshot ID: `AAAAAJb1744K3wlOCNawBFzt0a5zyow3`
+Snapshot ID: `AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR`

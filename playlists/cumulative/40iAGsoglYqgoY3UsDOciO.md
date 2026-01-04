@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-454 songs - 22 hr 2 min
+455 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Laugh When I'm Winning](https://open.spotify.com/track/3fSp1TofhTCQaKnkbpysao) | [Iamjakebars](https://open.spotify.com/artist/5JDS8E9JPcF6UI2S2PfNBu), [Durand the Rapper](https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8) | [Laugh When I'm Winning](https://open.spotify.com/album/5mgr9MRs1mewGWI6Cdza5V) | 2:48 | 2024-12-30 |  |
 | [Le son des claquettes](https://open.spotify.com/track/3o4VEAZXe3DrPsgM68AnCF) | [Furio](https://open.spotify.com/artist/338SxlvrKZFHp10IplZimN), [Max V](https://open.spotify.com/artist/0nbJi2uVFSTA3kc3sTCHLP) | [Le son des claquettes](https://open.spotify.com/album/0iEJjTfWKeK0WS4Q8NQryV) | 3:01 | 2024-07-11 |  |
 | [Leave Me Alone](https://open.spotify.com/track/0Y9iQ0KJ3hFPXEVp6VgnCH) | [FRSE 2VUBU](https://open.spotify.com/artist/3zfyvkNHFLW57HSCawxra6) | [Leave Me Alone](https://open.spotify.com/album/25xiieZgOcZwVdnAVhELBR) | 1:00 | 2024-05-28 |  |
+| [Lembranças](https://open.spotify.com/track/651f19oW8uV5tpCEioy2Kb) | [May drill](https://open.spotify.com/artist/3sbE8DckoV7kyavEMHV1Ts) | [Lembranças](https://open.spotify.com/album/112X0fqt6pEfCnOEOC7gSK) | 3:00 | 2026-01-03 |  |
 | [Lento](https://open.spotify.com/track/17cLuz6Hxa3VWRpKdztUxr) | [Cheko\_la\_C](https://open.spotify.com/artist/02DZAGyoSWxCPclFghT6NH) | [Lento](https://open.spotify.com/album/56ieTFrw7wGjOmwMmsZ1Qc) | 3:11 | 2024-07-15 |  |
 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 | 2023-07-26 |  |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-07-26 |  |

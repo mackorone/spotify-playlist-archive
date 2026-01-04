@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 202,
+  "num_followers": 203,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Intro: Flight and a new beginning",
+        "url": "https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy"
+      },
+      "artists": [
+        {
+          "name": "BXB",
+          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Intro: Flight and a new beginning",
-        "url": "https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy"
-      },
-      "artists": [
-        {
-          "name": "BXB",
-          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1295,46 +1295,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Ck",
-          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
-        }
-      ],
-      "duration_ms": 189834,
-      "name": "Double Up (Feat. skinny brown, CK)",
-      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1367,6 +1327,46 @@
       "duration_ms": 270558,
       "name": "Ambition and Vision",
       "url": "https://open.spotify.com/track/0RW9OdzPb3OsX3aApyoMLL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Ck",
+          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
+        }
+      ],
+      "duration_ms": 189834,
+      "name": "Double Up (Feat. skinny brown, CK)",
+      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         },
         {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         }
       ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+      "duration_ms": 222232,
+      "name": "Look What I Did (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Look What I Did (Feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MANTA BIPOLAR, Pt. 2",
         "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
@@ -1807,6 +1787,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        }
+      ],
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
       },
@@ -1819,26 +1819,6 @@
       "duration_ms": 188232,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Good Time For The Team",
-        "url": "https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "TAKEWON",
-          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
-        }
-      ],
-      "duration_ms": 232655,
-      "name": "Good Time For The Team",
-      "url": "https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1875,18 +1855,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+        "name": "Good Time For The Team",
+        "url": "https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
         }
       ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+      "duration_ms": 232655,
+      "name": "Good Time For The Team",
+      "url": "https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -1916,9 +1916,9 @@
           "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 128250,
-      "name": "500000",
-      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
+      "duration_ms": 182500,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
-      },
-      "artists": [
-        {
-          "name": "Pinodyne",
-          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 227941,
-      "name": "Universe (feat. Lee Juck)",
-      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "unorthodox",
         "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
       },
@@ -1999,6 +1979,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
+      },
+      "artists": [
+        {
+          "name": "Pinodyne",
+          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
+        },
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 227941,
+      "name": "Universe (feat. Lee Juck)",
+      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -2008,9 +2008,9 @@
           "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
+      "duration_ms": 128250,
+      "name": "500000",
+      "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
     },
     {
       "added_at": "2025-11-10 09:53:18",

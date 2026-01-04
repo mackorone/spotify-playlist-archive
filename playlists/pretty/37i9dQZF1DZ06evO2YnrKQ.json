@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24760,
+  "num_followers": 24766,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAAXhfPySHankZOsZsrHNUIv",
+  "snapshot_id": "aVcKgAAAAACub6/L7WoRxC+EYgqOYaKS",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misogyny",
-        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 188768,
-      "name": "Misogyny",
-      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Copies of Old Masters Vol. 1",
         "url": "https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 272070,
       "name": "Neighbourhood Villain",
       "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Misogyny",
+        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 188768,
+      "name": "Misogyny",
+      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
     },
     {
       "added_at": null,

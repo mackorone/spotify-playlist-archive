@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 楊千嬅
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,279 likes - 174 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,278 likes - 174 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Paleface Swiss
 
-10,727 songs - 29 day 16 hr 55 min
+10,728 songs - 29 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7272,6 +7272,7 @@
 | [Ready Fuels](https://open.spotify.com/track/2noqS6R7QDtOoGCfpUeuxf) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Ready Fuels](https://open.spotify.com/album/3dMWXHmug8TMiMbRKS73M5) | 3:36 | 2025-09-26 | 2025-10-11 |
 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 | 2024-02-24 |
 | [Ready To Rumble](https://open.spotify.com/track/32mxigIAM9bDEIgze3xBVv) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Ready To Rumble](https://open.spotify.com/album/0fCtQNwTdvVGqsbojtbu3n) | 3:48 | 2022-09-02 | 2022-09-10 |
+| [REAL](https://open.spotify.com/track/3XVWZQ9pp5lmWU72TfdVbF) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [REAL](https://open.spotify.com/album/53aRq6gzsy8VyvsN5DcdNy) | 3:44 | 2026-01-02 |  |
 | [REAL \(Are You Listening?\)](https://open.spotify.com/track/0o9R9cKw8qrvKIWXnX9ehI) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [Black Coast](https://open.spotify.com/album/2tDOC5QXlUXodWMdRwLxwp) | 3:45 | 2023-04-28 | 2023-05-06 |
 | [Real \(feat\. Dropout Kings\)](https://open.spotify.com/track/1RRZmRuUen8LL855xIF5bO) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [Real \(feat\. Dropout Kings\)](https://open.spotify.com/album/6fWmoo84JZBFHsQUgtiv1N) | 3:38 | 2023-10-27 | 2023-11-04 |
 | [Real Fast](https://open.spotify.com/track/5S2mMFZZLQO0lCNqD4TZmx) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Real Fast](https://open.spotify.com/album/4PuAHPfJHSs832mFXzPn8E) | 1:19 | 2025-08-01 | 2025-08-16 |

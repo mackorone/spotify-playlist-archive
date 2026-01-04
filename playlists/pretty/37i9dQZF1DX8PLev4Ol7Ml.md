@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,338 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,356 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 79 | [まるでワンダーランド！！ \(あみ乃\)](https://open.spotify.com/track/2jAHsiVJSNAhoDmJv1p87Y) | [ラナキュラ](https://open.spotify.com/artist/2XseoEBWn0HuglC2Owuw1e) | [まるでワンダーランド！！ \(あみ乃\)](https://open.spotify.com/album/2Tqs5x1v9wLY5VPRmPivmq) | 4:33 |
 | 80 | [カイロに月](https://open.spotify.com/track/2wdNFwNwq1Bhne478L8JPo) | [BOKUAO](https://open.spotify.com/artist/0ZJdQMcIGWJn4Oh1O5Gku5) | [あれはフェアリー \(Special Edition\)](https://open.spotify.com/album/2MguipQCZCN8K7P7Zd30Pg) | 5:07 |
 
-Snapshot ID: `AAAAAAQU1IhB7D/OgVZTCrCFzipR6+Bx`
+Snapshot ID: `AAAAANlXgI5OeBNTRDEed644BapcfRXk`

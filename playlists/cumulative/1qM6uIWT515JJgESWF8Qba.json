@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "7 De Octubre",
+        "url": "https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7"
+      },
+      "artists": [
+        {
+          "name": "Protocolo Snob",
+          "url": "https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "7 De Octubre",
+      "url": "https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs"
+    },
+    {
+      "album": {
         "name": "Tiempos De Caos",
         "url": "https://open.spotify.com/album/2MWM1cKyInGYbi1JAzQcNL"
       },

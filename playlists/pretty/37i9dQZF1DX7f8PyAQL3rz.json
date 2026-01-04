@@ -1,6 +1,6 @@
 {
   "description": "pro max veiooooo",
-  "num_followers": 1415635,
+  "num_followers": 1415566,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,34 @@
     {
       "added_at": "2026-01-02 17:55:30",
       "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "added_at": "2026-01-02 17:55:30",
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -307,34 +335,6 @@
       "duration_ms": 213284,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e"
-    },
-    {
-      "added_at": "2026-01-02 17:55:30",
-      "album": {
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Torelli",
-          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "added_at": "2026-01-02 17:55:30",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2026-01-02 17:55:30",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Sabrina",
-      "url": "https://open.spotify.com/track/0AQ3QwZqqz0M5wV4o8svVY"
-    },
-    {
-      "added_at": "2026-01-02 17:55:30",
-      "album": {
         "name": "BANDIDIN",
         "url": "https://open.spotify.com/album/0EpvbA2BJKoIYRQa14bzY7"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 158270,
       "name": "BANDIDIN",
       "url": "https://open.spotify.com/track/68JuEQAcgqaC5XtzGgRIQh"
+    },
+    {
+      "added_at": "2026-01-02 17:55:30",
+      "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Sabrina",
+      "url": "https://open.spotify.com/track/0AQ3QwZqqz0M5wV4o8svVY"
     },
     {
       "added_at": "2026-01-02 17:55:30",

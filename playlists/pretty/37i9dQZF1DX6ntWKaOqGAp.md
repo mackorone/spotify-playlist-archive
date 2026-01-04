@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,208 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,202 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [忍とエイリアン](https://open.spotify.com/track/48pHjdSjUZPjD727i6zbwH) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [スペースフラワー](https://open.spotify.com/album/3y84qPbOXLZfXAFDGTgf2x) | 2:48 |
 | 100 | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/track/0y21FPyQcqGemUljDjKxUQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/album/68roJudykTtH9WjOekMrQ1) | 4:10 |
 
-Snapshot ID: `AAAAAIItwpYYtNi23iuRekW/GWTRaxOk`
+Snapshot ID: `AAAAAJ39miqthVJrKmJGuXVPlgVQ42J/`

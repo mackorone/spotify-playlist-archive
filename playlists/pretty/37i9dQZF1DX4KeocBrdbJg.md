@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > las mejores canciones del internet en 2025 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,903 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,859 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 42 | [Steve's Lava Chicken](https://open.spotify.com/track/78HOAddeAcXmcuhoanspry) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Songs from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/78TxL9TbTSn0HDIVjVPvSq) | 0:34 |
 | 43 | [Como Un Pájaro](https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:30 |
 | 44 | [Lágrima](https://open.spotify.com/track/0LWEHyHhC3HRwBjbgPbAmI) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Lágrima](https://open.spotify.com/album/3NJqjNq8VAcUwM2M8F6L51) | 2:29 |
-| 45 | [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 |
-| 46 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
+| 45 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
+| 46 | [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 |
 | 47 | [pasarella 👠](https://open.spotify.com/track/5jX8y3uTztypaMgOinxYMw) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:42 |
 | 48 | [DUEÑO DE TI](https://open.spotify.com/track/72x2PO7XxA6tDMf26rlJqW) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MONCHI](https://open.spotify.com/album/2TklXDFi4BGQ6HTQy0o5Mg) | 3:32 |
 | 49 | [So what we get drunk?](https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Porque Quise](https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM) | 1:55 |

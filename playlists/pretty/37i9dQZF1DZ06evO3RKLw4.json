@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49956,
+  "num_followers": 49963,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACo7QSac3lSeHzvHp1Xq/pL",
+  "snapshot_id": "aVcKgAAAAAAS/wPaK5InkBG/lsuvcM8f",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 165240,
-      "name": "Bloodclot",
-      "url": "https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu"
+      "duration_ms": 161613,
+      "name": "Got Each Other",
+      "url": "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 161613,
-      "name": "Got Each Other",
-      "url": "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
+      "duration_ms": 165240,
+      "name": "Bloodclot",
+      "url": "https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu"
     },
     {
       "added_at": null,

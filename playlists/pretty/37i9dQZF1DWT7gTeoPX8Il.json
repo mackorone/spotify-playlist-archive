@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 161087,
+  "num_followers": 161112,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
-      },
-      "artists": [
-        {
-          "name": "Once Mekel",
-          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "Dealova",
-      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "Bisakah?",
         "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
+      },
+      "artists": [
+        {
+          "name": "Once Mekel",
+          "url": "https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
         "name": "Tahta Hatiku #Pendampingmu",
         "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
       },
@@ -823,18 +823,22 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Jalan Terbaik",
-        "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
+        "name": "Masih Hatiku",
+        "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
       "artists": [
         {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 290707,
-      "name": "Jalan Terbaik",
-      "url": "https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX"
+      "duration_ms": 262341,
+      "name": "Masih Hatiku",
+      "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
     }
   ],
   "unique_name": "galau rabak",

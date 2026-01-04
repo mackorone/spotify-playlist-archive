@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,591 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,593 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
 | 50 | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM) | 3:41 |
 
-Snapshot ID: `AAAAABui9dIvvZNCRzawNyte6+9frdsW`
+Snapshot ID: `AAAAAM97CtITA0KFOo8cCVmTaEPfWFFO`

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 124005,
+  "num_followers": 124011,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAC0WhBqpgzUmTnTp739rMK/",
+  "snapshot_id": "aVcKgAAAAABosHl5bbziZPCADzznJw8z",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "If I Was Jesus",
-      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 188920,
       "name": "She's A Hottie - Single Version",
       "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "If I Was Jesus",
+      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
     },
     {
       "added_at": null,

@@ -8523,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "Lumina",
+        "url": "https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY"
+      },
+      "artists": [
+        {
+          "name": "Jon Hailey",
+          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR"
+    },
+    {
+      "album": {
         "name": "Lumination",
         "url": "https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l"
       },
@@ -9758,7 +9776,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 162500,
       "name": "Neith",
       "url": "https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl"

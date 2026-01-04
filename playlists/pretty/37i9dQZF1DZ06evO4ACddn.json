@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAABmUQwTF+aCzaFxTlytlPVj",
+  "snapshot_id": "aVcKgAAAAADZSwlH4IV60KDTBCgmjnRu",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We Do To Feel",
-        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 272094,
-      "name": "Our Sketch Out",
-      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things Will Matter (Redux)",
         "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 233000,
       "name": "Radar - Redux",
       "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What We Do To Feel",
+        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 272094,
+      "name": "Our Sketch Out",
+      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
+      "duration_ms": 314866,
+      "name": "What If You Fall In",
+      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 314866,
-      "name": "What If You Fall In",
-      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
     },
     {
       "added_at": null,

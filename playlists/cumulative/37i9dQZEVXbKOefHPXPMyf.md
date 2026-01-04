@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-4,033 songs - 9 day 5 hr 43 min
+4,034 songs - 9 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1155,6 +1155,7 @@
 | [En Argentina Naci](https://open.spotify.com/track/1eDVvuPpEEe90AyANLKJGm) | [Diego Redes](https://open.spotify.com/artist/53ZoDw3I4QsmqW5ROApRlt), [Adrian Araujo](https://open.spotify.com/artist/5zI0aII6LDdZm2D5MLm9t1) | [En Argentina Naci](https://open.spotify.com/album/3lKaP0P4vprTqAGFsrvI0G) | 2:52 | 2022-12-14 | 2023-01-01 |
 | [En El Próximo Big Bang](https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [En El Próximo Big Bang](https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I) | 3:03 | 2025-03-03 | 2025-10-29 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-07 | 2022-08-03 |
+| [EN EL SEX](https://open.spotify.com/track/42PbWdzS1Gwcp74Gp3XpJC) | [YOWDYLANN](https://open.spotify.com/artist/5Ydm7wacl5pmkPOt8l70Ja) | [EN EL SEX](https://open.spotify.com/album/5zgqIKonvbUDyQEkSi55rG) | 2:33 | 2026-01-03 |  |
 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 | 2024-03-12 | 2024-03-23 |
 | [En Honor A Ti](https://open.spotify.com/track/1upCnI2hbk9IlXLXAQ3Cmc) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [En Honor A Ti](https://open.spotify.com/album/4poPtXl7JNr8JB9xDf2kaQ) | 3:17 | 2023-01-20 | 2023-01-24 |
 | [EN LA CITY](https://open.spotify.com/track/5NlrtCVHsBEPDo3HaMgMJb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [EN LA CITY](https://open.spotify.com/album/3if74jhB1zzEZpVIoTdP4n) | 2:56 | 2025-04-29 | 2025-05-01 |
@@ -3425,7 +3426,7 @@
 | [Te Colaboro \- Remix](https://open.spotify.com/track/0OqrGVB6yyf3Sr7mow7X59) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Te Colaboro \(Remix\)](https://open.spotify.com/album/2Jazbm8VqHsSXpmSipgCON) | 5:21 | 2025-06-03 | 2025-06-11 |
 | [Te Conocí Bailando](https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Hawaira](https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq) | 2:40 | 2023-07-20 | 2023-07-24 |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-09 | 2022-01-17 |
-| [Te Culié](https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 1:58 | 2025-12-23 |  |
+| [Te Culié](https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 1:58 | 2025-12-23 | 2026-01-04 |
 | [Te Estás Pasando](https://open.spotify.com/track/3fbtPHtzU7xSGDjaH0HSwn) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:13 | 2025-07-01 | 2025-07-09 |
 | [Te Felicito](https://open.spotify.com/track/5S5iGgjym5A1JUDAv50wYg) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Unas Mías y Otras Prestadas, Vol\. 2](https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz) | 3:44 | 2022-12-04 | 2023-01-11 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-17 | 2022-07-06 |

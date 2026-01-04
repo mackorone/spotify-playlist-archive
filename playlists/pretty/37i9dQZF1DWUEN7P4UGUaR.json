@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16267,
+  "num_followers": 16281,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2025-12-12 00:01:30",
-      "album": {
         "name": "Owawani",
         "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 158400,
       "name": "Owawani",
       "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
+    },
+    {
+      "added_at": "2025-12-12 00:01:30",
+      "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
-    },
-    {
-      "added_at": "2025-12-12 00:01:30",
-      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 211200,
       "name": "Baba",
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
+      "added_at": "2025-12-12 00:01:30",
+      "album": {
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Medaase",
-        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+        "name": "Golden Oil",
+        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Medaase",
-      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+      "duration_ms": 274599,
+      "name": "Se Mekume Ho",
+      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -819,34 +819,18 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Golden Oil",
-        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
+        "name": "Medaase",
+        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
       },
       "artists": [
         {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 274599,
-      "name": "Se Mekume Ho",
-      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
-    },
-    {
-      "added_at": "2025-12-12 00:01:30",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+      "duration_ms": 199755,
+      "name": "Medaase",
+      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -867,6 +851,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2025-12-12 00:01:30",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2025-12-12 00:01:30",

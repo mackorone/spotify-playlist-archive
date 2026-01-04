@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,373 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,354 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 61 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
 | 62 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 |
 | 63 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 |
-| 64 | [Joyeux Noël](https://open.spotify.com/track/7JoMjFyugtJLLZuF1bxNzE) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Joyeux Noël](https://open.spotify.com/album/6KG96S8ocsbzBouNsfxcXP) | 3:07 |
-| 65 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
+| 64 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
+| 65 | [Joyeux Noël](https://open.spotify.com/track/7JoMjFyugtJLLZuF1bxNzE) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Joyeux Noël](https://open.spotify.com/album/6KG96S8ocsbzBouNsfxcXP) | 3:07 |
 | 66 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
 | 67 | [Song For A Winter’s Night](https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Jeanick Fournier \(Deluxe\)](https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn) | 2:54 |
 | 68 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |

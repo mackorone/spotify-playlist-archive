@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 15709,
+  "num_followers": 15717,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAD1w+R3D2UbdKp137Rpo2h4",
+  "snapshot_id": "aVcKgAAAAAB59IThLKA+kv9vAVzb+ZVx",
   "tracks": [
     {
       "added_at": null,
@@ -54,15 +54,11 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP"
     },
     {
       "added_at": null,
@@ -122,11 +118,15 @@
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 181310,
-      "name": "Sweet Serotonin",
-      "url": "https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP"
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 215239,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 174396,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 215239,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like A Hunger",
-        "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
       "artists": [
-        {
-          "name": "Wilma Archer",
-          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
-        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 272736,
-      "name": "Like A Hunger",
-      "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+        "name": "Like A Hunger",
+        "url": "https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3"
       },
       "artists": [
+        {
+          "name": "Wilma Archer",
+          "url": "https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+      "duration_ms": 272736,
+      "name": "Like A Hunger",
+      "url": "https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA"
     },
     {
       "added_at": null,

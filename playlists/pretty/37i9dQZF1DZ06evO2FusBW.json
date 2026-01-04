@@ -1,29 +1,13 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11071,
+  "num_followers": 11072,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAD3ziS8gfi0W4hDdyyvHjwN",
+  "snapshot_id": "aVcKgAAAAADgOQU4/r34i+up9pGAUUSh",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Law of One",
-        "url": "https://open.spotify.com/album/6jIyLWwtDkNFt3BpR47ohN"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "Law of One",
-      "url": "https://open.spotify.com/track/337cxMW9sAm2WNXBQjjoKF"
-    },
     {
       "added_at": null,
       "album": {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 173920,
-      "name": "Sky opus fire",
-      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
     },
     {
       "added_at": null,
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Law of One",
+        "url": "https://open.spotify.com/album/6jIyLWwtDkNFt3BpR47ohN"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
+      "duration_ms": 339026,
+      "name": "Law of One",
+      "url": "https://open.spotify.com/track/337cxMW9sAm2WNXBQjjoKF"
     },
     {
       "added_at": null,
@@ -472,9 +456,25 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
+      "duration_ms": 173920,
+      "name": "Sky opus fire",
+      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Impressions",
-        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-291 songs - 16 hr 16 min
+293 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 |  |
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2025-11-22 |  |
+| [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2026-01-04 |  |
 | [Mis miedos, mi terror](https://open.spotify.com/track/4yt8b2qgcSfE77EnmyMnue) | [Tekelinos](https://open.spotify.com/artist/6eQjn7wIob0mu1K7q7hZy0) | [Lluvia de Nuestras Realidades](https://open.spotify.com/album/323VD6i36aWnjVYOUKFLW2) | 3:32 | 2025-11-08 | 2025-12-01 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-01 | 2025-12-01 |
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 |  |
@@ -209,6 +210,7 @@
 | [Pretty Girl \(Omoge\)](https://open.spotify.com/track/721oF59742gpHE5ZcPW7gJ) | [Milarey](https://open.spotify.com/artist/7cUBzBUNpkuIjcfzhf1ImT) | [Renascentia](https://open.spotify.com/album/6qL5Fn9lV0MxTpQG29XlYG) | 2:30 | 2025-11-17 |  |
 | [Problems](https://open.spotify.com/track/5MxRhv2q5dGPZSLrpDpabU) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Nothing to Flex](https://open.spotify.com/album/0VempJuNZuz1GP3GSARn0p) | 3:43 | 2025-10-30 | 2025-12-01 |
 | [Prophecy](https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ) | [HBKMETRIII](https://open.spotify.com/artist/77fYc2hHg47Zmlfjh4cLhH) | [Prophecy](https://open.spotify.com/album/44CWFTTNEkwZgOEp7ZXiwv) | 2:21 | 2025-12-30 |  |
+| [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 |  |
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 |  |
 | [RAP DE MINECRAFT](https://open.spotify.com/track/2TVIBaCN7AoJ2okpNAIxx5) | [Kalibre Brown](https://open.spotify.com/artist/5ukaoYh4Cp7e4zp1gRM1bp) | [RAP DE MINECRAFT](https://open.spotify.com/album/53ImTr4XsTPc5vMk6uMbRk) | 2:10 | 2025-11-30 |  |
 | [Razza Umana](https://open.spotify.com/track/4kyqPP2pApVhqU9UDPCPIa) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:27 | 2025-11-10 | 2025-12-01 |

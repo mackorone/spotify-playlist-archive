@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-414 songs - 1 day 0 hr 0 min
+415 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2024-05-20 |  |
 | [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 | 2025-04-09 |  |
 | [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 | 2025-03-18 |  |
+| [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 | 2026-01-03 |  |
 | [ベビ・デビ](https://open.spotify.com/track/1tkjaxBJW8qAkBXPfxRrAy) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [ベビ・デビ](https://open.spotify.com/album/0ByoLvApyMJSHqY0echmtF) | 2:56 | 2025-01-13 |  |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 | 2025-07-14 |  |

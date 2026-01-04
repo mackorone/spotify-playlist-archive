@@ -4,7 +4,7 @@
 
 > With Yeat, Ken Carson, Autumn! and more
 
-97 songs - 3 hr 56 min
+98 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,11 @@
 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 | 2025-12-06 |  |
 | [Been Off \(feat\. Yeat\)](https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2high](https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6) | 3:12 | 2025-11-29 | 2025-12-23 |
 | [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 | 2025-12-08 |
+| [BLEACHERS](https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk) | [Laylo!!](https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc) | [COPACETIC](https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD) | 2:17 | 2026-01-04 |  |
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 |  |
 | [Blood On The Leaves \(Remix\)](https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL) | [1030Xhris](https://open.spotify.com/artist/7gfyemrwVrMbcKdxnjggaO), [yvngchris](https://open.spotify.com/artist/48jFxV79oOq1LYhYLtpVAV) | [Blood On The Leaves \(Remix\)](https://open.spotify.com/album/3bK84xF814GHAMKU2N1qH4) | 1:56 | 2025-11-29 | 2025-12-21 |
 | [Boys Don’t Cry](https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ) | [YDG Breezy](https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM) | [Nightmare On Gardens St](https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID) | 2:34 | 2025-12-13 | 2025-12-16 |
-| [Budget](https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN) | [BADNEWZJIZZ](https://open.spotify.com/artist/4UcaI2RROaYWPoCGKgOqtt) | [Am I The Profit](https://open.spotify.com/album/1u2yqxrbRvvWybPwSWBjbG) | 2:52 | 2026-01-02 |  |
+| [Budget](https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN) | [BADNEWZJIZZ](https://open.spotify.com/artist/4UcaI2RROaYWPoCGKgOqtt) | [Am I The Profit](https://open.spotify.com/album/1u2yqxrbRvvWybPwSWBjbG) | 2:52 | 2026-01-02 | 2026-01-04 |
 | [can i get a kiss?](https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij) | [brxbandz](https://open.spotify.com/artist/7rc1zn1vIGqvykU0x2FAJb) | [crash life](https://open.spotify.com/album/2Ah6LQleoaiHyoA77ACfTq) | 1:37 | 2025-12-16 | 2025-12-17 |
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-29 |  |
 | [Chaser](https://open.spotify.com/track/36A5aim4D1Fo2vblwFssH9) | [Dayymein](https://open.spotify.com/artist/1AcrYxjl5ZAD7JABVwCERN) | [Chaser](https://open.spotify.com/album/50pOliJzSHi9CQz196Lyex) | 1:35 | 2025-11-29 | 2025-12-06 |
@@ -30,7 +31,7 @@
 | [CURRY SLIDE](https://open.spotify.com/track/1SnlLIIiqtnP6o9hEQ8jqE) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:08 | 2025-11-29 |  |
 | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/track/3YJP7MFR6D4R1zFDXmv35p) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 2:20 | 2025-12-05 | 2026-01-01 |
 | [DELETING…](https://open.spotify.com/track/0sgVWPo45mm5sbR3Av6kPv) | [$huTtA](https://open.spotify.com/artist/3irY3PtwMCukbx9BluhIJB) | [DELETING…](https://open.spotify.com/album/3BUKRW3jJKZksSwmVdRGLc) | 2:18 | 2025-12-14 | 2025-12-27 |
-| [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 | 2026-01-03 |
+| [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 |  |
 | [Don’t Know How To Feel](https://open.spotify.com/track/5pzFqoFSlmzK4toMpy78Bn) | [Jodot Kreep](https://open.spotify.com/artist/3U4mJUlN9cXxCV5hWo6XWo), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Kreeps Come Out At Night](https://open.spotify.com/album/31iWdpWYH7TTc6HMZdSSBA) | 2:17 | 2025-12-28 |  |
 | [Everytime](https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ) | [sixsick](https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG) | [Leftovr Drugz](https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu) | 2:45 | 2025-12-05 | 2025-12-30 |
 | [FACES](https://open.spotify.com/track/6dlCIAXIOj2wqPQbthlLin) | [Epho](https://open.spotify.com/artist/6E1k9FStKYBjQfzrANVUpe), [Canaan Hill](https://open.spotify.com/artist/2ofQoqwj9pNZWKA9gnSJSl) | [Gethsemane](https://open.spotify.com/album/61xZCgjnuFL6ZAzzL7wE5a) | 2:06 | 2025-11-29 | 2025-12-05 |
@@ -103,7 +104,7 @@
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
 | [Ya Ya](https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:18 | 2025-11-29 |  |
 | [Yale](https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM) | 1:46 | 2025-11-29 |  |
-| [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 |  |
+| [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 | 2026-01-04 |
 | [YOUTUBE](https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:03 | 2025-11-29 |  |
 
 \*This playlist was first scraped on 2025-11-29. Prior content cannot be recovered.

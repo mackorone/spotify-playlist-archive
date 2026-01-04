@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-564 songs - 1 day 8 hr 6 min
+565 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [High](https://open.spotify.com/track/1eAhfzVmVbII6eWvOfD8Ax) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/5HsCOq8QRBnVMn1LksD9fb) | 3:31 | 2025-10-09 |  |
 | [Hold](https://open.spotify.com/track/6xw5MhprxsbnXINmOjEzuT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Hold](https://open.spotify.com/album/0bbK5yLVZaXlboM8hq3DoV) | 3:26 | 2023-06-22 | 2023-12-14 |
 | [Hold On](https://open.spotify.com/track/1O2CwX5f6BI8rTa7pGl3ri) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Hold On](https://open.spotify.com/album/1YIPX4twAosalmT9aEgFkH) | 3:05 | 2025-01-09 | 2025-04-12 |
-| [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 | 2022-09-08 |  |
+| [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 | 2022-09-08 | 2026-01-04 |
+| [Hold Tight](https://open.spotify.com/track/2qoCKMv39Jo7oakx8YdMY5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:38 | 2026-01-03 |  |
 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 | 2022-09-08 |  |
 | [Hold Up](https://open.spotify.com/track/42ktzUPAfWnveeZfIQkjbT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Hold Up \(Video\)](https://open.spotify.com/album/2w0Q2ehrKqwvBiS5AqQPzG) | 5:15 | 2023-12-15 | 2024-02-01 |
 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 | 2022-09-08 |  |
@@ -499,7 +500,7 @@
 | [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 | 2022-10-02 |  |
 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 | 2022-09-08 |  |
 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 | 2025-11-16 |  |
-| [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 | 2022-09-08 |  |
+| [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 | 2022-09-08 | 2026-01-04 |
 | [To the Beat of My Heart](https://open.spotify.com/track/1lcE1GgtyR2zHW3TeOnZYG) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/1DcWbwQxPayKv0pcpbNEbA) | 3:10 | 2022-09-08 | 2023-12-14 |
 | [To the Beat of My Heart](https://open.spotify.com/track/4JOHBumJdBCUgsMth9XvPW) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:10 | 2025-01-15 |  |
 | [To the Beat of My Heart](https://open.spotify.com/track/3OPrWU05xzSlV3tau3b7C1) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:10 | 2023-12-13 | 2025-01-16 |

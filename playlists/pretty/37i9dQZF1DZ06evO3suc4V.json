@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10014,
+  "num_followers": 10024,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACvXpaC8eAFyGJHuCarF7D7",
+  "snapshot_id": "aVcKgAAAAACResQ9sW43vLgk18ylwkBN",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bicycle Race",
+        "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155116,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 212386,
       "name": "Don\u2019t Walk Away (feat. Jordan Ward & Ravyn Lenae)",
       "url": "https://open.spotify.com/track/2kxrJsFXKCUB3em2TWLG5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bicycle Race",
-        "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 155116,
-      "name": "Bicycle Race",
-      "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
     },
     {
       "added_at": null,

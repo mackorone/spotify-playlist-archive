@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,705 songs - 4 day 7 hr 20 min
+1,709 songs - 4 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-03-15 |  |
 | [Cenário Apocalíptico](https://open.spotify.com/track/6Ub64JpRN7CNzBFRQtSD4n) | [Tapuru](https://open.spotify.com/artist/6efhglYGjl31jFVNDRzHzh) | [Ignorância Natural](https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld) | 2:43 | 2025-06-07 |  |
+| [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2026-01-03 |  |
 | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/track/5OJLmwa30Cnz756KKfGz01) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/album/1yZszTyGMJLly1ulxpS8Wp) | 2:52 | 2025-11-29 |  |
 | [Chalice Dub](https://open.spotify.com/track/7JX3Dbh9H3Mtq1cLya90Oo) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:40 | 2024-05-01 |  |
 | [Chalodnaja Zorka](https://open.spotify.com/track/2pnc2Hzf8SrGpNiThKOqVG) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:52 | 2025-10-09 |  |
@@ -316,6 +317,7 @@
 | [Darker](https://open.spotify.com/track/4KYddvFoEOSInKUECmNecU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Darker](https://open.spotify.com/album/3GJ38upPq5UzkPHqeya4pt) | 2:52 | 2025-11-08 |  |
 | [Das Más](https://open.spotify.com/track/7KKNh5uJvEaga9NtFT20hm) | [Glittery Stuff](https://open.spotify.com/artist/3sGqc2JJ2bMyi0HPutjt7S) | [Das Más](https://open.spotify.com/album/5qairliawi1EsgedE5edIu) | 2:56 | 2025-06-04 |  |
 | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 | 2025-12-21 |  |
+| [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2026-01-03 |  |
 | [Day dreams](https://open.spotify.com/track/5tbMTvVoo2vGMvbBN9FTDW) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:13 | 2025-10-21 |  |
 | [De Mim Terá O Melhor](https://open.spotify.com/track/0kIBjZVunCWQoR0YOe5xcZ) | [Sakura](https://open.spotify.com/artist/3zdj6AlYpqSgCh8w1WfCjn) | [De Mim Terá O Melhor](https://open.spotify.com/album/5FFLojXjwHlsn2gWNQJOTq) | 4:11 | 2025-07-10 |  |
 | [Dead Flowers](https://open.spotify.com/track/3bvqJskS8cw4V2vPY3eC1R) | [Laugal](https://open.spotify.com/artist/2ftFy0PVhjxJkPCi4ivNRe) | [Dead Flowers](https://open.spotify.com/album/4ulTQWYHE3BiIbHTxJ4eUI) | 4:44 | 2025-05-13 |  |
@@ -1181,6 +1183,7 @@
 | [Quarter Past Twelve](https://open.spotify.com/track/46D3o36Lxar12TtqRezpQ8) | [Loris Donatelli](https://open.spotify.com/artist/2CEqeXv2Re2xZDHyLPTuRJ) | [Blue Taxi](https://open.spotify.com/album/2ukA8v6BZaK8jhBYzbYJDo) | 4:45 | 2025-09-16 |  |
 | [Quarto Andar](https://open.spotify.com/track/2g2xRj8423UuIiLo62Qyj3) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 4:58 | 2024-02-06 |  |
 | [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 | 2025-07-27 |  |
+| [Que bonito es vivir](https://open.spotify.com/track/3nVSlHGKTTpG0j9ik8D7aR) | [Javier Casado Sudupe](https://open.spotify.com/artist/0d1cEiheBmn636OPS7LkLL) | [Donde si me ven \(ORIGINAL MOTION PICTURE SOUNDTRACK\)](https://open.spotify.com/album/1KJyTxSNBCk8EekuPygSVr) | 2:57 | 2026-01-03 |  |
 | [Questo film non sarà un sequel](https://open.spotify.com/track/5JhuwyPOKmvdga9dPxoQFP) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Questo film non sarà un sequel](https://open.spotify.com/album/38xZjbzv1qkKDI7546Janb) | 2:30 | 2025-01-20 |  |
 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-06-02 |  |
 | [R](https://open.spotify.com/track/5hLSB0oIeiJl4y4rbqj4X3) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [R](https://open.spotify.com/album/1NyU87V6g84tJ6YH1kXykW) | 2:23 | 2025-09-05 |  |
@@ -1408,6 +1411,7 @@
 | [Sun Shines on You](https://open.spotify.com/track/0iADGid50eV9CWd44Ez8xb) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S) | [Walkin' Target](https://open.spotify.com/album/3P1Vu9Dl3jXRXYjvPVBesp) | 6:06 | 2025-06-22 |  |
 | [Sunday Riddim](https://open.spotify.com/track/3yvvSei94ywKLdTn3HI63j) | [E.R.S.](https://open.spotify.com/artist/78q8u6KVkHcu9jK1RYWG82) | [Dubconscious](https://open.spotify.com/album/6KWDSRmHzwkQfCBAVZiR0b) | 7:34 | 2025-10-04 |  |
 | [SUNDOWN](https://open.spotify.com/track/558Ra4x9DfeHOfOHB0o8Us) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [SUNDOWN](https://open.spotify.com/album/7yM9iCyTgGdZFnYax4XvIh) | 2:03 | 2025-11-15 |  |
+| [Sunny\-Side Kind of Day](https://open.spotify.com/track/7bcfU6WnESLintDqNduacp) | [Eden Brook](https://open.spotify.com/artist/6klo5tvEtl8l2HJOzi6P4I) | [Barefoot on Purpose](https://open.spotify.com/album/3ydUoNDDc7ZjiiTUwpajlp) | 3:15 | 2026-01-03 |  |
 | [Sunrise Dub](https://open.spotify.com/track/322baChqatQ9QgxBZW3Lou) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 2](https://open.spotify.com/album/4fVqUY29YSEFx1B0yTR27Q) | 4:48 | 2024-05-01 |  |
 | [Sunset](https://open.spotify.com/track/4Z0b9xOq2HEfNOF7bBjMzz) | [Fabiano.J](https://open.spotify.com/artist/3V3SGWXPrjcWNvJtKrjyIm) | [Up](https://open.spotify.com/album/7BUbxgXicx9Sdb875a8ZTH) | 2:06 | 2025-11-03 |  |
 | [Sunset](https://open.spotify.com/track/6bRcxV0ie7zgXbXL0NjdvE) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Sunset](https://open.spotify.com/album/1j0hnfBE4W1QUDp4WF37Vv) | 2:24 | 2025-08-07 |  |

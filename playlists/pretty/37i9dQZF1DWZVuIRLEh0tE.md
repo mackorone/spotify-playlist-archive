@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Yk It's Junaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,319 likes - 95 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,415 likes - 95 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

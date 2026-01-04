@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,610 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,635 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Eegeega Nanagantu \(From "Love You Muddu"\)](https://open.spotify.com/track/0TwddEckEwHnZgUIrn88NN) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Siddu Kodipura](https://open.spotify.com/artist/1CnRadRxrJaq5T28VhKPpg) | [Eegeega Nanagantu \(From "Love You Muddu"\)](https://open.spotify.com/album/54OdYsd4VrmaUjSkewfgGv) | 3:53 |
 | 75 | [Rebel Song \(From "Kantara A Legend Chapter 1 \- Kannada"\)](https://open.spotify.com/track/3bbh9EcUhTPpDCl8jpLj0m) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Trilok Trivikrama](https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw), [Mime Ramdas](https://open.spotify.com/artist/1DNW4iubVpADvNkYi8IbtH) | [Rebel Song \(From "Kantara A Legend Chapter 1 \- Kannada"\)](https://open.spotify.com/album/3sgnGHpA2WS8bcbFCv8bQ9) | 3:58 |
 
-Snapshot ID: `AAAAAMb5bP1/nAfRhuyd51R/CNKxDynr`
+Snapshot ID: `AAAAADpmxW8yE6ShVUBQEs8QiTp388UN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 긍정적이고 밝은 기운 가득한 음악들과 함께 행복한 새해를 맞이하세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,435 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 51 | [Reflection \- From "Mulan"](https://open.spotify.com/track/0w3rgvi520T6gLn4PQKFrD) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Reflection \(From "Mulan"\)](https://open.spotify.com/album/6RcZ2wIvWPeLv6SRU1P9Rq) | 3:39 |
 | 52 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 |
 
-Snapshot ID: `AAAAAHRBbxOapZTe6RWl7xvW7i4xhDHa`
+Snapshot ID: `AAAAAKtbnouYwZUYHJPc/op6EUl3nRRP`

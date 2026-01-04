@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 53324,
+  "num_followers": 53391,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAADXVX7b80biv8UD1em4r5T7",
+  "snapshot_id": "aVcKgAAAAACDLhEZwYodvSPf+yXtlkcX",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
+        "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147537,
+      "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
+      "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 157662,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Who's Cryin' Now",
-        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "Look Who's Cryin' Now",
-      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
-        "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
+        "name": "Look Who's Cryin' Now",
+        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 147537,
-      "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
-      "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
+      "duration_ms": 141724,
+      "name": "Look Who's Cryin' Now",
+      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
     },
     {
       "added_at": null,

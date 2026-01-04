@@ -1,12 +1,12 @@
 {
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 127732,
+  "num_followers": 127749,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACYbMjZYpM4auMS3YzKBFWi",
+  "snapshot_id": "aVcKgAAAAACBOlfnCjTtMalx8fa1S60Q",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma Bohemia",
         "url": "https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177874,
       "name": "Amar A Mi Nivel",
       "url": "https://open.spotify.com/track/2PAm2dcoYb2A8XzBHK8e0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 177032,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
         "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 178626,
       "name": "Ujule",
       "url": "https://open.spotify.com/track/4VL3VPtfEPj7Sx8cNuFZYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 177032,
+      "name": "Paloma Querida",
+      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
     },
     {
       "added_at": null,

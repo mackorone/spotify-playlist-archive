@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 646949,
+  "num_followers": 647137,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
-      },
-      "artists": [
-        {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
-        }
-      ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
-    },
-    {
-      "added_at": "2025-12-19 05:00:30",
-      "album": {
         "name": "Nobody's Nobody",
         "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 169390,
       "name": "Might As Well Be Me",
       "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+    },
+    {
+      "added_at": "2025-12-19 05:00:30",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2025-12-19 05:00:30",

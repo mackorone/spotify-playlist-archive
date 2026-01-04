@@ -10294,7 +10294,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -10338,7 +10338,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -23366,7 +23366,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 171733,
       "name": "Palillos y Panderos",
       "url": "https://open.spotify.com/track/57ND119bD1fI0pkxH8sH05"
@@ -31322,6 +31322,24 @@
       "duration_ms": 241951,
       "name": "Todo Lit",
       "url": "https://open.spotify.com/track/1oxSzLgFPeFm5o6y7Bxie9"
+    },
+    {
+      "album": {
+        "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+        "url": "https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248127,
+      "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
     },
     {
       "album": {

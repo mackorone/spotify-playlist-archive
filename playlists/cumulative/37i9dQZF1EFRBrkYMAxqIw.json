@@ -3175,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184678,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj"
+    },
+    {
+      "album": {
         "name": "We Are Love",
         "url": "https://open.spotify.com/album/6pp6Rn3GK8hmtFIPNkhR3n"
       },

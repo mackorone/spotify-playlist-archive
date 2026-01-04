@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 91017,
+  "num_followers": 91034,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFShqIcPycDmjOTyVevWXcKr1Dp",
+  "snapshot_id": "AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4",
   "tracks": [
     {
       "added_at": "2025-12-26 23:00:20",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-12-26 23:00:20",
       "album": {
-        "name": "Midnight Rain",
-        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
-    },
-    {
-      "added_at": "2025-12-26 23:00:20",
-      "album": {
         "name": "Round My Mind",
         "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 216000,
       "name": "Round My Mind",
       "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
+    },
+    {
+      "added_at": "2025-12-26 23:00:20",
+      "album": {
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
     },
     {
       "added_at": "2025-12-26 23:00:20",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-12-26 23:00:20",
       "album": {
-        "name": "Trip to Italia",
-        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Trip to Italia",
-      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
-    },
-    {
-      "added_at": "2025-12-26 23:00:20",
-      "album": {
         "name": "Dynamite (2025 OST)",
         "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 173055,
       "name": "Dynamite - 2025 OST",
       "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
+    },
+    {
+      "added_at": "2025-12-26 23:00:20",
+      "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
     },
     {
       "added_at": "2025-12-26 23:00:20",
@@ -375,6 +375,30 @@
     {
       "added_at": "2025-12-26 23:00:20",
       "album": {
+        "name": "The FOMO",
+        "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        },
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "The FOMO",
+      "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
+    },
+    {
+      "added_at": "2025-12-26 23:00:20",
+      "album": {
         "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
         "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 175000,
       "name": "Hate Destroyer",
       "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
-    },
-    {
-      "added_at": "2025-12-26 23:00:20",
-      "album": {
-        "name": "The FOMO",
-        "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        },
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "The FOMO",
-      "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
     },
     {
       "added_at": "2025-12-26 23:00:20",

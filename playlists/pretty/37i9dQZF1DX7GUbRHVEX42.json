@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Haile",
-  "num_followers": 1109081,
+  "num_followers": 1109016,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-10-10 11:42:03",
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "added_at": "2025-10-10 11:42:03",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 189530,
       "name": "Finally",
       "url": "https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq"
-    },
-    {
-      "added_at": "2025-10-10 11:42:03",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2025-10-10 11:42:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-10-10 11:42:03",
       "album": {
-        "name": "Pilates",
-        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
-      },
-      "artists": [
-        {
-          "name": "Cashh",
-          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Pilates",
-      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
-    },
-    {
-      "added_at": "2025-10-10 11:42:03",
-      "album": {
         "name": "Keep Blazin'",
         "url": "https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 184200,
       "name": "Keep Blazin'",
       "url": "https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp"
+    },
+    {
+      "added_at": "2025-10-10 11:42:03",
+      "album": {
+        "name": "Pilates",
+        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "Pilates",
+      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
     },
     {
       "added_at": "2025-10-10 11:42:03",

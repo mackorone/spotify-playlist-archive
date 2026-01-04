@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 604 songs - 1 day 7 hr 17 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 623 songs - 1 day 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -612,5 +612,24 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 602 | [learn to dance](https://open.spotify.com/track/7xrB2n3kik9ROWZkkbzcf5) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [learn to dance](https://open.spotify.com/album/4QQUVUc4n9YXn45OBqeT3z) | 4:12 |
 | 603 | [Slow Motion](https://open.spotify.com/track/1CV3zdjR73oQ90IucPeQ3Q) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Slow Motion](https://open.spotify.com/album/2VPZNOCIQ7FXvKz2BZxy5G) | 2:58 |
 | 604 | [Sermon on the Mount](https://open.spotify.com/track/03cBIiGSDr0OCM59g96ZmK) | [Messenger The Choosen](https://open.spotify.com/artist/7HRuEzRAcxxoo1gyPo9Asv) | [Ancient Echoes, Modern Jungle](https://open.spotify.com/album/5tthKI0qf0p85ukZNLq3Et) | 5:47 |
+| 605 | [Nihono](https://open.spotify.com/track/79LLZUOgCOyvshgVJfr8Po) | [Momo Mac](https://open.spotify.com/artist/1RnWU9BbdyBTU8DGvQQEwT), [Diese Mbangue](https://open.spotify.com/artist/18SveRISyJ3xiKwBb1qEQf) | [Nihono](https://open.spotify.com/album/6zR0C3qy0EKwZu06cjLp6N) | 3:47 |
+| 606 | [trippin' on you](https://open.spotify.com/track/4SZdoXJC6vgUNQNacBhx8t) | [Triple M's](https://open.spotify.com/artist/63Psv5LfpLvinKJzfwknPX) | [trippin' on you](https://open.spotify.com/album/6Iv9nIFOWAj3ptSO7IJAB4) | 2:32 |
+| 607 | [Diamond Touch](https://open.spotify.com/track/37BsHlHRaEav5FUNu1pJ1Z) | [RapCaviar](https://open.spotify.com/artist/7rDdFwNOtRzHmG6VrHYYL4) | [RapCaviar, Vol\. 3](https://open.spotify.com/album/7GWk0dgMXTfI3LPdQVYm15) | 2:37 |
+| 608 | [TSUKUYOMI](https://open.spotify.com/track/5jtKhtDIKRO19es0B3EXCP) | [SK 023](https://open.spotify.com/artist/0yZmGKQFgnTGuefPRvaEXI) | [TSUKUYOMI](https://open.spotify.com/album/7nL2pFX8gi5h5ZSRMk77E2) | 3:02 |
+| 609 | [Jealous](https://open.spotify.com/track/2TrbqM79ydNhJ0jG0tIUSW) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Jealous](https://open.spotify.com/album/6LKWwb4w7s1znfWXv1Ay5j) | 3:21 |
+| 610 | [Fruchtkönig](https://open.spotify.com/track/60mR40YkrNbbKo26rJIWPI) | [Magnetfisch](https://open.spotify.com/artist/1kSxv7KegqfXIQXpD4zZhX) | [Fruchtkönig](https://open.spotify.com/album/7DukyDGTB41G8OtwNQbJj3) | 4:33 |
+| 611 | [PA TO LO CHUKY](https://open.spotify.com/track/731nsa6zCywtnej9dFKUcf) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [TIGUERAJENARRAO \-Vol\. 1](https://open.spotify.com/album/2Uca96MtpPLE9FYe5iidtI) | 1:51 |
+| 612 | [Am I dreaming](https://open.spotify.com/track/1gWRTr1sY6qx7T9fVasiZ8) | [Gianfranco Dell'Olio](https://open.spotify.com/artist/64ZNNzMbu3WMfXfNPi0nDN) | [Am I dreaming](https://open.spotify.com/album/3ygmUH6GkfiRHlLt1HsW8j) | 3:07 |
+| 613 | [Ride Slow](https://open.spotify.com/track/0KCnxuEzqhiJ4HwgwpwzpM) | [Yung Balboa](https://open.spotify.com/artist/3YO01fe8RtwqVoNv1gtU8M) | [Ride Slow](https://open.spotify.com/album/121UZYRkdX450mMSYWZKka) | 3:00 |
+| 614 | [Switch](https://open.spotify.com/track/0qV4WgZ88Z8OocJhbbZhEf) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2), [Harshit Datta](https://open.spotify.com/artist/4OnrXxKdWoyI3KLCdOhMl9) | [Switch](https://open.spotify.com/album/4wI46lj7hTIK42R2nh0noV) | 2:30 |
+| 615 | [Can't Trust](https://open.spotify.com/track/0WCfJqS2cvMFbzbHFbuepT) | [Johnny Starling](https://open.spotify.com/artist/4nuskpmtHrxzx3VHP04x3C) | [Can't Trust](https://open.spotify.com/album/1TqImzvy83ieZMpGVnRdRq) | 2:48 |
+| 616 | [Floor Inspector](https://open.spotify.com/track/5Tn9qxw18Fy7qKut2DWCdY) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [Floor Inspector](https://open.spotify.com/album/5w9rwhZfKZcTa1tVNWOrbA) | 3:36 |
+| 617 | [Back to You](https://open.spotify.com/track/5CLFupLl2NPAwVl9Q6M7xc) | [LMonko](https://open.spotify.com/artist/224OHndFf8m41yMVW3UMpB) | [I Never Listen](https://open.spotify.com/album/0PJpaD4ZtD1IuFB4a3upz8) | 1:40 |
+| 618 | [All Girls Are The Same \- Cover Version](https://open.spotify.com/track/0CZbCAmLMWoFW2EKqyu8mv) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Joshua Castle](https://open.spotify.com/artist/5VnLKbJys03lqxOo2ZRIyE) | [All Girls Are The Same \(Cover Version\)](https://open.spotify.com/album/5NUi3Mpj2W7v3Wk4VutDGW) | 2:52 |
+| 619 | [Butterfly](https://open.spotify.com/track/1tInwP3gnFnUFGSjy1pjuD) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Butterfly](https://open.spotify.com/album/4IJXLpAgLGDrNo6D8opNVS) | 2:55 |
+| 620 | [Silence](https://open.spotify.com/track/2rW7T9hazcrXRGARGHKKR4) | [Roommates](https://open.spotify.com/artist/1oTSwH7yL7aKe4qPQ0yCuF) | [Silence](https://open.spotify.com/album/3BvIi8OnJ5qBWHfY7RKNX2) | 3:41 |
+| 621 | [Los Amos del Mundo](https://open.spotify.com/track/5t2A8lBwiShoUQw48j6lIs) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Alfredo García](https://open.spotify.com/artist/7pWyynwHl03zPkHgCaEc2R), [Alfa](https://open.spotify.com/artist/5PkQTwun3XkirriRmvAHjU), [Buenas Noches Rose](https://open.spotify.com/artist/7LYYIl02UMr8DmwrxtSlDA) | [Los Amos del Mundo](https://open.spotify.com/album/711Jd6pXX7oHPosx5hJ3mZ) | 4:05 |
+| 622 | [no caigo](https://open.spotify.com/track/6dbfcErWTpNnF8lmuyYvcJ) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9) | [VØIKKA Vol\. 1](https://open.spotify.com/album/1ylwMBaSqC4aHhuuhJyUEl) | 2:08 |
+| 623 | [20 leg parlay](https://open.spotify.com/track/2HzcmhX02SELYna1BrWt7u) | [OffTheFanta](https://open.spotify.com/artist/4voeJpjBMAoeVjhykRJTjZ), [BACKEND DREW](https://open.spotify.com/artist/6cnptOKIX6CVo93nz709A6) | [20 leg parlay](https://open.spotify.com/album/5YAuCC3C2D8prGyops1uGU) | 2:19 |
 
-Snapshot ID: `AAAXfdh7/vWf39gJj5M3cmDRYuE4fZEB`
+Snapshot ID: `AAAXkNWMgMBVV4Vvz/00XEegm2Kdcukr`

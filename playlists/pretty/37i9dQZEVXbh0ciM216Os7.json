@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVdQ0AAAAABJhr/7jUNIOxY/f+pD8nuo",
+  "snapshot_id": "aVdQ0AAAAAC3YMPZZHcPXhoALzQ47V76",
   "tracks": [
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Big Flex",
+        "url": "https://open.spotify.com/album/1lObErx11t3bcAGFh4Pi45"
+      },
+      "artists": [
+        {
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Big Flex",
+      "url": "https://open.spotify.com/track/2jCFWvxckKvICpIvxHs5La"
+    },
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
@@ -23,30 +43,6 @@
       "duration_ms": 311719,
       "name": "CHROME HORIZON",
       "url": "https://open.spotify.com/track/7uoEJDDFZqoXuylRw9s6ON"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "NEXXXT LEVEL",
-        "url": "https://open.spotify.com/album/3VlhViao8FkF5kNUNe3wDJ"
-      },
-      "artists": [
-        {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "NEXXXT LEVEL",
-      "url": "https://open.spotify.com/track/6EGIyAaq4Csz557wLXuK7V"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -99,114 +95,106 @@
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
-        "name": "Year End Party Mashup",
-        "url": "https://open.spotify.com/album/0KrwNzfXsRWh4APSHVon5P"
+        "name": "NEXXXT LEVEL",
+        "url": "https://open.spotify.com/album/3VlhViao8FkF5kNUNe3wDJ"
       },
       "artists": [
         {
-          "name": "Vishal",
-          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
         },
         {
-          "name": "Shekhar",
-          "url": "https://open.spotify.com/artist/56F6WyCJno1s5RrYEUg5r8"
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
         },
         {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        },
-        {
-          "name": "Lothika",
-          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        },
-        {
-          "name": "Paradox",
-          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Aastha",
-          "url": "https://open.spotify.com/artist/6OUer1U5KXv9ewP3qfo8LR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
-        },
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 541147,
-      "name": "Year End Party Mashup",
-      "url": "https://open.spotify.com/track/06LY1Ak2M7d6FzfPZwrAXM"
+      "duration_ms": 179340,
+      "name": "NEXXXT LEVEL",
+      "url": "https://open.spotify.com/track/6EGIyAaq4Csz557wLXuK7V"
     },
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
-        "name": "Satisfaction Skank",
-        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+        "name": "I Need New Underwear",
+        "url": "https://open.spotify.com/album/6qYsZ8EIlYcV18EtlSAztw"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
         }
       ],
-      "duration_ms": 199488,
-      "name": "Satisfaction Skank",
-      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+      "duration_ms": 188453,
+      "name": "I Need New Underwear",
+      "url": "https://open.spotify.com/track/3BSlLHo9H68Tkh3Pcf6DJ5"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Lights, Camera, Action",
+        "url": "https://open.spotify.com/album/1qsrwVKZYjjcxkKq79UiqB"
+      },
+      "artists": [
+        {
+          "name": "Epic Games Music",
+          "url": "https://open.spotify.com/artist/2B9Y810QjgQAOBQtRgFDVb"
+        }
+      ],
+      "duration_ms": 177059,
+      "name": "Lights, Camera, Action",
+      "url": "https://open.spotify.com/track/2eXnOjoQA7dTeKd2MByNUO"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Don't Believe In Love",
+        "url": "https://open.spotify.com/album/1m9vZ7Z8sDIzaOLhtFrLLl"
+      },
+      "artists": [
+        {
+          "name": "AMH",
+          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Don't Believe In Love",
+      "url": "https://open.spotify.com/track/6IykhbEPAREcP1awa7QqW3"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Last Money",
+        "url": "https://open.spotify.com/album/7hleiERkpiMIsiCBOBBc5S"
+      },
+      "artists": [
+        {
+          "name": "shinyozes",
+          "url": "https://open.spotify.com/artist/7D27aWWtDtDo7fSsodI8mN"
+        }
+      ],
+      "duration_ms": 61211,
+      "name": "Last Money",
+      "url": "https://open.spotify.com/track/6y8YEJNlwliWiWnW5BLApo"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/5NNL3Q1GbijrU0I8vjPC1Z"
+      },
+      "artists": [
+        {
+          "name": "Pat McAfee",
+          "url": "https://open.spotify.com/artist/0fPZVpoYeJToAZpcNoSA88"
+        }
+      ],
+      "duration_ms": 96893,
+      "name": "Dookie",
+      "url": "https://open.spotify.com/track/7otLJV3XoPRGCrSnhWQYCr"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -303,98 +291,6 @@
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
-        "name": "Pretty Low (MANSHN Remodel)",
-        "url": "https://open.spotify.com/album/69bFNu51ZHVZcBmVUhFbfA"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        },
-        {
-          "name": "MANSHN",
-          "url": "https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG"
-        }
-      ],
-      "duration_ms": 214180,
-      "name": "Pretty Low (MANSHN Remodel)",
-      "url": "https://open.spotify.com/track/5Xg5GVRhcsZQyD9GusA51P"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "YAYA (Remix)",
-        "url": "https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ"
-      },
-      "artists": [
-        {
-          "name": "Compton Av",
-          "url": "https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5"
-        },
-        {
-          "name": "Steelz",
-          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "YAYA - Remix",
-      "url": "https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "Alles \u00e4ndert sich",
-        "url": "https://open.spotify.com/album/42KFN79FsWTEpTL26LeQPN"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 195009,
-      "name": "Alles \u00e4ndert sich",
-      "url": "https://open.spotify.com/track/5CiAYPrMavnvMgMh6jqMbB"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "Touch The Ground (feat. Chance The Rapper)",
-        "url": "https://open.spotify.com/album/79jFdDfUqi0okViaaEyoDM"
-      },
-      "artists": [
-        {
-          "name": "STAR BANDZ",
-          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Touch The Ground (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1oE1LkvoJYGbp0wWr1yAaY"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
         "name": "I'm Sick Of Christmas",
         "url": "https://open.spotify.com/album/3fZ0yUTlBFcuGROHhDgImj"
       },
@@ -411,6 +307,22 @@
       "duration_ms": 136774,
       "name": "I'm Sick Of Christmas",
       "url": "https://open.spotify.com/track/6rsmirzXAtgBuUMFhihWdu"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
+        "name": "Alles \u00e4ndert sich",
+        "url": "https://open.spotify.com/album/42KFN79FsWTEpTL26LeQPN"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 195009,
+      "name": "Alles \u00e4ndert sich",
+      "url": "https://open.spotify.com/track/5CiAYPrMavnvMgMh6jqMbB"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -435,6 +347,26 @@
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
+        "name": "Touch The Ground (feat. Chance The Rapper)",
+        "url": "https://open.spotify.com/album/79jFdDfUqi0okViaaEyoDM"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Touch The Ground (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/1oE1LkvoJYGbp0wWr1yAaY"
+    },
+    {
+      "added_at": "2026-01-02 05:00:00",
+      "album": {
         "name": "The Real Thang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jwPDkBu6QUP4aiiwCR2Xo"
       },
@@ -455,22 +387,22 @@
     {
       "added_at": "2026-01-02 05:00:00",
       "album": {
-        "name": "Roseanne Bar (Basement) [with Shwayze]",
-        "url": "https://open.spotify.com/album/0xBjjawl2ESjRbiapClwMb"
+        "name": "Soulja Hate Repellant",
+        "url": "https://open.spotify.com/album/0deyQpMyjqcEvJbJHYEkaH"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
         },
         {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Roseanne Bar (Basement) [with Shwayze]",
-      "url": "https://open.spotify.com/track/1WF9J4q3sK007W6J6mbdnr"
+      "duration_ms": 273350,
+      "name": "Cressidaway!/ TPGeeK - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/0Sykt2voVK12Q4cQNKo1WW"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -491,26 +423,6 @@
       "duration_ms": 240326,
       "name": "Bitume",
       "url": "https://open.spotify.com/track/45wCAmNCLohrspOZIFjabD"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "Soulja Hate Repellant",
-        "url": "https://open.spotify.com/album/0deyQpMyjqcEvJbJHYEkaH"
-      },
-      "artists": [
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 273350,
-      "name": "Cressidaway!/ TPGeeK - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/0Sykt2voVK12Q4cQNKo1WW"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -587,30 +499,6 @@
       "duration_ms": 247291,
       "name": "RIVER",
       "url": "https://open.spotify.com/track/27N2bd3ait2QOnprc4seCK"
-    },
-    {
-      "added_at": "2026-01-02 05:00:00",
-      "album": {
-        "name": "Feelings (Remix)",
-        "url": "https://open.spotify.com/album/36PjZV3qEf3CTlfrKf8DR1"
-      },
-      "artists": [
-        {
-          "name": "Stylistic Murder",
-          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Cam One",
-          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Feelings (Remix)",
-      "url": "https://open.spotify.com/track/7lDCEzCKk58B3SaxvZiSGA"
     },
     {
       "added_at": "2026-01-02 05:00:00",
@@ -692,7 +580,7 @@
       "added_at": "2026-01-02 05:00:00",
       "album": {
         "name": "I'm Still Him",
-        "url": "https://open.spotify.com/album/2X5KsSIaBJGRE5bfYkJNZP"
+        "url": "https://open.spotify.com/album/0IBHeScQ2KFnEPnvFbooTT"
       },
       "artists": [
         {
@@ -706,7 +594,7 @@
       ],
       "duration_ms": 162307,
       "name": "Congratulations",
-      "url": "https://open.spotify.com/track/5XxvmI7iuq5sxLkmddBar1"
+      "url": "https://open.spotify.com/track/1hEBqEGc07Q6ShelO7LFHC"
     },
     {
       "added_at": "2026-01-02 05:00:00",

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,796 songs - 8 day 9 hr 30 min
+3,797 songs - 8 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Daleko jestem](https://open.spotify.com/track/2ACJYr7ap1zxHzsIkmVdag) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Daleko jestem](https://open.spotify.com/album/7zSEIyptdy5xgHPLWQFhrr) | 3:17 | 2025-12-06 |  |
 | [Dalla parte del coltello](https://open.spotify.com/track/4Irq1POPWe9GlzgZtGiHTJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Dalla parte del coltello](https://open.spotify.com/album/2JuJAJxXEIvdGz3c9EOTtk) | 3:12 | 2025-05-27 |  |
 | [Damaged Goods](https://open.spotify.com/track/5PRU610vVE9hHvPqfH3qcX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Damaged Goods](https://open.spotify.com/album/1T0nUhUZKXBsgog7qe5u1F) | 2:40 | 2025-11-05 |  |
+| [Dame Tu Luz](https://open.spotify.com/track/5uTWNaSWu58N3tiM15QYXL) | [Murielsounds](https://open.spotify.com/artist/0qZyBmuPA4KkTBJ1u5hReS) | [Dame Tu Luz](https://open.spotify.com/album/1aKztAgaS6uG0GZOWm0Uzl) | 3:48 | 2026-01-03 |  |
 | [Dance](https://open.spotify.com/track/5c36b7t4VDo8wzfzRvcd0S) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:57 | 2025-09-15 |  |
 | [Dance \(another\)](https://open.spotify.com/track/3taqj4IYMR2HSlj7QfqOpf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 3:07 | 2025-09-15 |  |
 | [Dance All Night](https://open.spotify.com/track/59V8OWGBg7WHYqcnM2WaCF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Let's Pop and Dance](https://open.spotify.com/album/7uUgEeyuHVZ6at8oDHcvNE) | 2:11 | 2025-09-10 |  |
@@ -2644,7 +2645,7 @@
 | [Relationship](https://open.spotify.com/track/4Z46jUuLEPTi53ubwSb9PQ) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Oliver Yung Dee](https://open.spotify.com/artist/2ujBMoAh8CrTYWPew7z3mT) | [Relationship](https://open.spotify.com/album/4dL28Z3hfQaIWobz0iKmHJ) | 3:08 | 2025-06-04 |  |
 | [Relax](https://open.spotify.com/track/0XLDuwC2BUMr54SU1LCYX8) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Relax](https://open.spotify.com/album/2wq8ECH2d938pINlrNdwzd) | 2:19 | 2025-05-27 |  |
 | [Remember My Name](https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Remember My Name](https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd) | 3:46 | 2025-02-02 |  |
-| [remember that time \- demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [remember that time \(demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 2:44 | 2025-12-26 |  |
+| [Remember That Time \- Demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [Remember That Time \(Demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 2:44 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |
 | [Renfield's Afoot](https://open.spotify.com/track/5U28vvBjNFQm0QESzDC2qw) | [Half Man Half Biscuit](https://open.spotify.com/artist/6hBQq083tyW3yrF1gdVt4Q) | [No One Cares About Your Creative Hub so Get Your Fuckin' Hedge Cut](https://open.spotify.com/album/12aUWcdImt2uVMSGYHRmYl) | 1:18 | 2025-11-05 |  |
 | [Respawn Generation](https://open.spotify.com/track/5ojHvogANoNbE276B7h349) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:29 | 2025-09-12 |  |

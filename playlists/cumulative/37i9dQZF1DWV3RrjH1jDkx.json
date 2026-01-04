@@ -74063,6 +74063,32 @@
     },
     {
       "album": {
+        "name": "H\u00f8gdeskrekk",
+        "url": "https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Kurt Nilsen",
+          "url": "https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195271,
+      "name": "H\u00f8gdeskrekk",
+      "url": "https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v"
+    },
+    {
+      "album": {
         "name": "H\u00f8gt over landet",
         "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
       },
@@ -132228,32 +132254,6 @@
       "duration_ms": 229864,
       "name": "Scandinavian Nights",
       "url": "https://open.spotify.com/track/0rQaLAXEcdNk3d7yF9p9PV"
-    },
-    {
-      "album": {
-        "name": "Scared of Heights",
-        "url": "https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        },
-        {
-          "name": "Kurt Nilsen",
-          "url": "https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195271,
-      "name": "Scared of Heights",
-      "url": "https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v"
     },
     {
       "album": {

@@ -1237,6 +1237,28 @@
     },
     {
       "album": {
+        "name": "Where Is My Home",
+        "url": "https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL"
+      },
+      "artists": [
+        {
+          "name": "Jen\u00e8riq",
+          "url": "https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v"
+        },
+        {
+          "name": "Shairal",
+          "url": "https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179610,
+      "name": "Where Is My Home",
+      "url": "https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM"
+    },
+    {
+      "album": {
         "name": "Life For Rent",
         "url": "https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA"
       },

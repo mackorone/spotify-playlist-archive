@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 102397,
+  "num_followers": 102478,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 162051,
       "name": "Healing (Shattered Heart)",
       "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
         "name": "Southern Star (feat. AURORA)",
         "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -819,38 +819,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
-        "name": "05050",
-        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 186739,
-      "name": "DESPU\u00c9S DE LA FERIA",
-      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -867,18 +835,18 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
         }
       ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -899,6 +867,38 @@
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "05050",
+        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 186739,
+      "name": "DESPU\u00c9S DE LA FERIA",
+      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 225570,
       "name": "Skyfri himmel",
       "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Learning as I go",
-        "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
-      },
-      "artists": [
-        {
-          "name": "Kristina Moe Hals",
-          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Learning as I go",
-      "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "The Flood",
         "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 269720,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Learning as I go",
+        "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
+      },
+      "artists": [
+        {
+          "name": "Kristina Moe Hals",
+          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Learning as I go",
+      "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
-      },
-      "artists": [
-        {
-          "name": "Erika Norwich",
-          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
-        }
-      ],
-      "duration_ms": 177717,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "fear of looking stupid",
         "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 164812,
       "name": "fear of looking stupid",
       "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "duration_ms": 177717,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "VERDENS BESTE ALBUM",
-        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz"
       },
       "artists": [
         {
-          "name": "Jon Ranes",
-          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
         }
       ],
-      "duration_ms": 183568,
-      "name": "Kunstig intelligens",
-      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
+      "duration_ms": 223399,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1123,18 +1123,38 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz"
+        "name": "VERDENS BESTE ALBUM",
+        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
       },
       "artists": [
         {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+          "name": "Jon Ranes",
+          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
         }
       ],
-      "duration_ms": 223399,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s"
+      "duration_ms": 183568,
+      "name": "Kunstig intelligens",
+      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Can't Let Him Win",
+        "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 185628,
+      "name": "Can't Let Him Win",
+      "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 194785,
-      "name": "Lost and found",
-      "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Ole Lukk\u00f8ye",
+        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Ole Lukk\u00f8ye",
+      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1263,18 +1279,22 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Ole Lukk\u00f8ye",
-        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 265726,
-      "name": "Ole Lukk\u00f8ye",
-      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+      "duration_ms": 194785,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Solgangsbrisen",
-        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
-      },
-      "artists": [
-        {
-          "name": "Erik Og Kriss",
-          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
-        },
-        {
-          "name": "Postgirobygget",
-          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Solgangsbrisen",
-      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
         "name": "Luft",
         "url": "https://open.spotify.com/album/0yTa4d2Tv2GzDTGiWGpsGY"
       },
@@ -1419,18 +1419,38 @@
     {
       "added_at": "2026-01-01 23:00:37",
       "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
+        "name": "VINTER",
+        "url": "https://open.spotify.com/album/2geNPdTOOCrjcToXTuxZGH"
       },
       "artists": [
         {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
         }
       ],
-      "duration_ms": 209078,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
+      "duration_ms": 161222,
+      "name": "VINTER",
+      "url": "https://open.spotify.com/track/3F2OtPShNKoGvpTz6Gp4jk"
+    },
+    {
+      "added_at": "2026-01-01 23:00:37",
+      "album": {
+        "name": "Solgangsbrisen",
+        "url": "https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6"
+      },
+      "artists": [
+        {
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+        },
+        {
+          "name": "Postgirobygget",
+          "url": "https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Solgangsbrisen",
+      "url": "https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo"
     },
     {
       "added_at": "2026-01-01 23:00:37",
@@ -1447,22 +1467,6 @@
       "duration_ms": 135480,
       "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
       "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
-    },
-    {
-      "added_at": "2026-01-01 23:00:37",
-      "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     }
   ],
   "unique_name": "vintertid",

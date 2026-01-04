@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -6874,7 +6874,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 94081,
       "name": "Chapul\u00edn",
       "url": "https://open.spotify.com/track/4NkYpLDo4RcBGefiwDeQzW"
@@ -9760,7 +9760,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 105443,
       "name": "DARK AGE FUNK",
       "url": "https://open.spotify.com/track/7GDEui2upUcbiFsqbPNi2b"
@@ -16236,7 +16236,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 113513,
       "name": "GOZALO",
       "url": "https://open.spotify.com/track/7hl1REazG2eMQwYLEsMhhz"
@@ -18474,7 +18474,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 245440,
       "name": "in the pool",
       "url": "https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6"
@@ -24012,7 +24012,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 177668,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/5rJOpDT2Y03kTnf3hp8rbE"
@@ -27218,7 +27218,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -31411,6 +31411,24 @@
     },
     {
       "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1aladas",
         "url": "https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD"
       },
@@ -32608,7 +32626,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 155919,
       "name": "Renazco en Mi",
       "url": "https://open.spotify.com/track/5z2etgzOrfHxBmM7UzC8uP"
@@ -39624,6 +39642,60 @@
       "duration_ms": 180543,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy"
+    },
+    {
+      "album": {
+        "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
+        "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Coqe\u00e9in Montana",
+          "url": "https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7"
+        },
+        {
+          "name": "Marcianos Crew",
+          "url": "https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456939,
+      "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
+      "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
     },
     {
       "album": {

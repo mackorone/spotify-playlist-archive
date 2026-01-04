@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Najlepsze utwory EQUAL Polska w 2025 według naszej redakcji\. Słuchaj kobiet na cały głos! Cover: MODELKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,312 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,320 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

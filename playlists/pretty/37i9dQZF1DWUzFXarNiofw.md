@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: JAY VERSACE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,175 likes - 300 songs - 14 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,207 likes - 300 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

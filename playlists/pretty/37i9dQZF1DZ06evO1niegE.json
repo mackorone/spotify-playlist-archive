@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8853,
+  "num_followers": 8854,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACt7EHlM1dpLJooUh2H9nx4",
+  "snapshot_id": "aVcKgAAAAACwuDqRlp/vDFV0Xvi7HcEg",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 134014,
       "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FENGSHUI",
-        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
-      },
-      "artists": [
-        {
-          "name": "Maximiliano Calvo",
-          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 162883,
-      "name": "FENGSHUI",
-      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imperfecto",
         "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 181181,
       "name": "Imperfecto",
       "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FENGSHUI",
+        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 162883,
+      "name": "FENGSHUI",
+      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antonio El Sincero",
-        "url": "https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML"
-      },
-      "artists": [
-        {
-          "name": "Tony True and the Tijuana Tres",
-          "url": "https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 176000,
       "name": "VHS",
       "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antonio El Sincero",
+        "url": "https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML"
+      },
+      "artists": [
+        {
+          "name": "Tony True and the Tijuana Tres",
+          "url": "https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5"
     },
     {
       "added_at": null,

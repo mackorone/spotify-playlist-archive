@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/0LZZQWGxIn73Zx3joZTbyN"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169642,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/5cnQKFiGw1qVfnbhGBbTPx"
+    },
+    {
+      "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx"
       },
@@ -1832,6 +1850,24 @@
       "duration_ms": 209429,
       "name": "Love Splash!",
       "url": "https://open.spotify.com/track/5K4Q3yW9UA2Nxs7aa3JB4G"
+    },
+    {
+      "album": {
+        "name": "Lovin' the Christmas",
+        "url": "https://open.spotify.com/album/0h6qqiXbAuNpHBbSiWyAxD"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217322,
+      "name": "Lovin' the Christmas",
+      "url": "https://open.spotify.com/track/3NfqT6MzUUGAEPDexBdiQY"
     },
     {
       "album": {

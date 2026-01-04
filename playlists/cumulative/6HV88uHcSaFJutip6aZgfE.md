@@ -4,7 +4,7 @@
 
 > 
 
-55 songs - 3 hr 48 min
+57 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,12 @@
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-09-13 |  |
 | [Eeran Megham](https://open.spotify.com/track/3vY5DtPun3j9ZR5p4AOAmI) | [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [Kannur Rajan](https://open.spotify.com/artist/1OmFIMcyc0IrjWXKIbT76Y) | [Chithram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bx2MQY5UP4mGqmLZl9NoD) | 4:28 | 2025-12-31 |  |
 | [F1](https://open.spotify.com/track/5UeIwcUIKTVPqBnuXnhmBD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [F1® The Movie \(Original Score By Hans Zimmer\)](https://open.spotify.com/album/4gSjcFEVpPS52oGqEOJGyj) | 3:13 | 2025-09-13 |  |
+| [FA9LA](https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [فصلة](https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw) | 1:45 | 2026-01-03 |  |
 | [Formula 1 Theme](https://open.spotify.com/track/5r7egnfTIQjaKSGREhIky9) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Formula 1 Theme](https://open.spotify.com/album/6vZxdK8F5VqytnXgNrjHRM) | 3:14 | 2025-09-13 |  |
 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2025-09-13 |  |
 | [Gas Gas Gas \- 2020 Version](https://open.spotify.com/track/2p9Zr4y4w4ZJe6BLLhUxPn) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [Deja Vu](https://open.spotify.com/album/1Zr81V8F41ew3UACXxfvun) | 4:41 | 2025-09-13 |  |
 | [GET ME POWER](https://open.spotify.com/track/0AppFJk1BDKDhOaYEgCpKW) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [SUPEREUROBEATpresentsINITIALDDSELECTION](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:44 | 2025-09-13 |  |
+| [Golden Brown \- Slowed Down Version](https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 4:08 | 2026-01-03 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2025-09-13 |  |
 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 | 2025-09-13 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2025-09-13 |  |

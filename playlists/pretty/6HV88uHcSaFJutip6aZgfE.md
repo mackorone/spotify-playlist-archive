@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6HV88uHcSaFJutip6aZgfE.md) - [plain]
 
 > 
 
-[THE ILLUSIONIST GAMING](https://open.spotify.com/user/31dbdcr5kgqsc6cxztci4qbs66u4) - 0 likes - 54 songs - 3 hr 44 min
+[THE ILLUSIONIST GAMING](https://open.spotify.com/user/31dbdcr5kgqsc6cxztci4qbs66u4) - 0 likes - 56 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6HV88uHcSaFJutip6aZgfE.md) - [plain]
 | 52 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 |
 | 53 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 |
 | 54 | [Karalekaralinte](https://open.spotify.com/track/0G5acY5AQJW0hlUddjJ8qt) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Kaithapram](https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF), [Rimmy Tommy](https://open.spotify.com/artist/0G4JWVAaKLdx8y8zb9a9ku) | [UdayananuTharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44zMOfhPBPMmTkUsvPTpZt) | 4:59 |
+| 55 | [FA9LA](https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [فصلة](https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw) | 1:45 |
+| 56 | [Golden Brown \- Slowed Down Version](https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 4:08 |
 
-Snapshot ID: `AAAAOZOVpGFhQDWo1l9HSsTrVHMMtIap`
+Snapshot ID: `AAAAO0Wirisv6ueJe5J7fWP2W7SHSZJr`

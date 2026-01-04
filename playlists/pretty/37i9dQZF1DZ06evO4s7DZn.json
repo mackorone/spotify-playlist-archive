@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9280,
+  "num_followers": 9283,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAACCKMmX4nuR46eiPXkE4nu3",
+  "snapshot_id": "aVcKgAAAAAAWES3uVwkf33/tU3AhGYb8",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Lagrimas Del Corazon",
-      "url": "https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM"
+      "duration_ms": 157680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157680,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
+      "duration_ms": 231906,
+      "name": "Lagrimas Del Corazon",
+      "url": "https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
+      "duration_ms": 143848,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Ranchero",
-        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 143848,
-      "name": "Amor Ranchero",
-      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas Del Corazon",
         "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207640,
       "name": "Como Esos Amantes",
       "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
     },
     {
       "added_at": null,

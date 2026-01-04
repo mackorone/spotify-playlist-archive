@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 553 likes - 454 songs - 22 hr 2 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 554 likes - 455 songs - 22 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -462,5 +462,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 452 | [Swiss Humanitarian Tradition](https://open.spotify.com/track/1UADBSB4FMEiVBTPN3sFrf) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Swiss Humanitarian Tradition](https://open.spotify.com/album/4cy11NQbevnbJo5XYJl0d4) | 4:45 |
 | 453 | [Old \(One Lucky Dude\)](https://open.spotify.com/track/1DQuMu6KuK4U7OOPUnHncf) | [Westbay](https://open.spotify.com/artist/53cZi0zTxO9HboRg5PkrBO) | [OLD \(One Lucky Dude\)](https://open.spotify.com/album/0dJuqvmDle4AUOszEob1kl) | 3:57 |
 | 454 | [Bloodtype](https://open.spotify.com/track/7g7lzOmC6qDAOGHhXqoeOB) | [Cassius Grove](https://open.spotify.com/artist/27DQ8cXxISDC6oHcEFA5hC) | [Bloodtype](https://open.spotify.com/album/5e11Kd7OBgFUuBy8L2EytI) | 1:56 |
+| 455 | [Lembranças](https://open.spotify.com/track/651f19oW8uV5tpCEioy2Kb) | [May drill](https://open.spotify.com/artist/3sbE8DckoV7kyavEMHV1Ts) | [Lembranças](https://open.spotify.com/album/112X0fqt6pEfCnOEOC7gSK) | 3:00 |
 
-Snapshot ID: `AAABZvMJsgjIYYGQ8QGK0f/dco3x7GVo`
+Snapshot ID: `AAABZ4ETr8W2qg2Noccp7rQhAjJvmI0Q`

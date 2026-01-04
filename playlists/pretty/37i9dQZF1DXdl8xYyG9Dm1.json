@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Kweku Smoke",
-  "num_followers": 184507,
+  "num_followers": 184528,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 169043,
       "name": "NBA",
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "Contraband / Diamonds",
-        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Soft",
         "url": "https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 135248,
       "name": "Soft",
       "url": "https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "Contraband / Diamonds",
+        "url": "https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 169793,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
       "added_at": "2025-12-19 00:01:12",

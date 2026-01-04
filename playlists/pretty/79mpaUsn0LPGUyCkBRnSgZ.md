@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 649 songs - 1 day 18 hr 35 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 650 songs - 1 day 18 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -657,5 +657,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 647 | [COLORATURA](https://open.spotify.com/track/0ur6QHp5cE1a3qz87vRDSA) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/5HT3Ygm47fCCNs9AhqzzvS) | 4:07 |
 | 648 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 |
 | 649 | [I am the pipe I hit myself with](https://open.spotify.com/track/6NWGkPcDDhKFIvCeutoaWt) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 2:25 |
+| 650 | [The Iron Wall](https://open.spotify.com/track/6CsxP1KlLAUjCZeD4UYqH2) | [Infinity Knives](https://open.spotify.com/artist/4IRSrcFPOEhZgeNX5Ho0th), [Brian Ennals](https://open.spotify.com/artist/736tHn6tvEkK3cHqSEAAbO), [FRANKI3](https://open.spotify.com/artist/43LOE3QXfacVTe9h5Uc2Es) | [A City Drowned in God's Black Tears](https://open.spotify.com/album/6xL3agjy4clyjhfNwsqCy4) | 4:05 |
 
-Snapshot ID: `AAAITol/XiWbUnrE3mdJ1Yn1En6P/1Pt`
+Snapshot ID: `AAAIT0/Gf/uHaAvfno9EsYNgmPh1P5Ds`

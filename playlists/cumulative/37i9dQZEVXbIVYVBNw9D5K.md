@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,394 songs - 2 day 22 hr 35 min
+1,395 songs - 2 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 | 2025-07-19 | 2025-07-21 |
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
+| [Bak](https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH) | [Pilli Bebek](https://open.spotify.com/artist/63RFns47gk00mnHIQ8zTR1) | [Olsun](https://open.spotify.com/album/6wrS2IS6GGyJHVbIZaVLjq) | 4:35 | 2026-01-03 |  |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-05-18 | 2024-09-10 |
 | [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-18 | 2025-10-26 |
@@ -369,7 +370,7 @@
 | [Derinlerde](https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU) | [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [About Love](https://open.spotify.com/album/0TJ4vUmmSvJ4DMGRq9WhYu) | 3:21 | 2023-04-16 | 2023-06-04 |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-05 | 2024-10-13 |
-| [Değişmene Rağmen](https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:05 | 2024-10-12 |  |
+| [Değişmene Rağmen](https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:05 | 2024-10-12 | 2026-01-04 |
 | [Değişmene Rağmen](https://open.spotify.com/track/1czWk1T5x9q9PSPMgKuxza) | [yeixs](https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC), [M4RLBORO](https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd) | [Manifesto](https://open.spotify.com/album/0ic55RaWVgwBj3XYgEqAa7) | 3:05 | 2024-10-28 | 2024-10-31 |
 | [Değmesin Ellerimiz](https://open.spotify.com/track/0RoQ5sk1Z9PH2xki3gv5hO) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:27 | 2025-03-04 | 2025-03-09 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
@@ -509,7 +510,7 @@
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
 | [Gel Bana](https://open.spotify.com/track/0vTv4JqDAjhix5KCUmJDou) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gel Bana](https://open.spotify.com/album/4jugRiTsLUgMFdnLuTHjdT) | 3:03 | 2024-05-24 | 2024-10-12 |
 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 | 2025-10-04 | 2025-10-19 |
-| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-02 |  |
+| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-02 | 2026-01-04 |
 | [GELME İSTEMEM](https://open.spotify.com/track/3RUbUVTyG0TAaUEjQWV6Zw) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/4oOhEFtB0ckuoiNGdyM4tq) | 3:06 | 2024-11-19 | 2024-11-22 |
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |
@@ -565,7 +566,7 @@
 | [Gülüşüne Yanıyorum](https://open.spotify.com/track/1u2disQzfl3rUEhfZx35gL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Gülüşüne Yanıyorum](https://open.spotify.com/album/0j819GekftC9QyypkgPlLx) | 2:03 | 2024-01-27 | 2024-03-10 |
 | [Gülşen](https://open.spotify.com/track/6DI8vp0suhomDFI6ItyLzr) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/4Bm0osYvUOWgDRC3vM1Ecy) | 2:26 | 2024-12-26 | 2025-02-01 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
-| [Günaydın \- Remastered](https://open.spotify.com/track/0pqAT0vxp4HEpYtyKa3ke9) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/17B4G01GdNjU3OPimzPkXE) | 4:59 | 2025-09-17 | 2026-01-03 |
+| [Günaydın \- Remastered](https://open.spotify.com/track/0pqAT0vxp4HEpYtyKa3ke9) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/17B4G01GdNjU3OPimzPkXE) | 4:59 | 2025-09-17 |  |
 | [Günes lvbel NKBI](https://open.spotify.com/track/4QOar9YEh8K7vHHmgYf1wf) | [Dupzibaba](https://open.spotify.com/artist/4RQuo3XeI8JydMHBIFhAX9) | [Günes lvbel NKBI](https://open.spotify.com/album/2hrltZBlDrvMxMZnPpFmSX) | 2:58 | 2022-11-08 | 2022-11-10 |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
 | [Günü Gelir](https://open.spotify.com/track/1CbzyWVel7o1EX7I2Ir372) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Günü Gelir](https://open.spotify.com/album/2qYc0ORnL9DLjin8pjFzr2) | 2:46 | 2023-08-12 | 2023-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,798 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,820 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 49 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 50 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 51 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
-| 52 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
-| 53 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
+| 52 | [Putos Nazis](https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Putos Nazis](https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO) | 2:17 |
+| 53 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
 | 54 | [Underground](https://open.spotify.com/track/2BGNJWScSTBdAP4v2ZV4G4) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Underground](https://open.spotify.com/album/1TpP0aOAp3msPgOoJp5I0V) | 2:51 |
 | 55 | [Camaleón Dax](https://open.spotify.com/track/3bo4PxJ5rc7FzrBgprTFRP) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camaleón Dax](https://open.spotify.com/album/6hKQ74jQgjQdCvvpeuCwip) | 1:14 |
 | 56 | [Mr\. Smith](https://open.spotify.com/track/3O3ln8WSwDrBIymu08KAW4) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Mr\. Smith](https://open.spotify.com/album/1GPa67jyk9HWtUvthqMDrD) | 2:53 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 80 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 81 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
 | 82 | [Presa](https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l) | [Presa](https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve) | 3:12 |
-| 83 | [Niños Perdidos](https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Niños Perdidos](https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN) | 2:49 |
-| 84 | [Soy un NiNi](https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK) | [Tribu](https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr) | [Soy un NiNi](https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD) | 3:03 |
-| 85 | [Derribos](https://open.spotify.com/track/5Vl5EAzFcAoYpt8K9J3V5b) | [BASURA](https://open.spotify.com/artist/4LXZL180PHnQwudO2flGdI) | [DERRI\(SA\)S](https://open.spotify.com/album/1a3j4zStcgEO0cgGYExj51) | 2:23 |
-| 86 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
+| 83 | [Soy un NiNi](https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK) | [Tribu](https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr) | [Soy un NiNi](https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD) | 3:03 |
+| 84 | [Niños Perdidos](https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Niños Perdidos](https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN) | 2:49 |
+| 85 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
+| 86 | [Derribos](https://open.spotify.com/track/5Vl5EAzFcAoYpt8K9J3V5b) | [BASURA](https://open.spotify.com/artist/4LXZL180PHnQwudO2flGdI) | [DERRI\(SA\)S](https://open.spotify.com/album/1a3j4zStcgEO0cgGYExj51) | 2:23 |
 | 87 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
 | 88 | [Navaja y Veneno](https://open.spotify.com/track/6G3hl8pCP90TseYZXis3lo) | [13 Bats](https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt) | [Navaja y Veneno](https://open.spotify.com/album/6omVVRo7uAMx5bb5uYljSA) | 2:43 |
 | 89 | [Bajo Este Cielo](https://open.spotify.com/track/2zE8eb3fmamwf59qSJtPes) | [Delira](https://open.spotify.com/artist/2DnPKA3NpkibHwBycnu5EQ) | [Bajo Este Cielo](https://open.spotify.com/album/4I5Uxz86gDwLzBF4TaqrLn) | 3:49 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20523,
+  "num_followers": 20526,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAAGBybq1obYU2s3EM4DLgGc",
+  "snapshot_id": "aVcKgAAAAAC/6a35xXW1oPgYnkeOoMZP",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disco Crash",
         "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 191118,
       "name": "Fuck With You",
       "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
-        }
-      ],
-      "duration_ms": 182799,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions, Vol. 1",
+        "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 210528,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 242000,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/7vtTgudRRMotrLkxw5A4vx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions, Vol. 1",
-        "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 210528,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB"
-      },
-      "artists": [
-        {
-          "name": "DedRekoning",
-          "url": "https://open.spotify.com/artist/1GkU5qfgt9RWsFXrzcNPa4"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Atlantic",
-          "url": "https://open.spotify.com/artist/7a68Oaa1klcaGlk1VA1lQd"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Only Child - Atlantic Remix",
-      "url": "https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 203520,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB"
+      },
+      "artists": [
+        {
+          "name": "DedRekoning",
+          "url": "https://open.spotify.com/artist/1GkU5qfgt9RWsFXrzcNPa4"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Atlantic",
+          "url": "https://open.spotify.com/artist/7a68Oaa1klcaGlk1VA1lQd"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Only Child - Atlantic Remix",
+      "url": "https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Runaway Daydreamer",
-      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 261093,
       "name": "Wild Forever",
       "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Runaway Daydreamer",
+      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
     },
     {
       "added_at": null,

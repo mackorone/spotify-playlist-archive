@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 142 | [Big Deal](https://open.spotify.com/track/6FwgtS0JaTg1SfyyJBWP6V) | [Central Park Cast](https://open.spotify.com/artist/2MU9NyN6HS8x0XdGsrmu7w), [Stanley Tucci](https://open.spotify.com/artist/3XZTEmxcwinCnuFcWluGai) | [Central Park Season One, The Soundtrack – Song\-tral Park \(Original Soundtrack\)](https://open.spotify.com/album/253wtagKgfFJJ1Lhp8BwJJ) | 1:59 |
 | 143 | [You're Lost](https://open.spotify.com/track/3z1GD4XCp8KVZeTzJJhKPN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:16 |
 | 144 | [At the Edge of the World](https://open.spotify.com/track/0EqurOMqYE3WWzjpGOJIi1) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Zach Gill](https://open.spotify.com/artist/5HMFK1o5Bl9qY10PgavMhT) | [Arctic Tale \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/1h2jAmHIod6LY6v8IJrpEX) | 2:53 |
-| 145 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
-| 146 | [I Know There's A Word](https://open.spotify.com/track/3UkpDTb0DRXZJnO940FaBQ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:16 |
+| 145 | [I Know There's A Word](https://open.spotify.com/track/3UkpDTb0DRXZJnO940FaBQ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:16 |
+| 146 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
 | 147 | [Lovers' Day](https://open.spotify.com/track/0Gx3aOKq8NlewS6aERcIyx) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:18 |
 | 148 | [Nightmare Girl](https://open.spotify.com/track/6Ygq7cVcSAU2dfIV0of7Tl) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space \(Deluxe Edition\)](https://open.spotify.com/album/2wZRKa4OYNivyrEzakqB7E) | 3:49 |
 | 149 | [Crash And Burn](https://open.spotify.com/track/2Jtg7Mu89QUJVUtEzddMJj) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:46 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AcF5vgAAAADBcZKfCsVGNotm/LVDCyI8`
+Snapshot ID: `AcF/mgAAAAC1RkFrK3Zorl94OpW+YrkV`

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 194892,
+  "num_followers": 194941,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAA8RuNNqGB9xII01mQFgP4B",
+  "snapshot_id": "aVcKgAAAAAAmLPJ3QNrjlj1E2qpOQ8wK",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero",
-        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 209613,
       "name": "Necesito Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ranchero",
+        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 154106,
-      "name": "Me Olvidaste",
-      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
+      "duration_ms": 198533,
+      "name": "Y Que Ganaste",
+      "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Norte A Sur",
-        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Y Que Ganaste",
-      "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
+      "duration_ms": 174920,
+      "name": "El Cari\u00f1o Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 174920,
-      "name": "El Cari\u00f1o Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,

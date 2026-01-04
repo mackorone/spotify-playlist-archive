@@ -1,29 +1,13 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 24484,
+  "num_followers": 24488,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAB4YhbF5jviTck1NYrApPNM",
+  "snapshot_id": "aVcKgAAAAABuWamrjhEBKuPTPbmetcXC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/683hgDkcfdq0yZXOSamvtJ"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 476546,
       "name": "Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/3ZaAhSsTvIppFupesEUvi5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/683hgDkcfdq0yZXOSamvtJ"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 339125,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/53oqPgtv6H6iUpOD5YuQbm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imenso Amor",
         "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantarei para Sempre",
-        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3"
       },
       "artists": [
         {
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 339125,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/53oqPgtv6H6iUpOD5YuQbm"
+      "duration_ms": 348893,
+      "name": "Eternidade",
+      "url": "https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Eternidade",
-      "url": "https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
       },
@@ -443,26 +443,6 @@
       "duration_ms": 338800,
       "name": "Pal\u00e1cio para Deus",
       "url": "https://open.spotify.com/track/75UPMELAkoXfP0iae3no60"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Maior Amor",
-      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
     },
     {
       "added_at": null,
@@ -483,6 +463,26 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Maior Amor",
+      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 281853,
-      "name": "Eu Vou Vencer",
-      "url": "https://open.spotify.com/track/4WCkty1DTZuLaxBCL5akUQ"
+      "duration_ms": 255840,
+      "name": "24 Horas por Dia",
+      "url": "https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz"
     },
     {
       "added_at": null,

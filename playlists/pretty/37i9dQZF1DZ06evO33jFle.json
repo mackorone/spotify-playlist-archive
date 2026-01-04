@@ -1,29 +1,13 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 536926,
+  "num_followers": 537062,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAABoAJCI6ngUj8rN9e4qH8Mt",
+  "snapshot_id": "aVcKgAAAAACfBNQ+L+2O5ekbYVwTTi96",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gran Se\u00f1ora (Banda)",
-        "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 185121,
-      "name": "No Llega El Olvido (Banda)",
-      "url": "https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam"
-    },
     {
       "added_at": null,
       "album": {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": null,
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 205133,
-      "name": "Por Qu\u00e9 No Le Calas",
-      "url": "https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn"
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
     },
     {
       "added_at": null,
@@ -268,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 239613,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc"
+      "duration_ms": 205133,
+      "name": "Por Qu\u00e9 No Le Calas",
+      "url": "https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 220480,
       "name": "No Me Pregunten por \u00c9l",
       "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc"
     },
     {
       "added_at": null,

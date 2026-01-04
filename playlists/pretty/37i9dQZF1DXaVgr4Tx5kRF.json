@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 664363,
+  "num_followers": 664381,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,38 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
       },
@@ -803,38 +835,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Gold Mother",
-        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Best Of Ash (Remastered Version)",
-        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Different Class / Deluxe Edition",
         "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 273733,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Best Of Ash (Remastered Version)",
+        "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
     },
     {
       "added_at": "2024-03-18 22:10:08",

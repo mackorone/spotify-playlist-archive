@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Neton Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,277 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,276 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [CASI TÚ](https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [CASI TÚ](https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn) | 2:37 |
 | 75 | [Escorpión](https://open.spotify.com/track/1MDJQipVUqJdW3NS3YK8LG) | [Ilusión](https://open.spotify.com/artist/0NqbvouIKHznONQAYK2Zvo) | [Escorpión](https://open.spotify.com/album/2hVvALKHpm0xqD27jYRlrA) | 2:55 |
 
-Snapshot ID: `AAAAAJ/oqLPhvgjRAAHFXpr6iazeuyen`
+Snapshot ID: `AAAAAJH54REFBIjqQDIElUjwEz/uqnWx`

@@ -1,13 +1,29 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 210660,
+  "num_followers": 210674,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVW5AAAAAAA8KCt6BOoOcC3JTbU5aA7p",
+  "snapshot_id": "aVcKgAAAAAABaswib8Ra7ttFNxTGDpHo",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214773,
       "name": "Dame Tus Ojos",
       "url": "https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 253200,
       "name": "Mi Universo",
       "url": "https://open.spotify.com/track/6lMk5sY36yHg5vY2Q29lJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Manos Vac\u00edas",
+        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 426506,
+      "name": "Con Manos Vac\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontrarme Contigo",
         "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Manos Vac\u00edas",
-        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 426506,
-      "name": "Con Manos Vac\u00edas - En Vivo",
-      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
+      "duration_ms": 202973,
+      "name": "Eras T\u00fa",
+      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 360666,
       "name": "Al Estar Ante Ti - En Vivo",
       "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Eras T\u00fa",
-      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Flipperachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,863 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,944 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 89 | [Pyaar Kyun Banaya](https://open.spotify.com/track/7EpVfR8TL9o3k4wIo4oqw1) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Pyaar Kyun Banaya](https://open.spotify.com/album/4BPhVjOqAdV5bFxDglYZ4f) | 3:28 |
 | 90 | [Gal Sun](https://open.spotify.com/track/4tdP02RmN1g1xsQ3HR8Smn) | [Sabat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/0sCYEAb6mRXQKMZkJQS3il) | 2:58 |
 
-Snapshot ID: `AAAAAEIoV1cOldAzkfVyb1TY3xu7mB63`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

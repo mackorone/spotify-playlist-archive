@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202336,
+      "name": "Baby You're Lying",
+      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+    },
+    {
+      "album": {
         "name": "Baby You\u2019re the One I Need",
         "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
       },
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 268313,
       "name": "junior",
       "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,489 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,506 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [Journey](https://open.spotify.com/track/2mMa8injcBTPfe8yliwD03) | [A\-Bacchus](https://open.spotify.com/artist/4HsYzlK3eLdYwrMyLDmnSZ), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Crumb](https://open.spotify.com/album/0qLt995L6jouY1NA2pJNgr) | 1:56 |
 | 100 | [Tarde Invernal](https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Tarde Invernal](https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb) | 2:22 |
 
-Snapshot ID: `AAAAAHMQ2PK7HaiIHCAT68DtGsOgxs3v`
+Snapshot ID: `AAAAADpdvRdefBT+CUnSLTdghcQeHeA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,143 likes - 235 songs - 13 hr 55 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,145 likes - 237 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 233 | [El Líder de la Resistencia](https://open.spotify.com/track/0kkhyeTVPkvivVkibJ2Y4e) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [El Líder de la Resistencia](https://open.spotify.com/album/3XclqzGpAiDblQgp2S8H5y) | 3:44 |
 | 234 | [Hasta Parece Que Fue Ayer](https://open.spotify.com/track/72uYExMfRRD7gU32ZLtnPD) | [AKA HANIBALL](https://open.spotify.com/artist/0gVWDUIPSAfkROnMSMhZOv) | [EREMIA 5:AM](https://open.spotify.com/album/67dyL8Fv2rB4k2zAAY5nqe) | 3:41 |
 | 235 | [Three Hundred \- Slowed Down + Reverbed](https://open.spotify.com/track/4Yud8mlM573dunsyLWUPeO) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Slowed Down + Reverbed\)](https://open.spotify.com/album/6S2dESE9edCXEGVukeQzCw) | 4:40 |
+| 236 | [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 |
+| 237 | [SELF ACCEPT your way to inner respect](https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL) | [Nikiré](https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY) | [SELF ACCEPT your way to inner respect](https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW) | 4:34 |
 
-Snapshot ID: `AAAOjxmeZPGuIGecCSu7RWeY46MYcdag`
+Snapshot ID: `AAAOka6SSyEuS7i3XHc2BA2H70QrfF7u`

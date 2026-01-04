@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 373242,
+  "num_followers": 373266,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "True",
-      "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "True",
+      "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
     },
     {
       "added_at": "2025-12-12 00:00:12",

@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,325 songs - 6 day 0 hr 4 min
+2,327 songs - 6 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [ALIVE \-season 03\-](https://open.spotify.com/track/7jXP5zbMmeiIJ6JTkA1dff) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \-season 03\-](https://open.spotify.com/album/3dgLQWzjYuMUnCZplwXMir) | 3:37 | 2025-04-15 | 2025-05-21 |
 | [All I Want \(T\_001\)](https://open.spotify.com/track/3kvDdcw3onrlVgCmHtZwKf) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Orika Okachi](https://open.spotify.com/artist/64MR9WRpiytWnGv4fWfryX) | [All I Want \(T\_001\)](https://open.spotify.com/album/3dvsu8OIVbNZYt7ztkQMcw) | 2:55 | 2025-05-13 | 2025-05-30 |
 | [ALL MY PARTS](https://open.spotify.com/track/2HF1AgI2r4asyj938aL02q) | [GYROAXIA](https://open.spotify.com/artist/28PDBS1Y9qIwKlne2T8hm0) | [ALL MY PARTS](https://open.spotify.com/album/7ky0Wlz0NAtVqwS2KOJM7A) | 4:18 | 2023-09-07 | 2023-10-04 |
-| [All or None \(feat\. Jua\)](https://open.spotify.com/track/6bpABVRPoeSYd3HQPMxqjG) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [All or None \(feat\. Jua\)](https://open.spotify.com/album/4gGuVpcAIAtIYVpUbF1S7d) | 2:35 | 2025-11-06 |  |
+| [All or None \(feat\. Jua\)](https://open.spotify.com/track/6bpABVRPoeSYd3HQPMxqjG) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [All or None \(feat\. Jua\)](https://open.spotify.com/album/4gGuVpcAIAtIYVpUbF1S7d) | 2:35 | 2025-11-06 | 2026-01-04 |
 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 | 2025-04-05 | 2025-07-05 |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-07-27 |
 | [Alter Echo](https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p) | 3:34 | 2023-07-25 | 2023-08-18 |
@@ -815,7 +815,7 @@
 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 | 2022-10-06 | 2023-01-11 |
 | [Nonfiction Nook](https://open.spotify.com/track/4EZlQjbaaXfdB5ZQK3YzeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:33 | 2025-10-14 | 2025-11-19 |
 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 | 2023-01-10 | 2023-04-09 |
-| [Not Competing](https://open.spotify.com/track/4nDucdExhgdGEZ8Y2PQmKG) | [GZO](https://open.spotify.com/artist/73oskDRk3VkixLD3SlWyO6) | [Not Competing](https://open.spotify.com/album/6AF0r6zHsYcB5bLtOipYyu) | 2:13 | 2025-11-06 |  |
+| [Not Competing](https://open.spotify.com/track/4nDucdExhgdGEZ8Y2PQmKG) | [GZO](https://open.spotify.com/artist/73oskDRk3VkixLD3SlWyO6) | [Not Competing](https://open.spotify.com/album/6AF0r6zHsYcB5bLtOipYyu) | 2:13 | 2025-11-06 | 2026-01-04 |
 | [NOTE](https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [NOTE](https://open.spotify.com/album/1wzThfYPTKwVnLPmIRiKOt) | 4:14 | 2023-09-19 | 2023-12-14 |
 | [NOTE](https://open.spotify.com/track/60hAmUsnBwuDLLoe9V4guz) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [変身](https://open.spotify.com/album/5ZStJOxQ9KR09XF65flZSb) | 4:14 | 2023-12-12 | 2024-01-05 |
 | [Now On Air](https://open.spotify.com/track/0h6OBFc9TfS6yC3witap3K) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [Now On Air](https://open.spotify.com/album/2VijDt0AFtEeFvpv4Z6k6E) | 3:01 | 2024-04-23 | 2024-05-15 |
@@ -892,6 +892,7 @@
 | [Professionalism](https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Professionalism](https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1) | 4:52 | 2024-04-10 | 2024-07-06 |
 | [Prologue](https://open.spotify.com/track/24SBU3BmZemHrN32E2HCRI) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Prologue](https://open.spotify.com/album/5azL6qsn9zoYq0fLyxrubD) | 3:35 | 2025-10-07 |  |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-07-05 | 2024-10-04 |
+| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [Takuma](https://open.spotify.com/artist/2f5KOd9rSQlzMvjg80Ckbe) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-01-03 |  |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
 | [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-08-11 | 2025-10-15 |
 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 | 2025-05-27 | 2025-07-05 |
@@ -1497,6 +1498,7 @@
 | [アタシのドレス](https://open.spotify.com/track/7dQovfNtTx042gZErs0bdq) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [アタシのドレス](https://open.spotify.com/album/5j5eVbOlICvlJs1o2Grxgv) | 3:29 | 2025-01-11 | 2025-04-08 |
 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 | 2025-10-02 |  |
 | [アドリブ](https://open.spotify.com/track/1tsxzgZZFkak7eOkjPJnqP) | [七倉 凛\(CV:早見沙織\)](https://open.spotify.com/artist/1PnHx5MlsBt8eRKOA5c9yL) | [アドリブ](https://open.spotify.com/album/0mWdmlouyoZl1lEBJCfJJ8) | 3:07 | 2024-07-05 | 2024-10-09 |
+| [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 | 2026-01-03 |  |
 | [アビス](https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [アビス](https://open.spotify.com/album/2V1kpXIUuxgr5tc2EfuXKN) | 3:09 | 2025-07-08 | 2025-09-13 |
 | [アフターグロウ](https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU) | 4:04 | 2023-10-10 | 2023-10-12 |
 | [アブナイキオク](https://open.spotify.com/track/5dwQpFAc30IDui2sLWv5Lj) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [古賀 葵](https://open.spotify.com/artist/1TZbtgT6X7tbNzOu3MUzo7) | [アブナイキオク](https://open.spotify.com/album/66d8iQzc20yexjZ3PXbSCm) | 4:08 | 2025-12-09 |  |

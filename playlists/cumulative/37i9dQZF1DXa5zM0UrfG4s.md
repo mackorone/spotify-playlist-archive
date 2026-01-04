@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-422 songs - 19 hr 21 min
+423 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/track/2TLVUAQzq9FnzSxFYGOF7Y) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H) | 1:36 | 2022-09-22 | 2022-10-14 |
 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 | 2025-03-27 |  |
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
+| [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 | 2025-12-31 |  |
 | [Hvis Morgendagen Aldri Kommer](https://open.spotify.com/track/3mF0hLdjrLroWBIpkrodI4) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Blanke Ark](https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H) | 4:37 | 2022-03-24 | 2022-04-19 |
 | [HVIT PELIKAN](https://open.spotify.com/track/6qZuPyOD4ROhYMaBeIA5ZS) | [Dandy Lion](https://open.spotify.com/artist/3Il8nRZ80Wbjs2UGkysK5F), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [HVIT PELIKAN](https://open.spotify.com/album/4ByBcmO9fANmzo47mE1R6Y) | 2:19 | 2021-12-16 | 2022-04-18 |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-05-30 | 2024-08-06 |
@@ -297,7 +298,7 @@
 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 | 2021-12-16 |  |
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 | 2024-02-09 |
 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 | 2025-10-16 |  |
-| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 |  |
+| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 | 2026-01-04 |
 | [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 | 2025-07-03 |  |
 | [Oppi Ein Dal](https://open.spotify.com/track/6JMatYYmKlvo1I0dNKes5R) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande Fant](https://open.spotify.com/album/6NQHQ6V4o7d2Vd1EGF1lsn) | 3:01 | 2022-01-13 | 2022-04-21 |
 | [Oppi ein dal](https://open.spotify.com/track/6WiAX5SXrCj5z6kk5YrxGb) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande fant](https://open.spotify.com/album/2hmiqt8cfsJajxqRGJrnUh) | 3:01 | 2022-10-13 | 2022-10-16 |

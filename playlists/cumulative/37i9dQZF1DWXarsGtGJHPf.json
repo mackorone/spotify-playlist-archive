@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/5RArkzgwxGsxsD24kXk0mI"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3gsazfhbfFmuaJIw7inrAu"
+    },
+    {
+      "album": {
         "name": "Think about you",
         "url": "https://open.spotify.com/album/5pgmrPqABXofBAgao3fmYf"
       },

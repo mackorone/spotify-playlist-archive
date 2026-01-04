@@ -6119,6 +6119,28 @@
     },
     {
       "album": {
+        "name": "\u30d9\u30ce\u30e0",
+        "url": "https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v"
+      },
+      "artists": [
+        {
+          "name": "Kairikibear",
+          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
+        },
+        {
+          "name": "flower",
+          "url": "https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203033,
+      "name": "\u30d9\u30ce\u30e0",
+      "url": "https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA"
+    },
+    {
+      "album": {
         "name": "\u30d9\u30d3\u30fb\u30c7\u30d3",
         "url": "https://open.spotify.com/album/0ByoLvApyMJSHqY0echmtF"
       },

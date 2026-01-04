@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ozuna, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,532 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,440 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Como antes](https://open.spotify.com/track/02EhNgUPJyhXE4bYkawztZ) | [Funzo](https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Como antes](https://open.spotify.com/album/3dHqtk62eJUiKyVcQOdzjP) | 3:09 |
 | 50 | [UN BESO A LA MITAD](https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [UN BESO A LA MITAD](https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE) | 2:32 |
 
-Snapshot ID: `AAAAABRLOFK0R4/8XM9Qg1gfgYrBFGB/`
+Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`

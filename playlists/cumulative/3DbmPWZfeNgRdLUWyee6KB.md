@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-437 songs - 1 day 2 hr 27 min
+439 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-12-04 |  |
 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 | 2026-01-02 |  |
 | [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 | 2025-12-22 |  |
+| [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 | 2026-01-03 |  |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 |  |
 | [Crawl](https://open.spotify.com/track/0COUEawGGxO0lHL3Yf4FV9) | [Alice Isabella](https://open.spotify.com/artist/7mJxghz6FKmBNKQoi73xXA) | [Crawl](https://open.spotify.com/album/5AdzIhovQDWt5L1JT7o40e) | 3:28 | 2025-12-16 |  |
 | [Cristal](https://open.spotify.com/track/1ynOQL9168ge8jkyxRSbPl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 3:20 | 2025-11-25 |  |
@@ -316,6 +317,7 @@
 | [Scinni lu scuru \(Live\) \[feat\. Gregorio Caimi, Dario Li Voti, Giacomo Buffa, Natale Montalto, Aldo Bertolino & Debora Messina\]](https://open.spotify.com/track/337MYGM4cYAymhpTVyZsim) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Aldo Bertolino](https://open.spotify.com/artist/4LFWoWuO0NgUNNsqe8xKVe), [Dario Li Voti](https://open.spotify.com/artist/5bket0QkDAVSDCPkIK5Usq), [Debora Messina](https://open.spotify.com/artist/0lZRolUkkfKgmf12uQfMGv), [Giacomo Buffa](https://open.spotify.com/artist/31JUfeizTiU0XyvxMP4ain), [Gregorio Caimi](https://open.spotify.com/artist/2bxPYh5xhc4Bb6F2GQXlpT), [Natale Montalto](https://open.spotify.com/artist/3Bh0o4sqKg8gigYxUkjE2D) | [Dieci Live](https://open.spotify.com/album/5vX1PXH1ILW7G5TBKVPSZ1) | 3:29 | 2023-04-20 | 2025-11-29 |
 | [Screen Love](https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:20 | 2025-11-04 | 2025-12-21 |
 | [Sed de venganza](https://open.spotify.com/track/4dnEM2HxWH1PSTGQdRjjHu) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:08 | 2025-11-14 | 2025-12-21 |
+| [SELF ACCEPT your way to inner respect](https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL) | [Nikiré](https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY) | [SELF ACCEPT your way to inner respect](https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW) | 4:34 | 2026-01-03 |  |
 | [Sell me your soul](https://open.spotify.com/track/2ngkVoKICzKdLKhV0sWUbm) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sell me your soul](https://open.spotify.com/album/4NFlfPG00jKKsj3NysdT39) | 4:18 | 2024-03-07 | 2025-12-28 |
 | [Sen Bana Hep Yazsın](https://open.spotify.com/track/4raQYXieEX8ueVDYOOswGM) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Sen Bana Hep Yazsın](https://open.spotify.com/album/6fjHwVuhiFjDoQMZM1GFVi) | 2:45 | 2025-12-22 |  |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 |  |

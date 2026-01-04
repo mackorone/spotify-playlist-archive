@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 151995,
+  "num_followers": 152032,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAABzXYYfF5SI19OMyJ/SW/g1voy5C",
   "tracks": [
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "LAMENTO EN BAILE",
-        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 168217,
-      "name": "EL TOQUE",
-      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
-    },
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 240136,
       "name": "Eres Mi Bendicion (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/3lMZAnQgm5Sjr6KDR0uZNw"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -603,18 +603,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
       },
       "artists": [
         {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
         }
       ],
-      "duration_ms": 206367,
-      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
+      "duration_ms": 189130,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -635,22 +639,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "De Cabeza",
-        "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
+        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
         }
       ],
-      "duration_ms": 189130,
-      "name": "De Cabeza",
-      "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
+      "duration_ms": 206367,
+      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Cubana",
-        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        },
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Cubana",
-      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Cartelera",
         "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 195121,
       "name": "Cartelera",
       "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 157685,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "La Depre",
         "url": "https://open.spotify.com/album/0ZY6LS8NRRommQZvMq4gev"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
       "artists": [
         {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
         }
       ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1139,6 +1123,22 @@
       "duration_ms": 176250,
       "name": "Free",
       "url": "https://open.spotify.com/track/0HiTJAzjdiNlaeQZwQvgP9"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1347,34 +1347,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Pero Tengo a Cristo (Remix)",
-        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        },
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Arasay",
-          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Pero Tengo a Cristo - Remix",
-      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1415,26 +1387,30 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Ni\u00f1os De Iglesia",
-        "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
+        "name": "Pero Tengo a Cristo (Remix)",
+        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
       "artists": [
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
         },
         {
-          "name": "Ana Pau",
-          "url": "https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg"
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
         },
         {
-          "name": "DesXa",
-          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Arasay",
+          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
         }
       ],
-      "duration_ms": 210690,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
+      "duration_ms": 221350,
+      "name": "Pero Tengo a Cristo - Remix",
+      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1455,6 +1431,30 @@
       "duration_ms": 142758,
       "name": "Mmm",
       "url": "https://open.spotify.com/track/1p5lFrpK7PzRe7WbY2Fx9K"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Ni\u00f1os De Iglesia",
+        "url": "https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Ana Pau",
+          "url": "https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg"
+        },
+        {
+          "name": "DesXa",
+          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+        }
+      ],
+      "duration_ms": 210690,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 167176,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Del Agua Al Cielo",
         "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
       },
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Yo Soy Cristiano",
-        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        },
-        {
-          "name": "La Cuarta Tribu",
-          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
-        }
-      ],
-      "duration_ms": 203368,
-      "name": "Yo Soy Cristiano",
-      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Poderoso De Israel",
         "url": "https://open.spotify.com/album/32KgLASqrbxqMGIxaQBp0x"
       },
@@ -1579,22 +1579,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Celebrar",
-        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+        "name": "Yo Soy Cristiano",
+        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
       },
       "artists": [
         {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
         },
         {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
         }
       ],
-      "duration_ms": 167176,
-      "name": "Celebrar",
-      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+      "duration_ms": 203368,
+      "name": "Yo Soy Cristiano",
+      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 238695,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Fiesta En El Cielo",
+        "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
+      },
+      "artists": [
+        {
+          "name": "Yompy",
+          "url": "https://open.spotify.com/artist/4do7ZNZPgNng5V5zyKXcqY"
+        },
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Fiesta En El Cielo",
+      "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Cristiano y ya",
         "url": "https://open.spotify.com/album/17sOuy0hdlM5NJvp1PoMCb"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 141057,
       "name": "Cristiano y ya",
       "url": "https://open.spotify.com/track/37drRx6h3HkucekEbC9GVX"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Todito",
-        "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        },
-        {
-          "name": "Kavelo Y No Drama",
-          "url": "https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV"
-        }
-      ],
-      "duration_ms": 163839,
-      "name": "Todito",
-      "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
     }
   ],
   "unique_name": "Fiesta Cristiana",

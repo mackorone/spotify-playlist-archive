@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx"
+      },
+      "artists": [
+        {
+          "name": "Jen Maria",
+          "url": "https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223180,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy"
+    },
+    {
+      "album": {
         "name": "Silencio Vivo",
         "url": "https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj"
       },
@@ -6118,6 +6136,24 @@
       "duration_ms": 128998,
       "name": "Sed de venganza",
       "url": "https://open.spotify.com/track/4dnEM2HxWH1PSTGQdRjjHu"
+    },
+    {
+      "album": {
+        "name": "SELF ACCEPT your way to inner respect",
+        "url": "https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW"
+      },
+      "artists": [
+        {
+          "name": "Nikir\u00e9",
+          "url": "https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY"
+        }
+      ],
+      "date_added": "2026-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274839,
+      "name": "SELF ACCEPT your way to inner respect",
+      "url": "https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL"
     },
     {
       "album": {

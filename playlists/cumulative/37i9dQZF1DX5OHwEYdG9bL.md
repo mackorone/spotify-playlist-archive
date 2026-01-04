@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: DOYOUNG\(도영\)\) \(Enjoy a playlist of songs that support music video features!\)
 
-178 songs - 9 hr 51 min
+180 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1njLqea3MtJCFQYRcz6K6D) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \(狂想曲\)](https://open.spotify.com/album/0iZHacBPz21y0VbKh9hxjU) | 3:07 | 2025-08-13 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/1J2BuUdQf6XdMYmJvs2Iop) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/album/52MVpIzjKFjLoJtmcCc8LU) | 3:18 | 2025-07-15 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4apJfKW7UamoD66jO1lVMa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/album/73ktiEZTGvXdVqNpWYjwBX) | 3:21 | 2025-07-15 |  |
+| [Bitter Sweet](https://open.spotify.com/track/5cnQKFiGw1qVfnbhGBbTPx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/0LZZQWGxIn73Zx3joZTbyN) | 2:49 | 2026-01-03 |  |
 | [Blue Valentine](https://open.spotify.com/track/3oW83DopZrJSdXG6T8FHJ8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx) | 3:14 | 2025-10-24 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/0Tql32l0iKbng4WDok0SgE) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5TI8s1Kjo4nNFKyqxpMKjK) | 4:03 | 2025-07-15 | 2025-08-20 |
 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 | 2025-07-15 |  |
@@ -107,6 +108,7 @@
 | [Love Language](https://open.spotify.com/track/2fsKNHi8vJN42gDLpBotRB) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/2KRvASM9QUGCGZA9OlM0su) | 3:08 | 2025-07-15 |  |
 | [Love Language](https://open.spotify.com/track/6qdGaCxEZzJ5qwi3mYS52z) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/4Wr4R6H61vyoJEb8oIpvYq) | 3:08 | 2025-07-15 |  |
 | [Love Splash!](https://open.spotify.com/track/5K4Q3yW9UA2Nxs7aa3JB4G) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Splash!](https://open.spotify.com/album/1vuEkIrziagQdTt5o6sRrm) | 3:29 | 2025-10-24 |  |
+| [Lovin' the Christmas](https://open.spotify.com/track/3NfqT6MzUUGAEPDexBdiQY) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Lovin' the Christmas](https://open.spotify.com/album/0h6qqiXbAuNpHBbSiWyAxD) | 3:37 | 2026-01-03 |  |
 | [Magnetic](https://open.spotify.com/track/09dYdaC3OSE3yVUg26krr3) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic](https://open.spotify.com/album/7re6tanALidYb951y3GFyC) | 3:08 | 2025-07-15 | 2025-08-20 |
 | [Make the vibe](https://open.spotify.com/track/4sitc6f5LX9izF8egm9yxG) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [Make the vibe](https://open.spotify.com/album/4GOfPeAyepa7lGZOXU0g4W) | 1:33 | 2025-07-15 | 2025-08-20 |
 | [Mama Said](https://open.spotify.com/track/42tOCWi4YorqdPm5CI2G8v) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Mama Said](https://open.spotify.com/album/1XDzjWr9I5RZ4afP8YUd6V) | 3:56 | 2025-07-15 | 2025-08-20 |

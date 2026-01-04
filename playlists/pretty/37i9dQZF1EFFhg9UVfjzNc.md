@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 58 | [Maranata](https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:25 |
 | 59 | [Volta Logo](https://open.spotify.com/track/6ZHQcZRAIc9LhX7Uc4vOCV) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 4:38 |
 | 60 | [O Hino](https://open.spotify.com/track/0K2NesFrL3Gsdc0oCAxXBL) | [Strike](https://open.spotify.com/artist/3Aa7VtaDW1lJWX7NBGask8) | [Hiperativo](https://open.spotify.com/album/4r2Ilq5eSSqRc2vCuIKhqf) | 3:17 |
-| 61 | [Te Amar É O Meu Respirar](https://open.spotify.com/track/1BqopyXnUS7xF10gO52s1t) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 2:57 |
-| 62 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 61 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 62 | [Te Amar É O Meu Respirar](https://open.spotify.com/track/1BqopyXnUS7xF10gO52s1t) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 2:57 |
 | 63 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 |
 | 64 | [Escreve o Teu Nome em Nós \- Playback](https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Escreve o Teu Nome em Nós \(Playback\)](https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy) | 4:56 |
 | 65 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 113 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 | 114 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `AcF5tAAAAAAFf68/+DNELjfVLMo+pCd9`
+Snapshot ID: `AcF/mgAAAAAagH7AOpTIwsF2q3LycYMJ`

@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-62 songs - 3 hr 35 min
+63 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Emptiness](https://open.spotify.com/track/2v6fP3uVKFtGWfK6GWRpDR) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Emptiness](https://open.spotify.com/album/2Lnbqbm2KFvneD7VuLcDUK) | 3:52 | 2025-08-13 |  |
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-05-29 |  |
 | [Fluxville](https://open.spotify.com/track/6fhJS4iP4w9aV2JtPRQTpK) | [the errantry](https://open.spotify.com/artist/5hvf1J6qyJy6BXOWMIL2dI) | [Fluxville](https://open.spotify.com/album/5zpgcpT42pNnOqd5mw55wB) | 2:08 | 2025-03-11 |  |
+| [Folie à Deux](https://open.spotify.com/track/7zZsUdrHGe8jDZ0Q2eFLIG) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Folie à Deux](https://open.spotify.com/album/4k7ksGcgauZsBqlSHnXa6Y) | 4:20 | 2026-01-03 |  |
 | [Forget](https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Forget](https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3) | 2:43 | 2025-11-15 |  |
 | [Green Eyes \(Watch Over Me\)](https://open.spotify.com/track/6pwPs72RyDgIQ34viROIYr) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Green Eyes \(Watch Over Me\)](https://open.spotify.com/album/42UjrAhs1ytgRyDsdVqlpH) | 4:15 | 2025-10-06 |  |
 | [Guilty of Murder](https://open.spotify.com/track/2pTVCo3HSGQO2x75b1k5PS) | [Ethan Loke](https://open.spotify.com/artist/6AcVELfnTn0p70P6R6SYSg) | [Guilty of Murder](https://open.spotify.com/album/75Ju0PbmPvNo0gKv4hafKv) | 4:33 | 2025-12-05 |  |

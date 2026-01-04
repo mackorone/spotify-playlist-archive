@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra den gjengen i Hver gang vi møtes!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,184 likes - 89 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,182 likes - 89 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 3 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
 | 4 | [Nattevandrer](https://open.spotify.com/track/1QhuOdVg9DkGWndOn8A7CU) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nattevandrer](https://open.spotify.com/album/50XbfGzYLQj1OrYO4fUJwj) | 3:56 |
 | 5 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
-| 6 | [Scared of Heights](https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Scared of Heights](https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c) | 3:15 |
+| 6 | [Høgdeskrekk](https://open.spotify.com/track/5wdHTsCK5pihHOJn18dA9v) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Høgdeskrekk](https://open.spotify.com/album/2GAbhvewsQdyX1Dvzx820c) | 3:15 |
 | 7 | [Yum yum](https://open.spotify.com/track/5c9osogORn66Or8bMSgrDF) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Yum yum](https://open.spotify.com/album/6QLVKdya0mGoJIVtkSwy1H) | 2:55 |
 | 8 | [Baby, du er rå!](https://open.spotify.com/track/5pD6vZ2GG9ulDChjwwp8Hv) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Baby, du er rå!](https://open.spotify.com/album/6yFNlkxfGaZSMGEttBWmD7) | 3:01 |
 | 9 | [Mamma & Pappa](https://open.spotify.com/track/2bn2Cyw9D15R2pvZ6Z6q2D) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Mamma & Pappa](https://open.spotify.com/album/1fgYpghUw0LZf9B6r8A21g) | 2:50 |

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,086 songs - 2 day 3 hr 34 min
+1,087 songs - 2 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Loyalty & Love](https://open.spotify.com/track/091lPwpuV84cAPbEXOTvIs) | [Olli August](https://open.spotify.com/artist/5rNbjiCW5GOrb9nuSX91Xw) | [Loyalty & Love](https://open.spotify.com/album/7LpraN5oykZUteabOxJ1vL) | 2:49 | 2024-04-18 | 2024-05-03 |
 | [Lumikengät](https://open.spotify.com/track/4lhWMadROq7OqO1aWJE2r6) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Kreivi](https://open.spotify.com/artist/6hQ6tTolLKC74DF9wu8ITh), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj) | [Lumikengät](https://open.spotify.com/album/6a9bgPEamcqmrOOYbFu9OF) | 2:47 | 2024-02-15 | 2024-03-01 |
 | [Lumikki](https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Lumikki](https://open.spotify.com/album/1wPGUGOwwsd0jPqijrJkhE) | 3:13 | 2025-10-23 | 2026-01-02 |
-| [Luodinreikii](https://open.spotify.com/track/3ArbpCWFEAMJ6TPzQ8e0IG) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Luodinreikii](https://open.spotify.com/album/6V2O4arkwz5oodSnO3Tv1o) | 2:42 | 2025-12-11 |  |
+| [Luodinreikii](https://open.spotify.com/track/3ArbpCWFEAMJ6TPzQ8e0IG) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Luodinreikii](https://open.spotify.com/album/6V2O4arkwz5oodSnO3Tv1o) | 2:42 | 2025-12-11 | 2026-01-04 |
 | [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 | 2024-11-28 | 2025-03-07 |
 | [Luottamusongelmii](https://open.spotify.com/track/00tMkOxR5cTF6sTq4fM3bU) | [Santz](https://open.spotify.com/artist/1budGqglcS1GxynNiELO53), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Luottamusongelmii](https://open.spotify.com/album/4BAdAOzyH1lsFkLcIEjZc0) | 2:16 | 2024-03-28 | 2024-05-10 |
 | [Luotui](https://open.spotify.com/track/4yS9DtA071UWfANL19iSwR) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Luotui](https://open.spotify.com/album/7I3MvufdcG1sI82L7HY3sU) | 2:57 | 2025-04-17 | 2025-05-16 |
@@ -642,6 +642,7 @@
 | [Ne ei voi saada mua](https://open.spotify.com/track/073HdH7GuGd1n20DgyHsci) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl) | [Ne ei voi saada mua](https://open.spotify.com/album/11y9vvQYqggsI2Z5hCXQ13) | 3:06 | 2025-08-29 | 2025-09-05 |
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 | 2025-11-28 |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-22 | 2024-11-22 |
+| [Nene](https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Nene](https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu) | 2:24 | 2026-01-01 |  |
 | [Neutral OK \(feat\. Michael Bleu\)](https://open.spotify.com/track/71kruu6FogCon72eejlIt6) | [Don Johnson Big Band](https://open.spotify.com/artist/3IyO9AT4qU8VLyOUcZfgMg), [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Neutral OK \(feat\. Michael Bleu\)](https://open.spotify.com/album/0c4sP1K0pX9qg7vnkr0GO9) | 3:40 | 2024-03-14 | 2024-03-22 |
 | [NEVA](https://open.spotify.com/track/1aO9OCKlq5z7yD68nqU3GR) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [NEVA](https://open.spotify.com/album/2d3qFun5rcRXguTlMvAEbs) | 2:50 | 2024-03-28 | 2024-04-12 |
 | [NEW ERA](https://open.spotify.com/track/7FobILk5tZ0W4H0N4AJPMZ) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [NEW ERA / HENNYY](https://open.spotify.com/album/5mJNJondouJEkd8yaVMkGD) | 2:26 | 2024-02-01 | 2024-02-16 |

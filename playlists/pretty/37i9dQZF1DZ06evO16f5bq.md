@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,909 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,903 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 33 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
 | 34 | [NA ONDA](https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:30 |
 | 35 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
-| 36 | [EU TE AVISEI](https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:06 |
-| 37 | [CAOS](https://open.spotify.com/track/04XCCgpMnd4QLitSXNBrfI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:40 |
+| 36 | [CAOS](https://open.spotify.com/track/04XCCgpMnd4QLitSXNBrfI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:40 |
+| 37 | [EU TE AVISEI](https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:06 |
 | 38 | [Sem convite \(feat\. MODÉ$TIA, MC Cabelinho e Yoka\)](https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MODE$TIA](https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Rio](https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s) | 4:07 |
 | 39 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
 | 40 | [VIBE](https://open.spotify.com/track/7hhWcIKJmHyh2OHFNV4B4M) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [Acústico\_FogoEGasolina](https://open.spotify.com/track/54oUytGJB8LMiNFXvZ6dd4) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:38 |
 | 50 | [Maré](https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:20 |
 
-Snapshot ID: `aVW5AAAAAACQ6W7zkxR5KEau1xyua3cy`
+Snapshot ID: `aVcKgAAAAAC4Ixvx2HoBEpz3qyF+gri8`

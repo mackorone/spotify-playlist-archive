@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "COPACETIC",
+        "url": "https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD"
+      },
+      "artists": [
+        {
+          "name": "Laylo!!",
+          "url": "https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "BLEACHERS",
+      "url": "https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk"
+    },
+    {
+      "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 172800,
       "name": "Budget",
       "url": "https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN"
@@ -468,7 +486,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 136045,
       "name": "Disagree",
       "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-04",
       "duration_ms": 150358,
       "name": "you aint livin",
       "url": "https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw"

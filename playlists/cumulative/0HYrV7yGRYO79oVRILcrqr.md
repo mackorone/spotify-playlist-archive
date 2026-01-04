@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-249 songs - 15 hr 12 min
+255 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,10 @@
 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 | 2025-12-17 |
 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2025-09-28 | 2025-12-17 |
 | [Crush!](https://open.spotify.com/track/41Lzk8mCq71gZPnbLiK81X) | [Marcus Dufray](https://open.spotify.com/artist/3N76PbL6PF7qP3BlH44Svq) | [Crush!](https://open.spotify.com/album/2yEKvtGlCDheDMXPRuAJTr) | 4:39 | 2025-11-09 | 2025-12-17 |
+| [Cryofreeze](https://open.spotify.com/track/7wZkDOSdabj3MXdfDevTIW) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cryofreeze](https://open.spotify.com/album/3JOq2k9UVdqcvb4bKiG6Mk) | 3:37 | 2026-01-03 |  |
 | [Curtain](https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Bunker Day](https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW) | 2:14 | 2025-09-21 |  |
 | [Cut the Music](https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU) | [Evan Rotella](https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS) | [Cut the Music](https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv) | 4:06 | 2025-11-22 | 2025-12-17 |
+| [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 | 2026-01-03 |  |
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-17 | 2025-12-17 |
 | [Dandelion](https://open.spotify.com/track/3PHi0kUawFptkqvvKhhMb6) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [Dark Skies](https://open.spotify.com/album/2f1rOpD32zEodoeo2a9B3d) | 3:10 | 2025-11-08 | 2025-12-17 |
 | [Day After Day](https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 5:50 | 2025-09-21 |  |
@@ -106,6 +108,7 @@
 | [Hangover](https://open.spotify.com/track/1AAetcgV5lmgLM07i3gxDW) | [Rollin Bee](https://open.spotify.com/artist/1SzjCvXYlJ3gW3WsivnYFR) | [First Sting](https://open.spotify.com/album/2KtYi2vu5RqNIhU50G9bMm) | 3:14 | 2025-09-26 | 2025-12-17 |
 | [Headspin](https://open.spotify.com/track/2liyNPgBSB69fWJRaTL8ra) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [Deliverance](https://open.spotify.com/album/4JWS6dUdADr2OTwQucLVh6) | 5:01 | 2025-10-22 | 2025-11-28 |
 | [Heart of Gold](https://open.spotify.com/track/5Pausy8tB1Mjfn9CmLSY3S) | [Tevere Grand Hotel](https://open.spotify.com/artist/2NHbBV9zmDv6FNADm6MWyK) | [Heart of Gold](https://open.spotify.com/album/3htGGxNoRlfkKQjXhUFmX8) | 2:51 | 2025-12-04 | 2025-12-17 |
+| [Heartbreak Creepin](https://open.spotify.com/track/1fqC5QDqbP59x36XRgvA4N) | [Ghost Of You](https://open.spotify.com/artist/1n3hKQLBs8DsqzQ291JK1W), [Tuk Smith](https://open.spotify.com/artist/1yy7OkNRPbkCV9YDqzyODe) | [Heartbreak Creepin](https://open.spotify.com/album/3X1iHFsYwATGXkN1BChfYw) | 3:59 | 2026-01-03 |  |
 | [Heartsick](https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Heartsick](https://open.spotify.com/album/0aRmKh5U45fxdSzkRwrjYS) | 1:03 | 2025-10-22 | 2025-11-28 |
 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2025-12-02 | 2025-12-17 |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 | 2025-12-17 |
@@ -126,6 +129,8 @@
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
+| [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 |  |
+| [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 |  |
 | [Let You Go](https://open.spotify.com/track/3H2Gu6g9LSp6lz01OFeiok) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Let You Go](https://open.spotify.com/album/0vV45jrw2TgiqB8SDsqSmI) | 4:55 | 2025-12-08 |  |
@@ -187,6 +192,7 @@
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 |  |
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
+| [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 | 2025-12-17 |

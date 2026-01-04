@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 9 hr 17 min
+177 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 | 2022-05-25 |  |
 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 | 2022-05-25 |  |
 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 | 2023-08-08 |  |
+| [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 | 2026-01-03 |  |
 | [We Are Love](https://open.spotify.com/track/2MEkDq4Rl17FXDWK5JKsVX) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [We Are Love](https://open.spotify.com/album/6pp6Rn3GK8hmtFIPNkhR3n) | 3:09 | 2022-05-25 |  |
 | [What I've Become](https://open.spotify.com/track/25kTc4hobHWuF7dZM2Yobf) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/26Avj9WqjhxH0DTVoAbW0p) | 3:40 | 2022-05-25 | 2022-10-19 |
 | [What I've Become](https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS) | 3:40 | 2022-10-18 |  |

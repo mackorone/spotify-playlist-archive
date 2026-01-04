@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,770 songs - 4 day 11 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,774 songs - 4 day 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1778,5 +1778,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1768 | [Rita Line](https://open.spotify.com/track/6HulHrVy8G9vPPdLsvE2gH) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Rita Line](https://open.spotify.com/album/4wZqO6GsvIH83Z8FZ7CmDn) | 3:41 |
 | 1769 | [Miel](https://open.spotify.com/track/0woqLoAOOZc6YauijRcMN9) | [Compass](https://open.spotify.com/artist/7AVshRAO9zcYZH05T2WNCg) | [Miel](https://open.spotify.com/album/3tQtt41sROzZhAxfHOeJAD) | 4:56 |
 | 1770 | [Howling at the Moon](https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Howling at the Moon](https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs) | 4:12 |
+| 1771 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 |
+| 1772 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 |
+| 1773 | [Sunny\-Side Kind of Day](https://open.spotify.com/track/7bcfU6WnESLintDqNduacp) | [Eden Brook](https://open.spotify.com/artist/6klo5tvEtl8l2HJOzi6P4I) | [Barefoot on Purpose](https://open.spotify.com/album/3ydUoNDDc7ZjiiTUwpajlp) | 3:15 |
+| 1774 | [Que bonito es vivir](https://open.spotify.com/track/3nVSlHGKTTpG0j9ik8D7aR) | [Javier Casado Sudupe](https://open.spotify.com/artist/0d1cEiheBmn636OPS7LkLL) | [Donde si me ven \(ORIGINAL MOTION PICTURE SOUNDTRACK\)](https://open.spotify.com/album/1KJyTxSNBCk8EekuPygSVr) | 2:57 |
 
-Snapshot ID: `AAAHuwQEZLIJhqAhu8DgcreZ36C9fhVw`
+Snapshot ID: `AAAHvwClgzhvzHR7fQBVe6UNudNMM5MH`
