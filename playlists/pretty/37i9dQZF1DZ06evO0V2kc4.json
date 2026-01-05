@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73462,
+  "num_followers": 73473,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACYt4z5DcGnriBEF41Ca2k5",
+  "snapshot_id": "aVhcAAAAAACz+EXD/x9glCZWpgh7UWfT",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 155333,
-      "name": "Blowin' In The Wind - Live",
-      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+      "duration_ms": 155333,
+      "name": "Blowin' In The Wind - Live",
+      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Never Dreamed You'd Leave In Summer",
-      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 220866,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 129039,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185933,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 129039,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina (Remastered 2025)",
-        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Ranger's Command - Remastered 2025",
-      "url": "https://open.spotify.com/track/3LMwA5495RllhdcYMT8qIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baez Sings Dylan",
         "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 164533,
       "name": "Love Minus Zero/No Limit",
       "url": "https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina (Remastered 2025)",
+        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Ranger's Command - Remastered 2025",
+      "url": "https://open.spotify.com/track/3LMwA5495RllhdcYMT8qIg"
     },
     {
       "added_at": null,

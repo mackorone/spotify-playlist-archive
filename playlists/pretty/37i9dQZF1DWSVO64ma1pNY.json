@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300615,
+  "num_followers": 300609,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211117,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261511,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Times Like These",
         "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 258466,
       "name": "Learn to Hate",
       "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 261511,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
-      },
-      "artists": [
-        {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "curious/furious",
         "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 184905,
       "name": "curious/furious",
       "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2024-12-03 09:27:47",

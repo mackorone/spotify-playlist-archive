@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,253 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,279 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 34 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 35 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 36 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
-| 37 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
-| 38 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 |
+| 37 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 |
+| 38 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
 | 39 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 |
 | 40 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
 | 41 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 43 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
 | 44 | [FourSixty \- Feat\. Aaron Taylor](https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:12 |
 | 45 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 |
-| 46 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
-| 47 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
+| 46 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
+| 47 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 48 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
 | 49 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 4:05 |
 | 50 | [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 |

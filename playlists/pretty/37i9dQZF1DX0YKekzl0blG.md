@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,788 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,899 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 16 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 17 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
 | 18 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
-| 19 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
-| 20 | [I Predict A Riot](https://open.spotify.com/track/75D3n6wnFQmu1HVmLAlWM4) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:53 |
+| 19 | [I Predict A Riot](https://open.spotify.com/track/75D3n6wnFQmu1HVmLAlWM4) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:53 |
+| 20 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
 | 21 | [When The Sun Goes Down](https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:22 |
 | 22 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
 | 23 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 35 | [Everyday I Love You Less And Less](https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:37 |
 | 36 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 37 | [Golden Touch \- Full Length](https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:25 |
-| 38 | [Underdog](https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:37 |
-| 39 | [What Else Is There?](https://open.spotify.com/track/2cTOee6bTauDFK1QuDS1BD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Understanding](https://open.spotify.com/album/1HkKeOklBwC1auQJ5Huwcm) | 5:17 |
+| 38 | [What Else Is There?](https://open.spotify.com/track/2cTOee6bTauDFK1QuDS1BD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Understanding](https://open.spotify.com/album/1HkKeOklBwC1auQJ5Huwcm) | 5:17 |
+| 39 | [Underdog](https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:37 |
 | 40 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 41 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 42 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 56 | [My Delirium](https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Edition\)](https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF) | 4:14 |
 | 57 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 58 | [Y Control](https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 4:00 |
-| 59 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
-| 60 | [L.E.S Artistes](https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:26 |
-| 61 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
+| 59 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
+| 60 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
+| 61 | [L.E.S Artistes](https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:26 |
 | 62 | [You've Got The Love](https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [You've Got The Love](https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU) | 2:48 |
 | 63 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
 | 64 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 75 | [Pass It On](https://open.spotify.com/track/5uB85PzlWrnNnxL2A1TcKD) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Magic & Medicine](https://open.spotify.com/album/3vd7xfTaPLTZZFIfSOzxLp) | 2:19 |
 | 76 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 77 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
-| 78 | [Geraldine](https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/5TeMUnQg051IlhtwhkfqF7) | 3:45 |
-| 79 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
+| 78 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
+| 79 | [Geraldine](https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/5TeMUnQg051IlhtwhkfqF7) | 3:45 |
 | 80 | [Shove It](https://open.spotify.com/track/1coivm4gzVsvpzqW4bN4WM) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:48 |
 
 Snapshot ID: `AAAAAIQWASRuVZgK9n5wIN/R40Y2sI6A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,939 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,949 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 11 | [TOGE](https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [TOGE](https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz) | 4:12 |
 | 12 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
 | 13 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
-| 14 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |
+| 14 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
 | 15 | [a music score](https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [a music score](https://open.spotify.com/album/5RgCzUL166JU7tFjmEllWg) | 3:29 |
 | 16 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 17 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
+| 17 | [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 |
 | 18 | [UNITY](https://open.spotify.com/track/1ii9uwB3yTRDAyIpWauE5v) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [UNITY](https://open.spotify.com/album/6bnf6dgi1gDKHwg4YeCpbf) | 4:38 |
-| 19 | [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 |
+| 19 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |
 | 20 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 |
 | 21 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
 | 22 | [都会病](https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [都会病](https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls) | 2:06 |

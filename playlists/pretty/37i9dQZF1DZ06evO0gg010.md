@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,383 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,857 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 38 | [Enculado](https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:27 |
 | 39 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
 | 40 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
-| 41 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
-| 42 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
-| 43 | [No Me Dejes Nunca](https://open.spotify.com/track/0IpjVkKj5FKRKSk5hAx5Bk) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 3:23 |
+| 41 | [No Me Dejes Nunca](https://open.spotify.com/track/0IpjVkKj5FKRKSk5hAx5Bk) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 3:23 |
+| 42 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
+| 43 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 44 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 45 | [Falsa](https://open.spotify.com/track/3N5fHogY7kxVNrD7icdzXY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:36 |
 | 46 | [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [SOS](https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:49 |
 | 50 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
 
-Snapshot ID: `aVcKgAAAAACVarBrZaJhfryJ1D1UIypb`
+Snapshot ID: `aVhcAAAAAACLcD2XMt3p31PYxn414q96`

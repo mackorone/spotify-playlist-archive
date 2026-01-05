@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 74293,
+  "num_followers": 74292,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAA1NgrxLJ2q4KyQRcSHdoLV",
+  "snapshot_id": "aVhcAAAAAAAKXRfqYYseJj5PgoTXq5T6",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Livin' On The Edge Of The Night",
+      "url": "https://open.spotify.com/track/0xGFngTneJV4OzN310i8Qh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 213373,
       "name": "Little Know It All",
       "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brick By Brick",
-        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Livin' On The Edge Of The Night",
-      "url": "https://open.spotify.com/track/0xGFngTneJV4OzN310i8Qh"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 146598,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
+        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+      "duration_ms": 192853,
+      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
+      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
-        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 192853,
-      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
-      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Time Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 366896,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
     },
     {
       "added_at": null,

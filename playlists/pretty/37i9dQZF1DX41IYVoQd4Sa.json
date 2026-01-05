@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d9\u05d6\u05d9 \u05d5\u05d2\u05f3\u05f3\u05d9\u05df \u05d1\u05d5\u05e8\u05d3\u05d5",
-  "num_followers": 33081,
+  "num_followers": 33079,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
         "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 174452,
       "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
       "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB"
+        "name": "360",
+        "url": "https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Tomer Yosef",
+          "url": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
         }
       ],
-      "duration_ms": 176812,
-      "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe"
+      "duration_ms": 184000,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

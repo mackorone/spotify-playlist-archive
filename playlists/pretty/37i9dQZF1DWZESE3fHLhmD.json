@@ -1,6 +1,6 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1324913,
+  "num_followers": 1324776,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
         "name": "You'll Be Alright, Kid",
         "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 288786,
-      "name": "Silver Springs - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+      "duration_ms": 288786,
+      "name": "Silver Springs - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -479,6 +463,22 @@
       "duration_ms": 206760,
       "name": "Golden Brown",
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "LOVE AGAIN",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
         "name": "Sch\u00f6ne Dinge",
         "url": "https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 159383,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
-        "name": "LOVE AGAIN",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "LOVE AGAIN",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
-        "name": "lieblingslied",
-        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "lieblingslied",
-      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2025-12-15 07:10:27",
       "album": {
+        "name": "lieblingslied",
+        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "lieblingslied",
+      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
+    },
+    {
+      "added_at": "2025-12-15 07:10:27",
+      "album": {
+        "name": "Zu sp\u00e4t um umzudrehen - EP",
+        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2025-12-15 07:10:27",
@@ -1623,22 +1639,6 @@
       "duration_ms": 238693,
       "name": "Wieder zur\u00fcck (feat. Edwin Rosen)",
       "url": "https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9"
-    },
-    {
-      "added_at": "2025-12-15 07:10:27",
-      "album": {
-        "name": "Zu sp\u00e4t um umzudrehen - EP",
-        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Zimmer",
-      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2025-12-15 07:10:27",

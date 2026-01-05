@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 25 | [A Song For Her](https://open.spotify.com/track/0K7FOB1sgaKj4KdUWFiR8J) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:39 |
 | 26 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 | 27 | [my funeral](https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:40 |
+| 28 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 
-Snapshot ID: `aVcKgAAAAABk9RQh6Sgx19iR7p3Zgvmx`
+Snapshot ID: `aVhcAAAAAABUrgfEsi/fkyIuvXtC0mDC`

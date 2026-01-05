@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,914 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,917 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 42 | [Spiral City](https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 2:29 |
 | 43 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 |
 | 44 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
-| 45 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
-| 46 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
+| 45 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
+| 46 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 47 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
 | 48 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 |
 | 49 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 58 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
 | 59 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 60 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 61 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
-| 62 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
+| 61 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
+| 62 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
 | 63 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 64 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 |
 | 65 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 91 | [No Nein](https://open.spotify.com/track/040IEiMlCYxNYcW5Sd8L5Z) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 2:31 |
 | 92 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 93 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
-| 94 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
-| 95 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
+| 94 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
+| 95 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 96 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 |
-| 97 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
-| 98 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
-| 99 | [autotunelove](https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [autotunelove](https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e) | 2:39 |
-| 100 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
+| 97 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
+| 98 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
+| 99 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
+| 100 | [autotunelove](https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [autotunelove](https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e) | 2:39 |
 
 Snapshot ID: `AAAAAGaUZreLKX1GpSV05ZAseJxbAWEZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,464 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,473 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 34 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
 | 35 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
 | 36 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
-| 37 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
-| 38 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
+| 37 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
+| 38 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
 | 39 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
 | 40 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 |
 | 41 | [Hope](https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 2:00 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 82 | [Minor Threat](https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC) | 1:31 |
 | 83 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
 | 84 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
-| 85 | [Hong Kong Garden](https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5) | 2:55 |
-| 86 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
-| 87 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:57 |
-| 88 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
-| 89 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
+| 85 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
+| 86 | [Hong Kong Garden](https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5) | 2:55 |
+| 87 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
+| 88 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:57 |
+| 89 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
 | 90 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
 | 91 | [Identity](https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:25 |
 | 92 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 |

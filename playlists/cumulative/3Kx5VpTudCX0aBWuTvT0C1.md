@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-112 songs - 6 hr 20 min
+113 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 |  |
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 |  |
+| [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2026-01-04 |  |
 | [Working For The Man](https://open.spotify.com/track/13cFPU8k6jUOjckQL7EV4V) | [Big Peon](https://open.spotify.com/artist/1xK2Hek0OpY5J4NW5zwfNY) | [Working For The Man](https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc) | 2:53 | 2025-11-07 | 2025-12-09 |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 | 2025-12-09 |
 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 |  |

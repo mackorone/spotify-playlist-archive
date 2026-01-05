@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8307,
+  "num_followers": 8335,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACxwg/NWgPJ1o32iR3sWYY5",
+  "snapshot_id": "aVhcAAAAAABfVo3IKTEdk5XLomE6n2Kc",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 184894,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
+      "duration_ms": 205714,
+      "name": "Trenches Luv",
+      "url": "https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakur (Deluxe)",
         "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
@@ -124,25 +140,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Trenches Luv",
-      "url": "https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+      "duration_ms": 145248,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 145248,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,

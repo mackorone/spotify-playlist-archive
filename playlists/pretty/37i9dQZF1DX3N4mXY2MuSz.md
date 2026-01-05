@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,228 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,212 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 17 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
 | 18 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 19 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
-| 20 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
-| 21 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
+| 20 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
+| 21 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 22 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 | 23 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
 | 24 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 37 | [Alone This Holiday](https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [I Caught Fire](https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB) | 2:55 |
 | 38 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
 | 39 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
-| 40 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
-| 41 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
+| 40 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
+| 41 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 42 | [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 |
-| 43 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
-| 44 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 |
+| 43 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 |
+| 44 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 45 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
 | 46 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 |
 | 47 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |

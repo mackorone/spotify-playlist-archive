@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-651 songs - 1 day 11 hr 55 min
+652 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2QEHe3FQLbbXDz14YKzqU8) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [In The Dark \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/58EwvlQo4harE9P2i3bafT) | 3:05 | 2025-11-07 |  |
 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 | 2024-02-27 |  |
 | [Ins and Outs](https://open.spotify.com/track/47dpLuBCmnJyUFYQ7Xa2j4) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Ins and Outs](https://open.spotify.com/album/6DA8DSwuB5PtmskKjIULUR) | 3:23 | 2024-02-27 |  |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-04 |  |
 | [Into It](https://open.spotify.com/track/2gxqozTaq2NYylvS8jd57G) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:55 | 2024-02-27 |  |
 | [Invisible](https://open.spotify.com/track/6OocN63GLU7NF0wHdewhID) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:34 | 2024-02-27 | 2025-07-10 |
 | [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 | 2025-07-10 |  |

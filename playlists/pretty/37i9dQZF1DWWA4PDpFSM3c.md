@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,913 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,978 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 30 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 |
 | 31 | [Endhuko Emo](https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT) | [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Rangam](https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u) | 5:30 |
 | 32 | [Seethakaalam](https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 4:22 |
-| 33 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
-| 34 | [Laalijo Raagam](https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Saripodhaa Sanivaaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 4:21 |
+| 33 | [Laalijo Raagam](https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Saripodhaa Sanivaaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 4:21 |
+| 34 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
 | 35 | [Vellipomaake](https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J) | 4:21 |
 | 36 | [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 |
 | 37 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,685 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,704 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 38 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
 | 39 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 | 40 | [Esa Mujer](https://open.spotify.com/track/1RhQsb9KzlmaZ2dCPcefa7) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Dobletazo](https://open.spotify.com/album/67Zn5cir0VxgoZX8X4XbMt) | 4:33 |
-| 41 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
-| 42 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
+| 41 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
+| 42 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
 | 43 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
 | 44 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
 | 45 | [El Alchohol](https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 4:16 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 67 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
 | 68 | [Traicionera](https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Como Yo](https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI) | 3:40 |
 | 69 | [Si Tu Cariño No Esta](https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:12 |
-| 70 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 |
+| 70 | [Hasta El Fin](https://open.spotify.com/track/4p1Bggx2fygzjjepd0Eit0) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:15 |
 | 71 | [Me Dejaste Abandonado](https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [MerenHits '99](https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3) | 4:58 |
 | 72 | [De Rodillas Te Pido](https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM) | 3:53 |
 | 73 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |

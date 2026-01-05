@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,754,262 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,192 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 80 | [Love, Me](https://open.spotify.com/track/3aKAdHDxhYu2gpbQMYSEkv) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Love Songs](https://open.spotify.com/album/51cpglyLFyspqTWeCGa38u) | 3:51 |
 | 81 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
 | 82 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
-| 83 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
-| 84 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
+| 83 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
+| 84 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 85 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
 | 86 | [Take Me Away](https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 3:44 |
 | 87 | [The Rest of Our Life](https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:44 |

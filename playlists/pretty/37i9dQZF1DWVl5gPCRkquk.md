@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991,194 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990,979 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,24 +38,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 28 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
 | 29 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 30 | [Fly](https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 3:26 |
-| 31 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
-| 32 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 |
+| 31 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 |
+| 32 | [I Think Of Angels](https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 3:32 |
 | 33 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
 | 34 | [Wait It Out](https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wait It Out](https://open.spotify.com/album/1Brd1h0NaNZy8wLUVXTBpy) | 2:45 |
 | 35 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 36 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 37 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
-| 38 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
-| 39 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
+| 38 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
+| 39 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 40 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 41 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 | 42 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 43 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
 | 44 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 45 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 |
-| 46 | [Dead Girl Walking](https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 3:19 |
-| 47 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
-| 48 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
+| 46 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
+| 47 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
+| 48 | [Dead Girl Walking](https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 3:19 |
 | 49 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 50 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 51 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |

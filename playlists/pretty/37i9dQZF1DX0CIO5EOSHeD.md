@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,896 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,907 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 50 | [into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [into me](https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT) | 2:52 |
 | 51 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
 | 52 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
-| 53 | [Curse Of Creation](https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Crisis Kid](https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2) | 3:23 |
-| 54 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
+| 53 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
+| 54 | [Curse Of Creation](https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Crisis Kid](https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2) | 3:23 |
 | 55 | [Sister](https://open.spotify.com/track/33YCzOk2Oz1s4Quw5wBT14) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 3:46 |
 | 56 | [i wanna](https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [i wanna](https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i) | 2:19 |
 | 57 | [Skater Dater \(feat\. Bb trickz & Elvia\)](https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 2:34 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 85 | [Altitude](https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Altitude](https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0) | 3:30 |
 | 86 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
 | 87 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
-| 88 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
+| 88 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
 | 89 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 90 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
 | 91 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 |
 | 92 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
-| 93 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
+| 93 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
 | 94 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 95 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
 | 96 | [August 19](https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [August 19](https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP) | 2:35 |
-| 97 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
-| 98 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
-| 99 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
-| 100 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
+| 97 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
+| 98 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 99 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
+| 100 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 
 Snapshot ID: `AAAAAFd1tOc13TNiSygoDIjm89mvx6ly`

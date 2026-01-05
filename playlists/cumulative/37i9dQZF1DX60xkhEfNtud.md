@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abyss Whales](https://open.spotify.com/track/6EH7wcBsac2lV6eXa0m2Vs) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 3:12 | 2022-07-08 | 2025-10-06 |
-| [Aqua Serenade](https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ) | [Free Willy](https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR) | [Ocean Lullaby](https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax) | 2:36 | 2024-08-23 |  |
+| [Abyss Whales](https://open.spotify.com/track/6EH7wcBsac2lV6eXa0m2Vs) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 3:12 | 2022-07-08 |  |
+| [Aqua Serenade](https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ) | [Free Willy](https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR) | [Ocean Lullaby](https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax) | 2:36 | 2024-08-23 | 2026-01-05 |
 | [Aquatic Whales](https://open.spotify.com/track/673YfOTf2UL8MQzamexc0z) | [OrcWard](https://open.spotify.com/artist/0xwz3aW7q8aGq2JJ6hLpBg) | [Aquatic Whales](https://open.spotify.com/album/4AkeTK8g8AGqrzOUKDox3V) | 2:49 | 2023-06-20 | 2025-07-26 |
 | [Balaenoptera Musculus](https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ) | [ORCA](https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq) | [Songs Of The Sea](https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM) | 3:00 | 2022-07-08 |  |
 | [Beautiful Whales](https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Whales](https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV) | 2:02 | 2022-07-08 |  |

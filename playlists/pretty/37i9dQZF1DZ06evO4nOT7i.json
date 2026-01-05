@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 382473,
+  "num_followers": 382457,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADFZVrXfHbfo2ELfQxmNblt",
+  "snapshot_id": "aVhcAAAAAACNgEBiFLZLLxlBTXRxivRv",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 237535,
-      "name": "Guitar Song",
-      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THREAT",
         "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 170793,
       "name": "THREAT",
       "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 237535,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
     },
     {
       "added_at": null,

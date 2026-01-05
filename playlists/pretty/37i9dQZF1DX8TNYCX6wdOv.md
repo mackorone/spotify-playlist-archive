@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 
 > Editor's picks of the best of Rising 65 this year\. Cover: karan
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,115 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,121 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [PREFIRO SUMI](https://open.spotify.com/track/2zs9FbBNGjjca8coua5iwb) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [DNAY](https://open.spotify.com/artist/5MfRy5LzLtiGj7YQg8FvBB) | [GIRO DO TRAP \(DELUXE\)](https://open.spotify.com/album/3razTXeZX8mmm28X3GW5Re) | 2:21 |
 | 75 | [Minhas Neuroses](https://open.spotify.com/track/5SNNf1EelZcJLGQkBOZ0fM) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Minhas Neuroses](https://open.spotify.com/album/5YJ8khdjb4E3NxWqsfmRcf) | 2:56 |
 
-Snapshot ID: `AAAAAP2zoLTiuYR5fXYPMX+xU6dTgKHv`
+Snapshot ID: `AAAAAEK+lmFmw2uSwx1K6W+lgz9XAnut`

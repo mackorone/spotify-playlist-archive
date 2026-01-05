@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,668 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,650 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 35 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 36 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 37 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 |
-| 38 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 38 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 39 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 40 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
 | 41 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |

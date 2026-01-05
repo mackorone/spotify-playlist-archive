@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,512 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,454 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 19 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 20 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 21 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
-| 22 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
-| 23 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 24 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
+| 22 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
+| 23 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
+| 24 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 25 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 26 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |
 | 27 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 46 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
 | 47 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
 | 48 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
-| 49 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
-| 50 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
+| 49 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
+| 50 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 51 | [And a Big Load](https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 2:53 |
 | 52 | [4:25](https://open.spotify.com/track/2cjQAWtDFoWVWdXr0oKfef) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | 4:37 |
 | 53 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 63 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
 | 64 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
 | 65 | [Giving Up Air](https://open.spotify.com/track/5BnRN1Qqnl7MntWLzsZ9kE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4foiPmpx9aPyoWs37TRVb1) | 4:47 |
-| 66 | [$500 Fine](https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:22 |
-| 67 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
-| 68 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
-| 69 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
+| 66 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
+| 67 | [$500 Fine](https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:22 |
+| 68 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
+| 69 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
 | 70 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 |
 | 71 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 72 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |

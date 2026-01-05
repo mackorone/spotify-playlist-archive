@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Our favorite dance songs in 2025 from independent artists and labels\. Chosen by Spotify editors, featuring KARABA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,496 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,504 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,347 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,349 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 11 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 | 12 | [助けてウェイパー](https://open.spotify.com/track/0HQR5eaUiWHXVuFTaNXcYs) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D), [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [助けてウェイパー](https://open.spotify.com/album/6eLHsxAl9JRzWxVkaJDRqD) | 4:13 |
 | 13 | [ANTENNA](https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:30 |
-| 14 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
-| 15 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
-| 16 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 14 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
+| 15 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 16 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
 | 17 | [Russe Onna](https://open.spotify.com/track/0XHZyPWmzqeznX9I92qRCf) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Russe Onna](https://open.spotify.com/album/4vfO6A0pbU097VKFRfOXJC) | 2:39 |
 | 18 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
 | 19 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 46 | [ら、のはなし](https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 3:01 |
 | 47 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 48 | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 |
-| 49 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 |
-| 50 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
+| 49 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
+| 50 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 |
 
 Snapshot ID: `AAAAAKwOthegXq7XQZiTM+yVhOjZ2y7R`

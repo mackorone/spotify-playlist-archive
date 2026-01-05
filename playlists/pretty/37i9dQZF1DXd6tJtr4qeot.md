@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,993 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,976 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 10 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
 | 11 | [Paranoid \- 2009 Remaster](https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 2:47 |
 | 12 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 13 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
+| 13 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 14 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 15 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
-| 16 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
+| 16 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 17 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 18 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
 | 19 | [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 30 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 31 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 32 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
-| 33 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
-| 34 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
+| 33 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
+| 34 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 35 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 36 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 |
 | 37 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |

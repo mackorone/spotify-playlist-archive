@@ -4,7 +4,7 @@
 
 > Let's make this a day and night to remember.
 
-204 songs - 12 hr 13 min
+205 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2022-12-28 |  |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2024-05-10 |  |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2022-12-28 |  |
+| [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:59 | 2024-07-15 |  |
 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [King of Mambo](https://open.spotify.com/album/2ZYW7Gnq62sNuZi1hDqgwC) | 3:39 | 2022-05-10 | 2022-07-29 |
 | [Mambo No\. 5 \(A Little Bit Of...\)](https://open.spotify.com/track/3l8WwsQTLPysuRph7WIRYq) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [Mambo No\. 5 \(A Little Bit Of...\)](https://open.spotify.com/album/7hRiVC8EIOLbtPRaAV1LnS) | 3:40 | 2022-05-10 | 2022-11-14 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-05-10 | 2024-07-16 |
@@ -163,7 +164,7 @@
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2022-05-10 |  |
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2022-05-10 | 2023-12-14 |
 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/5T490vvoFNU6psep0NPmxs) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/0dnmmbHWt1kH47FWDhwBHq) | 2:51 | 2022-05-10 | 2022-12-29 |
-| [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Horse of a Different Color](https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH) | 3:20 | 2024-05-10 |  |
+| [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Horse of a Different Color](https://open.spotify.com/album/0mX8aXMM7nYOGUTGcTEeZH) | 3:20 | 2024-05-10 | 2026-01-05 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-05-10 |  |
 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2022-05-10 | 2025-10-18 |
 | [Shake It Off](https://open.spotify.com/track/1kKlhuQE0HXp1IwBRpaH2P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:39 | 2022-05-10 | 2022-07-29 |

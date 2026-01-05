@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,778 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 11 | [Bailando Conmigo](https://open.spotify.com/track/4d4cW91CpcogH1COrpNaH2) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/1UR0HYFjrVtdbP9eEPGhu6) | 3:13 |
 | 12 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 13 | [Caprichito \(En Vivo\)](https://open.spotify.com/track/2vT5QlaH24MEHSLGcyf84I) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Caprichito \(En Vivo\)](https://open.spotify.com/album/6S95VlCqSP519PNY8R7obi) | 3:55 |
-| 14 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
+| 14 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 15 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 16 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 17 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Tu Boda](https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:45 |
 | 50 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,324 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,308 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 90 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 |
 | 91 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 92 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
-| 93 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
-| 94 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 93 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 94 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
 | 95 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 96 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 | 97 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |

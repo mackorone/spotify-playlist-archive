@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92880,
+  "num_followers": 92897,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAZOFq+ePqpTv4icobco1dF",
+  "snapshot_id": "aVhcAAAAAABW/R7oU8rud12tgQ3MnfrX",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Choice Is Yours (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 227266,
       "name": "Visions (with Stick Figure)",
       "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Choice Is Yours (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
     },
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
+      "duration_ms": 238767,
+      "name": "Summertime (feat. Citizen Cope)",
+      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
     },
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         },
         {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 238767,
-      "name": "Summertime (feat. Citizen Cope)",
-      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "Moon Palace",
-      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 279323,
       "name": "Just Another Dream",
       "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "Moon Palace",
+      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 122206,
-      "name": "This Is What We Came Here For",
-      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 266549,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 234435,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 234435,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 255439,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 122206,
+      "name": "This Is What We Came Here For",
+      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,116 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,157 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 54 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 |
 | 55 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
 | 56 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
-| 57 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
-| 58 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
-| 59 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
+| 57 | [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 |
+| 58 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
+| 59 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
 | 60 | [notturno](https://open.spotify.com/track/3iyp6nZ8WqoE5skWVldGZ3) | [noxs](https://open.spotify.com/artist/5xo3r2sstRZK7O5KLVzwxW) | [notturno](https://open.spotify.com/album/6RFb2UNyefebVq8C0o5Xv3) | 2:52 |
-| 61 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
+| 61 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 62 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 |
 | 63 | [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 |
 | 64 | [To New Beginnings](https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [To New Beginnings](https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui) | 2:09 |
 | 65 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
-| 66 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 67 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
+| 66 | [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 |
+| 67 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
 | 68 | [Just Stay](https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Just Stay](https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO) | 2:03 |
 | 69 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 70 | [Mercury](https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Mercury](https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7) | 3:00 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 87 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 88 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
 | 89 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
-| 90 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 |
-| 91 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 90 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 91 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 |
 | 92 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 | 93 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 94 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |

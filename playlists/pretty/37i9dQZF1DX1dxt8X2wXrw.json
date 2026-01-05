@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 81037,
+  "num_followers": 81077,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-12-11 05:10:55",
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
+      "added_at": "2025-12-11 05:10:55",
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-12-11 05:10:55",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2025-12-11 05:10:55",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-12-11 05:10:55",
       "album": {
+        "name": "have to.",
+        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
+    {
+      "added_at": "2025-12-11 05:10:55",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 227653,
       "name": "On the Level",
       "url": "https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd"
-    },
-    {
-      "added_at": "2025-12-11 05:10:55",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-12-11 05:10:55",
@@ -539,18 +535,22 @@
     {
       "added_at": "2025-12-11 05:10:55",
       "album": {
-        "name": "have to.",
-        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 207023,
-      "name": "have to.",
-      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-12-11 05:10:55",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-12-11 05:10:55",
       "album": {
-        "name": "HOW DOES IT FEEL?",
-        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 137689,
-      "name": "HOW DOES IT FEEL?",
-      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
-    },
-    {
-      "added_at": "2025-12-11 05:10:55",
-      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2025-12-11 05:10:55",
+      "album": {
+        "name": "HOW DOES IT FEEL?",
+        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 137689,
+      "name": "HOW DOES IT FEEL?",
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
     },
     {
       "added_at": "2025-12-11 05:10:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-11 05:10:55",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
-      "added_at": "2025-12-11 05:10:55",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2025-12-11 05:10:55",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2025-12-11 05:10:55",

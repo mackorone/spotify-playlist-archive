@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,110 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,103 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 9 | [Seashore](https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 3:28 |
 | 10 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
 | 11 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 |
-| 12 | [Help Me I'm Gay](https://open.spotify.com/track/2A8yiyOUJGDlaNVg4mSe3c) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Help Me I'm Gay](https://open.spotify.com/album/6uIFrLApG5BD5hWhcW4sum) | 2:22 |
-| 13 | [Glitterspit](https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Sure\-Tuff](https://open.spotify.com/album/1C1OTQGHE9NeWHEw2aG8bO) | 3:40 |
+| 12 | [Glitterspit](https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Sure\-Tuff](https://open.spotify.com/album/1C1OTQGHE9NeWHEw2aG8bO) | 3:40 |
+| 13 | [Help Me I'm Gay](https://open.spotify.com/track/2A8yiyOUJGDlaNVg4mSe3c) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Help Me I'm Gay](https://open.spotify.com/album/6uIFrLApG5BD5hWhcW4sum) | 2:22 |
 | 14 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 |
 | 15 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
 | 16 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
-| 17 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
-| 18 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
-| 19 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
-| 20 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
+| 17 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
+| 18 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
+| 19 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
+| 20 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
 | 21 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 22 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
 | 23 | [Nvr Pass](https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP) | [She/Her/hers](https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg) | [Grrrl Angst](https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP) | 3:50 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 56 | [Stupid Rich Boy](https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5) | [Froggy](https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt) | [Stupid Rich Boy](https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e) | 4:23 |
 | 57 | [Unclear](https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Dumpster Diving](https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7) | 6:34 |
 | 58 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
-| 59 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 |
-| 60 | [For Matt](https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D) | [Slash Fiction](https://open.spotify.com/artist/51lcK4r9QlqmtGQxLedO9M) | [For Matt](https://open.spotify.com/album/1l2zfAh6tsE6FfYZVxF3cE) | 5:44 |
+| 59 | [For Matt](https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D) | [Slash Fiction](https://open.spotify.com/artist/51lcK4r9QlqmtGQxLedO9M) | [For Matt](https://open.spotify.com/album/1l2zfAh6tsE6FfYZVxF3cE) | 5:44 |
+| 60 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 |
 | 61 | [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 |
 | 62 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 |
 | 63 | [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 |

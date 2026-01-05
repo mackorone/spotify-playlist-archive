@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24814,
+  "num_followers": 24813,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAC65CYoGPYFbFceONMpPp/P",
+  "snapshot_id": "aVhcAAAAAABgmcHWsilbWZWQeeCbmw+c",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smallfoot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+      },
+      "artists": [
+        {
+          "name": "Channing Tatum",
+          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Wonderful Questions",
+      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Break It Down",
         "url": "https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF"
       },
@@ -299,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
+        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
       },
       "artists": [
-        {
-          "name": "Channing Tatum",
-          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
-        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 132173,
-      "name": "Wonderful Questions",
-      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
+      "duration_ms": 163266,
+      "name": "Something To Dance For - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
       "duration_ms": 232216,
       "name": "X (feat. Zendaya)",
       "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
-        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Something To Dance For - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
     },
     {
       "added_at": null,

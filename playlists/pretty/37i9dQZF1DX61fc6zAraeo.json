@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105880,
+  "num_followers": 105884,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "R 2 ME",
         "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 159246,
       "name": "Stay - Ely Oaks Version",
       "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -499,30 +499,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 187298,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
         "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 150869,
       "name": "Seek Love (On The Beach)",
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 187298,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Never Letting Go (feat. Julia Church)",
         "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 123046,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "You've Got The Love",
+        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "You've Got The Love",
-        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167582,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 165845,
       "name": "Fable",
       "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167582,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        },
-        {
-          "name": "SUPERSTRINGS",
-          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 149760,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "California (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "California (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -1671,22 +1651,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Could It Be Love",
-        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Could It Be Love",
-      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Don't Fall For Me",
         "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
       },
@@ -1703,6 +1667,42 @@
       "duration_ms": 174888,
       "name": "Don't Fall For Me",
       "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "California (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "California (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "added_at": "2025-10-30 23:00:21",

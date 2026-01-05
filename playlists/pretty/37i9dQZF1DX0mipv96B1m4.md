@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 27 | [Randomly](https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Randomly](https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e) | 2:43 |
 | 28 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 | 29 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
-| 30 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
-| 31 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
+| 30 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
+| 31 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 32 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
 | 33 | [Cyaa Sidung](https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Cyaa Sidung](https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa) | 2:47 |
 | 34 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 |

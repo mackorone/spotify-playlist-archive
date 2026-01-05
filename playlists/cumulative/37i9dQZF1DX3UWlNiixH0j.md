@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Dos Monos
 
-2,914 songs - 7 day 14 hr 19 min
+2,915 songs - 7 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [MOON](https://open.spotify.com/track/0z2O6RAj5uo7U2y8z10qZb) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [MOON](https://open.spotify.com/album/3FqBSeeLUB8nAXknXWr0Gs) | 3:35 | 2025-10-08 | 2025-11-05 |
 | [Moon](https://open.spotify.com/track/4VcjG6vaV3fieC1EGE9BKy) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Moon](https://open.spotify.com/album/0i0FBhQleUtyg60jsuXabn) | 3:04 | 2024-05-28 | 2024-06-05 |
 | [Moon Shaped](https://open.spotify.com/track/4efK771NNGsKNYbCJ1xhkD) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Moon Shaped](https://open.spotify.com/album/2kgkVKv864qu7CgVSCHuZw) | 5:11 | 2024-05-28 | 2024-07-31 |
+| [moonlight](https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc) | [やさしいみらい](https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW) | [moonlight](https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ) | 3:43 | 2025-12-27 |  |
 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 | 2023-01-12 | 2023-01-18 |
 | [Moonrise Kingdom](https://open.spotify.com/track/6pptEInXDl2IEJeJC2IrD9) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 2:57 | 2023-06-13 | 2023-07-26 |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-01-16 | 2024-08-07 |
@@ -2066,7 +2067,7 @@
 | [ぼくの部屋においでヨ](https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 1:26 | 2024-09-17 | 2024-10-02 |
 | [ぼくらのまま](https://open.spotify.com/track/2MfBsbqFVELdvC6iBtk6SR) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [ぼくらのまま](https://open.spotify.com/album/2F653wecMxIDfNxihYzsGs) | 4:12 | 2023-01-12 | 2023-01-26 |
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 | 2023-03-08 |
-| [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 | 2025-10-14 |  |
+| [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 | 2025-10-14 | 2026-01-05 |
 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 | 2024-04-23 | 2024-05-22 |
 | [まぐれ幸い](https://open.spotify.com/track/612VjoModUavsJXdeoebS7) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [まぐれ幸い](https://open.spotify.com/album/7yFX7Jk48UZsCjjPAwUVcV) | 3:10 | 2024-04-16 | 2024-04-24 |
 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 | 2024-03-19 | 2024-09-18 |

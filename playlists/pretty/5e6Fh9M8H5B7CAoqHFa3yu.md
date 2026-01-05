@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,774 songs - 4 day 11 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,777 songs - 4 day 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1782,5 +1782,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1772 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 |
 | 1773 | [Sunny\-Side Kind of Day](https://open.spotify.com/track/7bcfU6WnESLintDqNduacp) | [Eden Brook](https://open.spotify.com/artist/6klo5tvEtl8l2HJOzi6P4I) | [Barefoot on Purpose](https://open.spotify.com/album/3ydUoNDDc7ZjiiTUwpajlp) | 3:15 |
 | 1774 | [Que bonito es vivir](https://open.spotify.com/track/3nVSlHGKTTpG0j9ik8D7aR) | [Javier Casado Sudupe](https://open.spotify.com/artist/0d1cEiheBmn636OPS7LkLL) | [Donde si me ven \(ORIGINAL MOTION PICTURE SOUNDTRACK\)](https://open.spotify.com/album/1KJyTxSNBCk8EekuPygSVr) | 2:57 |
+| 1775 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 |
+| 1776 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 |
+| 1777 | [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 |
 
-Snapshot ID: `AAAHvwClgzhvzHR7fQBVe6UNudNMM5MH`
+Snapshot ID: `AAAHwsjP+u78EaeVWD/JwbZTcFOtoebs`

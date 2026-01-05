@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Start you day with God and let these songs set you up to have a GOoD morning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,318 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,347 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 42 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
 | 43 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
 | 44 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
-| 45 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 |
-| 46 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 45 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 46 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 |
 | 47 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
 | 48 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 |
-| 49 | [Optimistic](https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Optimistic](https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr) | 3:06 |
-| 50 | [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 |
+| 49 | [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 |
+| 50 | [Optimistic](https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Optimistic](https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr) | 3:06 |
 | 51 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 52 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 53 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |

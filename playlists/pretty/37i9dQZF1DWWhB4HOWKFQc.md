@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Piche Kota
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,939 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,097 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

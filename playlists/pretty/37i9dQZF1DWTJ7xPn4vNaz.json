@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5784489,
+  "num_followers": 5784786,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -251,18 +251,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 215096,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 364441,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 215096,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -547,6 +531,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 303820,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -599,18 +583,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -627,6 +611,22 @@
       "duration_ms": 243026,
       "name": "Let It Be - Remastered 2009",
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 252960,
       "name": "Fernando",
       "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -791,22 +807,6 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "\"Heroes\" - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Beast Of Burden - Remastered 1994",
-      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 288666,
       "name": "Miss You - Remastered",
       "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243132,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 243132,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1435,6 +1419,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
       "artists": [
         {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 215319,
-      "name": "Blame It on the Boogie",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1555,34 +1555,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Ram Jam",
-        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
-      },
-      "artists": [
-        {
-          "name": "Ram Jam",
-          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
-        }
-      ],
-      "duration_ms": 240335,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+      "duration_ms": 215319,
+      "name": "Blame It on the Boogie",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1599,6 +1583,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Ram Jam",
+        "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "duration_ms": 240335,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 211708,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 211708,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 312578,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Foreigner (Expanded)",
         "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 312578,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Summer Nights - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Band On The Run",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Of A Simple Man",
         "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 247640,
       "name": "I'd Love You to Want Me",
       "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2363,38 +2363,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174717,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -2427,18 +2395,50 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
         }
       ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174717,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
     }
   ],
   "unique_name": "All Out 70s",

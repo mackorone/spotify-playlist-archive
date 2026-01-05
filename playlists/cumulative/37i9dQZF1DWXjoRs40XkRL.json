@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Chaap Tilak",
+        "url": "https://open.spotify.com/album/02TGo99icXgtWjtpDewMLe"
+      },
+      "artists": [
+        {
+          "name": "Arpita Chakraborty",
+          "url": "https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk"
+        },
+        {
+          "name": "Mujtaba Aziz Naza",
+          "url": "https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212383,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/0rwudDOmmbtGQELOr4zbIE"
+    },
+    {
+      "album": {
         "name": "Chalein Kahin",
         "url": "https://open.spotify.com/album/0nQKahYCaWKCodVS3G7ZMH"
       },
@@ -6346,7 +6368,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 1309387,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j"

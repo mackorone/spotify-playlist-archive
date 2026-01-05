@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Canada.
 
-2,666 songs - 6 day 6 hr 30 min
+2,667 songs - 6 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-12-07 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-05-21 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-12 | 2023-02-01 |
-| [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 |  |
+| [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 | 2026-01-05 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-13 | 2024-09-29 |
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 | 2021-08-16 | 2021-08-20 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 | 2023-07-28 |
@@ -1832,6 +1832,7 @@
 | [Purple Gas](https://open.spotify.com/track/6iXgIXqpqn13pbw0ZUhf0E) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:00 | 2024-07-05 | 2024-07-08 |
 | [Purple Hearts](https://open.spotify.com/track/401160izncPtca3CmX3dvM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:29 | 2022-05-14 | 2022-05-22 |
 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 | 2025-02-22 | 2025-03-09 |
+| [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2026-01-04 |  |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-21 | 2024-05-19 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-01-08 | 2022-01-28 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-01-27 | 2022-04-12 |

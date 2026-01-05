@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 
 > Freshly squeezed, from concentrate and 100% online.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,177 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,174 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 | 2 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 3 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
 | 4 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
-| 5 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 5 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 6 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 7 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 8 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |

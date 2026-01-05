@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,119 songs - 20 day 15 hr 11 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,121 songs - 20 day 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8127,5 +8127,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8117 | [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 |
 | 8118 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 8119 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
+| 8120 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
+| 8121 | [Confession](https://open.spotify.com/track/1WPnxJgzviOXhHoNCMuyax) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Confession](https://open.spotify.com/album/0IBuzdNhtV5fnJGiUJUj7T) | 5:02 |
 
-Snapshot ID: `AAAKPBccEjlFV7ajVFDgww6jvRwUeEuR`
+Snapshot ID: `AAAKPq0d60e/nhRmFV+LsuenIeIa6ssf`

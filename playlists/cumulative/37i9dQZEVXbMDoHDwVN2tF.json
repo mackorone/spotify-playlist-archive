@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -10127,6 +10127,28 @@
     },
     {
       "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "da\u00f1o",
+      "url": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -11804,7 +11826,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -20564,7 +20586,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -29020,7 +29042,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -31396,7 +31418,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -34738,6 +34760,24 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
       "album": {
@@ -48360,7 +48400,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"

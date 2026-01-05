@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "P",
+        "url": "https://open.spotify.com/album/2iKytyfl8SOZlCk73EMTAa"
+      },
+      "artists": [
+        {
+          "name": "NoFap",
+          "url": "https://open.spotify.com/artist/7iP0M2miLscLy2PCughele"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202792,
+      "name": "P",
+      "url": "https://open.spotify.com/track/0amoXRUE2zKK8BkogS7oDX"
+    },
+    {
+      "album": {
         "name": "Peace Defined",
         "url": "https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN"
       },

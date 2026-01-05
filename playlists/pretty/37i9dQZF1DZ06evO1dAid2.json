@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133456,
+  "num_followers": 133461,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACx3OwAOzvwg2UHvicm7+Kl",
+  "snapshot_id": "aVhcAAAAAADnnV1WDznVZ6daxNUPeMNU",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry",
         "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 137573,
       "name": "Shake, Rattle And Roll",
       "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140466,
-      "name": "I Want To Be Your Driver - Stereo Remix",
-      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 178106,
       "name": "Go Bobby Soxer",
       "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140466,
+      "name": "I Want To Be Your Driver - Stereo Remix",
+      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "Dear Dad - Single Version",
-      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "Dear Dad - Single Version",
+      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
     },
     {
       "added_at": null,

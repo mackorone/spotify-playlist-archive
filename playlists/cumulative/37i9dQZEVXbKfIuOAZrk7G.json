@@ -4790,7 +4790,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -11060,7 +11060,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 127720,
       "name": "Boire du rhum",
       "url": "https://open.spotify.com/track/1CDurQxYZhA0jXcXHtsgDL"
@@ -14234,7 +14234,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -14484,7 +14484,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -17668,10 +17668,40 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 160645,
       "name": "Cry For Me (WA WA WA)",
       "url": "https://open.spotify.com/track/2h2OhhosKCd5mZdshLODic"
+    },
+    {
+      "album": {
+        "name": "Cry For Me (WA WA WA)",
+        "url": "https://open.spotify.com/album/0qW4MxQhcHbar9lJhSnoTs"
+      },
+      "artists": [
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3JTabyqiThBjTu2pYxYIYy"
+        },
+        {
+          "name": "shirobeats",
+          "url": "https://open.spotify.com/artist/0y3LssFqwfFlN5m7k9lvUl"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/7dqssRb43YZMoLDZQIgiSV"
+        },
+        {
+          "name": "Bubi",
+          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Cry For Me (WA WA WA)",
+      "url": "https://open.spotify.com/track/3StSANfcBiRszbP5uP8y0J"
     },
     {
       "album": {
@@ -30527,6 +30557,24 @@
     },
     {
       "album": {
+        "name": "GOING CRAZY",
+        "url": "https://open.spotify.com/album/01gE5DoOX5kRJs5rDSjqvx"
+      },
+      "artists": [
+        {
+          "name": "Ktlyn",
+          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "GOING CRAZY",
+      "url": "https://open.spotify.com/track/1mlO8hhMCe48yPfkSIhXpd"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -40516,7 +40564,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 207102,
       "name": "Ishqa Ve",
       "url": "https://open.spotify.com/track/0febwTwLDSZzrt46i1RBF5"
@@ -74150,7 +74198,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -81450,7 +81498,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 180966,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/4V66RQKxLhRdAFKJgTCJFa"

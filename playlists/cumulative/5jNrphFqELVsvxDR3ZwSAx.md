@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-384 songs - 1 day 0 hr 52 min
+385 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2024-05-01 |  |
 | [Hold On \- Ultimate Mix](https://open.spotify.com/track/7ycuU1aOKJy97VNFkKUSK5) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band \(The Ultimate Collection\)](https://open.spotify.com/album/0nYrjKixKaREskGL449EqU) | 1:52 | 2022-05-18 | 2024-05-02 |
 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 | 2025-03-28 |  |
+| [Honky Tonk Hall Of Fame](https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Cowboys And Dreamers](https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ) | 3:09 | 2026-01-04 |  |
 | [Hypnotique](https://open.spotify.com/track/50EX6KApU1bJEo3MONIOsh) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [A Taste Of India](https://open.spotify.com/album/0THEx7xURkd3lbSjtWTDdP) | 2:46 | 2025-05-23 |  |
 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/1eiz5aP5PmFOdPWOTFND4D) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/73BjTTmhhoiK4MGtINzp2c) | 5:54 | 2022-05-18 | 2024-05-02 |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2025-02-21 | 2025-06-14 |

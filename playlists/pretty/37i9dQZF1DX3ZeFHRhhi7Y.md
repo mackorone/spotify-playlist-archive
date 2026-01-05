@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: aespa\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317,380 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,393 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 26 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 | 27 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 28 | [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 |
-| 29 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
+| 29 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 30 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 31 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
+| 31 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
 | 32 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 |
 | 33 | [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 | 34 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
@@ -54,23 +54,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 44 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
 | 45 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 46 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
-| 47 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
-| 48 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 47 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 48 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
 | 49 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 50 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 |
 | 51 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
-| 52 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
-| 53 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
+| 52 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
+| 53 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
 | 54 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 |
 | 55 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 56 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
-| 57 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
-| 58 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 |
+| 57 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 |
+| 58 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 59 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 60 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
 | 61 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
-| 62 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
-| 63 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
+| 62 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
+| 63 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
 | 64 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 65 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 66 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |

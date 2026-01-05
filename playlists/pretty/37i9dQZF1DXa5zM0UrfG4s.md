@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,612 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,610 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 32 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
 | 33 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 |
 | 34 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
-| 35 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
-| 36 | [Trøbbel](https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Trøbbel](https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw) | 3:13 |
+| 35 | [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 |
+| 36 | [Morra di](https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Morra di](https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR) | 2:42 |
 | 37 | [Heidi](https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Heidi](https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g) | 2:04 |
-| 38 | [Morra di](https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Morra di](https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR) | 2:42 |
-| 39 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
-| 40 | [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 |
-| 41 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
+| 38 | [Trøbbel](https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Trøbbel](https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw) | 3:13 |
+| 39 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
+| 40 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
+| 41 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
 | 42 | [Født i nord](https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Født i nord](https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K) | 2:36 |
 | 43 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 44 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |

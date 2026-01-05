@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,088 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,134 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 25 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 26 | [I, Carrion \(Icarian\)](https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:16 |
 | 27 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
-| 28 | [Nobody's Soldier](https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:57 |
-| 29 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 |
+| 28 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 |
+| 29 | [Nobody's Soldier](https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:57 |
 | 30 | [First Time](https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:53 |
 | 31 | [Hymn to Virgil](https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ) | 3:22 |
 | 32 | [Be \- Acoustic](https://open.spotify.com/track/0U74q2Txx1kpyJ8iB1cFAG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 3:55 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 43 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
 | 44 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `aVcKgAAAAAAkU8XpiQLSvXtrp5pq5qmY`
+Snapshot ID: `aVhcAAAAAAC/SFN5waCsXya/MUdF9lB6`

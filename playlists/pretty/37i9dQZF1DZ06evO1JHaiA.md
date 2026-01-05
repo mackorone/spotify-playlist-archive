@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,069 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 34 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
 | 35 | [Lonely Lonely](https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:18 |
 | 36 | [Give Her a Transplant](https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Gamble Records All\-Stars](https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl) | 2:49 |
-| 37 | [I Hope That We Can Be Together Soon \- Live](https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 4:48 |
+| 37 | [Harold Melvin's Blue Notes Band Introduction With MC \- Live](https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:56 |
 | 38 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
 | 39 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 |
 | 40 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
-| 41 | [Harold Melvin's Blue Notes Band Introduction With MC \- Live](https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:56 |
+| 41 | [I Hope That We Can Be Together Soon \- Live](https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 4:48 |
 | 42 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
 | 43 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
 | 44 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 48 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 |
 | 49 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
 
-Snapshot ID: `aVcKgAAAAACI/MlmPfFxWswPyfapvoZo`
+Snapshot ID: `aVhcAAAAAAAShdlgsoaoiqSVR5fBUR5A`

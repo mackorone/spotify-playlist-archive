@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,723 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,720 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 21 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 22 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
 | 23 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
-| 24 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
-| 25 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
+| 24 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
+| 25 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 26 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 27 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 | 28 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 43 | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC) | 2:59 |
 | 44 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
 | 45 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 |
-| 46 | [Crazy in Love](https://open.spotify.com/track/3M1MbdMOc0MMD9oxsscdtw) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [Discography](https://open.spotify.com/album/2HkYSJxNf8FLikNbc08uFB) | 3:02 |
-| 47 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
+| 46 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
+| 47 | [Crazy in Love](https://open.spotify.com/track/3M1MbdMOc0MMD9oxsscdtw) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [Discography](https://open.spotify.com/album/2HkYSJxNf8FLikNbc08uFB) | 3:02 |
 | 48 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
 | 49 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
 | 50 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |

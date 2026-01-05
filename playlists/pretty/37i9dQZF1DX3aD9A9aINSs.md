@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > EQUAL sunar: Yılın favori kadın sanatçıları\. Kapak: Tuğçe Kandemir
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,788 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,780 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 67 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 |
 | 68 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 |
 | 69 | [Neresindeyiz Aşkın ? \- Söyle](https://open.spotify.com/track/5QipkSi4c2QZnV4uVUqmUp) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Neresindeyiz Aşkın ? \(Söyle\)](https://open.spotify.com/album/3DsdrVubUOKPbgmeimRlFn) | 2:56 |
-| 70 | [Son Diye Bir Şey Yok](https://open.spotify.com/track/2Y9kPIYhVOqVQpTei02KLM) | [Gülay](https://open.spotify.com/artist/7gZAYKgUSYI7tTxx4ak4d0) | [Beyaz Şarkılar](https://open.spotify.com/album/7GtrFvYzR1m0cqHI9s3uzu) | 4:14 |
+| 70 | [Son Diye Bir Şey Yok](https://open.spotify.com/track/2Y9kPIYhVOqVQpTei02KLM) | [Gülay Sezer](https://open.spotify.com/artist/0ACoZOGStT6PgBo4t89eJS) | [Beyaz Şarkılar](https://open.spotify.com/album/7GtrFvYzR1m0cqHI9s3uzu) | 4:14 |
 | 71 | [Kaçıncı](https://open.spotify.com/track/0msc381fDnMsUrxlj0oPPi) | [Rümeysa](https://open.spotify.com/artist/4FH8uYhn6QPw0TPttVqpSY) | [Kaçıncı](https://open.spotify.com/album/61q2X6wBGCwEdpY1ZIWM45) | 2:51 |
 | 72 | [Öteki](https://open.spotify.com/track/5jUJx7g6WbQoChHHMnzlUJ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Öteki](https://open.spotify.com/album/0XvMqA0pq9o5WogJfeD0ge) | 3:38 |
 | 73 | [Diken Diken](https://open.spotify.com/track/3QyjgAH40TpNnJrfPHDKTA) | [Rana Bulut](https://open.spotify.com/artist/1sZiydt08TP2uEpj4NF6tc) | [Diken Diken](https://open.spotify.com/album/06J00cRbGZO6daWzYMkn6T) | 2:37 |

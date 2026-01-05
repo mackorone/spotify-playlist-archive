@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72368,
+  "num_followers": 72369,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Autumn Whispers",
         "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "A Perceptual Process",
         "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
-      },
-      "artists": [
-        {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Quand vous souriez",
         "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "S\u00fcda",
         "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
       },
       "artists": [
         {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -683,6 +667,22 @@
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Nefelibata",
         "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Maybe under some other sky",
-        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
-      },
-      "artists": [
-        {
-          "name": "Shaunta Coburn",
-          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Maybe under some other sky",
-      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+        "name": "Maybe under some other sky",
+        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
       },
       "artists": [
         {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+          "name": "Shaunta Coburn",
+          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
         }
       ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+      "duration_ms": 139500,
+      "name": "Maybe under some other sky",
+      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -883,6 +867,22 @@
       "duration_ms": 77672,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 285374,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "10 Ways Of Canon In D By Johann Pachelbel",
-        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
-      },
-      "artists": [
-        {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
-      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "10 Ways Of Canon In D By Johann Pachelbel",
+        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
+      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1271,50 +1271,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },
       "artists": [
         {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
         }
       ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
-      },
-      "artists": [
-        {
-          "name": "Rand Aldo",
-          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Dream in Eb",
-      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "There Is No Greater Love",
-        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
-      },
-      "artists": [
-        {
-          "name": "A Whisper",
-          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
-        }
-      ],
-      "duration_ms": 154063,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1335,6 +1303,38 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "There Is No Greater Love",
+        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
+      },
+      "artists": [
+        {
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
+        }
+      ],
+      "duration_ms": 154063,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Knowing Myself",
         "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
       },
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Dream in Eb",
+      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1363,54 +1379,6 @@
       "duration_ms": 231148,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "I Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 163126,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
@@ -1463,18 +1447,50 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "I Guess I'll Hang My Tears Out To Dry",
-        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
       },
       "artists": [
         {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
         }
       ],
-      "duration_ms": 163126,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
+      "duration_ms": 228038,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Wake Up In Spring",
+        "url": "https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS"
+      },
+      "artists": [
+        {
+          "name": "Bill Swindon",
+          "url": "https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs"
+        }
+      ],
+      "duration_ms": 153518,
+      "name": "Wake Up In Spring",
+      "url": "https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1499,22 +1515,6 @@
       "duration_ms": 284640,
       "name": "Orfeo et Eurydice: M\u00e9lodie for Piano Solo",
       "url": "https://open.spotify.com/track/3DnLGuX4YU3PGein8vo5Zt"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Wake Up In Spring",
-        "url": "https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS"
-      },
-      "artists": [
-        {
-          "name": "Bill Swindon",
-          "url": "https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs"
-        }
-      ],
-      "duration_ms": 153518,
-      "name": "Wake Up In Spring",
-      "url": "https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "The Giant",
-        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
-      },
-      "artists": [
-        {
-          "name": "Dilia",
-          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
-        }
-      ],
-      "duration_ms": 183686,
-      "name": "The Giant",
-      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
+      },
+      "artists": [
+        {
+          "name": "Dilia",
+          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
+        }
+      ],
+      "duration_ms": 183686,
+      "name": "The Giant",
+      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

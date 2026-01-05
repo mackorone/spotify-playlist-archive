@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,628 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,634 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 14 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 15 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 |
 | 16 | [To Build A Home](https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 6:11 |
-| 17 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
-| 18 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 17 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 18 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 19 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
 | 20 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 |
 | 21 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 58 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
 | 59 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 |
 | 60 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
-| 61 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
-| 62 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 61 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 62 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
 | 63 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 64 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
 | 65 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 72 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 | 73 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
 | 74 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
-| 75 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
-| 76 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |
+| 75 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |
+| 76 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
 | 77 | [Curse The Man](https://open.spotify.com/track/5rLh6WWpAbDcJrT9qwmSM3) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:34 |
 | 78 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 79 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 87 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 |
 | 88 | [love is a black hole !](https://open.spotify.com/track/28cQ6woa2DeOICa4Qefaje) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [love is a black hole !](https://open.spotify.com/album/16d3wulra6dX9bVyENqGPU) | 3:29 |
 | 89 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
-| 90 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
-| 91 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
+| 90 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
+| 91 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
 | 92 | [Timing](https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z) | [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t) | [Timing](https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p) | 3:34 |
 | 93 | [The Past And Pending](https://open.spotify.com/track/406DlQKEhXubIyV4bgH2nM) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 5:23 |
 | 94 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,054 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,065 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 11 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 12 | [The Edge Of Glory](https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:20 |
 | 13 | [Fastlove, Pt\. 1](https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:24 |
-| 14 | [Can't Smile Without You](https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Even Now](https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV) | 3:13 |
-| 15 | [I Only Want To Be With You](https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You \(Expanded Edition\)](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:38 |
+| 14 | [I Only Want To Be With You](https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You \(Expanded Edition\)](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:38 |
+| 15 | [Can't Smile Without You](https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Even Now](https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV) | 3:13 |
 | 16 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 17 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
 | 18 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |

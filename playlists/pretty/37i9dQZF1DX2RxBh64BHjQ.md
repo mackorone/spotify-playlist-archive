@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4nqQTosM2Mbg7iRjvJU0N0">Samara Cyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,750,179 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,749,976 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
 | 100 | [Cowhide Boots](https://open.spotify.com/track/7uXq8InkgUyfZ4nMrXPPx4) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [BALLER ACADEMY \(Deluxe\)](https://open.spotify.com/album/1udyYEKChJUfSJH6OBEs5j) | 3:04 |
 
-Snapshot ID: `AAAAACTvojfQ5008/Ox+qyQMg7CMGGz3`
+Snapshot ID: `AAAAAC08gyVYHYIzfWjgykcLZmRj/b6r`

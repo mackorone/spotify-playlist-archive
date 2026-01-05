@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 
 > ¡Baila con los mejores éxitos de los 90! Ricky Martin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,500 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,005 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 16 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 |
 | 17 | [Fruta Fresca](https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:53 |
 | 18 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 |
-| 19 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
-| 20 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 19 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 20 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
 | 21 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 |
 | 22 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 23 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 31 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 |
 | 32 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
 | 33 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
-| 34 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
-| 35 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 34 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 35 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
 | 36 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
 | 37 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
 | 38 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |

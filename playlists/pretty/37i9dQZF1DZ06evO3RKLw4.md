@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,963 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,966 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
 | 2 | [Fall Back Down](https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:43 |
 | 3 | [Radio](https://open.spotify.com/track/6tlRgNME7ULlY5OcvRdgYn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:51 |
-| 4 | [Got Each Other](https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
+| 4 | [Bloodclot](https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:45 |
 | 5 | [Ruby Soho](https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:37 |
 | 6 | [Red Hot Moon](https://open.spotify.com/track/3a0PmAzfzQfCZFGWkqQ2vi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:36 |
-| 7 | [Bloodclot](https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:45 |
+| 7 | [Got Each Other](https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
 | 8 | [Side Kick](https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:01 |
 | 9 | [Roots Radical](https://open.spotify.com/track/3KXzazIiJfhSO8LrKmWVAR) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:47 |
 | 10 | [Out of Control](https://open.spotify.com/track/5qwuP7ijQePKsUl8zSJUBD) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 1:41 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 39 | [Collision Course](https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 1:57 |
 | 40 | [Detroit](https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:24 |
 | 41 | [Live Forever](https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:21 |
-| 42 | [Sex & Death](https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Sex & Death](https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2) | 2:04 |
-| 43 | [Corazon De Oro](https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:58 |
+| 42 | [Corazon De Oro](https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:58 |
+| 43 | [Sex & Death](https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Sex & Death](https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2) | 2:04 |
 | 44 | [Dominoes Fall](https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:43 |
 | 45 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 |
 | 46 | [Don Giovanni](https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 0:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [New American](https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:37 |
 | 50 | [Antennas](https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:10 |
 
-Snapshot ID: `aVcKgAAAAAAS/wPaK5InkBG/lsuvcM8f`
+Snapshot ID: `aVhcAAAAAADX8zB9IZYEoI3d5hs5ixP3`

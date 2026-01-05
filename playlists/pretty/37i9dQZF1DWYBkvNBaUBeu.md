@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,304 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,314 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

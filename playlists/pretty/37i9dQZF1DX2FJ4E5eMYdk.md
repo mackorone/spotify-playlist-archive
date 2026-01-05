@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,435 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,454 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 27 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 |
 | 28 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 29 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
-| 30 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
-| 31 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
+| 30 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
+| 31 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
 | 32 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
 | 33 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
 | 34 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 44 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 45 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 46 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
-| 47 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
-| 48 | [250 Miles](https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO) | 4:52 |
+| 47 | [250 Miles](https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO) | 4:52 |
+| 48 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
 | 49 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
 | 50 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
 | 51 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 |

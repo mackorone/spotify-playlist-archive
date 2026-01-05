@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 307 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009 likes - 307 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 87 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 |
 | 88 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
 | 89 | [Unforgettable](https://open.spotify.com/track/5LZ0ZCRXrklIpnzn4Tcyde) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:33 |
-| 90 | [Ratchet Happy Birthday](https://open.spotify.com/track/4SUwJA3eUVNHExxMPEUhQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:27 |
-| 91 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
+| 90 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
+| 91 | [Ratchet Happy Birthday](https://open.spotify.com/track/4SUwJA3eUVNHExxMPEUhQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:27 |
 | 92 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
 | 93 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
 | 94 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/52lJC8UndX32dECyJlRGSJ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:54 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 218 | [I Don't Really Care](https://open.spotify.com/track/0pETxJHPurwOfi6Iaw4Esx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:40 |
 | 219 | [Touch Down](https://open.spotify.com/track/6jB56tohVWjdqkfNv4RS7s) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:55 |
 | 220 | [Too Much](https://open.spotify.com/track/54DLSGZBdEiK4WKMfpkhPj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Too Much](https://open.spotify.com/album/3FvLcPYFfHk5KkGrFqTY6c) | 2:49 |
-| 221 | [Put It Down](https://open.spotify.com/track/4TExSQ69GkXwxbfBzToc2c) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 4:32 |
-| 222 | [BLAME IT ON SET](https://open.spotify.com/track/1IbxylXUqdrkToPnGoUUQV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:58 |
+| 221 | [BLAME IT ON SET](https://open.spotify.com/track/1IbxylXUqdrkToPnGoUUQV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:58 |
+| 222 | [Put It Down](https://open.spotify.com/track/4TExSQ69GkXwxbfBzToc2c) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 4:32 |
 | 223 | [Save Me Now](https://open.spotify.com/track/7mWO4OfLGrElqWC4e0Ym5G) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SAY](https://open.spotify.com/album/59VTzGT8wFh1DAThgrIGS9) | 2:40 |
 | 224 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 |
 | 225 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 306 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 307 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcF/mgAAAAAKHoy27MB/zUfOwSq4ekOt`
+Snapshot ID: `AcGFOgAAAACagjQNpZBLBJjbnaVQZSaQ`

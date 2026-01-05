@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,281 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,296 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 14 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
 | 15 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 16 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
-| 17 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
+| 17 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 |
 | 18 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 | 19 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
 | 20 | [Thanksgiving](https://open.spotify.com/track/25t6bjwvAf90lKj2c2cFxW) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Thanksgiving](https://open.spotify.com/album/40LLVGCHtepelvSvLvhqHR) | 18:34 |
 | 21 | [Yahweh](https://open.spotify.com/track/2XEnKPHU13Jyz95z8rETwv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Songs of the Spirit](https://open.spotify.com/album/5MgNmvdoouYvbg05neKNkv) | 5:07 |
-| 22 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 |
+| 22 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
 | 23 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
 | 24 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
 | 25 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
 | 47 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 48 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
-| 49 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
-| 50 | [DND](https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [DND](https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX) | 2:43 |
+| 49 | [DND](https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [DND](https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX) | 2:43 |
+| 50 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
 
 Snapshot ID: `AAAAABI1XlqiFGGCqNZ+PEaAQdhRdtCp`

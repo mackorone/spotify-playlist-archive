@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Jesse Welles
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,054 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,064 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 49 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 50 | [Como Quisiera Quererte](https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 4:18 |
 | 51 | [Watercress](https://open.spotify.com/track/2ZYcvvd4uVCiUcyOROzYg6) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:48 |
-| 52 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 52 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 53 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 54 | [I Saw The Mountains](https://open.spotify.com/track/1oCq8r5E1naIkqBRXJLwZA) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 4:24 |
 | 55 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,064 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,081 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 23 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 24 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
 | 25 | [不在乎](https://open.spotify.com/track/1t2mpO9GpLjRHDDX6SFWRn) | [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [我很抱歉](https://open.spotify.com/album/7FwNRozMaUvL25aFY6Nlif) | 3:27 |
-| 26 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
+| 26 | [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 |
 | 27 | [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 |
-| 28 | [PSYCHO](https://open.spotify.com/track/491ca80N1C63tpoLvAsLKb) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:15 |
+| 28 | [PSYCHO](https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:15 |
 | 29 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
 | 30 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 31 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 44 | [愚人節快樂](https://open.spotify.com/track/3bQeHxH1x4pVUfsRpuLAlH) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:18 |
 | 45 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 46 | [珊瑚海](https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 4:16 |
-| 47 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
+| 47 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 48 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/5doooVlMVRZztQbySqARMI) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:31 |
 | 49 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 |
 | 50 | [number one girl](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:36 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

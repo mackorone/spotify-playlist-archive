@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,873 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,891 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 26 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
 | 27 | [OM Meditation Music Relax Your Mind Body](https://open.spotify.com/track/4GyOg0iHTbEik4LCZu6RQz) | [Medi Tuner](https://open.spotify.com/artist/2N7oZ9w6xVBUsouT8OP7Ey) | [OM Meditation Music Relax Your Mind Body](https://open.spotify.com/album/79yj92Je5jJOVUXQhIpqtu) | 5:52 |
 | 28 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
-| 29 | [Gratitude](https://open.spotify.com/track/1NpxfZWhuax4NJnDuVFkp1) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Bliss \- Reiki Healing](https://open.spotify.com/album/7J9d9X7QYwhQ3RDcrWryFA) | 9:56 |
-| 30 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/0i2Fbuq612ktsHdQHAzV51) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
-| 31 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |
-| 32 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
+| 29 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/0i2Fbuq612ktsHdQHAzV51) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
+| 30 | [Gratitude](https://open.spotify.com/track/1NpxfZWhuax4NJnDuVFkp1) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Bliss \- Reiki Healing](https://open.spotify.com/album/7J9d9X7QYwhQ3RDcrWryFA) | 9:56 |
+| 31 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
+| 32 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |
 | 33 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
 | 34 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 35 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 43 | [Svadisthana Chakra \- Sacral Chakra Balance Sexual Energy](https://open.spotify.com/track/1M5hjYDnYaA9IBhwv5Dnk7) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [1 Hour Chakra Healing \(Chakra Balancing for Meditation with 432HZ Music and Sounds of Nature\)](https://open.spotify.com/album/0qoeKz2bEZ5B1p0hbJstIo) | 9:03 |
 | 44 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
 | 45 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
-| 46 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
-| 47 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
-| 48 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
+| 46 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
+| 47 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
+| 48 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 49 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 50 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 51 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |

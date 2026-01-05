@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Jasiel Nu\u00f1ez en portada ",
-  "num_followers": 820138,
+  "num_followers": 820211,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGRkGzoUOoPCNrt17fdu6Pvsa3A",
+  "snapshot_id": "AAAAALt6jeztlVI+c+I+33XUnZtlBivx",
   "tracks": [
     {
       "added_at": "2025-12-26 06:00:10",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
+        "name": "Por Esos Ojos",
+        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 248217,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
-        "name": "Por Esos Ojos",
-        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Por Esos Ojos",
-      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 186494,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
-        "name": "100/10",
-        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 158634,
-      "name": "100/10",
-      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
         "name": "Si Te Quedas",
         "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 175748,
       "name": "Si Te Quedas",
       "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 156470,
       "name": "PERDIDO",
       "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "Acto Seguido",
-        "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
+        "name": "Pens\u00e9 En Ti",
+        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
         }
       ],
-      "duration_ms": 184921,
-      "name": "Acto Seguido",
-      "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
+      "duration_ms": 152599,
+      "name": "Pens\u00e9 En Ti",
+      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -1139,38 +1135,22 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "Pens\u00e9 En Ti",
-        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
+        "name": "Acto Seguido",
+        "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152599,
-      "name": "Pens\u00e9 En Ti",
-      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
         }
       ],
-      "duration_ms": 158146,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+      "duration_ms": 184921,
+      "name": "Acto Seguido",
+      "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -1191,6 +1171,26 @@
       "duration_ms": 171613,
       "name": "El Despertador",
       "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "R\u00d8Z \u2013 Spotify Sessions",
-        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 293166,
-      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
-      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
         "name": "Y SI TE VAS",
         "url": "https://open.spotify.com/album/5TgDIHQBUUuFbsdCMEOyrL"
       },
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
         "name": "Mi Mu\u00f1equita",
         "url": "https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy"
       },
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "Velas",
-        "url": "https://open.spotify.com/album/26R4zzccMTLiD6PXKkPjti"
+        "name": "PERRA MADRE",
+        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 183387,
-      "name": "Velas",
-      "url": "https://open.spotify.com/track/30XtLd1cxbWxzodM8lXrIS"
+      "duration_ms": 199459,
+      "name": "PERRA MADRE",
+      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
     }
   ],
   "unique_name": "Top M\u00e9xico",

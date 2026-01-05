@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Barto & Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,261 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,278 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 10 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 11 | [Mia](https://open.spotify.com/track/1ZPeSzZF4QEJGzoRvUYCsD) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Mia](https://open.spotify.com/album/0woBrKyICWHjG0aORTpRpQ) | 4:12 |
 | 12 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
-| 13 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
+| 13 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
 | 14 | [Dreuning Op Die Berge](https://open.spotify.com/track/0LBpaRFcJkNEscpNZP9bsn) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Dreuning Op Die Berge](https://open.spotify.com/album/5JtJLs4gH9FmVI9M0ZYLc6) | 4:45 |
 | 15 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 16 | [Huistoe](https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Huistoe](https://open.spotify.com/album/0p6nIwlKcyHUXJBkNNmanH) | 3:45 |
-| 17 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
+| 17 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
 | 18 | [Yellow Banana](https://open.spotify.com/track/46oAuHs7nOWN2GBQft0o59) | [Robbie Perrott](https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K) | [Yellow Banana](https://open.spotify.com/album/0gD7gnOb9mK6qeQfMWuIjp) | 5:33 |
 | 19 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 20 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 21 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 21 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 22 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 23 | [By Die See \(feat\. Vreemd\)](https://open.spotify.com/track/4xAVIM3kla3rH8gaBg4IZq) | [SHY!](https://open.spotify.com/artist/7lsZGTHjhhQdoxIeBkiKAh), [Vreemd](https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9) | [By Die See \(feat\. Vreemd\)](https://open.spotify.com/album/56f1brEoYkmMaWpjF3ClDu) | 2:52 |
 | 24 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |

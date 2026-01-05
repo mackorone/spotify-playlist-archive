@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48877,
+  "num_followers": 48879,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAA0OYhtA+530VOQFm59+Zc+",
+  "snapshot_id": "aVhcAAAAAAD/jLtcRY3oKTj3vm3MKdM0",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 203253,
-      "name": "My Best Theory",
-      "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
+      "duration_ms": 221174,
+      "name": "555",
+      "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221174,
-      "name": "555",
-      "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
+      "duration_ms": 203253,
+      "name": "My Best Theory",
+      "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Movielike",
-      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+      "duration_ms": 193387,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 184781,
-      "name": "Surviving",
-      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 209640,
       "name": "Blister",
       "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 184781,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 193387,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 219906,
       "name": "Claire",
       "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 191257,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 191257,
-      "name": "Criminal Energy",
-      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 180800,
       "name": "Call It In The Air",
       "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 174343,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Love Never",
-      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
     },
     {
       "added_at": null,

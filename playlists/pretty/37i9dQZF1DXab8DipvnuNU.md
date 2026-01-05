@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,888 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,898 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 10 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 11 | [Remember the Time](https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:00 |
 | 12 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
-| 13 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 13 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 14 | [Boogie Wonderland \(with The Emotions\)](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
-| 15 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
+| 15 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 16 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:58 |
 | 17 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
 | 18 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 70 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 |
 | 71 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/5thts3213xwSroRd11fv5A) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:56 |
 | 72 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
-| 73 | [Boots on the Ground](https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp) | [Boots on the Ground](https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii) | 3:23 |
-| 74 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
+| 73 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
+| 74 | [Boots on the Ground](https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp) | [Boots on the Ground](https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii) | 3:23 |
 | 75 | [Back That Thang Up](https://open.spotify.com/track/5jbKpvtoxZB14tbnBafMuL) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Greatest Hits](https://open.spotify.com/album/3XS9BzpsYg7dSiDvTnijks) | 4:33 |
 
 Snapshot ID: `AAAAAMA1N42N7bR52HyNNrnPgbJvuw+E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,393 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,399 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 20 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
 | 21 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 22 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
-| 23 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
-| 24 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
+| 23 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
+| 24 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
 | 25 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
 | 26 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
 | 27 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 42 | [Nation of Truth](https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Nation of Truth](https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2) | 3:40 |
 | 43 | [What's the Secret?](https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 2:49 |
 | 44 | [Fly Away](https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR) | [Starling Arrow](https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d), [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1), [Tina Malia](https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2), [Chloe Smith](https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg), [Leah Song](https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Fly Away](https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm) | 4:34 |
-| 45 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
-| 46 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 |
+| 45 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 |
+| 46 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
 | 47 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
 | 48 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
 | 49 | [Red Road Soul](https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG) | [Red Road Soul](https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y) | 5:15 |

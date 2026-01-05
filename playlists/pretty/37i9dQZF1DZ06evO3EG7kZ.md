@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,460 likes - 27 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,465 likes - 27 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 26 | [Onesies](https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Onesies](https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3) | 3:24 |
 | 27 | [Escape](https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 2:42 |
 
-Snapshot ID: `aVcKgAAAAACLXPMQ6z7eCb1GQU2XVbIz`
+Snapshot ID: `aVhcAAAAAABNpIImQf4TqKQYUVOnWyqd`

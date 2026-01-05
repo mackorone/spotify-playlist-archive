@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,822 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,826 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 33 | [Party! Party! PaPaPaParty!](https://open.spotify.com/track/671VDfkihffwDZBz56nZ5P) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:29 |
 | 34 | [Waku\-Waku\-Week!](https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY) | [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
 | 35 | [近未来ハッピーエンド](https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 5:10 |
-| 36 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
-| 37 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
+| 36 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
+| 37 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 | 38 | [ときめき分類学](https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 4:51 |
 | 39 | [PURE PHRASE](https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album 〜Pianoforte Monologue〜](https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb) | 5:10 |
 | 40 | [One More Sunshine Story](https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 4:31 |

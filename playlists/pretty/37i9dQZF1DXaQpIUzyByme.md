@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,611 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,631 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 30 | [Iedereen Is Van De Wereld](https://open.spotify.com/track/7DiNSKlP2d7OiiMNlSeBtb) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 3:46 |
 | 31 | [Niemand In De Stad](https://open.spotify.com/track/03aukU1sYTGD7bE5mypWWe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 4:51 |
 | 32 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5SO1xQrOt9JfiLsNmp2Ha8) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 2:41 |
-| 33 | [Hemel & Aarde](https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Meer Dan Ooit](https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr) | 3:01 |
-| 34 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 |
+| 33 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 |
+| 34 | [Hemel & Aarde](https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Meer Dan Ooit](https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr) | 3:01 |
 | 35 | [Blijf Bij Mij](https://open.spotify.com/track/0FK2Df3QM8sXfNGghddAaC) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Ruth Jacott](https://open.spotify.com/album/1vnvBTPGwL1lJGZqHJvJTr) | 2:59 |
 | 36 | [Blijf Bij Mij](https://open.spotify.com/track/46JficY43b896FGzy0cAKH) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Wakker](https://open.spotify.com/album/1pMpfVivqsNgsF5mR7Y0bG) | 3:29 |
 | 37 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,042 likes - 222 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,044 likes - 222 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 19 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 |
 | 20 | [Call You Mine](https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:37 |
 | 21 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
-| 22 | [For You \(With Rita Ora\)](https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 4:02 |
-| 23 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 22 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 23 | [For You \(With Rita Ora\)](https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 4:02 |
 | 24 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 |
 | 25 | [Die For Me \(feat\. Future & Halsey\)](https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 4:05 |
 | 26 | [THOUSAND MILES](https://open.spotify.com/track/5pFfMng1YFOQjFtBiRgLmD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:44 |
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 221 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 222 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcF/mgAAAAACxpmbgAtAKnoeVjKYIyLd`
+Snapshot ID: `AcGFOgAAAACA8cRd+jEyGWkSJMmgOC/P`

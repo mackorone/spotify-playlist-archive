@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of songs! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_GoodMorning\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-376 songs - 20 hr 15 min
+377 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2023-12-01 | 2024-03-25 |
 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 | 2024-11-18 | 2025-01-27 |
 | [Ingrained \(DNA\)](https://open.spotify.com/track/0M3JmNdhwKC2LPONbjvZfT) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 2:57 | 2025-11-15 |  |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-04 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2024-02-23 | 2024-04-20 |
 | [JACK’S HILL DREAMERS \(feat\. Skip Marley\)](https://open.spotify.com/track/6DKqyghUb45KpVKPrdfhfJ) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [WHAT HAVE I 'DON](https://open.spotify.com/album/4bKmN0R2almeBPvyFM2mph) | 2:25 | 2024-11-18 | 2025-02-23 |
 | [July](https://open.spotify.com/track/182uGchKGo895i2gKMuxTu) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 1](https://open.spotify.com/album/3lNfx7ftaV1O1OOQbmhYOZ) | 3:00 | 2023-12-01 | 2024-02-24 |
@@ -316,7 +317,7 @@
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-17 | 2024-04-17 |
 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 | 2023-12-01 | 2024-02-24 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-24 | 2025-03-10 |
-| [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-15 |  |
+| [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 | 2025-11-15 | 2026-01-05 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-26 |  |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-13 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-13 |  |

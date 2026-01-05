@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 188 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 188 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 168 | [Face The Music](https://open.spotify.com/track/1BEE0Pu5aamUeLi4s9pjPm) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [The Black Box](https://open.spotify.com/album/2eYRi6t0GbWNxhLY8r7IPT) | 3:24 |
 | 169 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
 | 170 | [Be With You](https://open.spotify.com/track/7LHuqudAcRuiCjhRE7DvuY) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:33 |
-| 171 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 |
-| 172 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
+| 171 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
+| 172 | [MVP](https://open.spotify.com/track/3sypCr4jYSJSfOIwxNRsrD) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:21 |
 | 173 | [Diamonds](https://open.spotify.com/track/5rabFrRfemSqSsPGWib3f3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:21 |
 | 174 | [Just Like That](https://open.spotify.com/track/1ZHJT6nKBgeDdCOYkiIJe4) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:33 |
 | 175 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 187 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 | 188 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 
-Snapshot ID: `AcF/mgAAAABF35YBzqhDejdJvmMfd9gL`
+Snapshot ID: `AcGFOgAAAADUrMxBd0m/xwMBNgnYfIqx`

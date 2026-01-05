@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,565 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,526 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 24 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 25 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 26 | [Send Me On My Way](https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [When I Woke](https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf) | 4:23 |
-| 27 | [Repeat Until Death](https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:54 |
-| 28 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 27 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 28 | [Repeat Until Death](https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:54 |
 | 29 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
 | 30 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
 | 31 | [Live Well](https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 4:09 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 35 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 36 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 37 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 |
-| 38 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 |
-| 39 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
+| 38 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
+| 39 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 |
 | 40 | [New Home](https://open.spotify.com/track/707BRCe5feUySwv7141QeA) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home](https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj) | 2:06 |
 | 41 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 42 | [Anyway](https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 5:12 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 78 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 79 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 |
 | 80 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 81 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 |
-| 82 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 81 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 82 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 |
 | 83 | [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 |
 | 84 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 |
 | 85 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 119 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 |
 | 120 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 121 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 |
-| 122 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 |
-| 123 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
+| 122 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
+| 123 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 |
 | 124 | [It's You That Makes Me](https://open.spotify.com/track/591wWiv6D0i0NTlhvW5K0Q) | [Prince of Spain](https://open.spotify.com/artist/74VzIfFnhg12C4WnT6aLh1) | [It's You That Makes Me](https://open.spotify.com/album/3QVMLasdYIHAvypH7mMrGI) | 5:14 |
 | 125 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
 

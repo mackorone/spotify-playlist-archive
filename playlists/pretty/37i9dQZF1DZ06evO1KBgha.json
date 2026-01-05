@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 370893,
+  "num_followers": 371367,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABGJPW6YjucobMk0j4khBrg",
+  "snapshot_id": "aVhcAAAAAAARd15jYuUszOHKK3xMpRjB",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripper",
-        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166181,
-      "name": "Stripper",
-      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 169640,
       "name": "Una Nada M\u00e1s",
       "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stripper",
+        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
     },
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kenia Roast Yourself",
-        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
       "artists": [
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 236288,
-      "name": "Kenia Roast Yourself",
-      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+        "name": "Kenia Roast Yourself",
+        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
       },
       "artists": [
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+      "duration_ms": 236288,
+      "name": "Kenia Roast Yourself",
+      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,569 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,619 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Tu Mirada, Tu Pelo, Y Tu Boca\(La Playa\)](https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4) | 3:01 |
 | 50 | [Mi Gusto Es \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:04 |
 
-Snapshot ID: `aVcKgAAAAABoaPXgajz9zG5k9LaDGpBS`
+Snapshot ID: `aVhcAAAAAABw7FzEaIe1Yf/DfROucQaU`

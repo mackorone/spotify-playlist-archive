@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 176982,
+  "num_followers": 177044,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Nijamellam Maranthupochu",
+      "url": "https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Chellamma (From \"Doctor\")",
         "url": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 236500,
       "name": "Chellamma (From \"Doctor\")",
       "url": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Nijamellam Maranthupochu",
-      "url": "https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d"
     },
     {
       "added_at": "2021-08-02 09:30:31",

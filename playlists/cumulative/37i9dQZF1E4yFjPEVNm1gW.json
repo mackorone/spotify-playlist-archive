@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "DAMN HOMIE (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/3YJP7MFR6D4R1zFDXmv35p"
@@ -718,6 +718,28 @@
       "duration_ms": 153750,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/6UlMJm6W9ejt7WaSZgwN9N"
+    },
+    {
+      "album": {
+        "name": "Great White",
+        "url": "https://open.spotify.com/album/0jvmiGfGsEj1PjfOoP2WQF"
+      },
+      "artists": [
+        {
+          "name": "Lil Zah",
+          "url": "https://open.spotify.com/artist/2RHRcmzg69Qi8tfiBT6DKG"
+        },
+        {
+          "name": "Lukey Sunshine",
+          "url": "https://open.spotify.com/artist/4gaqT1cSWzHMtf8uextSzZ"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143511,
+      "name": "Great White",
+      "url": "https://open.spotify.com/track/7Audfj7uXjCpZJbmu2ULut"
     },
     {
       "album": {
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 125860,
       "name": "Neck",
       "url": "https://open.spotify.com/track/7cf1ajZuGKZA0tj7RxB8xs"
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 110545,
       "name": "Spectacular 2",
       "url": "https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf"

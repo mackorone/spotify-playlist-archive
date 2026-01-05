@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -7200,7 +7200,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -26484,7 +26484,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
@@ -29584,7 +29584,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
@@ -33700,7 +33700,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -42544,7 +42544,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
@@ -43052,6 +43052,24 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "album": {
@@ -62936,7 +62954,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"

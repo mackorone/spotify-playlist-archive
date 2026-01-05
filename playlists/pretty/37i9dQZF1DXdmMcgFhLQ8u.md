@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,533 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,542 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 71 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 72 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 73 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
-| 74 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
-| 75 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
+| 74 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
+| 75 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 
 Snapshot ID: `AAAAALVvTuHBrL71MO/4j/wqDuv+KSeZ`

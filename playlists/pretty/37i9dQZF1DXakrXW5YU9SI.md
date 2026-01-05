@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,921 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,920 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 26 | [płuca](https://open.spotify.com/track/2TxsC8ggcshcT7ldo9Oj0f) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [płuca](https://open.spotify.com/album/2nleTUCQmlHT1NFDgCL8LN) | 4:00 |
 | 27 | [Landline](https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Landline](https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR) | 3:04 |
 | 28 | [warszawska fantazja](https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [warszawska fantazja](https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT) | 3:23 |
-| 29 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 30 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
+| 29 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
+| 30 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 31 | [Plastelina](https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Plastelina](https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24) | 5:11 |
 | 32 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
-| 33 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
-| 34 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
-| 35 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
+| 33 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
+| 34 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
+| 35 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
 | 36 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 37 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 |
 | 38 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
-| 39 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
-| 40 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
-| 41 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 |
-| 42 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
+| 39 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
+| 40 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
+| 41 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
+| 42 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 |
 | 43 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
 | 44 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
 | 45 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |

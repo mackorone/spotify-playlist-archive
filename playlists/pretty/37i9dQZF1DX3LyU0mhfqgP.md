@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,094 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,051 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

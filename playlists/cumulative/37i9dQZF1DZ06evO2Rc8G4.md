@@ -4,7 +4,7 @@
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 27 min
+61 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 | 2025-10-28 |  |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2025-10-28 |  |
 | [Edge Of Saturday Night \- Live From The Tension Tour](https://open.spotify.com/track/17k5HNAL6ZVG95IxZmoreo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:17 | 2025-10-28 | 2025-10-31 |
-| [Especially for You](https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Greatest Hits](https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh) | 4:00 | 2025-10-28 |  |
+| [Especially for You](https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Greatest Hits](https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh) | 4:00 | 2025-10-28 | 2026-01-05 |
+| [Especially for You](https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Especially for You](https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP) | 4:00 | 2026-01-05 |  |
 | [Get Outta My Way](https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:38 | 2025-10-28 |  |
 | [Good As Gone](https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 3:09 | 2025-10-28 |  |
 | [Higher](https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:07 | 2025-10-28 |  |

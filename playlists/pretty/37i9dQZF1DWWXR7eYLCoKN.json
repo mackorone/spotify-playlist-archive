@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 166286,
+  "num_followers": 166326,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
+        "name": "Alvorecer",
+        "url": "https://open.spotify.com/album/0qUIkMMgwIfJGNazMU8Ux4"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "Conto De Areia",
+      "url": "https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
-        "name": "Alvorecer",
-        "url": "https://open.spotify.com/album/0qUIkMMgwIfJGNazMU8Ux4"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "Conto De Areia",
-      "url": "https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA"
     },
     {
       "added_at": "2025-11-25 18:58:58",

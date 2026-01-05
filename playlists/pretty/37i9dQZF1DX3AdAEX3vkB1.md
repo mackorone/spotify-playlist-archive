@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,351 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,465 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 49 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 50 | [Sunshine, Lollipops And Rainbows](https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 1:36 |
 | 51 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
-| 52 | [The House of the Rising Sun](https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The House of the Rising Sun: Best of The Animals](https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg) | 4:29 |
-| 53 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
+| 52 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
+| 53 | [The House of the Rising Sun](https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The House of the Rising Sun: Best of The Animals](https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg) | 4:29 |
 | 54 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 55 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 56 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
@@ -129,10 +129,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 119 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
 | 120 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Keep On Running](https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h) | 2:53 |
 | 121 | [Carrie Anne](https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:55 |
-| 122 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 |
-| 123 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
-| 124 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
-| 125 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
+| 122 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
+| 123 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 |
+| 124 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
+| 125 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
 | 126 | [Bus Stop](https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:54 |
 | 127 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [The 50th Anniversary Collection](https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8) | 2:46 |
 | 128 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 |

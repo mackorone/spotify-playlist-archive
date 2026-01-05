@@ -1,6 +1,6 @@
 {
   "description": "Every summer needs a soundtrack. \ud83d\udc0a\ud83c\udf1e",
-  "num_followers": 85536,
+  "num_followers": 85525,
   "original_name": "Summer Hits 2025",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,38 @@
     {
       "added_at": "2025-08-01 04:00:30",
       "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "party 4 u",
+      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+    },
+    {
+      "added_at": "2025-08-01 04:00:30",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "added_at": "2025-08-01 04:00:30",
+      "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -359,38 +391,6 @@
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
       "added_at": "2025-08-01 04:00:30",

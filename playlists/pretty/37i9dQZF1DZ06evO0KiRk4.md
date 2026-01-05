@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,974 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,010 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 49 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 |
 | 50 | [Only If For A Night](https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:58 |
 
-Snapshot ID: `aVcKgAAAAADe5s7O4MeKdVYAOvsJukNp`
+Snapshot ID: `aVhcAAAAAABbCQMpnz4V/XNXC3q3dQ3E`

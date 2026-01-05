@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,021 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,027 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 10 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 |
 | 11 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 |
 | 12 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 |
-| 13 | [Is Dat Nou Echt?](https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD) | 2:28 |
+| 13 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 |
 | 14 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 |
-| 15 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 |
+| 15 | [Is Dat Nou Echt?](https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD) | 2:28 |
 | 16 | [Slaaptekort](https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Slaaptekort](https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b) | 2:37 |
 | 17 | [Offline Beschikbaar](https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Offline Beschikbaar](https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8) | 2:27 |
 | 18 | [Baldadig](https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Baldadig](https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW) | 2:23 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 24 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 | 25 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 
-Snapshot ID: `aVcKgAAAAAAgSB0Pbn3m+yKJ3/ZIwgm7`
+Snapshot ID: `aVhcAAAAAAC4gzk4HbNEr+WoYeBdYuLS`

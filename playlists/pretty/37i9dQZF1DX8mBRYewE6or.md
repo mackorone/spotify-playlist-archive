@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 
 > dá play que a bagunça organizada tá liberada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,934 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,831 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 | 33 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 34 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 35 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
-| 36 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
-| 37 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
+| 36 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
+| 37 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
 | 38 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 39 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 40 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 |

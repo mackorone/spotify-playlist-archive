@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > The Latin soundtrack of the 70s! Cover: Julio Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,287 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,324 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 43 | [Dejenme Si Estoy Llorando](https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:01 |
 | 44 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 |
 | 45 | [Por un Amor](https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:27 |
-| 46 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 47 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
+| 46 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
+| 47 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 48 | [Qué Será](https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Serie Platino](https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ) | 3:29 |
 | 49 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
 | 50 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > My name is pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,496 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,581 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 50 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 |
 | 51 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
 | 52 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
-| 53 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 54 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
+| 53 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
+| 54 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 55 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
 | 56 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 |
 | 57 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |

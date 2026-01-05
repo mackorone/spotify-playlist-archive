@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,465 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,567 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 17 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 18 | [Down On The Corner](https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:46 |
 | 19 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
-| 20 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
+| 20 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 21 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 |
 | 22 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 23 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 |
 | 24 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
-| 25 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
+| 25 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 | 26 | [Born On The Bayou](https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 5:15 |
 | 27 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 28 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 45 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
 | 46 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 |
 | 47 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
-| 48 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
-| 49 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
+| 48 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
+| 49 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
 | 50 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 |
 | 51 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 52 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |

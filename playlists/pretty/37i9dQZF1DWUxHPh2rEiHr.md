@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: BIA & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,245 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,252 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 4 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 5 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 6 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 7 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
-| 8 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
+| 7 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
+| 8 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 9 | [Gabriela \(with Young Miko\) \- Young Miko Remix](https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Gabriela \(with Young Miko\) \[Young Miko Remix\]](https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1) | 3:18 |
 | 10 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 | 11 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |

@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/2r8gHuetFtkgFaI4jgpY1z"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220025,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0WaTftbSO6sh9yJUcy0jJj"
+    },
+    {
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1388,6 +1406,24 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "album": {
+        "name": "Damaged Goods",
+        "url": "https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278154,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV"
     },
     {
       "album": {
@@ -2924,7 +2960,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -6352,7 +6388,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"

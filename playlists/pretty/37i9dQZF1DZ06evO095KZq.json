@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 447123,
+  "num_followers": 447126,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAA5E4htO/EXswIJFv4PPOUx",
+  "snapshot_id": "aVhcAAAAAAAZw3O1A+geaS2/zA6fYqZw",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 153086,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Zorro",
         "url": "https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 239201,
       "name": "El Zorro",
       "url": "https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 153086,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalito (En Vivo)",
         "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 157306,
       "name": "Chalito - En Vivo",
       "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 159950,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/14uHKZWp2QjJUG0pgK9nWH"
+      "duration_ms": 110157,
+      "name": "La Enorme Distancia",
+      "url": "https://open.spotify.com/track/7qIw9JxhZ8Zv4l9IR9D75O"
     },
     {
       "added_at": null,

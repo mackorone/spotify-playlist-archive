@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84139,
+  "num_followers": 84120,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -651,38 +651,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Put0 & Cheiroso (Speed Plug)",
-        "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
-      },
-      "artists": [
-        {
-          "name": "Jvcriaa",
-          "url": "https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        },
-        {
-          "name": "ProdbySnow",
-          "url": "https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe"
-        },
-        {
-          "name": "Denzelthreal",
-          "url": "https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850"
-        },
-        {
-          "name": "Oficialtalim",
-          "url": "https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM"
-        }
-      ],
-      "duration_ms": 159937,
-      "name": "Put0 & Cheiroso (Speed Plug)",
-      "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Put0 & Cheiroso (Speed Plug)",
+        "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
+      },
+      "artists": [
+        {
+          "name": "Jvcriaa",
+          "url": "https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "ProdbySnow",
+          "url": "https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe"
+        },
+        {
+          "name": "Denzelthreal",
+          "url": "https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850"
+        },
+        {
+          "name": "Oficialtalim",
+          "url": "https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM"
+        }
+      ],
+      "duration_ms": 159937,
+      "name": "Put0 & Cheiroso (Speed Plug)",
+      "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
     },
     {
       "added_at": "2024-07-08 19:10:57",

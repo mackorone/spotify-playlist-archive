@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,903 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,898 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 42 | [Blindado por Deus](https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:26 |
 | 43 | [carta aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [carta aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 44 | [LITTLE BABY](https://open.spotify.com/track/6kTMNktsL1XZOqnXNOmYqC) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:24 |
-| 45 | [Acústico\_UmErro](https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:33 |
+| 45 | [Acústico\_FogoEGasolina](https://open.spotify.com/track/54oUytGJB8LMiNFXvZ6dd4) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:38 |
 | 46 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 | 47 | [ngm é perfeito](https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Safira](https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:31 |
 | 48 | [VOCÊ&EU](https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:18 |
-| 49 | [Acústico\_FogoEGasolina](https://open.spotify.com/track/54oUytGJB8LMiNFXvZ6dd4) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:38 |
+| 49 | [Acústico\_UmErro](https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [ACÚSTICO DO LITTLE \- PT\. 1](https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L) | 2:33 |
 | 50 | [Maré](https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:20 |
 
-Snapshot ID: `aVcKgAAAAAC4Ixvx2HoBEpz3qyF+gri8`
+Snapshot ID: `aVhcAAAAAABa/H+PxtsdUKP+v8jocWxz`

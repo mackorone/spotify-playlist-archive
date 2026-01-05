@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL\. Cover: Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,576 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,502 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 50 | [Hoogtevrees](https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hoogtevrees](https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0) | 3:35 |
 
-Snapshot ID: `AAAAAInCsP7lZoy+GX7eqnr1fHruaRDF`
+Snapshot ID: `AAAAAMT6xpZT0ne1K1UcXiOg6n19thQr`

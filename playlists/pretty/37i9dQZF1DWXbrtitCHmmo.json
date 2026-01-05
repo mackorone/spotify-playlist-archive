@@ -1,6 +1,6 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Paulina Rubio & David Bisbal en portada.",
-  "num_followers": 149010,
+  "num_followers": 149146,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 202866,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
         "name": "Broke & Famous",
         "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 237386,
       "name": "Mi Primer Millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Ni Una Sola Palabra",
-      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 223200,
       "name": "Te Aviso, Te Anuncio (Tango)",
       "url": "https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Ni Una Sola Palabra",
+      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
     },
     {
       "added_at": "2024-06-07 16:24:56",

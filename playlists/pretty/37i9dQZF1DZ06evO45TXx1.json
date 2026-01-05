@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15450,
+  "num_followers": 15446,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAANQaZz+f3DVFS5PXKx9jUU",
+  "snapshot_id": "aVhcAAAAAACa6bxJ7l0LIXk0Qpeqk/sB",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chamo de Vida pra N\u00e3o Trocar o Nome",
         "url": "https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW"
       },
@@ -703,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
       "artists": [
         {
@@ -712,21 +692,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
           "name": "Mello Santana",
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 161642,
-      "name": "Fofoca",
-      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": null,
@@ -755,6 +727,34 @@
       "duration_ms": 266213,
       "name": "Pav\u00e3o",
       "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ainda Sinto Muito",
+      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
     },
     {
       "added_at": null,
@@ -815,34 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ainda Sinto Muito",
-      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -863,6 +835,34 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "Fofoca",
+      "url": "https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 163846,
       "name": "Rude",
       "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
     },
     {
       "added_at": null,

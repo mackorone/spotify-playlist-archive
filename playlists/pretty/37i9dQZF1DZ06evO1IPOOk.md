@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,868 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,930 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 50 | [Now Or Never \- Bonus Track](https://open.spotify.com/track/4KjnaUNYPwGnJjoeTFlt91) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 4:16 |
 
-Snapshot ID: `aVcKgAAAAAAovMRMGndBbpNCQCWPXdZQ`
+Snapshot ID: `aVhcAAAAAACykE/bpq1xd+HHIz8thhZ8`

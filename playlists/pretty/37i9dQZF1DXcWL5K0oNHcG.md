@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists\. Cover: Tyreek McDole\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,759 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,762 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

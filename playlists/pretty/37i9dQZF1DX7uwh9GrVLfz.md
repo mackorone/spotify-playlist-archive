@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Hi\-STANDARD
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,298 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,309 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,21 +61,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 51 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 52 | [ラズリ](https://open.spotify.com/track/0TuWIRwex6d8rOJvdNoOO4) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [ラズリ](https://open.spotify.com/album/6tsSfB8j7Au2BsfUAgnpza) | 5:35 |
 | 53 | [未来の破片](https://open.spotify.com/track/0ggkEAlaVUAqhSNT3dsSu3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [未来の破片](https://open.spotify.com/album/2Y0g41iLy9VrDWa5vigkrl) | 4:03 |
-| 54 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 54 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
 | 55 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
-| 56 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
+| 56 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
 | 57 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |
 | 58 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 59 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 |
 | 60 | [SUNTOWN](https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [WOKE](https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW) | 4:41 |
 | 61 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 62 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
-| 63 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 |
+| 62 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 |
+| 63 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
 | 64 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 65 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
 | 66 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
-| 67 | [HOTARU NO HIKARI featuring AIR](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
-| 68 | [不純愛ラブストーリー](https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:05 |
+| 67 | [不純愛ラブストーリー](https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:05 |
+| 68 | [HOTARU NO HIKARI featuring AIR](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 69 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 |
 | 70 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 71 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 74 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 75 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 76 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
-| 77 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
-| 78 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
+| 77 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
+| 78 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
 | 79 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 80 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
 | 81 | [僕たちの悲しみはどこへ行く](https://open.spotify.com/track/4DumuLS6YMKJvk5rEhO75f) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [生きるとは鼻くそくらいの希望を持つことだ](https://open.spotify.com/album/1BRf610HGiqoBmqfM1vwYK) | 4:44 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 91 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
 | 92 | [幸せになろうよ](https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 2:04 |
 | 93 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
-| 94 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 |
-| 95 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 |
+| 94 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 |
+| 95 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 |
 | 96 | [Low Self\-Esteem](https://open.spotify.com/track/2zxm4rd4aBpEtrk67zHozK) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Low Self\-Esteem](https://open.spotify.com/album/4kq7H7BmmaqyHc9tcxBA5m) | 3:05 |
 | 97 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 | 98 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |
-| 99 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
-| 100 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
+| 99 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
+| 100 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
 
 Snapshot ID: `AAAAAI+pZMzoZO++NA9bi9+0zVWBiCK/`

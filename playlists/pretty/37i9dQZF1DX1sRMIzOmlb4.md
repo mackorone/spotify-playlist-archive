@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,716 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,755 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 28 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
 | 29 | [Pretextos \(feat\. Cosculluela\)](https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:48 |
 | 30 | [Obsesionado](https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:31 |
-| 31 | [No soy una de esas \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:30 |
-| 32 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
+| 31 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
+| 32 | [No soy una de esas \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:30 |
 | 33 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 |
 | 34 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 35 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |

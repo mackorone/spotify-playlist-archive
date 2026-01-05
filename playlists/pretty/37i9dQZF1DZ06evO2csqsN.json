@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 39083,
+  "num_followers": 39094,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAfr/J9NeITTOxCFOMG883w",
+  "snapshot_id": "aVhcAAAAAABdsFmdSkkYGJIDrtxvQHgV",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.N.F. (Let's Go) [Remix]",
         "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
       },
@@ -575,42 +611,6 @@
       "duration_ms": 247762,
       "name": "F.N.F (Let's Go) - Remix",
       "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Booty (feat. Latto)",
-        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Booty (feat. Latto)",
-      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish Me Well 3",
         "url": "https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 211917,
       "name": "Wet (feat. Latto) - Remix",
       "url": "https://open.spotify.com/track/0j51R3QEjwpSp9XJqtSh78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ISSA PARTY (feat. BabyDrill)",
-        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "ISSA PARTY (feat. BabyDrill)",
-      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 122266,
       "name": "Mind Yo Business (Feat. Latto)",
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 202954,
-      "name": "Make Em Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz"
+      "duration_ms": 208932,
+      "name": "BILLS PAID (feat. Latto & City Girls)",
+      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     }
   ],
   "unique_name": "This Is Latto",

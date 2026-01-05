@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > The hottest 50\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,492,853 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,491,054 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

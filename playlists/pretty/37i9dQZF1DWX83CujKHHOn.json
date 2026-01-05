@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3320849,
+  "num_followers": 3320760,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "To Love Someone",
+        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "To Love Someone",
+      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "To Love Someone",
-        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "To Love Someone",
-      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
+      "duration_ms": 211954,
+      "name": "From the Dining Table",
+      "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 211954,
-      "name": "From the Dining Table",
-      "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "The Best Damn Thing",
         "url": "https://open.spotify.com/album/25cV0otMLz4zQDS0Aclyuj"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
     },
     {
       "added_at": "2025-08-08 04:00:42",

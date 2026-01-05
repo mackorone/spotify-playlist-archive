@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > soft and sweet
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,994 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,977 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 32 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
 | 33 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 34 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
-| 35 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
-| 36 | [blue](https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:34 |
+| 35 | [blue](https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:34 |
+| 36 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
 | 37 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 |
 | 38 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 39 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 42 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 | 43 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 |
 | 44 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
-| 45 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 46 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
+| 45 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
+| 46 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
 | 47 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 48 | [Family Matters](https://open.spotify.com/track/4o4uaxD9uSqnSzvig1qYTs) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Family Matters](https://open.spotify.com/album/4kWeU1dCxG9pBN2jlbWAid) | 2:57 |
 | 49 | [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 61 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 62 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 63 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 64 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 |
-| 65 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
+| 64 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
+| 65 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 |
 | 66 | [Freedom](https://open.spotify.com/track/2IdYSlDtu8FpGde4fwekuw) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:57 |
 | 67 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 68 | [blade bird](https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:18 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 75 | [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 |
 | 76 | [Camera \- Unplugged](https://open.spotify.com/track/3LGcolProZ9dVz33pOSh1t) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Camera \(Unplugged\)](https://open.spotify.com/album/0i3yVznQnq0h5g9Pn6Q6pl) | 3:33 |
 | 77 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 |
-| 78 | [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 |
-| 79 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
+| 78 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
+| 79 | [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 |
 | 80 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 
 Snapshot ID: `AAAAAGWUtEzSUX/Bg4cgzYcn8d3bRNUX`

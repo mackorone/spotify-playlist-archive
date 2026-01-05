@@ -30437,6 +30437,36 @@
     },
     {
       "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362400,
+      "name": "Gehra Hua",
+      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
+    },
+    {
+      "album": {
         "name": "Gehra Hua (From \"Dhurandhar\")",
         "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
       },
@@ -30460,7 +30490,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -39436,6 +39466,24 @@
       "duration_ms": 188212,
       "name": "\u0130ntihar Saatler",
       "url": "https://open.spotify.com/track/5y7ETdiSaRVhkNKn7gRxxC"
+    },
+    {
+      "album": {
+        "name": "Yaram\u0131zda Kals\u0131n",
+        "url": "https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs"
+      },
+      "artists": [
+        {
+          "name": "Onur Can \u00d6zcan",
+          "url": "https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "\u0130ntiha\u015fk",
+      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
     },
     {
       "album": {
@@ -55260,7 +55308,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -55278,7 +55326,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -93052,7 +93100,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"

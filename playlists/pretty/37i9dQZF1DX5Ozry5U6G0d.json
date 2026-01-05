@@ -1,6 +1,6 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2085955,
+  "num_followers": 2085763,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
@@ -631,30 +631,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252305,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252305,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1647,6 +1647,30 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
       "added_at": "2025-07-07 03:03:28",

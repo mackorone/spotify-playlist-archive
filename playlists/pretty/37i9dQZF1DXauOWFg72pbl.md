@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,619 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,659 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 16 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 |
 | 17 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 18 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 |
-| 19 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
-| 20 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
+| 19 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
+| 20 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 21 | [Legend](https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:09 |
 | 22 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
 | 23 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 47 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
 | 48 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 49 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
-| 50 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
-| 51 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:37 |
-| 52 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
+| 50 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:37 |
+| 51 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
+| 52 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 53 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 54 | [Goodbye, Sunshine](https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 4:16 |
 | 55 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
 | 56 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
-| 57 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
-| 58 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
+| 57 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
+| 58 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
 | 59 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 60 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 61 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |

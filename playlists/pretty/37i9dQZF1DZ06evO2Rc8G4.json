@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170008,
+  "num_followers": 170015,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAniSrMd+b28aRx6WhRyRWo",
+  "snapshot_id": "aVhcAAAAAADS0Cb4AM2a9FeYl1huiJWS",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Especially for You",
+        "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        }
+      ],
+      "duration_ms": 240892,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
-        }
-      ],
-      "duration_ms": 240370,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 176240,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "A Guevara",
+          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8"
       },
@@ -551,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "A Guevara",
-          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 237866,
       "name": "Hold On To Now",
       "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Can't Get Blue Monday out of My Head",
-      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
+      "duration_ms": 241466,
+      "name": "Can't Get Blue Monday out of My Head",
+      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 193666,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Things We Do For Love",
-      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 260133,
       "name": "Red Blooded Woman",
       "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
     },
     {
       "added_at": null,

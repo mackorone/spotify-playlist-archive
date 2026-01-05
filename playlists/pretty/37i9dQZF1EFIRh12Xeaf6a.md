@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 57 | [Keep Your Hands off My Baby](https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion](https://open.spotify.com/album/52S2Bfn5L5v5W1X8ltnj7I) | 2:32 |
 | 58 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 |
 | 59 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
-| 60 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
-| 61 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
+| 60 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
+| 61 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
 | 62 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
 | 63 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 |
 | 64 | [Peace In the Valley](https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:21 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcF/mgAAAADfqD2lP84u+Xzifs7cxvS9`
+Snapshot ID: `AcGFOgAAAACeCkKYiIsowtoOFF01ENMT`

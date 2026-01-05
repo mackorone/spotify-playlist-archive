@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809164,
+  "num_followers": 809186,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
+        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 211237,
+      "name": "De Tanto Amor",
+      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
-        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 211237,
-      "name": "De Tanto Amor",
-      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
-      },
-      "artists": [
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+      },
+      "artists": [
+        {
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "O Vento",
-        "url": "https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296774,
-      "name": "O Vento",
-      "url": "https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 249706,
       "name": "Lenha",
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "O Vento",
+        "url": "https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296774,
+      "name": "O Vento",
+      "url": "https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2025-11-25 18:54:26",

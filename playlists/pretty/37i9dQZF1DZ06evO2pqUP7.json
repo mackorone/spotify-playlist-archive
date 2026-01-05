@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69660,
+  "num_followers": 69669,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADcJCMaOP+46jLNltFYccER",
+  "snapshot_id": "aVhcAAAAAABUihl5DfyG70XDMfI0F93U",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cuando Sera",
+      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cama (Remix)",
         "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 330240,
       "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cuando Sera",
-      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 139350,
+      "name": "Nuevo",
+      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 231765,
       "name": "VUD\u00da",
       "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Nuevo",
-      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
     },
     {
       "added_at": null,

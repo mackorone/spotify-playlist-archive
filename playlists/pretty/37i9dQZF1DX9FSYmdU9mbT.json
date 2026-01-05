@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1464488,
+  "num_followers": 1464621,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
         "name": "Rosa Morena",
         "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 229013,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2025-11-30 17:39:04",

@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-118 songs - 6 hr 56 min
+119 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Got It](https://open.spotify.com/track/6AgZzEByxPEBrhoHoeX3sE) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Got It](https://open.spotify.com/album/2sZmYAJ091nCxwDw8GqMR4) | 3:52 | 2023-09-15 |  |
 | [HALLOWEEN JOY](https://open.spotify.com/track/4cZoBYsTW6faSSpV7Vq0sz) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [HALLOWEEN JOY](https://open.spotify.com/album/0vwWikrr0eTyXFP3FYnfLO) | 1:36 | 2025-01-11 |  |
 | [Harmony](https://open.spotify.com/track/24r9Y2d6BSed4bLj1FaFW2) | [JONGRA](https://open.spotify.com/artist/0751WlaYMHElFPfbzmlCZK) | [Harmony](https://open.spotify.com/album/5PtvboKjFNYaDN1PUGRBJM) | 3:11 | 2023-12-04 |  |
+| [Hold It](https://open.spotify.com/track/4cwHnEyUIhunVkmFNQhvLr) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Hold It](https://open.spotify.com/album/62H7ur3rSL5Wwe0GW8FTqH) | 4:58 | 2026-01-04 |  |
 | [Hold On Tight](https://open.spotify.com/track/2fai22CuZJOjSDfQI4vLvS) | [TEXNES](https://open.spotify.com/artist/1bDQGkc4P3UDRvENDr6pde), [Eva Martinsen Nilsen](https://open.spotify.com/artist/2MjuKNKwT1RaXi6HtFy898) | [Hold On Tight](https://open.spotify.com/album/0tmPBxqax2T8Lq8Mnv2NcP) | 3:00 | 2024-06-19 |  |
 | [Hope](https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 6:37 | 2024-09-22 | 2025-12-17 |
 | [Hush](https://open.spotify.com/track/5pvLtPHMs0LnTbqjVYqMKq) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Hush](https://open.spotify.com/album/4x4XoqLEDQow0bvM9ObmDj) | 3:59 | 2024-03-10 |  |

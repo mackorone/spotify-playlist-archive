@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : איזי וג׳׳ין בורדו
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,081 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,079 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 18 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
 | 19 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
 | 20 | [היום יפה](https://open.spotify.com/track/0EJBA8fuwfPw7yJrqyjvyI) | [Maor Cohen](https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0) | [היום יפה](https://open.spotify.com/album/75MYyNnAjWCWkndN7aaXJQ) | 4:32 |
-| 21 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
-| 22 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
+| 21 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
+| 22 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 23 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 24 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
 | 25 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 47 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 |
 | 48 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
 | 49 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 |
-| 50 | [זה לא חיים](https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [זה לא חיים](https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB) | 2:56 |
+| 50 | [360](https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB) | 3:04 |
 
 Snapshot ID: `AAAAALI7WlbhrAdeA+1xelJkVhSTbF9s`

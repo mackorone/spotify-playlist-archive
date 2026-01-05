@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 9 | [Either Way](https://open.spotify.com/track/3jxFmvoG55Cwv0JJBzRPce) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/4P59pYCBIktFE5EXW9ATXA) | 2:46 |
 | 10 | [I Believe You](https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [I Believe You](https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7) | 3:12 |
 | 11 | [Worthy Of You](https://open.spotify.com/track/1FDV80LC5JnTDAEjPDovER) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:10 |
-| 12 | [Let Me Hold You](https://open.spotify.com/track/7fU80qR0O8H34oQlXeykFp) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:22 |
-| 13 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
+| 12 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
+| 13 | [Let Me Hold You](https://open.spotify.com/track/7fU80qR0O8H34oQlXeykFp) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:22 |
 | 14 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
 | 15 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 |
 | 16 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 28 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 29 | [Plastic Box](https://open.spotify.com/track/5v5ESV1s4Y964nDJdxb2s4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:21 |
 | 30 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
-| 31 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
-| 32 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
-| 33 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 |
-| 34 | [bamsopoong](https://open.spotify.com/track/3INETdToKVgt2vfp1wYBFw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:19 |
+| 31 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
+| 32 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
+| 33 | [bamsopoong](https://open.spotify.com/track/3INETdToKVgt2vfp1wYBFw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:19 |
+| 34 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 |
 | 35 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 |
 | 36 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
 | 37 | [Ice Queen](https://open.spotify.com/track/4f4QMBoxGhX6YrzajQozxT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:03 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 125 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 126 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcF/fAAAAABKsq5gzdFFUcEd+BC1i1rl`
+Snapshot ID: `AcGFCAAAAAA4Ky0DlPMvkGXtDgGKk5zi`

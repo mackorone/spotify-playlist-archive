@@ -207,26 +207,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Lights Go Red",
-        "url": "https://open.spotify.com/album/4ajxRX4245DiZQRBv4AFTy"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Lights Go Red",
-      "url": "https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Horses",
         "url": "https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9"
       },
@@ -275,6 +255,26 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Lights Go Red",
+        "url": "https://open.spotify.com/album/4ajxRX4245DiZQRBv4AFTy"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Lights Go Red",
+      "url": "https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/1jV5lfD2JGaKQ3kUafwhSd"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 195499,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/15FRLDirCitAQFOZ8SdTwp"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
-      },
-      "artists": [
-        {
-          "name": "Jordan Frye",
-          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
-        }
-      ],
-      "duration_ms": 176797,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -323,6 +307,38 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Steer",
+          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Frye",
+          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
+        }
+      ],
+      "duration_ms": 176797,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "Fear Me",
         "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 166376,
       "name": "Fear Me",
       "url": "https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Steer",
-          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Trophy",
-      "url": "https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/32PZmURdlFp6Z6TZ0VL8k7"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5Rm3UEd5GJSCURITd71dID"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "Please Stay",
         "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
       },
@@ -403,6 +419,22 @@
       "duration_ms": 184666,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/1KyUnRCui0oOlvZqth4SbZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Beth",
+          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
+        }
+      ],
+      "duration_ms": 139335,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/45vN3pKjL8MxaU6PGGb8hh"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -423,38 +455,6 @@
       "duration_ms": 125873,
       "name": "RAW",
       "url": "https://open.spotify.com/track/0eIcnlzIfroCKZUcZesOwO"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/32PZmURdlFp6Z6TZ0VL8k7"
-      },
-      "artists": [
-        {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5Rm3UEd5GJSCURITd71dID"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Vices",
-        "url": "https://open.spotify.com/album/1KyUnRCui0oOlvZqth4SbZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Beth",
-          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
-        }
-      ],
-      "duration_ms": 139335,
-      "name": "Vices",
-      "url": "https://open.spotify.com/track/45vN3pKjL8MxaU6PGGb8hh"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "hold me",
-        "url": "https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M"
-      },
-      "artists": [
-        {
-          "name": "Graham Lake",
-          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "hold me",
-      "url": "https://open.spotify.com/track/2G1y9hz3obiCa7XuoC1CNV"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/2PO76Mp1V5oxxdabNMnGmi"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "affirmations",
-        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
-      },
-      "artists": [
-        {
-          "name": "Mercedess",
-          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "affirmations",
-      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Almost Did",
         "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 145129,
       "name": "Almost Did",
       "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "affirmations",
+        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "affirmations",
+      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -579,6 +563,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "hold me",
+        "url": "https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/2G1y9hz3obiCa7XuoC1CNV"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "ready set no",
         "url": "https://open.spotify.com/album/2qm113wW4n0SRF6sUOOQMs"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 129746,
       "name": "ready set no",
       "url": "https://open.spotify.com/track/7MqT2Omd8JRwC3VnV39bUQ"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0rsaFGCNThDDc84FbxsMGX"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/18D1W8sa7L0uXnjRFmfSLM"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -643,38 +627,18 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Einhver \u00dearf A\u00f0 Segja \u00dea\u00f0 (\u00c1ram\u00f3taskaup 2025)",
-        "url": "https://open.spotify.com/album/0BGoMdErMw8XYnQjOYfTIP"
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0rsaFGCNThDDc84FbxsMGX"
       },
       "artists": [
         {
-          "name": "J\u00f3n J\u00f3nsson",
-          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
-        },
-        {
-          "name": "Silv\u00eda N\u00f3tt",
-          "url": "https://open.spotify.com/artist/2CuE2Urm0zxMp0Dy6sXrzM"
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
         }
       ],
-      "duration_ms": 208434,
-      "name": "Einhver \u00dearf A\u00f0 Segja \u00dea\u00f0 (\u00c1ram\u00f3taskaup 2025)",
-      "url": "https://open.spotify.com/track/6oZYrEXAuscQTISSKCJQaf"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/4G6I74JrE1fkYpdCIl5bV8"
-      },
-      "artists": [
-        {
-          "name": "DJ Aligator",
-          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
-        }
-      ],
-      "duration_ms": 167416,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/6zTcVYBRjV0zZZZpnDoaio"
+      "duration_ms": 204760,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/18D1W8sa7L0uXnjRFmfSLM"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -695,22 +659,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "...fifteen",
-        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mere",
-          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
-        }
-      ],
-      "duration_ms": 167050,
-      "name": "...fifteen",
-      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Really Over?",
         "url": "https://open.spotify.com/album/40YPJjNAugMPO6sI0bsKRA"
       },
@@ -727,18 +675,54 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/7D3R5CCCnZUxmBgsIvOa9z"
+        "name": "Einhver \u00dearf A\u00f0 Segja \u00dea\u00f0 (\u00c1ram\u00f3taskaup 2025)",
+        "url": "https://open.spotify.com/album/0BGoMdErMw8XYnQjOYfTIP"
       },
       "artists": [
         {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        },
+        {
+          "name": "Silv\u00eda N\u00f3tt",
+          "url": "https://open.spotify.com/artist/2CuE2Urm0zxMp0Dy6sXrzM"
         }
       ],
-      "duration_ms": 140487,
-      "name": "Dark Side of the Moon",
-      "url": "https://open.spotify.com/track/0Z0nQkgCIXQSCdzHbdCFHx"
+      "duration_ms": 208434,
+      "name": "Einhver \u00dearf A\u00f0 Segja \u00dea\u00f0 (\u00c1ram\u00f3taskaup 2025)",
+      "url": "https://open.spotify.com/track/6oZYrEXAuscQTISSKCJQaf"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/4G6I74JrE1fkYpdCIl5bV8"
+      },
+      "artists": [
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "duration_ms": 167416,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/6zTcVYBRjV0zZZZpnDoaio"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/7D3R5CCCnZUxmBgsIvOa9z"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Dark Side of the Moon",
+      "url": "https://open.spotify.com/track/0Z0nQkgCIXQSCdzHbdCFHx"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "TEARS IN TORREMOLINOS",
         "url": "https://open.spotify.com/album/0fFQBgBlvhWkIWlp85Z1ck"
       },
@@ -799,18 +799,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Girls Just Want to Have Fun",
-        "url": "https://open.spotify.com/album/5zYKzkQuczdbXrMn6EZTbc"
+        "name": "MAMA MIA",
+        "url": "https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi"
       },
       "artists": [
         {
-          "name": "Bye Bye Brenda",
-          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        },
+        {
+          "name": "Aggrxssor",
+          "url": "https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa"
         }
       ],
-      "duration_ms": 227437,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4csHjSdFwxZ8GzIyb0PbW4"
+      "duration_ms": 100788,
+      "name": "MAMA MIA",
+      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -831,6 +835,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Girls Just Want to Have Fun",
+        "url": "https://open.spotify.com/album/5zYKzkQuczdbXrMn6EZTbc"
+      },
+      "artists": [
+        {
+          "name": "Bye Bye Brenda",
+          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
+        }
+      ],
+      "duration_ms": 227437,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4csHjSdFwxZ8GzIyb0PbW4"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "black dress",
         "url": "https://open.spotify.com/album/405thJP5d3WyxwoQRuOzSu"
       },
@@ -847,22 +867,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "MAMA MIA",
-        "url": "https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi"
+        "name": "In This Room",
+        "url": "https://open.spotify.com/album/0HuvwMAwyPzRnYHk7Nnbhy"
       },
       "artists": [
         {
-          "name": "Nulteex",
-          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+          "name": "Hannah Schneider",
+          "url": "https://open.spotify.com/artist/1Tah92YT49cQpxpZxRtGdv"
         },
         {
-          "name": "Aggrxssor",
-          "url": "https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa"
+          "name": "Christian Balvig",
+          "url": "https://open.spotify.com/artist/072Ajngh4QfgHapsOeKEcg"
         }
       ],
-      "duration_ms": 100788,
-      "name": "MAMA MIA",
-      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
+      "duration_ms": 213878,
+      "name": "In This Room",
+      "url": "https://open.spotify.com/track/4xAkUEuFY9jyGK14XXYBKW"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -915,26 +935,6 @@
       "duration_ms": 193800,
       "name": "Kve\u00f0ast \u00e1",
       "url": "https://open.spotify.com/track/3m1Zv79BDO81V2nOdKt02q"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "In This Room",
-        "url": "https://open.spotify.com/album/0HuvwMAwyPzRnYHk7Nnbhy"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schneider",
-          "url": "https://open.spotify.com/artist/1Tah92YT49cQpxpZxRtGdv"
-        },
-        {
-          "name": "Christian Balvig",
-          "url": "https://open.spotify.com/artist/072Ajngh4QfgHapsOeKEcg"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "In This Room",
-      "url": "https://open.spotify.com/track/4xAkUEuFY9jyGK14XXYBKW"
     },
     {
       "added_at": "2026-01-02 00:00:14",

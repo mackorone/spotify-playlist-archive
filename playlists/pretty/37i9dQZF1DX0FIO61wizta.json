@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 87029,
+  "num_followers": 87050,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,30 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Pavarotti Sings Verdi",
         "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
       },
@@ -583,30 +607,6 @@
       "duration_ms": 822706,
       "name": "Hymn of the Nations (Inno delle nazione)",
       "url": "https://open.spotify.com/track/3ClTTx4OhxZRBATO4Wyj5i"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -819,34 +819,6 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Paul Daniel",
-          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
-      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
         "name": "Verdi: La Forza del Destino",
         "url": "https://open.spotify.com/album/0mjJp1sq9wt5tDvQW5wOs7"
       },
@@ -871,6 +843,34 @@
       "duration_ms": 239333,
       "name": "La forza del destino - Original St.Petersburg version - Act 1: \"Me pellegrina ed orfana\"",
       "url": "https://open.spotify.com/track/0wbGVlJdN0XtwelbwgNLL2"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Paul Daniel",
+          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
+      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -947,6 +947,34 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -1003,34 +1031,6 @@
       "duration_ms": 222933,
       "name": "Aida: Preludio",
       "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2025-12-22 11:16:50",

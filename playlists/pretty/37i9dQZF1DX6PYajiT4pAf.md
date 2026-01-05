@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > La Oreja de Van Gogh, Cris MJ,  Beny Jr y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,515 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,499 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

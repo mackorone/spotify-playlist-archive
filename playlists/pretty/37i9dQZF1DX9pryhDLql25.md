@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > fresh produce, iced coffee, & all the lovely spring things
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,865 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,847 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 19 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
 | 20 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 |
 | 21 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
-| 22 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
-| 23 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 22 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 23 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 24 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
 | 25 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
 | 26 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 44 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 45 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 46 | [Way down We Go](https://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go](https://open.spotify.com/album/28I1XWP7hYWdexJnuXE9HE) | 3:39 |
-| 47 | [Clay Pigeons](https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3) | [True That](https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5) | 3:06 |
-| 48 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 47 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 48 | [Clay Pigeons](https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3) | [True That](https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5) | 3:06 |
 | 49 | [It Ain't Me Babe](https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:21 |
 | 50 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 

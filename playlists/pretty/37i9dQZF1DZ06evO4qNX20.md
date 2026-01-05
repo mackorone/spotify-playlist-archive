@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,268 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,309 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Flor Margarita](https://open.spotify.com/track/4JwdKHP4C2d4sc3KakrPiK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [26 Exitos Favoritos de la Raza](https://open.spotify.com/album/55Iyqdjed7KB5AgQFDPz6N) | 3:35 |
 | 50 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
 
-Snapshot ID: `aVcKgAAAAAD8aO8ADpmBollGyyX2kFpp`
+Snapshot ID: `aVhcAAAAAABIjghCaovSPZBUUBTmmkJ3`

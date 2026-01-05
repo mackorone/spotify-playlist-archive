@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464,488 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464,621 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 76 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 77 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
 | 78 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s) | 2:46 |
-| 79 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
-| 80 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 |
-| 81 | [Como Nossos Pais](https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Regina Em Falso Brilhante](https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ) | 4:20 |
+| 79 | [Como Nossos Pais](https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Regina Em Falso Brilhante](https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ) | 4:20 |
+| 80 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
+| 81 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 |
 | 82 | [Carnavália \- Ao Vivo](https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Carnavália \(Ao Vivo\)](https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl) | 4:30 |
 | 83 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |
 | 84 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |

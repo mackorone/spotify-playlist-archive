@@ -1,13 +1,485 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 263,
+  "num_followers": 265,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGiYSc5xQgwDoueaSNeqBamE6QOEqM",
+  "snapshot_id": "AAAGqe7DkkBZwYTB9IoL3K5utZOHxMXu",
   "tracks": [
+    {
+      "added_at": "2026-01-04 16:44:45",
+      "album": {
+        "name": "Open Shore",
+        "url": "https://open.spotify.com/album/7abkApIfQZGvisyEq4w3tu"
+      },
+      "artists": [
+        {
+          "name": "Kelson Burke",
+          "url": "https://open.spotify.com/artist/1IFxvE8HWi3TQaE53S8al5"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Open Shore",
+      "url": "https://open.spotify.com/track/7nbtr4wFhDYLZY5bnObCUp"
+    },
+    {
+      "added_at": "2026-01-04 16:44:43",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6cqTnHM7ETkdqXo0fW0ui9"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        }
+      ],
+      "duration_ms": 137209,
+      "name": "17",
+      "url": "https://open.spotify.com/track/6F7Kf22yizAeUHFvvyxljb"
+    },
+    {
+      "added_at": "2026-01-04 16:44:42",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7E3aGtofoDYwfB3nYfMjQX"
+      },
+      "artists": [
+        {
+          "name": "XIX",
+          "url": "https://open.spotify.com/artist/0ZUpmbNh1NeLibf0DGZxMX"
+        }
+      ],
+      "duration_ms": 246931,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1J850PsKKVf2euOIbMd7bX"
+    },
+    {
+      "added_at": "2026-01-04 16:44:42",
+      "album": {
+        "name": "Sono Emozioni",
+        "url": "https://open.spotify.com/album/4V997Gbrj2BfcExWo0KNet"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 246977,
+      "name": "Sono Emozioni",
+      "url": "https://open.spotify.com/track/5WpyHsi4ox6SDat03QDa4e"
+    },
+    {
+      "added_at": "2026-01-04 16:44:29",
+      "album": {
+        "name": "don't you take it far too slow",
+        "url": "https://open.spotify.com/album/5WveWAsWPlNaJGXBpzch8u"
+      },
+      "artists": [
+        {
+          "name": "decede",
+          "url": "https://open.spotify.com/artist/4qEnQNYFL7DxFeAqYEoTcc"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "don't you take it far too slow",
+      "url": "https://open.spotify.com/track/0IHI9njHfpNnuCK4k5Piu7"
+    },
+    {
+      "added_at": "2026-01-04 16:44:29",
+      "album": {
+        "name": "Toxic Eyes",
+        "url": "https://open.spotify.com/album/2BmA4tAKkNgfpC1psKOpQD"
+      },
+      "artists": [
+        {
+          "name": "Ksv Sirius",
+          "url": "https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF"
+        }
+      ],
+      "duration_ms": 195513,
+      "name": "Toxic Eyes",
+      "url": "https://open.spotify.com/track/6baNKpr9Yn4yIzaDxbRvWT"
+    },
+    {
+      "added_at": "2026-01-04 16:44:28",
+      "album": {
+        "name": "Rise Above",
+        "url": "https://open.spotify.com/album/4Nm3fCI7iK5YCHWZ8IMiP3"
+      },
+      "artists": [
+        {
+          "name": "Fra",
+          "url": "https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct"
+        }
+      ],
+      "duration_ms": 226037,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/3Qpn2NyDK3TkLb4tUVRFHC"
+    },
+    {
+      "added_at": "2026-01-04 16:44:27",
+      "album": {
+        "name": "leave it all behind",
+        "url": "https://open.spotify.com/album/4T3RpDetK0iRclSwq2YRnE"
+      },
+      "artists": [
+        {
+          "name": "decede",
+          "url": "https://open.spotify.com/artist/4qEnQNYFL7DxFeAqYEoTcc"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "leave it all behind",
+      "url": "https://open.spotify.com/track/2WMFbxvrH55CjwkGflSbYp"
+    },
+    {
+      "added_at": "2026-01-04 16:44:26",
+      "album": {
+        "name": "KITTY",
+        "url": "https://open.spotify.com/album/2TL7CLDNkMxB20Gi5AzuPJ"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0"
+        }
+      ],
+      "duration_ms": 154619,
+      "name": "KITTY",
+      "url": "https://open.spotify.com/track/0MpA7P0YKOiOENrKTJXN5g"
+    },
+    {
+      "added_at": "2026-01-04 16:44:26",
+      "album": {
+        "name": "TI DICO IO COSA C'\u00c8",
+        "url": "https://open.spotify.com/album/64GcefvGGpbarC1Y5eEBci"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 244824,
+      "name": "TI DICO IO COSA C'\u00c8",
+      "url": "https://open.spotify.com/track/3gkpbrEJL2HmhLBnn7c2Uf"
+    },
+    {
+      "added_at": "2026-01-04 16:44:25",
+      "album": {
+        "name": "100k notti",
+        "url": "https://open.spotify.com/album/6VLx0mKilNn27T0JbHHgGp"
+      },
+      "artists": [
+        {
+          "name": "Jerry Spaggiari",
+          "url": "https://open.spotify.com/artist/373KRO4MSO2oVp6GdqRunP"
+        }
+      ],
+      "duration_ms": 203473,
+      "name": "100k notti",
+      "url": "https://open.spotify.com/track/0nV38qVfxPsQXpXzJIZPru"
+    },
+    {
+      "added_at": "2026-01-04 16:44:25",
+      "album": {
+        "name": "This Is Me Now",
+        "url": "https://open.spotify.com/album/52KEAsTdFx2FiJhEWIWsQc"
+      },
+      "artists": [
+        {
+          "name": "Tess Mac Keen",
+          "url": "https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin"
+        }
+      ],
+      "duration_ms": 215959,
+      "name": "This Is Me Now",
+      "url": "https://open.spotify.com/track/6vGAbncuoB9cauSv2wAKKP"
+    },
+    {
+      "added_at": "2026-01-04 16:44:25",
+      "album": {
+        "name": "Difetto di fabbrica",
+        "url": "https://open.spotify.com/album/7fLgY5osvn26xWwyLMOh6j"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 248959,
+      "name": "Difetto di fabbrica",
+      "url": "https://open.spotify.com/track/4UkEUuP3rsdtcZu0K0DUBi"
+    },
+    {
+      "added_at": "2026-01-04 16:44:24",
+      "album": {
+        "name": "Occhi stanchi",
+        "url": "https://open.spotify.com/album/46NeGlXSF0ejKswAwjMB53"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Occhi stanchi",
+      "url": "https://open.spotify.com/track/0kSGVdKJNolp0JS9qKLTvx"
+    },
+    {
+      "added_at": "2026-01-04 16:44:23",
+      "album": {
+        "name": "NAZAR\u00c9",
+        "url": "https://open.spotify.com/album/0XHiEunKKoPZp2MowkzjgS"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "NAZAR\u00c9",
+      "url": "https://open.spotify.com/track/7iCFS0e5LU64uWnI8Ggvdb"
+    },
+    {
+      "added_at": "2026-01-04 16:44:22",
+      "album": {
+        "name": "Giulia",
+        "url": "https://open.spotify.com/album/3GxwK6vzAPdzY8VW9ql1nF"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/2yBfR6xnS4nQ1RPxzO16Ek"
+    },
+    {
+      "added_at": "2026-01-04 16:44:22",
+      "album": {
+        "name": "Cerco il Nirvana",
+        "url": "https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cerco il Nirvana",
+      "url": "https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH"
+    },
+    {
+      "added_at": "2026-01-04 16:44:21",
+      "album": {
+        "name": "AMORE TOSSICO",
+        "url": "https://open.spotify.com/album/5BSZRgwmAh7DjBXZGoWbpJ"
+      },
+      "artists": [
+        {
+          "name": "LEONE PRIMO",
+          "url": "https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe"
+        }
+      ],
+      "duration_ms": 216312,
+      "name": "AMORE TOSSICO",
+      "url": "https://open.spotify.com/track/0UbIJmeRprRmRPv94p2uT3"
+    },
+    {
+      "added_at": "2026-01-04 16:44:21",
+      "album": {
+        "name": "Sono tutti qui",
+        "url": "https://open.spotify.com/album/3wDSnINlbFuid0Rz3gFEFu"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sono tutti qui",
+      "url": "https://open.spotify.com/track/20XMd7nHNxuy0YGJHqsWeF"
+    },
+    {
+      "added_at": "2026-01-04 16:44:19",
+      "album": {
+        "name": "Lava Spenta",
+        "url": "https://open.spotify.com/album/6Lu7bWGtgYRlYn7oUhfduN"
+      },
+      "artists": [
+        {
+          "name": "carlot",
+          "url": "https://open.spotify.com/artist/19LaODJsrnU3YqwSxokZcB"
+        }
+      ],
+      "duration_ms": 144418,
+      "name": "Lava Spenta",
+      "url": "https://open.spotify.com/track/6e1xtTuCfIZFHipf3BCRb4"
+    },
+    {
+      "added_at": "2026-01-04 16:44:19",
+      "album": {
+        "name": "La Porta dell' Est (Trieste \u00e8 cos\u00ec)",
+        "url": "https://open.spotify.com/album/3SNaeqdZ3BRk7b9waYNdmk"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Urbani",
+          "url": "https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "La Porta dell' Est (Trieste \u00e8 cos\u00ec)",
+      "url": "https://open.spotify.com/track/51Sra4wnL833h6knzB72YA"
+    },
+    {
+      "added_at": "2026-01-04 16:44:18",
+      "album": {
+        "name": "survivor day",
+        "url": "https://open.spotify.com/album/539pZ4Bm0CM74thBi1HHWD"
+      },
+      "artists": [
+        {
+          "name": "decede",
+          "url": "https://open.spotify.com/artist/4qEnQNYFL7DxFeAqYEoTcc"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "step in my world",
+      "url": "https://open.spotify.com/track/0P9nRxa4OSSRyP9qjMRFUR"
+    },
+    {
+      "added_at": "2026-01-04 16:44:18",
+      "album": {
+        "name": "narcy",
+        "url": "https://open.spotify.com/album/65GxA0h53HGTrnBC9tfQuH"
+      },
+      "artists": [
+        {
+          "name": "skyry",
+          "url": "https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk"
+        },
+        {
+          "name": "Kalianna Kalinova",
+          "url": "https://open.spotify.com/artist/0aEhv0iin67ylx5o8qdvJ7"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "narcy",
+      "url": "https://open.spotify.com/track/4wX8rZdRmkekoaLM6RamRU"
+    },
+    {
+      "added_at": "2026-01-04 16:44:16",
+      "album": {
+        "name": "No Tu!",
+        "url": "https://open.spotify.com/album/2CQv1EGnAv6CZ1faGJY2Cg"
+      },
+      "artists": [
+        {
+          "name": "Luca Cescotti",
+          "url": "https://open.spotify.com/artist/6uQkF6zq4QbExwuTTViTD1"
+        }
+      ],
+      "duration_ms": 199610,
+      "name": "No Tu!",
+      "url": "https://open.spotify.com/track/6ZE528t8m5WY92FYmUa1e5"
+    },
+    {
+      "added_at": "2026-01-04 16:44:14",
+      "album": {
+        "name": "Chasing smiles",
+        "url": "https://open.spotify.com/album/4FPGa1g6QeaJufbj0jnXcS"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "Chasing smiles",
+      "url": "https://open.spotify.com/track/2hQKzZPnnA9CI2cFeuQ2wV"
+    },
+    {
+      "added_at": "2026-01-04 16:44:14",
+      "album": {
+        "name": "Dentro a due vite",
+        "url": "https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 188999,
+      "name": "Dentro a due vite",
+      "url": "https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E"
+    },
+    {
+      "added_at": "2026-01-04 16:44:13",
+      "album": {
+        "name": "Syncable 90's Covers",
+        "url": "https://open.spotify.com/album/3OBlnuexLwSq46V7bFdR1E"
+      },
+      "artists": [
+        {
+          "name": "Gaya Mor",
+          "url": "https://open.spotify.com/artist/5EONJe23bpzzu8MgLhsTXU"
+        }
+      ],
+      "duration_ms": 201966,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/5atpWkUN5l35WShWOG4BbU"
+    },
+    {
+      "added_at": "2026-01-04 16:44:13",
+      "album": {
+        "name": "E Adesso Sono Dentro",
+        "url": "https://open.spotify.com/album/30Ytw0y9x5bwqTjiIpBhoG"
+      },
+      "artists": [
+        {
+          "name": "Gianfranco Mascia",
+          "url": "https://open.spotify.com/artist/5qJOPV9fJNXVPAsCFjdIqQ"
+        }
+      ],
+      "duration_ms": 240052,
+      "name": "E Adesso Sono Dentro",
+      "url": "https://open.spotify.com/track/5o7MufappBOlUmL5iPA7Kq"
+    },
+    {
+      "added_at": "2026-01-04 16:44:12",
+      "album": {
+        "name": "Ahora puedo mirarte oh Dios",
+        "url": "https://open.spotify.com/album/1WcRZBAB7IXHVjwXxwIrrS"
+      },
+      "artists": [
+        {
+          "name": "A su voz creadora",
+          "url": "https://open.spotify.com/artist/1hN5zcgDGT6IVPoskkglvl"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ahora puedo mirarte oh Dios",
+      "url": "https://open.spotify.com/track/3Knv0521JrAhkZQyhoePu2"
+    },
     {
       "added_at": "2026-01-01 23:36:12",
       "album": {
@@ -20,7 +492,7 @@
           "url": "https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96"
         }
       ],
-      "duration_ms": 235854,
+      "duration_ms": 233181,
       "name": "This One's For the Animals",
       "url": "https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA"
     },
@@ -62607,6 +63079,38 @@
       "duration_ms": 228886,
       "name": "Dame Tu Luz",
       "url": "https://open.spotify.com/track/5uTWNaSWu58N3tiM15QYXL"
+    },
+    {
+      "added_at": "2026-01-04 16:26:16",
+      "album": {
+        "name": "Finish Grade",
+        "url": "https://open.spotify.com/album/2YGsZ5MMye11RxtFO2nY6k"
+      },
+      "artists": [
+        {
+          "name": "Pebblepimp",
+          "url": "https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV"
+        }
+      ],
+      "duration_ms": 192959,
+      "name": "Ashes of Yesterday",
+      "url": "https://open.spotify.com/track/35wS2SAgZrLHw1hfM9hu9R"
+    },
+    {
+      "added_at": "2026-01-04 16:26:44",
+      "album": {
+        "name": "Hole in Half",
+        "url": "https://open.spotify.com/album/3NMWceqAHx7omRe1HMovqq"
+      },
+      "artists": [
+        {
+          "name": "Automatic Dead Drive",
+          "url": "https://open.spotify.com/artist/65cffZYZPzqFHODis10F3B"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "Hole in Half",
+      "url": "https://open.spotify.com/track/5uDzeJozN3o6y7TN5avkVV"
     }
   ],
   "unique_name": "playlist spotify free",

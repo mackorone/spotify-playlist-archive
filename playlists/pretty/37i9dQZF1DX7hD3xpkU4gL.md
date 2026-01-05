@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,708 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,756 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 24 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 25 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
 | 26 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 27 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
+| 27 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 28 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 29 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
+| 29 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 30 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 31 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 32 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 89 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
 | 90 | [Time After Time](https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Essential Cyndi Lauper](https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2) | 4:01 |
 | 91 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 |
-| 92 | [Bailar Pegados](https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sintiendonos La Piel](https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX) | 4:36 |
-| 93 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/1JZZkORheU1RpGqJdZ77WL) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [A Collection of Roxette Hits! Their 20 Greatest Songs!](https://open.spotify.com/album/1nQK4dpultSS3YeHfYrgEW) | 4:19 |
+| 92 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/1JZZkORheU1RpGqJdZ77WL) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [A Collection of Roxette Hits! Their 20 Greatest Songs!](https://open.spotify.com/album/1nQK4dpultSS3YeHfYrgEW) | 4:19 |
+| 93 | [Bailar Pegados](https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sintiendonos La Piel](https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX) | 4:36 |
 | 94 | [Contigo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Radio la Colifata Presenta: El Canto del Loco](https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf) | 3:34 |
 | 95 | [Ya No](https://open.spotify.com/track/4lWnNqKJmhxrgzidQmXB94) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Bailar El Viento](https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS) | 3:46 |
 | 96 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |

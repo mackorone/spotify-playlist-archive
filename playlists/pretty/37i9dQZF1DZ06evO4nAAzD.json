@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4416,
+  "num_followers": 4414,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAA5r/VpxXyqJHSmXmBD1IHd",
+  "snapshot_id": "aVhcAAAAAAAOWD2DGdTIIkfN1i8W3LSn",
   "tracks": [
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Quero Love",
-        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
-      },
-      "artists": [
-        {
-          "name": "Mc Henny",
-          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 155833,
-      "name": "N\u00e3o Quero Love",
-      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 274285,
       "name": "DESILUS\u00c3O",
       "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Quero Love",
+        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
+      },
+      "artists": [
+        {
+          "name": "Mc Henny",
+          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 155833,
+      "name": "N\u00e3o Quero Love",
+      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
     },
     {
       "added_at": null,
@@ -735,6 +735,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ONDE C\u00ca T\u00c1?",
+      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -763,34 +791,6 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ONDE C\u00ca T\u00c1?",
-      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
       "added_at": null,
@@ -1115,30 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Levo Daqui",
-        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Te Levo Daqui",
-      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1167,6 +1143,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Levo Daqui",
+        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Lu\u00e1 Kali",
+          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+        }
+      ],
+      "duration_ms": 244965,
+      "name": "Te Levo Daqui",
+      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -1180,37 +1180,21 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "CENA DE FILME",
-      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Firma \u00c9 Forte",
-        "url": "https://open.spotify.com/album/3rjFHKiBjGAuXwxh3kLOBK"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "LOUD",
-          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         }
       ],
-      "duration_ms": 163278,
-      "name": "A Firma \u00c9 Forte",
-      "url": "https://open.spotify.com/track/0ipsnad6pgIVaj2xyiXUZY"
+      "duration_ms": 182400,
+      "name": "VIDA DE ARTISTA",
+      "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
     },
     {
       "added_at": null,
@@ -1239,6 +1223,30 @@
       "duration_ms": 202218,
       "name": "Momento (feat. Luccas Carlos)",
       "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Firma \u00c9 Forte",
+        "url": "https://open.spotify.com/album/3rjFHKiBjGAuXwxh3kLOBK"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "A Firma \u00c9 Forte",
+      "url": "https://open.spotify.com/track/0ipsnad6pgIVaj2xyiXUZY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,703 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,722 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 65 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
 | 66 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
 | 67 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
-| 68 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
-| 69 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 68 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 69 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
 | 70 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 71 | [Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 |
 | 72 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
-| 73 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
-| 74 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
+| 73 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
+| 74 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 75 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 |
 | 76 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 |
 | 77 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 89 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 |
 | 90 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 |
 | 91 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
-| 92 | [愛とか恋とか](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Assort](https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ) | 3:52 |
-| 93 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
+| 92 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
+| 93 | [愛とか恋とか](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Assort](https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ) | 3:52 |
 | 94 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 | 95 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
 | 96 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |

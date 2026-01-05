@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,406 likes - 19 songs - 52 min 43 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,414 likes - 19 songs - 52 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 9 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 |
 | 10 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
 | 11 | [lord i've tried](https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [lord i've tried](https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa) | 1:46 |
-| 12 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
+| 12 | [wn way or another](https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn way or another](https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q) | 2:10 |
 | 13 | [all the girls](https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:12 |
-| 14 | [wn way or another](https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn way or another](https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q) | 2:10 |
+| 14 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
 | 15 | [nobody](https://open.spotify.com/track/070WkX6MLNbqqgH852HqLr) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [nobody](https://open.spotify.com/album/6XhybEBDYgmwltGrdsmCPo) | 3:04 |
-| 16 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 |
-| 17 | [stand on it](https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:33 |
-| 18 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
-| 19 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
+| 16 | [stand on it](https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:33 |
+| 17 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 |
+| 18 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
+| 19 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `aVcKgAAAAABJ+kLQhtlDzOsaepXH3K2x`
+Snapshot ID: `aVhcAAAAAAAtAcvEDmiSXXvFcTYiDwva`

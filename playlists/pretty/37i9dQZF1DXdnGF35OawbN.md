@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > El soundtrack del verano 2025 🏝️ Cover: ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,560,736 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,560,237 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 39 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 40 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
 | 41 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
-| 42 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
-| 43 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
+| 42 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
+| 43 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 44 | [Comernos](https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Comernos](https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY) | 3:41 |
 | 45 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 46 | [Perlas Negras](https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Perlas Negras](https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0) | 3:23 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 58 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 59 | [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 |
 | 60 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 61 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
-| 62 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 |
+| 61 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 |
+| 62 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
 | 63 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 64 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 |
 | 65 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |

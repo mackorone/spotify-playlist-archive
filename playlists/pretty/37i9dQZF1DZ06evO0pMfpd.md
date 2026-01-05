@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,563 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,574 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 49 | [Mambo No\. 5](https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:40 |
 | 50 | [No Bailes De Caballito](https://open.spotify.com/track/3Fykx87C4b5ZQ0UkAfeBNn) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [50 Gracias Al Cielo](https://open.spotify.com/album/3LZIDVwRiqlqNsTf2FGIEz) | 3:53 |
 
-Snapshot ID: `aVcKgAAAAABnMYo1BUmtYwhWxHqC5fsL`
+Snapshot ID: `aVhcAAAAAABanTEGh3F8+TBMgTapJvUL`

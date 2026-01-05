@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,204 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,296 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 22 | [Andromeda \(feat\. DRAM\)](https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:17 |
 | 23 | [Tomorrow Comes Today](https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:13 |
 | 24 | [Superfast Jellyfish \(feat\. Gruff Rhys and De La Soul\)](https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 2:54 |
-| 25 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
-| 26 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 |
+| 25 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 |
+| 26 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 27 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 28 | [DARE](https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Singles Collection 2001\-2011](https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w) | 3:33 |
 | 29 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
 | 50 | [Busted and Blue](https://open.spotify.com/track/04zxGiXcmNQ0m9oDXtwo18) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:37 |
 
-Snapshot ID: `aVcKgAAAAAA+gg/DgKVSwuqjcapwCAoq`
+Snapshot ID: `aVhcAAAAAABHnxb7HrpOCrn/Jbtg4J4r`

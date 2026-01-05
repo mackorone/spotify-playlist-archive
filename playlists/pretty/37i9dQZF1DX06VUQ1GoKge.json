@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553761,
+  "num_followers": 553742,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 374453,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Piece of Mind (2015 Remaster)",
         "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Indestructible (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 278026,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -251,8 +251,8 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "TANZNEID",
-        "url": "https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F"
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 185172,
-      "name": "TANZNEID",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
+      "duration_ms": 206124,
+      "name": "We Got the Moves",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -335,8 +335,8 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "TEKKNO",
-        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 206124,
-      "name": "We Got the Moves",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
+      "duration_ms": 185172,
+      "name": "TANZNEID",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
-        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189347,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 247019,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189347,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Look at Yourself",
-        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Look at Yourself",
+        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
     },
     {
       "added_at": "2025-11-05 11:45:24",

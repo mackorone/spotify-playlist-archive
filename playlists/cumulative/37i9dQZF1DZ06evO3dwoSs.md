@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-161 songs - 10 hr 5 min
+162 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Got Your Six](https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 2:58 | 2023-08-25 |  |
 | [Got Your Six](https://open.spotify.com/track/401J0hL8u9JD6cqO7Jf17n) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0) | 2:58 | 2025-03-25 | 2025-12-01 |
 | [Got Your Six](https://open.spotify.com/track/6h6RvArm9RlU16rz1nFMnE) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 2:58 | 2022-05-30 | 2023-08-26 |
-| [Hard to See](https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:29 | 2023-08-25 |  |
+| [Hard to See](https://open.spotify.com/track/0rrv8cn4zvF4tS9a6ulxur) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC) | 3:29 | 2026-01-05 |  |
+| [Hard to See](https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:29 | 2023-08-25 | 2026-01-05 |
 | [Hard To See](https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:29 | 2023-09-25 | 2025-12-02 |
 | [Hard To See](https://open.spotify.com/track/6X13xZ3XOF2ThTvvLAODHc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:29 | 2022-05-30 | 2023-08-26 |
 | [Hell To Pay](https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:07 | 2022-06-15 |  |

@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 53 min
+67 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Angelitos Negros](https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:56 | 2025-02-26 | 2025-04-18 |
 | [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:50 | 2025-02-25 |  |
 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 | 2025-02-25 |  |
+| [Be Real Black for Me](https://open.spotify.com/track/7JTSRQ7WBhrX5MXYVYbNrB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:34 | 2026-01-05 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 7:16 | 2025-02-25 |  |
 | [Can We Find Love Again](https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:31 | 2025-02-25 |  |
 | [Compared to What](https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:16 | 2025-02-25 |  |
@@ -26,7 +27,7 @@
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2025-02-25 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2025-02-25 |  |
 | [For All We Know](https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:40 | 2025-02-25 |  |
-| [Here We Go](https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Love Lives Forever](https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n) | 7:00 | 2025-02-25 |  |
+| [Here We Go](https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Love Lives Forever](https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n) | 7:00 | 2025-02-25 | 2026-01-05 |
 | [HERE'S TO LOVE \(feat\. ROBERTA FLACK\)](https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [RENDEZVOUS \(2017 Remaster\)](https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M) | 4:39 | 2025-02-25 |  |
 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 | 2025-02-25 |  |
 | [I Just Came Here To Dance](https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 | 2025-02-25 | 2025-12-03 |

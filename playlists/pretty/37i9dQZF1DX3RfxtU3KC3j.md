@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pera x Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,380 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,340 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

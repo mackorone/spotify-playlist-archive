@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,766 likes - 38 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,769 likes - 38 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,25 +14,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 4 | [.44 Caliber Love Letter](https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:31 |
 | 5 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
 | 6 | [Boiled Frogs](https://open.spotify.com/track/6OQvNuzDP0RJaF446HOAH9) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:56 |
-| 7 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 |
+| 7 | [No Transitory](https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:16 |
 | 8 | [Pulmonary Archery](https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:22 |
-| 9 | [No Transitory](https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:16 |
+| 9 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 |
 | 10 | [To a Friend](https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:16 |
 | 11 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
-| 12 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
-| 13 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
+| 12 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
+| 13 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
 | 14 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 |
 | 15 | [Born and Raised](https://open.spotify.com/track/2cMOVqd7pTOoj3yUHuxbj7) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:00 |
-| 16 | [Adelleda](https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:14 |
-| 17 | [Side Walk When She Walks](https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
+| 16 | [Side Walk When She Walks](https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
+| 17 | [Adelleda](https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:14 |
 | 18 | [We Are The End](https://open.spotify.com/track/7jyDg46GaJQ89rChvQWlc7) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:44 |
 | 19 | [Blue Spade](https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:31 |
-| 20 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 |
-| 21 | [Happiness by the Kilowatt](https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 5:11 |
+| 20 | [Happiness by the Kilowatt](https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 5:11 |
+| 21 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 |
 | 22 | [We Are the Sound](https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:40 |
 | 23 | [Neighbourhood Villain](https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Copies of Old Masters Vol\. 1](https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH) | 4:32 |
-| 24 | [Misogyny](https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Misogyny](https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2) | 3:08 |
-| 25 | [Hey, It's Your Funeral Mama](https://open.spotify.com/track/0isd7xJL3Oh1Cw9RraixQL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
+| 24 | [Hey, It's Your Funeral Mama](https://open.spotify.com/track/0isd7xJL3Oh1Cw9RraixQL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
+| 25 | [Misogyny](https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Misogyny](https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2) | 3:08 |
 | 26 | [The Kennedy Curse](https://open.spotify.com/track/0jRJkH0ZvfSzkGDlg7UYE8) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:37 |
 | 27 | [World Stops Turning](https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 8:16 |
 | 28 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 | 38 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
 
-Snapshot ID: `aVcKgAAAAACub6/L7WoRxC+EYgqOYaKS`
+Snapshot ID: `aVhcAAAAAADs3Yy0uafWBsfQoCfRb84n`

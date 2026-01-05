@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 
 > Don't wait for spring to spruce things up
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,793 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,797 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 65 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
 | 66 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 67 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 68 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 69 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
+| 68 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
+| 69 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 70 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 | 71 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 72 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |

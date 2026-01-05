@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,168 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,220,496 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 20 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 21 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
 | 22 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
-| 23 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
-| 24 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 23 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 24 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 25 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
 | 26 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 | 27 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 |

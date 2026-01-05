@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 765160,
+  "num_followers": 765234,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-10-17 04:00:42",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2025-10-17 04:00:42",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2025-10-17 04:00:42",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2025-10-17 04:00:42",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-10-17 04:00:42",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2025-10-17 04:00:42",
-      "album": {
         "name": "The Closer You Get...",
         "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 325542,
       "name": "Dixieland Delight",
       "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:42",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2025-10-17 04:00:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-10-17 04:00:42",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2025-10-17 04:00:42",
-      "album": {
         "name": "Friends Like That (feat. Jason Aldean)",
         "url": "https://open.spotify.com/album/3Pfcc6AxszeBvZyMzKlRCs"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 186293,
       "name": "Friends Like That (feat. Jason Aldean)",
       "url": "https://open.spotify.com/track/3RL5e0b30F6Ly6Z0gvJlcF"
+    },
+    {
+      "added_at": "2025-10-17 04:00:42",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     }
   ],
   "unique_name": "Country Cookout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,754 likes - 110 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,737 likes - 110 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 103 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 104 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 105 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
-| 106 | [Wicked Game](https://open.spotify.com/track/2a3B6JI0mY3QA5V9m8VzbY) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/6jvANzf2UaI8JmXllNzFD3) | 4:11 |
-| 107 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
-| 108 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
-| 109 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
-| 110 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
+| 106 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
+| 107 | [Wicked Game](https://open.spotify.com/track/2a3B6JI0mY3QA5V9m8VzbY) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/6jvANzf2UaI8JmXllNzFD3) | 4:11 |
+| 108 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
+| 109 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
+| 110 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
 
 Snapshot ID: `AAAAALDPeFQpxOmIGfJHziXsE56a0nuJ`

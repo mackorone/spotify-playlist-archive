@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2120724,
+  "num_followers": 2120678,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Look At The Time",
-        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
-          "name": "Sawyer Hill",
-          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 260575,
-      "name": "Look At The Time",
-      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+        "name": "Look At The Time",
+        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+      "duration_ms": 260575,
+      "name": "Look At The Time",
+      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -647,30 +647,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "If Ever",
-        "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
-      },
-      "artists": [
-        {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 215104,
-      "name": "If Ever (with Jack Johnson & Ben Harper)",
-      "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "If Ever",
+        "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
+      },
+      "artists": [
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 215104,
+      "name": "If Ever (with Jack Johnson & Ben Harper)",
+      "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 450986,
       "name": "Let Me Get There",
       "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 196359,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 363520,
       "name": "Children of the Empire",
       "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 196359,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Missing Home",
-        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Missing Home",
-      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Missing Home",
+        "url": "https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Missing Home",
+      "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 217966,
       "name": "Time",
       "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Long Limbs",
+        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "Long Limbs",
+      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Long Limbs",
-        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 196885,
-      "name": "Long Limbs",
-      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
     },
     {
       "added_at": "2025-05-02 04:00:31",

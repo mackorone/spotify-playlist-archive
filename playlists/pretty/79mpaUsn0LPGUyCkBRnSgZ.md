@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 650 songs - 1 day 18 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 648 songs - 1 day 18 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -638,25 +638,23 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 628 | [Everybody's dead!](https://open.spotify.com/track/40udcJKNzQ8WonnPwMW9ky) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:52 |
 | 629 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 |
 | 630 | [INTRO](https://open.spotify.com/track/20wAl6YDZH9UH9Ld6qDXn1) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 0:28 |
-| 631 | [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 |
-| 632 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 |
-| 633 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
-| 634 | [Joshua Underwater](https://open.spotify.com/track/66p3HV0lZzQEIhB11xRgQz) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Joshua / Same Day Walking](https://open.spotify.com/album/72kWJbeoJI4DZwS5yp66Ro) | 7:26 |
-| 635 | [Easy](https://open.spotify.com/track/1KO2CDSbDCICMBcSEw5esG) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:56 |
-| 636 | [All My Life](https://open.spotify.com/track/2mgmn8ZVRHUtiOIXS1V9DV) | [Eliana Glass](https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc) | [E](https://open.spotify.com/album/5l5WzqAhsWj2Quh4VcT8rE) | 5:02 |
-| 637 | [Seaglass Wish](https://open.spotify.com/track/3yWSo0oqjakX2KnES2N7fD) | [Kitchen](https://open.spotify.com/artist/4WDKeq9tHjGEcSgzhzhLB0) | [Blue Heeler in Ugly Snowlight, Grey on Gray on Gray on White](https://open.spotify.com/album/59UxAPWtavTqnqeUZ1aG2t) | 7:07 |
-| 638 | [Point and Shoot](https://open.spotify.com/track/1YhGlIl93I7WNvsBda9Fpw) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 3:05 |
-| 639 | [Lay down](https://open.spotify.com/track/41pMat2eON1f1hxqN3BycL) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Iris Silver Mist](https://open.spotify.com/album/2eMQz1VNYCVSJ8amR0AgQX) | 4:16 |
-| 640 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 |
-| 641 | [Schizophrenia](https://open.spotify.com/track/22t3vCXfjQhIiXzGVSZNOz) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sister](https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8) | 4:38 |
-| 642 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 |
-| 643 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 |
-| 644 | [The Universe in a Nutshell](https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 7:53 |
-| 645 | [At Least That's What You Said](https://open.spotify.com/track/263uAmDYMkK8pU07QAnBKe) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born](https://open.spotify.com/album/1RCxMEn5jFeUWbof3vy8oC) | 5:31 |
-| 646 | [BITTEN BY MY LOVE VAR\. XI](https://open.spotify.com/track/02RZUwOuwSiWciz1ZqeGtS) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 6:00 |
-| 647 | [COLORATURA](https://open.spotify.com/track/0ur6QHp5cE1a3qz87vRDSA) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/5HT3Ygm47fCCNs9AhqzzvS) | 4:07 |
-| 648 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 |
-| 649 | [I am the pipe I hit myself with](https://open.spotify.com/track/6NWGkPcDDhKFIvCeutoaWt) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 2:25 |
-| 650 | [The Iron Wall](https://open.spotify.com/track/6CsxP1KlLAUjCZeD4UYqH2) | [Infinity Knives](https://open.spotify.com/artist/4IRSrcFPOEhZgeNX5Ho0th), [Brian Ennals](https://open.spotify.com/artist/736tHn6tvEkK3cHqSEAAbO), [FRANKI3](https://open.spotify.com/artist/43LOE3QXfacVTe9h5Uc2Es) | [A City Drowned in God's Black Tears](https://open.spotify.com/album/6xL3agjy4clyjhfNwsqCy4) | 4:05 |
+| 631 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 |
+| 632 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
+| 633 | [Joshua Underwater](https://open.spotify.com/track/66p3HV0lZzQEIhB11xRgQz) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Joshua / Same Day Walking](https://open.spotify.com/album/72kWJbeoJI4DZwS5yp66Ro) | 7:26 |
+| 634 | [Easy](https://open.spotify.com/track/1KO2CDSbDCICMBcSEw5esG) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:56 |
+| 635 | [All My Life](https://open.spotify.com/track/2mgmn8ZVRHUtiOIXS1V9DV) | [Eliana Glass](https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc) | [E](https://open.spotify.com/album/5l5WzqAhsWj2Quh4VcT8rE) | 5:02 |
+| 636 | [Seaglass Wish](https://open.spotify.com/track/3yWSo0oqjakX2KnES2N7fD) | [Kitchen](https://open.spotify.com/artist/4WDKeq9tHjGEcSgzhzhLB0) | [Blue Heeler in Ugly Snowlight, Grey on Gray on Gray on White](https://open.spotify.com/album/59UxAPWtavTqnqeUZ1aG2t) | 7:07 |
+| 637 | [Point and Shoot](https://open.spotify.com/track/1YhGlIl93I7WNvsBda9Fpw) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 3:05 |
+| 638 | [Lay down](https://open.spotify.com/track/41pMat2eON1f1hxqN3BycL) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Iris Silver Mist](https://open.spotify.com/album/2eMQz1VNYCVSJ8amR0AgQX) | 4:16 |
+| 639 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 |
+| 640 | [Schizophrenia](https://open.spotify.com/track/22t3vCXfjQhIiXzGVSZNOz) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sister](https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8) | 4:38 |
+| 641 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 |
+| 642 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 |
+| 643 | [The Universe in a Nutshell](https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 7:53 |
+| 644 | [At Least That's What You Said](https://open.spotify.com/track/263uAmDYMkK8pU07QAnBKe) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born](https://open.spotify.com/album/1RCxMEn5jFeUWbof3vy8oC) | 5:31 |
+| 645 | [COLORATURA](https://open.spotify.com/track/0ur6QHp5cE1a3qz87vRDSA) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/5HT3Ygm47fCCNs9AhqzzvS) | 4:07 |
+| 646 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 |
+| 647 | [I am the pipe I hit myself with](https://open.spotify.com/track/6NWGkPcDDhKFIvCeutoaWt) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 2:25 |
+| 648 | [The Iron Wall](https://open.spotify.com/track/6CsxP1KlLAUjCZeD4UYqH2) | [Infinity Knives](https://open.spotify.com/artist/4IRSrcFPOEhZgeNX5Ho0th), [Brian Ennals](https://open.spotify.com/artist/736tHn6tvEkK3cHqSEAAbO), [FRANKI3](https://open.spotify.com/artist/43LOE3QXfacVTe9h5Uc2Es) | [A City Drowned in God's Black Tears](https://open.spotify.com/album/6xL3agjy4clyjhfNwsqCy4) | 4:05 |
 
-Snapshot ID: `AAAIT0/Gf/uHaAvfno9EsYNgmPh1P5Ds`
+Snapshot ID: `AAAIUf5fOjjMDrzmxgWtxNtXa7mljnqL`

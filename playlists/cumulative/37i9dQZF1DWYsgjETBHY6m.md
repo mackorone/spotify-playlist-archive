@@ -4,7 +4,7 @@
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-104 songs - 5 hr 45 min
+105 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2026-01-01 |  |
 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 | 2024-04-22 | 2024-05-08 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-07 |  |
-| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 |  |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 | 2026-01-05 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-04-22 |  |
 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 | 2024-03-21 | 2024-04-19 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2024-04-22 |  |
@@ -86,6 +86,7 @@
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-04-22 |  |
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2024-03-21 | 2024-04-23 |
 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 | 2024-03-21 | 2024-04-19 |
+| [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-01 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2024-03-21 |  |
 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 | 2024-03-21 | 2024-04-23 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2024-03-21 |  |

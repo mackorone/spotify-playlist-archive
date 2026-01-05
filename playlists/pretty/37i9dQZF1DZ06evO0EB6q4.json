@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 259598,
+  "num_followers": 259617,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAGJyckohHAKhcpNF0GE6cF",
+  "snapshot_id": "aVhcAAAAAABLfZuPr6j/d95U/VC1k7N2",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 198280,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pienses Que Me Fui",
         "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Arpin Lépine
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,274 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,268 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 99 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 |
 | 100 | [Feu de paille](https://open.spotify.com/track/70eqsLa9wNGGibwSx8ox04) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Feu de paille](https://open.spotify.com/album/1t7UVGseExVHbuOOtyMehW) | 3:22 |
 
-Snapshot ID: `AAAAAHPSxQbAxtfeBWdG0mteSPo3uXf1`
+Snapshot ID: `AAAAANyLK+P70nQDm8z/cWjtJNDrK4S8`

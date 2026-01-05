@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con BZRP x J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,529,823 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,529,937 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [TATAMI](https://open.spotify.com/track/1WBnZKAMjsgpnx7WVIaNBe) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [TATAMI](https://open.spotify.com/album/5eliOWD57s4aIJz2RmLf3k) | 2:05 |
 | 100 | [Constelación](https://open.spotify.com/track/4T4DDAlkxdzD3DDtitfOrQ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Constelación](https://open.spotify.com/album/4uAzHlmhBptssGbzn3qib3) | 2:56 |
 
-Snapshot ID: `AAAAAOb0poWSExoxLbAy+4SNWxqstmFt`
+Snapshot ID: `AAAAAA0mvcvzuN+iSERq0RNL6go2saWP`

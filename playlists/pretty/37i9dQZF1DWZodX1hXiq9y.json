@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 134909,
+  "num_followers": 134951,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "I'm All For You (Ballad Songbook)",
         "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 347773,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 484106,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Giant Steps (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 331266,
       "name": "Two Not One",
       "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Giant Steps (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Ben Webster Plays Ballads Remastered",
         "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 378784,
       "name": "Stardust - Remastered",
       "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 308960,
-      "name": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 308960,
+      "name": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered 2000",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rhythm In Mind (The Carnegie Project)",
         "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered 2000",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lenox Avenue Breakdown",
         "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 449293,
       "name": "I Remember You - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 368053,
+      "name": "Eco - Remastered",
+      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 446194,
       "name": "Blues in G Flat",
       "url": "https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Contemporary Jazz",
+        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        }
+      ],
+      "duration_ms": 962320,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
     },
     {
       "added_at": "2024-07-17 12:24:10",

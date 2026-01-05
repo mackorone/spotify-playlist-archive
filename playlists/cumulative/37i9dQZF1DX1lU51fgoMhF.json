@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/1GRocMBU2hYD29hexD5UVF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2IZ6fFOq5d8lT0CxLDcxKz"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
@@ -5990,7 +6008,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"

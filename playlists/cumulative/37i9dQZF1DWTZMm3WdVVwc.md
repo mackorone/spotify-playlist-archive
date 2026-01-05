@@ -4,7 +4,7 @@
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-274 songs - 19 hr 17 min
+275 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [そばにいるね](https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [SoulJa](https://open.spotify.com/artist/0wP8E9fUgYBHx1QRf3QLPT) | [そばにいるね](https://open.spotify.com/album/69vgvtuEzB2P38An5eRSqu) | 5:02 | 2025-10-23 |  |
 | [それはまるで映画みたいな恋だった。](https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [それはまるで映画みたいな恋だった。](https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ) | 4:01 | 2023-12-12 | 2023-12-20 |
 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 | 2024-02-20 | 2025-10-24 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2026-01-05 |  |
 | [なごり雪](https://open.spotify.com/track/3ntXrq0GLtqddVD6Mais9H) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [福耳 THE BEST ACOUSTIC WORKS](https://open.spotify.com/album/6oH1VVOsOcDEEhhVbdCP6a) | 3:22 | 2025-10-24 |  |
 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 | 2025-10-24 |  |
 | [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 | 2025-10-24 | 2025-12-11 |
@@ -185,7 +186,7 @@
 | [キンモクセイ](https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [キンモクセイ](https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU) | 3:38 | 2025-12-19 |  |
 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 | 2025-10-23 |  |
 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-10 | 2025-10-25 |
-| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-11 |  |
+| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-11 | 2026-01-05 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-02-20 | 2025-10-24 |
 | [サテライト](https://open.spotify.com/track/7HSvcRqLkfuPMnEYE94VSe) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [サテライト](https://open.spotify.com/album/1rP1IeXCkGThqMLYsHW6xJ) | 5:19 | 2023-12-12 | 2023-12-20 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2025-10-23 |  |

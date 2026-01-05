@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,597 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,626 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 9 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 10 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 | 11 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
-| 12 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
-| 13 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
+| 12 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
+| 13 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
 | 14 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 15 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 |
 | 16 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 44 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 45 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 46 | [Luz Sin Gravedad](https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 4:01 |
-| 47 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
-| 48 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
+| 47 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
+| 48 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 49 | [Aqui Estoy Yo](https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 4:11 |
 | 50 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 68804,
+  "num_followers": 68864,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACo2Ip9r7LOFSU8wGpWHpJM",
+  "snapshot_id": "aVhcAAAAAAA9x41fgH4QFyXZvLr56rWk",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 282186,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
     },
     {
       "added_at": null,
@@ -491,22 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 299533,
-      "name": "Ain't Nobody Home",
-      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
+      "duration_ms": 282186,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,210 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,197 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 79 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 80 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 81 | [Te Ves Muy Bien](https://open.spotify.com/track/6BANB54bdYdgyFIh11mImt) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Te Ves Muy Bien](https://open.spotify.com/album/1b97Z0rDfuD70rzXqHp1cM) | 2:52 |
-| 82 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
-| 83 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
+| 82 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
+| 83 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 84 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 85 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
 | 86 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |

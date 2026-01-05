@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,370 likes - 41 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,400 likes - 41 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 15 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
 | 16 | [BOILED PEANUTS](https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
 | 17 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
-| 18 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
-| 19 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 |
+| 18 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 |
+| 19 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
 | 20 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
 | 21 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
 | 22 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 40 | [This Bitch Matters](https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 1:41 |
 | 41 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `aVcKgAAAAADi2xi+6ZjpyLggFZoIpl4/`
+Snapshot ID: `aVhcAAAAAACuJaCx19PmYlb3YaeDazMr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > jake minch\. that's it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,152 likes - 160 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,166 likes - 160 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 4 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 |
 | 5 | [Sports](https://open.spotify.com/track/4YGzGO76QnzV2JRsQCB2cb) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/4SEvWrTXazys86CggJfd7p) | 2:54 |
 | 6 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
-| 7 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 7 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 8 | [Be Gentle With Me](https://open.spotify.com/track/4kvxVBDtSLM9xKvde5lpO8) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 2:34 |
 | 9 | [Personified](https://open.spotify.com/track/4yd4nDCAiHzeu0BsetmtFN) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Personified](https://open.spotify.com/album/4QjQZhAuJUSt7busfeDsrc) | 3:09 |
 | 10 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |

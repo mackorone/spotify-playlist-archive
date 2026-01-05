@@ -2,9 +2,9 @@
 
 ### [Hot Hit Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits du moment en Algérie.
+> Les hits du moment en Algérie\. Cover: Abdou Gambetta
 
-273 songs - 16 hr 19 min
+274 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,9 +126,10 @@
 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 | 2023-07-07 | 2024-07-19 |
 | [Hay aliya](https://open.spotify.com/track/0aue7wbnxU90q1ea2pC19Y) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/3sURigJ1E53P3yCgHkIjEG) | 2:57 | 2024-02-12 | 2024-04-19 |
 | [HINATA](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [HINATA](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 | 2022-09-19 | 2024-01-23 |
+| [Huracan](https://open.spotify.com/track/6a9mGLln2rWXlKdb5PzD9r) | [Trap King](https://open.spotify.com/artist/7FyFexQUGbmAuOBz975Ieu) | [Huracan](https://open.spotify.com/album/4t5WgUFz6CdXsCh3ULga0J) | 3:12 | 2026-01-04 |  |
 | [Héréditaire](https://open.spotify.com/track/6T76ooly64vILBrarOWqFY) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Héréditaire](https://open.spotify.com/album/0u1x3zt7EstMjWxfPxLf3A) | 3:58 | 2023-07-09 | 2024-07-19 |
 | [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 | 2023-08-14 | 2024-07-20 |
-| [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-07-18 |  |
+| [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-07-18 | 2026-01-05 |
 | [Jacuzzi](https://open.spotify.com/track/0tHcl65zImDRYFFRkfxrNz) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:05 | 2022-11-03 | 2023-02-07 |
 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-08 | 2025-04-22 |
 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 | 2025-03-30 |  |

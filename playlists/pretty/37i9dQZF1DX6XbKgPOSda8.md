@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,765 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,828 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 |
 | 2 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 3 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
-| 4 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 |
+| 3 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 |
+| 4 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 5 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
 | 6 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 |
 | 7 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 13 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
 | 14 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:27 |
 | 15 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
-| 16 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
+| 16 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 17 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
 | 18 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 19 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
 | 20 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
-| 21 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
+| 21 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 22 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
-| 23 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
-| 24 | [Escándalo](https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:38 |
+| 23 | [Escándalo](https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:38 |
+| 24 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
 | 25 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 26 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
 | 27 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |

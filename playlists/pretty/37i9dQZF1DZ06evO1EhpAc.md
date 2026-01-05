@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,642 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,640 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 41 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 | 42 | [Pink Ponies](https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:05 |
 
-Snapshot ID: `aVcKgAAAAAB+NYfZgCiTbbqm+vkhrjQK`
+Snapshot ID: `aVhcAAAAAAC9/G5/xDVqeOxejUPBkpB3`

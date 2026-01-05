@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,342 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,468 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 32 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 33 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 34 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
-| 35 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
-| 36 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
+| 35 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
+| 36 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
 | 37 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 38 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 39 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 82 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
 | 83 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
 | 84 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
-| 85 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
+| 85 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
 | 86 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
 | 87 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
 | 88 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
 | 89 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
-| 90 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
+| 90 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
 | 91 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
 | 92 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
-| 93 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
-| 94 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 |
-| 95 | [OHNE DICH](https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 4:31 |
-| 96 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 93 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 94 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
+| 95 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 |
+| 96 | [OHNE DICH](https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 4:31 |
 | 97 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
 | 98 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 |
-| 99 | [Amazing](https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:56 |
-| 100 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 |
+| 99 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 |
+| 100 | [Amazing](https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:56 |
 
 Snapshot ID: `AAAAAM+deCwUhT19r8htZ2+lfHHArf3e`

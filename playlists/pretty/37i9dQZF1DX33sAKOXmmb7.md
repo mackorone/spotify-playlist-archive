@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,933 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,948 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 28 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 29 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 30 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 |
-| 31 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
-| 32 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 31 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 32 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 33 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 34 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 35 | [What He Wrote](https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 4:07 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 55 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
 | 56 | [Agape](https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp) | 4:17 |
 | 57 | [Take Me Back](https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Undercurrent](https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc) | 2:34 |
-| 58 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
-| 59 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 58 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 59 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 60 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 61 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 62 | [Heavy](https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 4:24 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 82 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
 | 83 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
 | 84 | [Nice and Quiet](https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 3:51 |
-| 85 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
-| 86 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:57 |
+| 85 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:57 |
+| 86 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
 | 87 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
 | 88 | [Atomic Number](https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [case/lang/veirs](https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN) | 2:57 |
 | 89 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 98 | [Crane Your Neck \- Remastered](https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Ripely Pine](https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt) | 6:27 |
 | 99 | [Live And Die](https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG) | 4:31 |
 | 100 | [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 |
-| 101 | [Distant Sures](https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [No Witch](https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC) | 3:11 |
-| 102 | [Juma Mountain](https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [The Following Mountain](https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe) | 3:38 |
+| 101 | [Juma Mountain](https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [The Following Mountain](https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe) | 3:38 |
+| 102 | [Distant Sures](https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [No Witch](https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC) | 3:11 |
 | 103 | [Believe](https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Freedom](https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW) | 5:46 |
 | 104 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
 | 105 | [I Don't Want Love](https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 3:19 |

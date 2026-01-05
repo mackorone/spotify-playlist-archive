@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,709 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,726 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 26 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
 | 27 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
 | 28 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
-| 29 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
+| 29 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
 | 30 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
-| 31 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
-| 32 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
-| 33 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 |
+| 31 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
+| 32 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
+| 33 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
 | 34 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
 | 35 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
-| 36 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
-| 37 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
+| 36 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
+| 37 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 38 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
 | 39 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
 | 40 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |

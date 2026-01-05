@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,852 likes - 39 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,951 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 31 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 32 | [Stubborn](https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:56 |
 | 33 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 |
-| 34 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 |
-| 35 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
+| 34 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
+| 35 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 |
 | 36 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
 | 37 | [satisfaction \(feat\. Asake\)](https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:41 |
 | 38 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 |
 | 39 | [New Religion](https://open.spotify.com/track/0U6EtYtNKv8t3o9cjniLn2) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:33 |
 
-Snapshot ID: `aVcKgAAAAACbdri19H80v662YHJfNDqp`
+Snapshot ID: `aVhcAAAAAACNJopK83bJ9Kz7EKe3gExl`

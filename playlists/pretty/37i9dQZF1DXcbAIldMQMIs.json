@@ -1,6 +1,6 @@
 {
   "description": "crashing out for the 15th time this week entering a flow state",
-  "num_followers": 789112,
+  "num_followers": 789319,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
@@ -49,7 +49,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
         }
       ],
       "duration_ms": 190476,
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
-    },
-    {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
+    },
+    {
+      "added_at": "2025-11-21 05:00:35",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2025-11-21 05:00:35",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     }
   ],
   "unique_name": "crash out",

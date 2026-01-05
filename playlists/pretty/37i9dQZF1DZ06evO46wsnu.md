@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,721 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,725 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 49 | [Wolves](https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:37 |
 | 50 | [Heaven Knows](https://open.spotify.com/track/5VtJ3LFpIJ7ACYTS3xibLb) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Revolutions Per Minute](https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A) | 3:23 |
 
-Snapshot ID: `aVcKgAAAAACfD+rM9BjFhGGKJWILrmaX`
+Snapshot ID: `aVhcAAAAAACC2q1hTFlRI5dcRoiCGU/p`

@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5824,
+  "num_followers": 5829,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAC2IYhPyCIaTbFZt6VQPCMd",
+  "snapshot_id": "aVhcAAAAAAAhAJXkwkWsTn9Z8qLQHvpb",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Testimony (Choral Version)",
-        "url": "https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 233886,
-      "name": "Testimony - Choral Version",
-      "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "Testimony (Choral Version)",
+        "url": "https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 233886,
+      "name": "Testimony - Choral Version",
+      "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
     },
     {
       "added_at": null,
@@ -591,26 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great is Your Faithfulness",
-        "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
+        "name": "AS I AM GRATEFUL",
+        "url": "https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm"
       },
       "artists": [
         {
+          "name": "Pita",
+          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
+        },
+        {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Victor Okose",
-          "url": "https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk"
-        },
-        {
-          "name": "Dejaks",
-          "url": "https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux"
         }
       ],
-      "duration_ms": 1147000,
-      "name": "Great is Your Faithfulness",
-      "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+      "duration_ms": 182488,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
     },
     {
       "added_at": null,
@@ -647,22 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AS I AM GRATEFUL",
-        "url": "https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm"
+        "name": "Great is Your Faithfulness",
+        "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
       "artists": [
         {
-          "name": "Pita",
-          "url": "https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em"
-        },
-        {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Victor Okose",
+          "url": "https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk"
+        },
+        {
+          "name": "Dejaks",
+          "url": "https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux"
         }
       ],
-      "duration_ms": 182488,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
+      "duration_ms": 1147000,
+      "name": "Great is Your Faithfulness",
+      "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,502 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,496 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 34 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
 | 35 | [Thinking out Loud](https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:41 |
 | 36 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
-| 37 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
+| 37 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
 | 38 | [Almost \(Sweet Music\)](https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 3:37 |
-| 39 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
+| 39 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
 | 40 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 41 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 42 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 44 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
 | 45 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 46 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 |
-| 47 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
-| 48 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
+| 47 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
+| 48 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 | 49 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
 | 50 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
 | 51 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 78 | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
 | 79 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 |
 | 80 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
-| 81 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 |
-| 82 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 |
+| 81 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 |
+| 82 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 |
 | 83 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/3mJiMnKrpIYSNRRFounMtY) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1VtuNSZUOBUZovbPpHqfh4) | 2:53 |
 | 84 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 |
 | 85 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |

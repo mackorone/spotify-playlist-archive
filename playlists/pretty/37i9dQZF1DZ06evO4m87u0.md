@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,447 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,462 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 26 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
 | 27 | [Man On A Mission](https://open.spotify.com/track/7Ef0kJ9gKetW9HUd2AbrH2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:31 |
 | 28 | [Fire Walk With Me](https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:58 |
-| 29 | [Don't Let Me Go](https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:34 |
-| 30 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
+| 29 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
+| 30 | [Don't Let Me Go](https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:34 |
 | 31 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 |
 | 32 | [Meet Me in the City](https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Chulahoma](https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ) | 3:38 |
-| 33 | [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 |
-| 34 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
+| 33 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
+| 34 | [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 |
 | 35 | [Down to Nothing](https://open.spotify.com/track/6YEdXnOVpVLSkZYfeUnJOI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 |
 | 36 | [Too Afraid to Love You](https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
 | 37 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 49 | [Busted](https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:33 |
 | 50 | [Strange Times](https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:10 |
 
-Snapshot ID: `aVcKgAAAAAAbfWNIy0Y0OwCGAx+bgt6R`
+Snapshot ID: `aVhcAAAAAAC2wFJH/4N70YfhN5I4RdyH`

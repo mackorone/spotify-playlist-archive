@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,685 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,660 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 8 | [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 |
 | 9 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
 | 10 | [TAKOT](https://open.spotify.com/track/4advJOoc5XugSHZNFzv8Td) | [Reneboyz](https://open.spotify.com/artist/0fk0b65IguaWnzOyIiGYDW) | [TAKOT](https://open.spotify.com/album/2bSVYaele4e1JnmpfSeSTh) | 4:01 |
-| 11 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
-| 12 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
+| 11 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
+| 12 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 13 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
 | 14 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 |
 | 15 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 37 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |
 | 38 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
 | 39 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
-| 40 | [Piliin](https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Piliin](https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ) | 4:39 |
-| 41 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
+| 40 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
+| 41 | [Piliin](https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Piliin](https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ) | 4:39 |
 | 42 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
 | 43 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 44 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 47 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 48 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 49 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
-| 50 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
+| 50 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
 
 Snapshot ID: `AAAAAI9Ml2MTxK6SbfqvQoD1riYupnn5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,911 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,921 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 27 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 |
 | 28 | [Fin de Semana](https://open.spotify.com/track/330607uBEh09fIWqWfZFBf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 4:18 |
 | 29 | [Los Traficantes](https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:33 |
-| 30 | [El Polvorete](https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:11 |
+| 30 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 |
 | 31 | [Pídeme La Luna](https://open.spotify.com/track/2YncTPh9hW5XXekbIqlFb5) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Pídeme La Luna](https://open.spotify.com/album/7mnRfYQKIZmHFiqwDoQoeD) | 3:07 |
 | 32 | [La Original](https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense](https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F) | 3:46 |
 | 33 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
-| 34 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 |
+| 34 | [El Polvorete](https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:11 |
 | 35 | [Las Dos Plebes](https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:35 |
 | 36 | [Dos Gotas de Agua](https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:53 |
 | 37 | [Pobre Bohemio](https://open.spotify.com/track/1TzDs56uE8JZNFJ6OfU89O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Dos Gotas de Agua](https://open.spotify.com/album/1Kosuz65EekRnT8zsAcoQj) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 49 | [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 |
 | 50 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 |
 
-Snapshot ID: `aVcKgAAAAAC4YyuVai0cDm1LlJiAZhdp`
+Snapshot ID: `aVhcAAAAAABwSHqkHsDlwPXzNOiDNP2x`

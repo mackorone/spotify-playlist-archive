@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 644 likes - 243 songs - 13 hr 3 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 643 likes - 243 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169288,
+  "num_followers": 169291,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACwY9IoMvQQauHIfwnnNYNH",
+  "snapshot_id": "aVhcAAAAAABrNOjm7eqwHXDWXdW2KjWg",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SPARK-AGAIN",
-      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 261773,
       "name": "ninelie",
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 345133,
-      "name": "RE:I AM",
-      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 305333,
       "name": "\u8776\u3005\u7d50\u3073",
       "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "RE:I AM",
+      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 328026,
-      "name": "StarRingChild",
-      "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+      "duration_ms": 328026,
+      "name": "StarRingChild",
+      "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2V-ALK",
         "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
       },
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 285826,
-      "name": "STAND-ALONE",
-      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 227200,
       "name": "Black Bird",
       "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 343973,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8776\u3005\u7d50\u3073",
         "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 302960,
       "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
       "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 343973,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 335973,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3044\u3064\u306e\u307e\u306b",
         "url": "https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 335973,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
     },
     {
       "added_at": null,

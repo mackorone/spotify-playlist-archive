@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35419,
+  "num_followers": 35425,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADLCB5oeBkKBTQfKzjJhF/c",
+  "snapshot_id": "aVhcAAAAAADl2NWrmIo+ozE0BP3Suu22",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 179209,
-      "name": "Last Time (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 196433,
       "name": "Party in Heaven",
       "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193852,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 164770,
       "name": "High Speed",
       "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193852,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Same Me",
+      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Untreated Trauma",
         "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 168000,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Same Me",
-      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "No Bap (Bonus)",
-      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Fazoland (Anniversary Edition)",
         "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "No Bap (Bonus)",
+      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
     },
     {
       "added_at": null,

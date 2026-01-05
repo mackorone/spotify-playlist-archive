@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 326607,
+  "num_followers": 326687,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABz5pxRWhs6KWksEZewradn",
+  "snapshot_id": "aVhcAAAAAAAxbO2vxi7vxZwIvR8Yy/Vr",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 169258,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof (with Jelly Roll)",
         "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 218986,
       "name": "Living Proof (with Jelly Roll)",
       "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 169258,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
     },
     {
       "added_at": null,

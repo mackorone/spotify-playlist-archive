@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 179060,
+  "num_followers": 179100,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAClTqTPyUX+5CDuT/44pXIm",
+  "snapshot_id": "aVhcAAAAAABKUKd/sEgcovU5C5Gb+XK+",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTERLIFE",
-        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "AFTERLIFE",
-      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Pedo",
         "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 181503,
       "name": "Sad Loqueron",
       "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
     },
     {
       "added_at": null,

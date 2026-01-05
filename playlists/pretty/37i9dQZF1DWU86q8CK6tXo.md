@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Laci Kaye Booth
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,529 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,532 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
 | 25 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 |
 | 26 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |
-| 27 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
-| 28 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 27 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
+| 28 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
 | 29 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
 | 30 | [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 |
 | 31 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
 | 34 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
 | 35 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
-| 36 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
-| 37 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
+| 36 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
+| 37 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
 | 38 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
 | 39 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 |
 | 40 | [to each their dot](https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [to each their dot & This Morning I Am Born Again](https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L) | 3:06 |

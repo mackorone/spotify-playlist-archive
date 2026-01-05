@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1359817,
+  "num_followers": 1359915,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -411,18 +395,34 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 239827,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
+      "duration_ms": 239827,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "With Teeth (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 466586,
       "name": "The Unforgiven III",
       "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "With Teeth (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Carrion",
-      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 441132,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Carrion",
+      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
-      },
-      "artists": [
-        {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Slania",
         "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 249240,
       "name": "Inis Mona",
       "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2025-11-24 12:44:55",

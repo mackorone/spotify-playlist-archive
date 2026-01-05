@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,818 likes - 88 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,874 likes - 88 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

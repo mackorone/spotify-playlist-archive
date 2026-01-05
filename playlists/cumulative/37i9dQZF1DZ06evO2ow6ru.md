@@ -4,7 +4,7 @@
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 11 min
+98 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Somewhere in Neverland](https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:45 | 2023-03-19 |  |
 | [Stella](https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:24 | 2023-03-19 |  |
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-15 | 2025-10-25 |
-| [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 | 2025-10-19 |  |
+| [SUCKERPUNCH](https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:52 | 2026-01-05 |  |
+| [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 | 2025-10-19 | 2026-01-05 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-04-15 | 2025-11-12 |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-03-19 | 2023-04-02 |
 | [The Beach](https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:01 | 2025-07-04 | 2025-09-16 |

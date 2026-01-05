@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 332203,
+  "num_followers": 332247,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADnJwd/m6w8DJ3fsY/AQXFA",
+  "snapshot_id": "aVhcAAAAAABRmAi71jcSYQNcZ5zF4fBR",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Location (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/6KFWubocLBhrLs31RpEdR9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4"
       },
@@ -119,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Location (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/6KFWubocLBhrLs31RpEdR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/57DarSfRMIVRCeDBGW0l5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 245920,
       "name": "23",
       "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/57DarSfRMIVRCeDBGW0l5S"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Music (Full Moon Edition)",
         "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 225407,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185590,
       "name": "Don't Let Me Drown - From F1\u00ae The Movie",
       "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 225407,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poison Ou Antidote",
         "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 186600,
       "name": "Donne-moi l\u2019accord",
       "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187609,
-      "name": "Gbona",
-      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 188178,
       "name": "Wetin Man Go Do",
       "url": "https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223390,
-      "name": "On Form",
-      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 188741,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/0JoEdvXnroF2eVAaErd945"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223390,
+      "name": "On Form",
+      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 124818,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 124818,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud"
     }
   ],
   "unique_name": "This Is Burna Boy",

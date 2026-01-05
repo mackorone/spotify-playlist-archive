@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: BIA & Young Miko",
-  "num_followers": 498245,
+  "num_followers": 498252,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-08-22 16:35:23",
       "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
+    },
+    {
+      "added_at": "2025-08-22 16:35:23",
+      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 148915,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
-    },
-    {
-      "added_at": "2025-08-22 16:35:23",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
     },
     {
       "added_at": "2025-08-22 16:35:23",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31508,
+  "num_followers": 31513,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAERC/Z6FW/aXGbnDJcVdQN",
+  "snapshot_id": "aVhcAAAAAADZPTHxsp+jn8VgjUzegvcc",
   "tracks": [
     {
       "added_at": null,
@@ -1087,38 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1147,6 +1115,38 @@
       "duration_ms": 177638,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
     },
     {
       "added_at": null,
@@ -1183,6 +1183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 152680,
       "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,311 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,314 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 46 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
 | 47 | [In To You \(feat\. g1nger\) \- Prod\. WOOGIE](https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:38 |
 | 48 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
-| 49 | [Caffeine](https://open.spotify.com/track/1s4azvneHkiBMkd4Gr8XX1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:43 |
-| 50 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
+| 49 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
+| 50 | [Caffeine](https://open.spotify.com/track/1s4azvneHkiBMkd4Gr8XX1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:43 |
 | 51 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
 | 52 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
-| 53 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
-| 54 | [Blame](https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:41 |
-| 55 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
+| 53 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
+| 54 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 55 | [Blame](https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:41 |
 | 56 | [Talk](https://open.spotify.com/track/6J0xPIfeSpjiyoDsfEDvcL) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:47 |
 | 57 | [F\*cked Up](https://open.spotify.com/track/4RXBQjfrhHkVDiLZBd52yN) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [F\*cked Up](https://open.spotify.com/album/3UEl9CwTk4kDTxblSiNdQ9) | 3:44 |
 | 58 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |

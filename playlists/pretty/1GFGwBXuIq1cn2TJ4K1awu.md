@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 38 min 4 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 39 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Storm in You](https://open.spotify.com/track/0DAU6wRp2rtmeDAAzUbSLR) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [ULTRAMODERN](https://open.spotify.com/album/5SL4ovEUi2N976NrZa7nhO) | 3:41 |
-| 2 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
-| 3 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
-| 4 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
-| 5 | [Moonwalking in Calabasas](https://open.spotify.com/track/3U5eLgmyGEAFEGjDQBcHEh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Moonwalking in Calabasas](https://open.spotify.com/album/50eadnl7DiIOL9lSFhrZBe) | 2:43 |
-| 6 | [Wild](https://open.spotify.com/track/5eBiYzceGrZTcXxxHM8Cc9) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/5xPSi0aOjs3cbObM9ZTOd1) | 3:40 |
-| 7 | [Love Is Only a Feeling](https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Love Is Only a Feeling](https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr) | 2:32 |
-| 8 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
-| 9 | [I Leave Again](https://open.spotify.com/track/5lPPvhs361e1ZoFh3OaAAC) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:09 |
-| 10 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 |
-| 11 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
+| 1 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
+| 2 | [Jacob's Ladder](https://open.spotify.com/track/4lT3lPcmmFku00jP0lw8Ei) | [Victoria Victoria](https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Jacob's Ladder](https://open.spotify.com/album/331eWockWbJQZvdOChLVCo) | 4:18 |
+| 3 | [Hiya](https://open.spotify.com/track/75bLDBRviec1ftS1XRHyoF) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Nosebleed Weekend](https://open.spotify.com/album/2WMf4mZNZTlTLDb43XZHkd) | 2:33 |
+| 4 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
+| 5 | [Dirty Jim](https://open.spotify.com/track/7tmRiJ6moGUCDZjyaeoiWC) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/1T764WfpIEjIxme1YdUEzF) | 3:49 |
+| 6 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
+| 7 | [Drop the Guillotine](https://open.spotify.com/track/1gpBDeONibvJyQYEv5HJh9) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:39 |
+| 8 | [Pattern Doubt](https://open.spotify.com/track/2DSCQOm7OcAYLBFeG527oM) | [Young Jesus](https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP) | [Welcome to Conceptual Beach](https://open.spotify.com/album/4F4a8lEEAfJY2epVAYMFla) | 3:32 |
+| 9 | [God Damn \(Thats Life\)](https://open.spotify.com/track/3PWqu2AhxF2u2ssYMv5YXs) | [Kyle Brew](https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x) | [Well, There Is Nothing Else to Do](https://open.spotify.com/album/6mGKRhiXYIHFwVIkPHxMNi) | 3:39 |
+| 10 | [The Message](https://open.spotify.com/track/1cSn7YyTn523mnxtOZXRYA) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/2s0y5BFQpUv5YiXsezn4rL) | 4:17 |
+| 11 | [Presence](https://open.spotify.com/track/7lSsaThaso2TQF494qQNPo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 2:46 |
 
-Snapshot ID: `AAAI+OS/c0rsr2Rxw4DmB0zkkkzLuwg9`
+Snapshot ID: `AAAJDp/oUz22nOXqvNhzhxWiJDe9uWne`

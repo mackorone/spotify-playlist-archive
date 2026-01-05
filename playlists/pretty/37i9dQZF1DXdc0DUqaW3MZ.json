@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 373266,
+  "num_followers": 373280,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,30 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
+        "name": "This World Of Mine",
+        "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 186691,
+      "name": "This World Of Mine",
+      "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
-        "name": "This World Of Mine",
-        "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
-      },
-      "artists": [
-        {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
-        },
-        {
-          "name": "Confz",
-          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 186691,
-      "name": "This World Of Mine",
-      "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "True",
-      "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Digital girl",
         "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "True",
+      "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
     },
     {
       "added_at": "2025-12-12 00:00:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 163525,
+  "num_followers": 163545,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAAqPy1aNOnzU7Ue55OxI8c",
+  "snapshot_id": "aVhcAAAAAAAyGZXKcx5dB0NT7Z29XTcW",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/0ByWNVCBtL6Kry8FCJNs07"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 150038,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0c28bKYkEvgSv2ykftbZVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 202503,
       "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
       "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 726770,
-      "name": "Most Beautiful / So in Love",
-      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,764 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,777 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 56 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
 | 57 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
 | 58 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
-| 59 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
+| 59 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
 | 60 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
-| 61 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 61 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
 | 62 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 | 63 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 64 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
-| 65 | [Ya No Vives en Mí](https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v) | [Deborah Chauque](https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle) | [Ya No Vives en Mí](https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu) | 3:02 |
+| 65 | [No Vuelvas Más](https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a) | [MEIMI](https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2) | [No Vuelvas Más](https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa) | 3:22 |
 
 Snapshot ID: `AAAAAMyrkr0pswxZ7bTBHWr8r1LHxqgv`

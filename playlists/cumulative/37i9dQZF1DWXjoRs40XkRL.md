@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-400 songs - 1 day 12 hr 53 min
+401 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bright Eyes](https://open.spotify.com/track/6YurAWZr1amWqDhkn3Yrc9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Bright Eyes & In This Mouth](https://open.spotify.com/album/0R3Gu22TJ3rjZIP6Fn7Iwo) | 6:24 | 2022-05-17 | 2022-07-29 |
 | [Bright Eyes \(feat\. Alev Lenz\)](https://open.spotify.com/track/5MaDXZxQUKRqGC3JAQIGpr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Love Letters P.S\. \(Deluxe\)](https://open.spotify.com/album/0qYDzUGVm3cROeMQ5IrGIC) | 6:24 | 2022-07-12 | 2023-05-24 |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-05-17 | 2023-04-22 |
+| [Chaap Tilak](https://open.spotify.com/track/0rwudDOmmbtGQELOr4zbIE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Mujtaba Aziz Naza](https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF) | [Chaap Tilak](https://open.spotify.com/album/02TGo99icXgtWjtpDewMLe) | 3:32 | 2025-12-24 |  |
 | [Chalein Kahin](https://open.spotify.com/track/6TokDrAAt5tTxVlBjiKsTI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Ejaz](https://open.spotify.com/artist/02j9IBgTrlIHNYedpk4HEg), [Sean](https://open.spotify.com/artist/6EWOMj5R4Ipyv0AgMjmL4T) | [Chalein Kahin](https://open.spotify.com/album/0nQKahYCaWKCodVS3G7ZMH) | 4:01 | 2024-03-15 | 2025-01-07 |
 | [Chandni Raat](https://open.spotify.com/track/25PU3JTQlh3qmleaaZyjIG) | [Pandit Mani Prasad](https://open.spotify.com/artist/2mg9mH0ipBLqyL4eTM1DUS), [Sucheta Bhattacharjee](https://open.spotify.com/artist/5BCIB70Lj3ShanUt22DT9R) | [Chandni Raat](https://open.spotify.com/album/6mXElBJDaOQTvkPLB3ORlt) | 4:39 | 2024-08-22 | 2025-01-07 |
 | [Chann](https://open.spotify.com/track/6ElMeJeP2bqPV9osEESQK8) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Chann](https://open.spotify.com/album/7nCzZ3W3YVhDXKBMkk59vM) | 2:46 | 2023-09-08 | 2024-05-08 |
@@ -293,7 +294,7 @@
 | [Pukaare Mujhe](https://open.spotify.com/track/1SRx9uM1ixCPVJqt2xDXqB) | [Orgho](https://open.spotify.com/artist/1WZYo8rlmMYUTz5TbRe4PQ), [Saurav Jyoti Nath](https://open.spotify.com/artist/1batjlGIIBAtWow0WwTRBL) | [Pukaare Mujhe](https://open.spotify.com/album/5TiV1apDwa8GgoeVJX4RO6) | 4:30 | 2025-04-25 | 2025-07-07 |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 | 2023-10-10 |
 | [Purvi](https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Purvi](https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V) | 4:24 | 2023-03-10 | 2023-05-24 |
-| [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 | 2025-01-06 |  |
+| [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 | 2025-01-06 | 2026-01-05 |
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 | 2023-05-24 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 | 2023-05-24 |
 | [Raanjhanaa](https://open.spotify.com/track/2EM5e2WiPfjKS3BK0JrzIH) | [Rudra Majumder](https://open.spotify.com/artist/6JblbbuaCCT2CHWDlbtDXM), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Raanjhanaa](https://open.spotify.com/album/3FJWP2lkzVIX5jbsabqOuX) | 2:50 | 2022-12-19 | 2023-04-22 |

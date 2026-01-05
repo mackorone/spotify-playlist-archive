@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,271 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,262 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 66 | [Goodbye San Antonio, Hello Amsterdam](https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM) | [Garrett T\. Capps](https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv) | [En Los Shadows de San Antone](https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056) | 3:05 |
 | 67 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |
 | 68 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
-| 69 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
-| 70 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
+| 69 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
+| 70 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 71 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 72 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 73 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 78 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 79 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
 | 80 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
-| 81 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
-| 82 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
+| 81 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
+| 82 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
 | 83 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
 | 84 | [Flat Top Guitar](https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:50 |
 | 85 | [May Your Kindness Remain](https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb) | 3:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,102 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,214 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 16 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 |
 | 17 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
 | 18 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
-| 19 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
+| 19 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
-| 21 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
+| 21 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
 | 22 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
 | 23 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 24 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 33 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 34 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 |
 | 35 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
-| 36 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
-| 37 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 36 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 37 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 38 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
 | 39 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
 | 40 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 54 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 55 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
 | 56 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
-| 57 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
-| 58 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
+| 57 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
+| 58 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
 | 59 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 60 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
 | 61 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |

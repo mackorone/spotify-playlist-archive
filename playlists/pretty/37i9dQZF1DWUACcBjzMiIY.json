@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 287906,
+  "num_followers": 287978,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 196055,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Bright",
-      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 254305,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
-      },
-      "artists": [
-        {
-          "name": "Jon McLaughlin",
-          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "So Close - From \"Enchanted\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Jon McLaughlin",
+          "url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "So Close - From \"Enchanted\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240147,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Firestone (Live Acoustic Version)",
         "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 226345,
       "name": "Firestone - Live Acoustic Version",
       "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240147,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Golden Slumbers",
-        "url": "https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 144386,
-      "name": "Golden Slumbers",
-      "url": "https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k"
+      "duration_ms": 249466,
+      "name": "Lost In The Dream",
+      "url": "https://open.spotify.com/track/4ak3ro0ENx4TNNUcSvJKUM"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "Golden Slumbers",
+        "url": "https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
         }
       ],
-      "duration_ms": 249466,
-      "name": "Lost In The Dream",
-      "url": "https://open.spotify.com/track/4ak3ro0ENx4TNNUcSvJKUM"
+      "duration_ms": 144386,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "One Cell In The Sea",
-        "url": "https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK"
-      },
-      "artists": [
-        {
-          "name": "A Fine Frenzy",
-          "url": "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Almost Lover",
-      "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1s2U1tlpHcsTluxhCCNA2t"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 213053,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6GU19qDSbCWw5HKwfYTgVq"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "One Cell In The Sea",
+        "url": "https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK"
+      },
+      "artists": [
+        {
+          "name": "A Fine Frenzy",
+          "url": "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Almost Lover",
+      "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Regret Me",
-        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 196085,
-      "name": "Regret Me",
-      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 223440,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Up from Below",
-        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Hey, Soul Sister",
         "url": "https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 216666,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0VYi6aRMwxXpfvNwDCr3bB"
       },
@@ -3307,6 +3291,22 @@
       "duration_ms": 285320,
       "name": "Welcome Home, Son",
       "url": "https://open.spotify.com/track/13PUJCvdTSCT1dn70tlGdm"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
     }
   ],
   "unique_name": "Mellow Drive",

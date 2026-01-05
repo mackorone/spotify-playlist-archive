@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,089 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,113 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 27 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
 | 28 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 29 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
-| 30 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
-| 31 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
+| 30 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
+| 31 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 32 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 33 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
 | 34 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |

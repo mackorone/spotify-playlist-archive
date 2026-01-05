@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX22oVtkSWNvx.md) - [plain]
 
 > A smooth nostalgia trip through the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,758 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,782 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX22oVtkSWNvx.md) - [plain]
 | 37 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 38 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
 | 39 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 40 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
-| 41 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 |
-| 42 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
-| 43 | [The Way It Is](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t) | [Bruce Hornsby and the Range](https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk) | [The Way It Is](https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn) | 4:57 |
+| 40 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 |
+| 41 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
+| 42 | [The Way It Is](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t) | [Bruce Hornsby and the Range](https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk) | [The Way It Is](https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn) | 4:57 |
+| 43 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 44 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
-| 45 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
-| 46 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
+| 45 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
+| 46 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
 | 47 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 | 48 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:57 |
 | 49 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
-| 50 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
+| 50 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 
 Snapshot ID: `AAAAAAXj8HO8zG1wAqDWqkyTxTODtcLi`

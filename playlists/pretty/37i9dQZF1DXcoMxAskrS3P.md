@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,403 likes - 241 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 241 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

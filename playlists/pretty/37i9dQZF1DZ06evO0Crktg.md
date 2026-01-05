@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,607 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,687 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 39 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 |
 | 40 | [Unlive \- with Yelawolf](https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 41 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
-| 42 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
-| 43 | [Heaven](https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:49 |
+| 42 | [Heaven](https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:49 |
+| 43 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
 | 44 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
 | 45 | [Tears Could Talk](https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Bailee Ann](https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:35 |
 | 46 | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 |
 | 50 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 |
 
-Snapshot ID: `aVcKgAAAAABz5pxRWhs6KWksEZewradn`
+Snapshot ID: `aVhcAAAAAAAxbO2vxi7vxZwIvR8Yy/Vr`

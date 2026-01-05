@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1091221,
+  "num_followers": 1091468,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAB28shnnkp71pHt1LjCehXR",
+  "snapshot_id": "aVhcAAAAAABQ+2f5TxcIg2Ij6yl+HuH9",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
     },
     {
       "added_at": null,

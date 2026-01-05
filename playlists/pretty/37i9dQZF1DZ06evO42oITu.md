@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,122 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,140 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 33 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
 | 34 | [Key to the Highway](https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 3:39 |
 | 35 | [Let It Grow](https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:58 |
-| 36 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
-| 37 | [Knocking On Heaven's Door \- Live At Hammersmith Odeon](https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 5:18 |
+| 36 | [Knocking On Heaven's Door \- Live At Hammersmith Odeon](https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 5:18 |
+| 37 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
 | 38 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
 | 39 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
 | 40 | [It's in the Way That You Use It](https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August](https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [Hard to Thrill](https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:10 |
 | 50 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 
-Snapshot ID: `aVcKgAAAAACI1+p4XkfwOPKm2LjRP946`
+Snapshot ID: `aVhcAAAAAABmDaXUJ8cCBw+PduysJ8ZM`

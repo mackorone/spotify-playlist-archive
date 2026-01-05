@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,478 likes - 148 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,512 likes - 148 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

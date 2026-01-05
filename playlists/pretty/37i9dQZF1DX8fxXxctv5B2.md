@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,398 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,529 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 29 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
 | 30 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 31 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
-| 32 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |
-| 33 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
+| 32 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
+| 33 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |
 | 34 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 35 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
 | 36 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 57 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 |
 | 58 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 59 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
-| 60 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
-| 61 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 60 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 61 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 62 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 63 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 64 | [Ready To Ride](https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Ready To Ride](https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB) | 3:41 |
-| 65 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
+| 64 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
+| 65 | [Ready To Ride](https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Ready To Ride](https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB) | 3:41 |
 | 66 | [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 |
 | 67 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 68 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |

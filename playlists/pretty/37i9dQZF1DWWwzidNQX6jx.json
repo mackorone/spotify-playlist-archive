@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3138151,
+  "num_followers": 3138150,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "Led Zeppelin III (Remaster)",
         "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 547106,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "\"Heroes\" - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296480,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 265173,
       "name": "Beast Of Burden - Remastered 1994",
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 243132,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -631,6 +615,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243132,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 211708,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 269932,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 211708,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "News Of The World (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1051,22 +1067,6 @@
       "duration_ms": 214960,
       "name": "Runnin' with the Devil - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191882,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191882,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2024-06-26 01:48:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Autostrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,662 likes - 42 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,681 likes - 42 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

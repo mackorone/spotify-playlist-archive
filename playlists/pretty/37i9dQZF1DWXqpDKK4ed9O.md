@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,686,237 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,686,362 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 39 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 40 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 | 41 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
-| 42 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |
+| 42 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 43 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
-| 44 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
+| 44 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |
 | 45 | [Save The Best For Last](https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Comfort Zone](https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV) | 3:38 |
 | 46 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
 | 47 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
-| 48 | [To Be With You](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
-| 49 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
+| 48 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
+| 49 | [To Be With You](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 50 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 51 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 52 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [C.M.B.](https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw) | 3:56 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 68 | [Anything](https://open.spotify.com/track/2AtBXRPCZhtIqSGF5ap33B) | [3T](https://open.spotify.com/artist/5rAaG3OuMuWvPWYji9TDgh) | [Brotherhood](https://open.spotify.com/album/5lSFQLg4GgtOZcnY8yXabS) | 5:21 |
 | 69 | [Boy You Knock Me Out](https://open.spotify.com/track/4sWg7HV5QWRlAupyS1KWCg) | [Tatyana Ali](https://open.spotify.com/artist/4ZYkqq2f8wA9vkV4iQIo4C) | [Kiss The Sky](https://open.spotify.com/album/2nJhrAmvHiaScCGBhZTkC1) | 4:10 |
 | 70 | [End Of The Road](https://open.spotify.com/track/3ZxhEGcEmCuwyBzwqCa7oW) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/0hizzarWYWhBfygpvfFOnt) | 5:49 |
-| 71 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
-| 72 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
-| 73 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
+| 71 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
+| 72 | [Because You Loved Me](https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 4:33 |
+| 73 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 |
 | 74 | [Love Is All Around \- From "Four Weddings and a Funeral" Original Motion Picture Soundtrack](https://open.spotify.com/track/0A1Y3N4dwrTnjPLiuIMeDk) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This](https://open.spotify.com/album/2lODNMYgdKlOXvj8K4imjE) | 4:06 |
 | 75 | [Back At One](https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm) | 4:22 |
 

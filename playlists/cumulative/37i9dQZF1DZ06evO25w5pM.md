@@ -4,7 +4,7 @@
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-78 songs - 10 hr 4 min
+79 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 | 2022-05-29 |  |
 | [Coucher de Lune](https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 4:45 | 2022-05-29 |  |
 | [Dammerschein](https://open.spotify.com/track/3PyFurHPWEnybWlBcx7FLx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 9:54 | 2025-06-14 | 2025-06-15 |
-| [Dawn Mist \- The Temple](https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 7:30 | 2022-06-09 |  |
+| [Dawn Mist \- The Temple](https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 7:30 | 2022-06-09 | 2026-01-05 |
 | [Deeper than the Sky](https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:57 | 2022-06-04 | 2025-04-16 |
 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 | 2022-05-29 |  |
 | [Drei](https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:34 | 2022-05-29 |  |
@@ -66,6 +66,7 @@
 | [Sea and Silence](https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sea and Silence](https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH) | 13:27 | 2022-05-29 |  |
 | [Seashell](https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 10:25 | 2022-05-29 |  |
 | [Shamanic Healing](https://open.spotify.com/track/2mqLxY8Q3jH4VZxvKnscvc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:57 | 2022-05-29 | 2022-12-13 |
+| [Silent Alchemy](https://open.spotify.com/track/6ibmDmnayyljaIfT8hgkVq) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 7:48 | 2026-01-05 |  |
 | [Silent Stories](https://open.spotify.com/track/7lkFXR2yz0vo78zu7UYFAq) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 3:56 | 2024-03-12 | 2025-02-01 |
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-05-29 |  |
 | [Song of a Dream](https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Healing](https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP) | 5:42 | 2022-05-29 |  |

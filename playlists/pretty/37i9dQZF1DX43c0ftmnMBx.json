@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 265471,
+  "num_followers": 265503,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2024-08-23 04:59:00",

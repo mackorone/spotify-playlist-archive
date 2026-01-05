@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 56973,
+  "num_followers": 56987,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
         "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 353000,
       "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
       "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -671,6 +671,30 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -703,30 +727,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Andrew Wan",
-          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
-        },
-        {
-          "name": "Charles Richard-Hamelin",
-          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
-        }
-      ],
-      "duration_ms": 484560,
-      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -755,8 +755,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
       },
       "artists": [
         {
@@ -764,17 +764,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
         },
         {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+      "duration_ms": 484560,
+      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
     },
     {
       "added_at": "2025-12-15 12:40:07",

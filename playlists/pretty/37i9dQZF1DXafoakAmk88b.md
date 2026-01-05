@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,578 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,581 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 45 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 |
 | 46 | [Emotions](https://open.spotify.com/track/5MIjWtoQYHEifN8KGHuPAU) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC) | 3:24 |
 | 47 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
-| 48 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
-| 49 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 |
+| 48 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 |
+| 49 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
 | 50 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 |
 
 Snapshot ID: `AAAAAADNlkeclFpOTh/tG2v2k/dH+x1N`

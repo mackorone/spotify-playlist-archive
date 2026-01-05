@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain]
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 104 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 104 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

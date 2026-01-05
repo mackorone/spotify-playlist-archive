@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,291 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,314 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 74 | [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 |
 | 75 | [Corny](https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Corny](https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP) | 2:54 |
 | 76 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 |
-| 77 | [New Beginnings](https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen 2.0.](https://open.spotify.com/album/6uCdKxzbxiu1kqq8T7JLAn) | 3:16 |
-| 78 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
+| 77 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
+| 78 | [New Beginnings](https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen 2.0.](https://open.spotify.com/album/6uCdKxzbxiu1kqq8T7JLAn) | 3:16 |
 | 79 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 |
 | 80 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 30075,
+  "num_followers": 30080,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "What's Luv? (feat. Ashanti)",
-        "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "What's Luv? (feat. Ashanti)",
-      "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "What's Luv? (feat. Ashanti)",
+        "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "What's Luv? (feat. Ashanti)",
+      "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 274666,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x"
     }
   ],
   "unique_name": "Blair Caldwell's Taste",

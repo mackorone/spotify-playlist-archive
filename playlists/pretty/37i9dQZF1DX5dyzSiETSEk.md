@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,009 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,945 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 74 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
 | 75 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 
-Snapshot ID: `AAAAAPAnI4RsH/oFLQSnw9jGrFc//3gN`
+Snapshot ID: `AAAAAAehWyhbJI3Pe63aJHyqWJCONf+7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,178 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,183 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,29 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 74 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
 | 75 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
 | 76 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
-| 77 | [EGO](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [EGO](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 |
-| 78 | [Las Señales](https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Hasta Abajo \- Ep](https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg) | 5:45 |
+| 77 | [Las Señales](https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Hasta Abajo \- Ep](https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg) | 5:45 |
+| 78 | [EGO](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [EGO](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 |
 | 79 | [FOCKIT](https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud) | [Sara Socas](https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [FOCKIT](https://open.spotify.com/album/4nnNxlAnRrPpq60rfQQGFj) | 2:52 |
-| 80 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
-| 81 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
-| 82 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
-| 83 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 |
+| 80 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
+| 81 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
+| 82 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 |
+| 83 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
 | 84 | [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 |
 | 85 | [Libido](https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm) | [María Tyrana](https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu) | [Libido](https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr) | 2:55 |
 | 86 | [Fuego Sobre Fuego](https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv) | [Las Blacanblus](https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I) | [Suena En Mí](https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr) | 4:10 |
 | 87 | [Tengo Ganas](https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Tengo Ganas](https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI) | 4:00 |
-| 88 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
-| 89 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 |
-| 90 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
-| 91 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
-| 92 | [Proclama](https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 4:03 |
-| 93 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 |
-| 94 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
-| 95 | [Mariana](https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO) | [Isabel De Sebastian](https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh), [Bob Telson](https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA) | [Trip](https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr) | 3:04 |
-| 96 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
+| 88 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 |
+| 89 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
+| 90 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
+| 91 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 |
+| 92 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
+| 93 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
+| 94 | [Proclama](https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 4:03 |
+| 95 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
+| 96 | [Mariana](https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO) | [Isabel De Sebastian](https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh), [Bob Telson](https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA) | [Trip](https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr) | 3:04 |
 | 97 | [Sola y Feliz](https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo) | [Tiburona](https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3) | [Sola y Feliz](https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP) | 3:08 |
-| 98 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 |
-| 99 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 |
+| 98 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 |
+| 99 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 |
 | 100 | [Tanta Data](https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Tanta Data](https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo) | 4:26 |
 
 Snapshot ID: `AAAAAHv2kIdLptPZYqpqb8D2NCrR9u5k`

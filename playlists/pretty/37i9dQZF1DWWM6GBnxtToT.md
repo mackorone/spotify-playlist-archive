@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,932 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,920 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,22 +60,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 50 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 |
 | 51 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 |
 | 52 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
-| 53 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
-| 54 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
+| 53 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
+| 54 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 55 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
 | 56 | [Morning Sun](https://open.spotify.com/track/2q8CITaNIKGjvpwAkroCYD) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Morning Sun](https://open.spotify.com/album/0SE40IGBADJ2A8mneCxzWQ) | 3:19 |
-| 57 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
-| 58 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
-| 59 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
-| 60 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
-| 61 | [Amsterdam](https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Amsterdam](https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W) | 3:25 |
-| 62 | [Red & Blue](https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Red & Blue](https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7) | 3:33 |
-| 63 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
-| 64 | [Smiling Face](https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx) | [Cinemagraph](https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP) | [Smiling Face](https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA) | 3:35 |
+| 57 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
+| 58 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
+| 59 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
+| 60 | [Amsterdam](https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Amsterdam](https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W) | 3:25 |
+| 61 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
+| 62 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
+| 63 | [Smiling Face](https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx) | [Cinemagraph](https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP) | [Smiling Face](https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA) | 3:35 |
+| 64 | [Red & Blue](https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Red & Blue](https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7) | 3:33 |
 | 65 | [Offshore](https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw) | [Gardens of Capri](https://open.spotify.com/artist/5mU6A5otqj6gJZQHuj0Rni) | [We Wake Up In The Garden](https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx) | 3:10 |
-| 66 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
-| 67 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 |
-| 68 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 66 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 |
+| 67 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 68 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
 | 69 | [20 Something](https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [20 Something](https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ) | 4:03 |
 | 70 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
 | 71 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 81 | [Waiting for a Sign](https://open.spotify.com/track/6cZArZnUd1oNPMX5vFyRSF) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw), [Joe Traxler](https://open.spotify.com/artist/6uKhANzXcfTiGJ9ulZDBno) | [Waiting for a Sign](https://open.spotify.com/album/6wkzOEFkPUQs8DFqmlosVz) | 2:58 |
 | 82 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
 | 83 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 |
-| 84 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |
-| 85 | [Lost in the Sound](https://open.spotify.com/track/6Aeig7a9lnvYlwfScbX9Qe) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lost in the Sound](https://open.spotify.com/album/7wEs4j97WKIE3Pq1CnoC7I) | 3:36 |
+| 84 | [Lost in the Sound](https://open.spotify.com/track/6Aeig7a9lnvYlwfScbX9Qe) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lost in the Sound](https://open.spotify.com/album/7wEs4j97WKIE3Pq1CnoC7I) | 3:36 |
+| 85 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |
 | 86 | [Passion](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 87 | [Where Do You Go](https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Where Do You Go](https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS) | 3:22 |
 | 88 | [All Because of You](https://open.spotify.com/track/2NArIqQMcyBNQkxlZY7esf) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [All Because of You](https://open.spotify.com/album/2Dv9PDFyQ0fvZxw7b3h2W8) | 3:47 |

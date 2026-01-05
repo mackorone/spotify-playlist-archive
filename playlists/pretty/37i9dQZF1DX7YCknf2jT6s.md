@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joel Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,375 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,390 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 163 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 163 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 78 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
 | 79 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 |
 | 80 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
-| 81 | [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
-| 82 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
+| 81 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
+| 82 | [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
 | 83 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 |
 | 84 | [Personal Thunder](https://open.spotify.com/track/535yGaAt34yLFFiboAQsFW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Echoes](https://open.spotify.com/album/0JQLxDADhjMFSdbi1HEQQd) | 4:52 |
 | 85 | [Stay The Same](https://open.spotify.com/track/5Xh20CzoddxdZN0yoy6lbJ) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:48 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 148 | [Don't Weigh Me Down](https://open.spotify.com/track/2S2GEzXQjblhoGmUN5TEB4) | [Joana Zimmer](https://open.spotify.com/artist/340O8IdnPypHteCD0Z5DPL) | [The Voice In Me](https://open.spotify.com/album/6c3SCdN0M0AlbxxxlGduQk) | 4:10 |
 | 149 | [Angel](https://open.spotify.com/track/4lzbo0gNN4eLddXQxxnKoQ) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 4:41 |
 | 150 | [Apology](https://open.spotify.com/track/0LZIIs3wJW9LuvWbdyuk68) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [The Cult of Ant & Dec](https://open.spotify.com/album/6AaAZLF9kR8Y5vzgcAU9G9) | 13:14 |
-| 151 | [Daydreaming](https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp) | [Alice Wondering](https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp) | [Daydreaming](https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY) | 4:35 |
-| 152 | [Reminiscing](https://open.spotify.com/track/4iiDIUA8MMGsU0vYe3lv24) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:19 |
+| 151 | [Reminiscing](https://open.spotify.com/track/4iiDIUA8MMGsU0vYe3lv24) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:19 |
+| 152 | [Daydreaming](https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp) | [Alice Wondering](https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp) | [Daydreaming](https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY) | 4:35 |
 | 153 | [Universal Sun](https://open.spotify.com/track/0EQgFVJGA5jNBao9xj2mAi) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [The Cult of Ant & Dec](https://open.spotify.com/album/6AaAZLF9kR8Y5vzgcAU9G9) | 3:27 |
 | 154 | [Sometimes](https://open.spotify.com/track/7gIzrXwDeh8WlsThxPRQ2F) | [Jay Bird](https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD) | [FMI, Vol\. 1](https://open.spotify.com/album/426KOY0VXOqkbOFEyjpclx) | 3:58 |
 | 155 | [This Is Who I Am](https://open.spotify.com/track/61PIBw1SyHVuhhVqPMK5S6) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go](https://open.spotify.com/album/2GHrQuz0yU6lrpZNMvMZHh) | 3:54 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 162 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 163 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcF/mgAAAACE1OvyroMsizjgovwU/vdV`
+Snapshot ID: `AcGFOgAAAAAmZlgMEosGwVPuqIbuERme`

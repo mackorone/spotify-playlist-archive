@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,545 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,617 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 36 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
 | 37 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 |
 | 38 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
-| 39 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
-| 40 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 39 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 40 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
 
 Snapshot ID: `AAAAALRBthNUVWU9otCAeSgdHoj2vET4`

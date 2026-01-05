@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,177 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,215 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 5 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 |
 | 6 | [The Champion \- Bonus Track](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:42 |
 | 7 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
-| 8 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
-| 9 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
+| 8 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
+| 9 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 10 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
 | 11 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
 | 12 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |

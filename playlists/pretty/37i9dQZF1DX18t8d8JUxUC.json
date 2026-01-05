@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 31516,
+  "num_followers": 31537,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 198853,
       "name": "Camino de Arena",
       "url": "https://open.spotify.com/track/6jLUUaXfTUExzE4zNIp3q9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -1019,30 +1019,6 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1075,6 +1051,30 @@
       "duration_ms": 215791,
       "name": "Entre Los Dos",
       "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 198642,
-      "name": "Lugar ideal",
-      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "Perd\u00ed",
         "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 198642,
+      "name": "Lugar ideal",
+      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+        "name": "Flores Muertas",
+        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
         }
       ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+      "duration_ms": 328663,
+      "name": "Flores Muertas",
+      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1419,22 +1415,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Flores Muertas",
-        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
-      },
-      "artists": [
-        {
-          "name": "Tavo Guarneros",
-          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
-        }
-      ],
-      "duration_ms": 328663,
-      "name": "Flores Muertas",
-      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+        "name": "Pasar\u00e1s",
+        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+      "duration_ms": 256920,
+      "name": "Pasar\u00e1s",
+      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
     }
   ],
   "unique_name": "Latin Folk",

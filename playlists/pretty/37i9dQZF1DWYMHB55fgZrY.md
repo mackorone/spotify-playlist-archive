@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Xava Drago por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,625 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,642 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,23 +81,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 71 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
 | 72 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 73 | [Afroman](https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 3:39 |
-| 74 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 74 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 |
 | 75 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
-| 76 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 |
+| 76 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 77 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 78 | [Pervert Pop Song](https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Pop...¡Por La Cara!](https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO) | 4:04 |
 | 79 | [Corazón](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 80 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
 | 81 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
 | 82 | [Arrullo De Estrellas](https://open.spotify.com/track/1Ou8VdIw39ATdskqSnAaFo) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 4:12 |
-| 83 | [El Loco](https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 3:38 |
-| 84 | [Estático](https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Maquillaje](https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu) | 4:00 |
+| 83 | [Estático](https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Maquillaje](https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu) | 4:00 |
+| 84 | [El Loco](https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 3:38 |
 | 85 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 86 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
 | 87 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
 | 88 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
-| 89 | [Gavilán o Paloma \- Resmasterizado](https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Lupitología](https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL) | 3:56 |
-| 90 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
+| 89 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
+| 90 | [Gavilán o Paloma \- Resmasterizado](https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Lupitología](https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL) | 3:56 |
 | 91 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
 | 92 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |
 | 93 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |

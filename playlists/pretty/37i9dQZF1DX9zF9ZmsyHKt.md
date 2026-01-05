@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,431 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,479 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 16 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
 | 17 | [Super pop \(De Mansinho\)](https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w) | [Banda Batidão](https://open.spotify.com/artist/7sX6HhHtj8S5w8K3fiipub), [Mansão Record](https://open.spotify.com/artist/3SmboZvoX8urbfboHM5HKK) | [Super pop \(De Mansinho\)](https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2) | 2:56 |
 | 18 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
-| 19 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
+| 19 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
 | 20 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
 | 21 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
-| 22 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 22 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
 | 23 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 24 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 |
 | 25 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |

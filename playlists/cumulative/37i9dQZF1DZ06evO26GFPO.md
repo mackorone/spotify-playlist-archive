@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 12 min
+104 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,10 @@
 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 | 2024-11-09 | 2025-11-10 |
 | [TANTO FAZ](https://open.spotify.com/track/31cQX1WeqiCHQSysz9KaVb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:44 | 2023-10-10 | 2024-02-25 |
 | [Te Amar Demais / Best Part \- Ao vivo](https://open.spotify.com/track/1zl7WDDCPttJSLWEhFJG3r) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:05 | 2023-10-10 | 2025-10-17 |
-| [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-12-31 |  |
+| [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-12-31 | 2026-01-05 |
 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Júlio Sereno](https://open.spotify.com/artist/0tXdd4bB63iJoJaidfdVrQ) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:28 | 2023-10-10 |  |
 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 | 2023-10-10 |  |
+| [Textos Longos](https://open.spotify.com/track/37dS7VQJ3lbdSNO6vRwI8P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:42 | 2026-01-05 |  |
 | [Toma \- Ao Vivo](https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:33 | 2023-12-20 | 2024-06-15 |
 | [Tudo Igual](https://open.spotify.com/track/4k98YJ8f66Z7FagvL42Qgv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 4:17 | 2025-11-25 | 2025-11-30 |
 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 | 2023-10-10 |  |

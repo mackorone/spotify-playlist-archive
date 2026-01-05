@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,593 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,766 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 55 | [Como Es](https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:20 |
 | 56 | [Formula One](https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Formula One](https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI) | 3:05 |
 | 57 | [Lokota](https://open.spotify.com/track/6t6nppgClHgZlwYfwyuiTW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Lokota](https://open.spotify.com/album/3VgpuRu1Dh0ir1oUHSR43I) | 2:23 |
-| 58 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
-| 59 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
+| 58 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 |
+| 59 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
 | 60 | [NO SON DORITOS](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 |
 | 61 | [Sin Querer Queriendo](https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Sin Querer Queriendo](https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O) | 3:26 |
 | 62 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 96 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 |
 | 97 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
 | 98 | [Me Dicen Pollito](https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l) | 4:19 |
-| 99 | [Que Bendición](https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Que Bendición](https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB) | 2:29 |
-| 100 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
+| 99 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
+| 100 | [Que Bendición](https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Que Bendición](https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB) | 2:29 |
 
 Snapshot ID: `AAAAAMMl5kjlj+EqyM9kleIebWM87ov2`

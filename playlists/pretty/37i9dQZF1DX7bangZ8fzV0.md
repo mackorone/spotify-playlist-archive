@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Juan Boucher<br/>en SANFRANDISCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,352 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,393 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 15 | [Karolientjie](https://open.spotify.com/track/3DEisdhyN8QFLCdjGDDU2v) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Karolientjie](https://open.spotify.com/album/2JSdNgqrDcKzuqiXMGZGTP) | 3:34 |
 | 16 | [Toe Vind Ek Jou](https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn) | [Francois Van Coke](https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs) | 4:06 |
 | 17 | [Vanaand](https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Vanaand](https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6) | 2:57 |
-| 18 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
+| 18 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
 | 19 | [Shotgun](https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Shotgun](https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F) | 3:12 |
-| 20 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
+| 20 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
 | 21 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 22 | [Ek Kannie](https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kannie](https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn) | 3:18 |
-| 23 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 |
+| 23 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 |
 | 24 | [Tina Tequila](https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Tina Tequila](https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61) | 3:21 |
-| 25 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 |
+| 25 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 |
 | 26 | [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 |
 | 27 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
 | 28 | [Ryk Met Tyd](https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Ryk Met Tyd](https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct) | 2:28 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 56 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
 | 57 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
 | 58 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
-| 59 | [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 |
-| 60 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
+| 59 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
+| 60 | [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 |
 | 61 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
 | 62 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 |
 | 63 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 77 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 |
 | 78 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 |
 | 79 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
-| 80 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
+| 80 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
 
 Snapshot ID: `AAAAAKTWOwhymJyoHzCcEOOX8BLZ71l3`

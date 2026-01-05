@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,947 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,106 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 34 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
 | 35 | [Tu Cariñito](https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 3:56 |
 | 36 | [Llorar Por Ella](https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:48 |
-| 37 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 |
-| 38 | [Mi Lugar Favorito](https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 4:05 |
+| 37 | [Mi Lugar Favorito](https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 4:05 |
+| 38 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 |
 | 39 | [Procura](https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:53 |
 | 40 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 41 | [Cómo Me Duele \- En Vivo](https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 43 | [Casi Siempre Estoy Pensando En Ti](https://open.spotify.com/track/5cnsvcGLUMcEkNm9OPMzJ7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Sonido Mazter](https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 2:27 |
 | 44 | [Viejo](https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:01 |
 | 45 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
-| 46 | [Nunca Deja De Llover](https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lo Que Nos Faltó Decir](https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB) | 3:56 |
+| 46 | [Vanidosa \- En Vivo](https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 3:11 |
 | 47 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/5scQZOnu3n5oBNSO7mukg0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 3:37 |
 | 48 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
-| 49 | [Aprovecha](https://open.spotify.com/track/14IFxN2AyzgRhFNTzOou1Z) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:32 |
-| 50 | [Vanidosa \- En Vivo](https://open.spotify.com/track/5bD8rppIQMN7kpQx4FY2DG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 3:11 |
+| 49 | [Nunca Deja De Llover](https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lo Que Nos Faltó Decir](https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB) | 3:56 |
+| 50 | [Aprovecha](https://open.spotify.com/track/14IFxN2AyzgRhFNTzOou1Z) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:32 |
 
-Snapshot ID: `aVcKgAAAAADxNs8d0MjP9uWwicqL2ngm`
+Snapshot ID: `aVhcAAAAAAAuCSjqzBJ7TnsI0LqDz3Wu`

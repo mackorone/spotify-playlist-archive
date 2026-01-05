@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,544 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,535 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 31 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 |
 | 32 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
 | 33 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
-| 34 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
+| 34 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
 | 35 | [ひかり \- Naked Mix](https://open.spotify.com/track/6cjcdRn8xHySu7cP79YEYd) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [ひかり \(Naked Mix\)](https://open.spotify.com/album/3kqO7piqej9Bxwc82mdVaW) | 4:49 |
-| 36 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
+| 36 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 37 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 38 | [Car](https://open.spotify.com/track/39GIag3orHUfKAEIcFxcvB) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Car](https://open.spotify.com/album/3xyXLClEJrzpQhLnitBVnb) | 5:21 |
 | 39 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 52 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
 | 53 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 |
 | 54 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
-| 55 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
-| 56 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
+| 55 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
+| 56 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 57 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 |
 | 58 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
 | 59 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 61 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 62 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 |
 | 63 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 64 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
-| 65 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
+| 64 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
+| 65 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
 | 66 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 67 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 68 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 25 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 |
 | 26 | [Prenderte una Vela](https://open.spotify.com/track/7jKAnv55HhR0tm3rO1lkbd) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Prenderte una Vela](https://open.spotify.com/album/6Iv1kuWctIKIqMe8o1xOCr) | 3:05 |
 | 27 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 |
-| 28 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 |
+| 28 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
 | 29 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 |
-| 30 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
+| 30 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 |
 | 31 | [Cuando Me Quieras](https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Alejandro Ascencio](https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:33 |
-| 32 | [A Mi Me Ha Pasado](https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB) | [Beatriz Solis](https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [A Mi Me Ha Pasado](https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT) | 3:11 |
-| 33 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 |
-| 34 | [Siempre, Siempre \- En Vivo](https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:22 |
-| 35 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 |
-| 36 | [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 |
+| 32 | [Siempre, Siempre \- En Vivo](https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:22 |
+| 33 | [A Mi Me Ha Pasado](https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB) | [Beatriz Solis](https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [A Mi Me Ha Pasado](https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT) | 3:11 |
+| 34 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 |
+| 35 | [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 |
+| 36 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 |
 | 37 | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO) | 3:07 |
 | 38 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 |
 | 39 | [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 49 | [El Motivo](https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:17 |
 | 50 | [México \(Can I Stay\)](https://open.spotify.com/track/1PuOLi2DuqheibqK4wTCI8) | [Ayala](https://open.spotify.com/artist/3CXuE5e7yVZDVTxhp8BeKa), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Mariachi Imperial Azteca](https://open.spotify.com/artist/3i1TXUJiZ8xHGHddUTAvOh) | [MÉXICO \(CAN I STAY\)](https://open.spotify.com/album/6ZXcVsYRdUKUReGYRLrTD2) | 3:06 |
 
-Snapshot ID: `aVcKgAAAAADVeAddMtZtIKEkXKtxTOOT`
+Snapshot ID: `aVhcAAAAAADPXEeveJS+hQJpuqdK3Pas`

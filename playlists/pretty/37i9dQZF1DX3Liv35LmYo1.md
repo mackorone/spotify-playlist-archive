@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 22 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 |
 | 23 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 24 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
-| 25 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
-| 26 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
-| 27 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 |
-| 28 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
-| 29 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
+| 25 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
+| 26 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 |
+| 27 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
+| 28 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
+| 29 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
 | 30 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 | 31 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
 | 32 | [SFC \- Hommage Mix](https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Basic Instinct](https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q) | 4:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 43 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
 | 44 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
 | 45 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
-| 46 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
-| 47 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 48 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
-| 49 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
-| 50 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
+| 46 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
+| 47 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
+| 48 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
+| 49 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
+| 50 | [Absent](https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Absent](https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn) | 3:09 |
 
 Snapshot ID: `AAAAABoOHRO7nOuAB1228vBnSVqkY4Mk`

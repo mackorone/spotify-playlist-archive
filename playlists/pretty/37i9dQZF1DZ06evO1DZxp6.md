@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,236 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,272 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 2 | [Lo Siento BB:/](https://open.spotify.com/track/04x1x0L8BYyIv1XlcJxWfi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:26 |
 | 3 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 4 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
-| 5 | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M) | 2:46 |
-| 6 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
+| 5 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
+| 6 | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [A Donde Va El Viento \(Canción de la Serie Original de Prime\)](https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M) | 2:46 |
 | 7 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 8 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
 | 9 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 27 | [Despedida](https://open.spotify.com/track/1aE6eXDmeZA9XQsQLuXsSE) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 3:23 |
 | 28 | [Mismo Amor](https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk) | 3:18 |
 | 29 | [Puedo Sentirlo \(feat\. Julieta Venegas\)](https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 3:27 |
-| 30 | [Canciones de Amor](https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 2:52 |
-| 31 | [La Mirada](https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Cuentito](https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ) | 3:14 |
+| 30 | [La Mirada](https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Cuentito](https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ) | 3:14 |
+| 31 | [Canciones de Amor](https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 2:52 |
 | 32 | [Amores Platónicos](https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:34 |
 | 33 | [Ilusão \- Ao Vivo](https://open.spotify.com/track/4zVlZoP2PTXu9LddkZR3Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Coleção](https://open.spotify.com/album/45km4FUN3OHr7bqR5Evpyh) | 4:04 |
 | 34 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
 | 50 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 |
 
-Snapshot ID: `aVcKgAAAAADAH6SiVTKfn2g/qZPjNlxz`
+Snapshot ID: `aVhcAAAAAABnkiKPXmlZiY3Sl5sCYyJ3`

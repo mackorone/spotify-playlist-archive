@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 1046505,
+  "num_followers": 1046700,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "\u00a1Oh Mam\u00e1! Ella Me Ha Besado",
+      "url": "https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "MTV Unplugged: Con El Alma Desnuda",
         "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 281013,
       "name": "Toda La Vida - MTV Unplugged",
       "url": "https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "\u00a1Oh Mam\u00e1! Ella Me Ha Besado",
-      "url": "https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk"
     },
     {
       "added_at": "2020-06-24 19:34:30",

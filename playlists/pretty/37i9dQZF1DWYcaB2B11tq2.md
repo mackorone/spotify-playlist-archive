@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,760 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,837 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 56 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
 | 57 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 58 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
-| 59 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
-| 60 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
+| 59 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
+| 60 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
 | 61 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 62 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
 | 63 | [Mareas \(todo a su tiempo\)](https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Mareas](https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia) | 3:53 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 83 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
 | 84 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 |
 | 85 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
-| 86 | [El Rey Te Mandó Llamar](https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Voy A Profetizar](https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG) | 4:44 |
-| 87 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
-| 88 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
+| 86 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
+| 87 | [El Rey Te Mandó Llamar](https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Voy A Profetizar](https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG) | 4:44 |
+| 88 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
 | 89 | [Vine a Adorarte \(feat\. Marcela Gândara\)](https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR) | [Visión Juvenil](https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [ResplanDC](https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx) | 6:48 |
 | 90 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
 | 91 | [La Sunamita](https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt) | [La Sunamita](https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N) | 12:53 |

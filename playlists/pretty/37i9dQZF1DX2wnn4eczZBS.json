@@ -187,6 +187,22 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
+        "name": "Vlijmscherp",
+        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Vlijmscherp",
+      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
         "name": "Frok en Stien",
         "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
       },
@@ -207,42 +223,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "YAYO HARTJE JIMMY",
-        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 189648,
-      "name": "Ze Wil",
-      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
-        "name": "Vlijmscherp",
-        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Vlijmscherp",
-      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Vrijplaats II",
         "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 181970,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "YAYO HARTJE JIMMY",
+        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "Ze Wil",
+      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "Praat Te Veel",
-        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Praat Te Veel",
-      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Skinroutine Bikinilijn",
         "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
+        "name": "Praat Te Veel",
+        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Praat Te Veel",
+      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
         "name": "Ik Weet Hoe Het Werkt",
         "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
-        "name": "Rondjes",
-        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 190541,
-      "name": "Rondjes",
-      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -499,6 +483,22 @@
       "duration_ms": 166852,
       "name": "Normale gevoelens",
       "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Rondjes",
+        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 190541,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -591,38 +591,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "kleine auto, grote hot wheel",
         "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 187704,
       "name": "Bidden In De Moshpit",
       "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "De zon",
-        "url": "https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs"
-      },
-      "artists": [
-        {
-          "name": "Willem Ardui",
-          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
-        }
-      ],
-      "duration_ms": 163630,
-      "name": "De zon",
-      "url": "https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Leonie",
         "url": "https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196675,
       "name": "Leonie",
       "url": "https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "De zon",
+        "url": "https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs"
+      },
+      "artists": [
+        {
+          "name": "Willem Ardui",
+          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
+        }
+      ],
+      "duration_ms": 163630,
+      "name": "De zon",
+      "url": "https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf"
     },
     {
       "added_at": "2025-12-18 23:00:20",

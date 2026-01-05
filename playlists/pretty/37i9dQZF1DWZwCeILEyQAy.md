@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,974 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,919 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

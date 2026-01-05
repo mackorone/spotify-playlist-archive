@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 481163,
+  "num_followers": 481123,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Beautiful (feat. Camila Cabello)",
-        "url": "https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Beautiful (feat. Camila Cabello)",
-      "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
-    },
-    {
-      "added_at": "2025-11-12 03:53:35",
-      "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2025-11-12 03:53:35",
+      "album": {
+        "name": "Beautiful (feat. Camila Cabello)",
+        "url": "https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Beautiful (feat. Camila Cabello)",
+      "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
     },
     {
       "added_at": "2025-11-12 03:53:35",

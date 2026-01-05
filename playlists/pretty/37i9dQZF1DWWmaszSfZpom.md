@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,830 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,812 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 13 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
 | 14 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 |
 | 15 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
-| 16 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
+| 16 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 17 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
-| 18 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
+| 18 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 19 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 20 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
 | 21 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 76 | [Vai Embrazando](https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0) | 2:46 |
 | 77 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |
 | 78 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 |
-| 79 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
-| 80 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 |
+| 79 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 |
+| 80 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
 | 81 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 |
 | 82 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 | 83 | [Kikadinha](https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Kikadinha](https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm) | 2:26 |

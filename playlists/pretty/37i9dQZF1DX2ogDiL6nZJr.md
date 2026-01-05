@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,375 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,416 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 2 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
-| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 4 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 5 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 6 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 31 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 32 | [Le temps se fuit](https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Le temps se fuit](https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt) | 3:30 |
 | 33 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
-| 34 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
-| 35 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 34 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 35 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
 | 36 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 37 | [Dreaming](https://open.spotify.com/track/3sVRneYYdJQ9KdtYo5MsLH) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Dreaming](https://open.spotify.com/album/2Ewr4JxqrQ3g7RrndIHdc1) | 3:45 |
 | 38 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 50 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
 | 51 | [Rhizome](https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [No Fire in the Sand](https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ) | 4:17 |
 | 52 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
-| 53 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
-| 54 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
+| 53 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
+| 54 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 55 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 | 56 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
 | 57 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 86 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
 | 87 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
 | 88 | [Lisbon](https://open.spotify.com/track/53w0tKVDTNnpuTEj2bp4NO) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Lisbon](https://open.spotify.com/album/3b3WV63T1k4WlKT71hoo1F) | 4:11 |
-| 89 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 |
-| 90 | [But \- Radio Edit](https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [But \(Radio Edit\)](https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ) | 4:01 |
-| 91 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
+| 89 | [But \- Radio Edit](https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [But \(Radio Edit\)](https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ) | 4:01 |
+| 90 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
+| 91 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 |
 | 92 | [Cars](https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q) | [A Tale of Golden Keys](https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY) | [The Only Thing That's Real](https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn) | 3:17 |
 | 93 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
 | 94 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |

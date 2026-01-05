@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAB4RciNAt7LD/uqRmmcxn9c",
+  "snapshot_id": "aVhcAAAAAABOj7l4LgfA4sozbu7ftSC5",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's My Girl (Remixes)",
-        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "That's My Girl - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYPE HOP 002",
         "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
       },
@@ -383,50 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High (Festival Mix)",
-        "url": "https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ"
+        "name": "That's My Girl (Remixes)",
+        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
       },
       "artists": [
         {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
         },
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        }
-      ],
-      "duration_ms": 245446,
-      "name": "High - Festival Mix",
-      "url": "https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "Db Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
         }
       ],
-      "duration_ms": 194430,
-      "name": "MIDNIGHT STRANGERS",
-      "url": "https://open.spotify.com/track/2mt8tHAgl2q2Qpo2z15XMt"
+      "duration_ms": 193533,
+      "name": "That's My Girl - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
     },
     {
       "added_at": null,
@@ -459,6 +411,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "Db Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "MIDNIGHT STRANGERS",
+      "url": "https://open.spotify.com/track/2mt8tHAgl2q2Qpo2z15XMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High (Festival Mix)",
+        "url": "https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        }
+      ],
+      "duration_ms": 245446,
+      "name": "High - Festival Mix",
+      "url": "https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
       },
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "SOLO [Hype Hop Edit]",
+      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIG DRIP",
         "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
       },
@@ -495,6 +515,30 @@
       "duration_ms": 124200,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
+        "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
+      },
+      "artists": [
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 175941,
+      "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
+      "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
     },
     {
       "added_at": null,
@@ -532,37 +576,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
         }
       ],
-      "duration_ms": 162519,
-      "name": "SOLO [Hype Hop Edit]",
-      "url": "https://open.spotify.com/track/6TjVqOdsedPZ6wqekLiaIg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
-        "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
-      },
-      "artists": [
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 175941,
-      "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
-      "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
+      "duration_ms": 236065,
+      "name": "UNTZ [NYC Rage Fest]",
+      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "UNTZ [NYC Rage Fest]",
-      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "please.",
         "url": "https://open.spotify.com/album/6g17yirpwHrYcrflIiGxzd"
       },
@@ -655,30 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba Da Da Ding",
-        "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Aion Clarke",
-          "url": "https://open.spotify.com/artist/2WaflwLvtwtSFFiiK5HcgX"
-        }
-      ],
-      "duration_ms": 175132,
-      "name": "Ba Da Da Ding",
-      "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STRIP",
         "url": "https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 177475,
       "name": "STRIP",
       "url": "https://open.spotify.com/track/4NmQFYQkKQFFUn3v81vtbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba Da Da Ding",
+        "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Aion Clarke",
+          "url": "https://open.spotify.com/artist/2WaflwLvtwtSFFiiK5HcgX"
+        }
+      ],
+      "duration_ms": 175132,
+      "name": "Ba Da Da Ding",
+      "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
     },
     {
       "added_at": null,
@@ -811,34 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUST DOWN",
-        "url": "https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Fedd the God",
-          "url": "https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "Reeves Junya",
-          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
-        }
-      ],
-      "duration_ms": 178711,
-      "name": "BUST DOWN",
-      "url": "https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EASTERISLAND",
         "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
       },
@@ -863,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snakes",
-        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
+        "name": "BUST DOWN",
+        "url": "https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO"
       },
       "artists": [
         {
@@ -872,17 +844,21 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+          "name": "Fedd the God",
+          "url": "https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw"
         },
         {
-          "name": "Db Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "Reeves Junya",
+          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
         }
       ],
-      "duration_ms": 221993,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
+      "duration_ms": 178711,
+      "name": "BUST DOWN",
+      "url": "https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV"
     },
     {
       "added_at": null,
@@ -927,6 +903,30 @@
       "duration_ms": 160132,
       "name": "GANG",
       "url": "https://open.spotify.com/track/7kR9xrw56D3GpHKsF585fE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        },
+        {
+          "name": "Db Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+        }
+      ],
+      "duration_ms": 221993,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RVPTVRE",
-        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "RVPTVRE",
-      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -1027,42 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "THE CURE",
-      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MIX IT UP",
         "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
       },
@@ -1087,8 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "lonely.",
-        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
       "artists": [
         {
@@ -1096,17 +1040,49 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Swagger Rite",
-          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 176751,
-      "name": "lonely.",
-      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
+      "duration_ms": 203520,
+      "name": "THE CURE",
+      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RVPTVRE",
+        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "RVPTVRE",
+      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,
@@ -1127,6 +1103,30 @@
       "duration_ms": 227295,
       "name": "REDLIGHT",
       "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lonely.",
+        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "duration_ms": 176751,
+      "name": "lonely.",
+      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
     },
     {
       "added_at": null,

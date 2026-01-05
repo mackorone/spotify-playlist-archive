@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,517 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,516 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 41 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 42 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
 | 43 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |
-| 44 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
-| 45 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
+| 44 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
+| 45 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
 | 46 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
 | 47 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 48 | [Being an Adult](https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Being an Adult](https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH) | 3:45 |

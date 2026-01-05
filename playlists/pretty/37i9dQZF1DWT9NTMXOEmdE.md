@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 
 > The happiest hits to boost your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,163 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,123 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 41 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 42 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 43 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
-| 44 | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771) | 3:00 |
-| 45 | [Super Far](https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:23 |
-| 46 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 44 | [Super Far](https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:23 |
+| 45 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 46 | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771) | 3:00 |
 | 47 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 |
 | 48 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 49 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,720 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,732 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 10 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 11 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 12 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 |
-| 13 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
-| 14 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:04 |
+| 13 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:04 |
+| 14 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 15 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
 | 16 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
 | 17 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 34 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 |
 | 35 | [Usted No Debería](https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [De Ti o de Nadie](https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x) | 3:19 |
 | 36 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 3:14 |
-| 37 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 38 | [Tu Fantasma](https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79) | [3 de Copas](https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy) | [Milagritos](https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M) | 3:36 |
+| 37 | [Tu Fantasma](https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79) | [3 de Copas](https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy) | [Milagritos](https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M) | 3:36 |
+| 38 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 39 | [Se Busca](https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Que Nadie Se Entere](https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ) | 4:36 |
 | 40 | [Dime Corazón](https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sesiones Íntimas](https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A) | 4:23 |
 | 41 | [Al Doblar la Esquina](https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 2:54 |

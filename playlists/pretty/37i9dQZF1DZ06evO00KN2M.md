@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,077 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,304 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 22 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 23 | [Hypnotized](https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 4:49 |
 | 24 | [Tusk \- 2015 Remaster](https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 3:37 |
-| 25 | [Say You Will](https://open.spotify.com/track/3YrjFJwsOPWShEkIvxbqwW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 3:47 |
+| 25 | [Peacekeeper](https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:10 |
 | 26 | [I Don't Want to Know \- 2004 Remaster](https://open.spotify.com/track/6mGTiazKYI1BHT2uc9wTUL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:16 |
 | 27 | [Storms \- 2015 Remaster](https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 5:30 |
 | 28 | [Albatross](https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 3:10 |
-| 29 | [Peacekeeper](https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:10 |
+| 29 | [Say You Will](https://open.spotify.com/track/3YrjFJwsOPWShEkIvxbqwW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 3:47 |
 | 30 | [Only over You \- 2016 Remaster](https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:09 |
 | 31 | [No Questions Asked](https://open.spotify.com/track/356134ums8iF3GNIrheeYX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:40 |
 | 32 | [Monday Morning](https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 | 50 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
 
-Snapshot ID: `aVcKgAAAAAA2UJAglnZLvADEY56QY9o9`
+Snapshot ID: `aVhcAAAAAACJSPG9OluxbsJTHZU/6Mkf`

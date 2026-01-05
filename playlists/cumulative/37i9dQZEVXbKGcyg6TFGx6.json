@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -10314,7 +10314,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -14046,7 +14046,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -15264,6 +15264,24 @@
       "duration_ms": 218593,
       "name": "Dicke Titten",
       "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
+    },
+    {
+      "album": {
+        "name": "Dictador (Instrumental)",
+        "url": "https://open.spotify.com/album/7JOkAnLtnxQ9PoGEUTraq0"
+      },
+      "artists": [
+        {
+          "name": "Sr Corleone",
+          "url": "https://open.spotify.com/artist/2oGsgLIMNlh0XPoQbn54cx"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137038,
+      "name": "Dictador - Instrumental",
+      "url": "https://open.spotify.com/track/00s7EHSOrdz9hdQ7gkUVo7"
     },
     {
       "album": {
@@ -18376,7 +18394,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -25748,7 +25766,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -27484,7 +27502,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
@@ -27664,7 +27682,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -35359,6 +35377,32 @@
     },
     {
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/1wuYQANMujxBGPG6BQj9Jv"
+      },
+      "artists": [
+        {
+          "name": "La ERRE",
+          "url": "https://open.spotify.com/artist/1XNVi4ukk7ZFN3BDF0UZ25"
+        },
+        {
+          "name": "DelVillar",
+          "url": "https://open.spotify.com/artist/0kTbJ7ug1GZt8KHtX5JswW"
+        },
+        {
+          "name": "Kaemeprod",
+          "url": "https://open.spotify.com/artist/6XYzaaShx1NgNmEY50GcQe"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132856,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/22rtBug0gMqgnapIx6DbsK"
+    },
+    {
+      "album": {
         "name": "Mia",
         "url": "https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB"
       },
@@ -38504,7 +38548,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2zZxAdLZf3hhJHboKBMm29"
@@ -43337,6 +43381,24 @@
     },
     {
       "album": {
+        "name": "GHOSTYNG",
+        "url": "https://open.spotify.com/album/3MykChmQoqUp0tM8kxMjKN"
+      },
+      "artists": [
+        {
+          "name": "GHOSTY",
+          "url": "https://open.spotify.com/artist/6p9SFvengT9balCNXeyL0F"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146442,
+      "name": "Por Mensajes",
+      "url": "https://open.spotify.com/track/7qA0HqIPNHfNTVq0Wearx5"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -43970,6 +44032,24 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
       "album": {
@@ -52756,7 +52836,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52872,7 +52952,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
@@ -53212,7 +53292,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
@@ -59810,7 +59890,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49963,
+  "num_followers": 49966,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAS/wPaK5InkBG/lsuvcM8f",
+  "snapshot_id": "aVhcAAAAAADX8zB9IZYEoI3d5hs5ixP3",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 161613,
-      "name": "Got Each Other",
-      "url": "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
+      "duration_ms": 165240,
+      "name": "Bloodclot",
+      "url": "https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu"
     },
     {
       "added_at": null,
@@ -111,18 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 165240,
-      "name": "Bloodclot",
-      "url": "https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu"
+      "duration_ms": 161613,
+      "name": "Got Each Other",
+      "url": "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex & Death",
         "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 124600,
       "name": "Sex & Death",
       "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Corazon De Oro",
-      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,456 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,498 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [Gimme That Remix \(feat\. Lil' Wayne\)](https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:57 |
 | 50 | [Can't Hold Me Down](https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Can't Hold Me Down](https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff) | 3:17 |
 
-Snapshot ID: `aVcKgAAAAADeGjSPRJhI39VOC9E3K9R8`
+Snapshot ID: `aVhcAAAAAADgoLpN2krx8gUwAac4Vppy`

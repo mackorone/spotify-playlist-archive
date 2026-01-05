@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Mia Martina",
+        "url": "https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R"
+      },
+      "artists": [
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
+    },
+    {
+      "album": {
         "name": "Believe (Jackyboom Piano Edit) [Cover]",
         "url": "https://open.spotify.com/album/4OWo5upqMrOra2hkjI3kPy"
       },
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 211612,
       "name": "Bontardi",
       "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
@@ -2050,7 +2072,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -3454,6 +3476,24 @@
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "album": {
+        "name": "Dreaming in Motion",
+        "url": "https://open.spotify.com/album/1ia9qEv3fqsmxx0brVUqAv"
+      },
+      "artists": [
+        {
+          "name": "AURENZA",
+          "url": "https://open.spotify.com/artist/4osA1DTtVEc75xSK2GWZXz"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219007,
+      "name": "Dreaming in Motion",
+      "url": "https://open.spotify.com/track/5ZKqm8BPJbzjfoACCLRyuO"
     },
     {
       "album": {
@@ -5758,7 +5798,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -6160,7 +6200,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 224480,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
@@ -11692,7 +11732,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 212516,
       "name": "The Upside Down",
       "url": "https://open.spotify.com/track/0Ruke6176pqWxtKyktLUOb"
@@ -11932,7 +11972,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -11950,7 +11990,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -14388,7 +14428,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"

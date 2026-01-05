@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Riordan
 
-1,353 songs - 3 day 5 hr 49 min
+1,354 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,6 +717,7 @@
 | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/track/7Mz4VZiPFjf2AYkr4KNkJ5) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/album/1h3MhM9o2wdZbrikUZ9ZMW) | 3:25 | 2021-06-27 | 2022-04-18 |
 | [Light Up My Life](https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Light Up My Life](https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW) | 2:24 | 2021-05-15 | 2022-08-24 |
 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 | 2021-07-04 | 2023-06-03 |
+| [Lights Go Red](https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [BAN DELLO](https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v) | [Lights Go Red](https://open.spotify.com/album/4ajxRX4245DiZQRBv4AFTy) | 2:58 | 2026-01-02 |  |
 | [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 | 2024-10-28 |
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-06-06 |  |
 | [Like My Way](https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:13 | 2021-03-27\* | 2021-06-03 |
@@ -832,7 +833,7 @@
 | [Move](https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Move](https://open.spotify.com/album/1e27rVcXkqV86rzXHSzSfW) | 2:46 | 2024-09-06 | 2024-12-15 |
 | [Move Your Body \(feat\. Moxie Knox\)](https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Move Your Body \(feat\. Moxie Knox\)](https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu) | 3:10 | 2023-07-28 | 2023-09-14 |
 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \- John Summit Remix](https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \[John Summit Remix\]](https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU) | 3:26 | 2023-02-10 | 2023-07-08 |
-| [Murder Mystery](https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Murder Mystery](https://open.spotify.com/album/4GVjAgTCIDaMZlYCAV61q1) | 2:46 | 2025-10-03 |  |
+| [Murder Mystery](https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Murder Mystery](https://open.spotify.com/album/4GVjAgTCIDaMZlYCAV61q1) | 2:46 | 2025-10-03 | 2026-01-05 |
 | [My Carousel](https://open.spotify.com/track/65tzGxRAwbrZd2yhHcGgLf) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [My Carousel](https://open.spotify.com/album/1v3AdrKIXMOF8gS88K8Fuq) | 2:46 | 2021-07-10 | 2022-09-10 |
 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 | 2022-07-22 | 2023-05-06 |
 | [My Girls](https://open.spotify.com/track/4ZxkCONFfYXeNZ9Dy4G4uT) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [My Girls](https://open.spotify.com/album/7H3wmNHVXbJ2knjcZY04Rm) | 3:33 | 2021-06-19 | 2022-04-20 |

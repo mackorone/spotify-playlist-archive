@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 124011,
+  "num_followers": 124019,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABosHl5bbziZPCADzznJw8z",
+  "snapshot_id": "aVhcAAAAAABYdmOXCCUhB3Xq1NDqnkP8",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "We Were In Love",
-      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 214800,
       "name": "Stays In Mexico",
       "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "We Were In Love",
+      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Big Ol' Truck",
-      "url": "https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Big Ol' Truck",
+      "url": "https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq"
     },
     {
       "added_at": null,

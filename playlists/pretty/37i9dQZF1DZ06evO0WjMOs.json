@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 51850,
+  "num_followers": 51915,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACQfBg0Xr1tpUeVtsgRk9Bj",
+  "snapshot_id": "aVhcAAAAAAB/rIcglsfzv6jmpW8sgQOK",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
       "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 92046,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "added_at": null,
@@ -567,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Could Start A Cult (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
       "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 194869,
-      "name": "You Could Start A Cult (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+      "duration_ms": 218983,
+      "name": "Method Acting (Demo)",
+      "url": "https://open.spotify.com/track/0cCTtURCc4SYu9NHfbS7Ac"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "Over-the-Ocean Call",
+        "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 218983,
-      "name": "Method Acting (Demo)",
-      "url": "https://open.spotify.com/track/0cCTtURCc4SYu9NHfbS7Ac"
+      "duration_ms": 244402,
+      "name": "Over-the-Ocean Call",
+      "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over-the-Ocean Call",
-        "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 244402,
-      "name": "Over-the-Ocean Call",
-      "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
+      "duration_ms": 92046,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
     },
     {
       "added_at": null,

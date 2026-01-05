@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,928 likes - 219 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,931 likes - 219 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 55 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
 | 56 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
 | 57 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
-| 58 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 |
-| 59 | [Sugar Talking](https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:03 |
+| 58 | [Sugar Talking](https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:03 |
+| 59 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 |
 | 60 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 61 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
 | 62 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 111 | [Tangerine](https://open.spotify.com/track/5NtzNJi7EaiegUmVEkrkNd) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO) | 3:21 |
 | 112 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
 | 113 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
-| 114 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
-| 115 | [Different Kind of Pain](https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:50 |
+| 114 | [Different Kind of Pain](https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:50 |
+| 115 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
 | 116 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
 | 117 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
 | 118 | [Cold, Dark Place](https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:01 |
@@ -134,10 +134,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 124 | [Love In Common](https://open.spotify.com/track/1718AVNCRX6CvNA9fL3fUv) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:29 |
 | 125 | [Wind Tempos](https://open.spotify.com/track/53yn0gTKz24HM4ncMcLWwS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 6:04 |
 | 126 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
-| 127 | [It Ain’t Easy](https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 4:05 |
-| 128 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
-| 129 | [Likey Likey](https://open.spotify.com/track/0nSujkjs0JTBViUPMWwLpf) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:25 |
-| 130 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 127 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 128 | [It Ain’t Easy](https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 4:05 |
+| 129 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
+| 130 | [Likey Likey](https://open.spotify.com/track/0nSujkjs0JTBViUPMWwLpf) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:25 |
 | 131 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
 | 132 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 |
 | 133 | [If You Love Me](https://open.spotify.com/track/4Mqlo3nYpi7HLhR6PR4nsd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:11 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 154 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 |
 | 155 | [Grieved You \(performed by Naomi Scott\)](https://open.spotify.com/track/1LdPLr7csvYsy0U1H34lLK) | [Skye Riley](https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Grieved You \(performed by Naomi Scott\)](https://open.spotify.com/album/7ee3dR9X2YDUqSFAArn7Ks) | 2:39 |
 | 156 | [roses](https://open.spotify.com/track/2g46efmE9mpxnkXP7sNkdh) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:33 |
-| 157 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
-| 158 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
+| 157 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
+| 158 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
 | 159 | [Love Language](https://open.spotify.com/track/5LJlhVdugPn5HbaFL69L6m) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
 | 160 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
 | 161 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 218 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 219 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcF/mgAAAABEqvYwSoXjCIffMq8inNsd`
+Snapshot ID: `AcGFOgAAAAAoh2FtoHdCVOKwH2IZRqJw`

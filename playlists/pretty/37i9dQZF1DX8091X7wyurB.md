@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,969 likes - 80 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,367 likes - 80 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 60 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 61 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 62 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
-| 63 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |
+| 63 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 |
 | 64 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
 | 65 | [God Will Work It Out](https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Will Work It Out](https://open.spotify.com/album/6osf9pssDlwps1Dc6ZeORw) | 6:32 |
 | 66 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 67 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
-| 68 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 |
+| 68 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |
 | 69 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 70 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 |
 | 71 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 74 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 | 75 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
 | 76 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
-| 77 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd) | [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A) | 5:56 |
-| 78 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
+| 77 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
+| 78 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd) | [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A) | 5:56 |
 | 79 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
-| 80 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 |
+| 80 | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 |
 
 Snapshot ID: `AAAAAKAnpgtWli4KjisnDKIKVixtJeKA`

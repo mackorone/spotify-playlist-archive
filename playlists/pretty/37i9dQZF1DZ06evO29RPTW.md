@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,713 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,721 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 33 | [Get Loose](https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:27 |
 | 34 | [The Life And Times Of A Teenage Rock God](https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:54 |
 | 35 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
-| 36 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
+| 36 | [Brick House 2003](https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:48 |
 | 37 | [Shadow of the Cemetery Man](https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:14 |
 | 38 | [Let It All Bleed Out](https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:09 |
 | 39 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
-| 40 | [Brick House 2003](https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:48 |
+| 40 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
 | 41 | [The Hideous Exhibitions Of A Dedicated Gore Whore](https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:46 |
 | 42 | [Lords Of Salem](https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:13 |
 | 43 | [Reload](https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Satanic Cyanide ! The Killer Rocks On !](https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:58 |
 | 50 | [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 |
 
-Snapshot ID: `aVcKgAAAAAAOQynoAyE1cpXouUyKAyhW`
+Snapshot ID: `aVhcAAAAAACE5xCS4mco4n7qR3xxXaMI`

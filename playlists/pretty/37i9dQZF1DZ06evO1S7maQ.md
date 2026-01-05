@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,365 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,399 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 23 | [If I Should Fall Behind](https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Lucky Town](https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h) | 2:57 |
 | 24 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 25 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 4:04 |
-| 26 | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq) | 4:28 |
-| 27 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 26 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 27 | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq) | 4:28 |
 | 28 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:50 |
 | 29 | [Mansion on the Hill](https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:09 |
 | 30 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 43 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 |
 | 44 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:04 |
 | 45 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
-| 46 | [Youngstown](https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:57 |
+| 46 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:27 |
 | 47 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:30 |
 | 48 | [I'll See You In My Dreams](https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:29 |
-| 49 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:27 |
+| 49 | [Youngstown](https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:57 |
 | 50 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:31 |
 
-Snapshot ID: `aVcKgAAAAACS5k04qBYRSzF2dBLdNG1H`
+Snapshot ID: `aVhcAAAAAADBtlhQ1dd9mdgRjMOU9Z5m`

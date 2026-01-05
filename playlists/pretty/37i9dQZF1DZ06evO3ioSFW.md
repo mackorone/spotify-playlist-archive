@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,063 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,114 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 12 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 |
 | 13 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 14 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/2eSTnoRpEK2VXIccMbzXrE) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:48 |
-| 15 | [Señora](https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:42 |
-| 16 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 15 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 16 | [Señora](https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:42 |
 | 17 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 |
 | 18 | [Si No Piensas Cambiar](https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 4:17 |
 | 19 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 49 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 | 50 | [Querida Socia \- En Vivo Desde la Plaza de Toros la México \- Spotify Singles](https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Querida Socia \(En Vivo Desde la Plaza de Toros la México \- Spotify Singles\)](https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K) | 3:09 |
 
-Snapshot ID: `aVcKgAAAAACQHpLDpDX1aSIk7rJCJkCt`
+Snapshot ID: `aVhcAAAAAADpBJE4bMp1M4PFf+ZnPBi2`

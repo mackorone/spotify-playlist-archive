@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
-  "num_followers": 81164,
+  "num_followers": 81183,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -999,18 +999,22 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "El Chapo",
-        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 241813,
-      "name": "El Chapo",
-      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
+      "duration_ms": 192452,
+      "name": "Lidar",
+      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Lidar",
-      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "3,14",
-        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
-        }
-      ],
-      "duration_ms": 324763,
-      "name": "3,14",
-      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Dado",
         "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "3,14",
+        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2025-07-25 14:20:58",

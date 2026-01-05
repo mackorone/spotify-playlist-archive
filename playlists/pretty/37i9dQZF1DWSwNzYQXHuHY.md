@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,810 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 36 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 37 | [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 |
 | 38 | [UU](https://open.spotify.com/track/1TYZNWwdRYY3700tFiP4JF) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [UU](https://open.spotify.com/album/7cWgmtrB5W17ULVPh8C8tO) | 2:34 |
-| 39 | [Seesaw](https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [Seesaw](https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp) | 2:35 |
-| 40 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
+| 39 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
+| 40 | [Seesaw](https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [Seesaw](https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp) | 2:35 |
 | 41 | [열어도 되어요](https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [HAAN X SHIRT : Energy](https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT) | 2:51 |
 | 42 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
 | 43 | [Tell Me](https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Tell Me](https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms) | 2:53 |

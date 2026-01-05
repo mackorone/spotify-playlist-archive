@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: Alleh & Yorghaki",
-  "num_followers": 695216,
+  "num_followers": 695194,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
-    },
-    {
-      "added_at": "2025-12-05 05:00:24",
-      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
+    },
+    {
+      "added_at": "2025-12-05 05:00:24",
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2025-12-05 05:00:24",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 202360,
       "name": "LA CAPI",
       "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2025-12-05 05:00:24",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "UN SIGLO SIN TI",
-        "url": "https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "UN SIGLO SIN TI",
-      "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
-    },
-    {
-      "added_at": "2025-12-05 05:00:24",
-      "album": {
         "name": "Perdonarte \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 193933,
       "name": "Perdonarte \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy"
+    },
+    {
+      "added_at": "2025-12-05 05:00:24",
+      "album": {
+        "name": "UN SIGLO SIN TI",
+        "url": "https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "UN SIGLO SIN TI",
+      "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
     }
   ],
   "unique_name": "Tropical Hits",

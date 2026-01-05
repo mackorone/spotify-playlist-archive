@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Kayla",
+        "url": "https://open.spotify.com/album/6G1edNBjnT0CP3mJJCUX2g"
+      },
+      "artists": [
+        {
+          "name": "Kayla Kross",
+          "url": "https://open.spotify.com/artist/6HnvNzsqH33fKnRO0qoZui"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "A Little Thing Like Love",
+      "url": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s"
+    },
+    {
+      "album": {
         "name": "Wandering (Love Me Back)",
         "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
       },
@@ -15640,7 +15658,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -19102,7 +19120,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Gute Laune",
       "url": "https://open.spotify.com/track/40NEnuv5VHboABOWbRZgxQ"
@@ -33654,7 +33672,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -34452,7 +34470,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -50138,7 +50156,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 241567,
       "name": "We Carry The Flame",
       "url": "https://open.spotify.com/track/65Bker7Dj5lWlrO6AtadAv"

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS",
-  "num_followers": 365598,
+  "num_followers": 365572,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/30HJD6jvYxR7hJJqkbsLC3"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
         }
       ],
-      "duration_ms": 180666,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
+      "duration_ms": 193024,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/74rKZCFQ8WHl75VeDaCSFW"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -263,34 +263,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/30HJD6jvYxR7hJJqkbsLC3"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
       },
       "artists": [
         {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 193024,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/74rKZCFQ8WHl75VeDaCSFW"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "Impostor",
-        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Impostor",
-      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
+      "duration_ms": 180666,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -307,6 +291,22 @@
       "duration_ms": 175813,
       "name": "SOL",
       "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/77iNyQNV3cyrZLoaSUCJri"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "TANTO",
-        "url": "https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S"
-      },
-      "artists": [
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        }
-      ],
-      "duration_ms": 150070,
-      "name": "Teu Namorado, Meu Amor",
-      "url": "https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Agarradinho - Spotify Singles",
         "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "TANTO",
+        "url": "https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S"
+      },
+      "artists": [
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "duration_ms": 150070,
+      "name": "Teu Namorado, Meu Amor",
+      "url": "https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Ainda N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Ainda N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Ainda N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/14z2FIsB6rBLG8nBD266cD"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Ainda N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -595,6 +595,26 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
+        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "sera que esse \u00e9 mesmo o nosso fim?",
+      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -623,22 +643,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
-        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+        "name": "baseado em surtos reais",
+        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 183337,
-      "name": "sera que esse \u00e9 mesmo o nosso fim?",
-      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
+      "duration_ms": 139726,
+      "name": "exausta",
+      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -655,22 +671,6 @@
       "duration_ms": 195692,
       "name": "Del\u00edrio Favorito",
       "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "baseado em surtos reais",
-        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "exausta",
-      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
+        "name": "quanto tempo tem o tempo?",
+        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 206037,
+      "name": "quanto tempo tem o tempo?",
+      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
         "name": "viciado em mim",
         "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "quanto tempo tem o tempo?",
-        "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "quanto tempo tem o tempo?",
-      "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -775,22 +791,6 @@
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
-      },
-      "artists": [
-        {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "\u00c1GUA DE COCO",
         "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 134705,
       "name": "\u00c1GUA DE COCO",
       "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
+      },
+      "artists": [
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "PARECE OUTRA VIDA",
         "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 161754,
       "name": "PARECE OUTRA VIDA",
       "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
+        "name": "Queda Livre",
+        "url": "https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj"
+      },
+      "artists": [
+        {
+          "name": "NATI OFICIAL",
+          "url": "https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4"
+        }
+      ],
+      "duration_ms": 101583,
+      "name": "Queda Livre",
+      "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
         "name": "Perigosa",
         "url": "https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 169911,
       "name": "Vim de Longe",
       "url": "https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "Queda Livre",
-        "url": "https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj"
-      },
-      "artists": [
-        {
-          "name": "NATI OFICIAL",
-          "url": "https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4"
-        }
-      ],
-      "duration_ms": 101583,
-      "name": "Queda Livre",
-      "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
     },
     {
       "added_at": "2025-12-19 03:00:23",

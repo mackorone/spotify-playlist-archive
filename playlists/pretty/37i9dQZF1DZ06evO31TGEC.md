@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,379 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,386 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 33 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
 | 34 | [Te Amo](https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:52 |
 | 35 | [Angel Perdido](https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Angel Perdido](https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke) | 2:29 |
-| 36 | [Regalo del Cielo](https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:40 |
-| 37 | [Mayor de Edad \(Banda\)](https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:25 |
+| 36 | [Mayor de Edad \(Banda\)](https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:25 |
+| 37 | [Regalo del Cielo](https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:40 |
 | 38 | [En La Misma Cama \- Dueto Con El Chapo](https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:54 |
 | 39 | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR) | 3:01 |
 | 40 | [Te Extraño](https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:18 |
 | 41 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 |
 | 42 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
-| 43 | [CRUZ DE MADERA \- Banda](https://open.spotify.com/track/6GeOc1DWj2udALoDvkheGD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [CRUZ DE MADERA \(Banda\)](https://open.spotify.com/album/348oQZQFKTuNkCkNGRv9af) | 3:06 |
-| 44 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 |
-| 45 | [Tenía Dueño](https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tenía Dueño](https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk) | 3:03 |
+| 43 | [Tenía Dueño](https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tenía Dueño](https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk) | 3:03 |
+| 44 | [CRUZ DE MADERA \- Banda](https://open.spotify.com/track/6GeOc1DWj2udALoDvkheGD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [CRUZ DE MADERA \(Banda\)](https://open.spotify.com/album/348oQZQFKTuNkCkNGRv9af) | 3:06 |
+| 45 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 |
 | 46 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
 | 47 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
 | 48 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 | 49 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 50 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
 
-Snapshot ID: `aVcKgAAAAACw8pQL3OcnXR/dbSriacLt`
+Snapshot ID: `aVhcAAAAAABpgtpqVe7/MD6jAUZwFk/F`

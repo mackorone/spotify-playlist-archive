@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 37871,
+  "num_followers": 37879,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -223,22 +243,6 @@
       "duration_ms": 272193,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+      "duration_ms": 135746,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Welcome To The Party",
-      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -387,22 +371,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Dark Conversation",
-      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Welcome to O'Block",
         "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
       },
@@ -423,6 +391,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Dark Conversation",
+      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Street Sermons",
         "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 224933,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -455,22 +455,6 @@
       "duration_ms": 212506,
       "name": "Trouble on My Mind",
       "url": "https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Christopher Walking",
-      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 166523,
       "name": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
       "url": "https://open.spotify.com/track/661wc0CTq5MbppEG6zYP5n"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Christopher Walking",
+      "url": "https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Young Jefe 3",
-        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        }
-      ],
-      "duration_ms": 206768,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 261373,
       "name": "I Don't Stress",
       "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Young Jefe 3",
+        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 206768,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Demons R Us",
-        "url": "https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Yessirski",
-      "url": "https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lonely Vibes",
-        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
+        "name": "Demons R Us",
+        "url": "https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO"
       },
       "artists": [
         {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
         }
       ],
-      "duration_ms": 196610,
-      "name": "Lonely Vibes",
-      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
+      "duration_ms": 200586,
+      "name": "Yessirski",
+      "url": "https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lonely Vibes",
+        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 196610,
+      "name": "Lonely Vibes",
+      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
     },
     {
       "added_at": "2022-10-01 16:00:00",

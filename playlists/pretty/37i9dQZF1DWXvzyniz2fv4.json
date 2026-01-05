@@ -543,22 +543,6 @@
     {
       "added_at": "2025-12-11 16:00:16",
       "album": {
-        "name": "BARRIL DOBRADO",
-        "url": "https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "BARRIL DOBRADO",
-      "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
-    },
-    {
-      "added_at": "2025-12-11 16:00:16",
-      "album": {
         "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
         "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208485,
       "name": "4 da Manh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2025-12-11 16:00:16",
+      "album": {
+        "name": "BARRIL DOBRADO",
+        "url": "https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "BARRIL DOBRADO",
+      "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
     },
     {
       "added_at": "2025-12-11 16:00:16",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-12-11 16:00:16",
       "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
-    },
-    {
-      "added_at": "2025-12-11 16:00:16",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 193560,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
+    },
+    {
+      "added_at": "2025-12-11 16:00:16",
+      "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2025-12-11 16:00:16",

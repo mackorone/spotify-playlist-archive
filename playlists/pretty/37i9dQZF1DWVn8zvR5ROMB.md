@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Ashley Cooke, Abbey Cone, Trevor Martin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,268 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,302 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 13 | [Drinkin' Again](https://open.spotify.com/track/3yLhyOrX6mpgh2L77TJz4Z) | [The Reeves Brothers](https://open.spotify.com/artist/6zx9a0BsPiUk7AEb4pxE2s) | [Drinkin' Again](https://open.spotify.com/album/2lVVlE1EWcvkEKSfcX3XMJ) | 2:42 |
 | 14 | [When Do We Stop Talking](https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [When Do We Stop Talking](https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH) | 3:06 |
 | 15 | [Hey Radio](https://open.spotify.com/track/4F4i2GymZHHpmZk5MrSQqK) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Hey Radio](https://open.spotify.com/album/13JSnbBqwI3pBQ4G9tf4xX) | 3:39 |
-| 16 | [What You're Wishing for \(Ellie's Song\)](https://open.spotify.com/track/7HzJ2hl7XrD1nA33I4Navc) | [David Payne](https://open.spotify.com/artist/1n5SEVlJG9VCnWJdTSnMAI) | [What You're Wishing for \(Ellie's Song\)](https://open.spotify.com/album/4xUiYxA7mHVpQjOfK6A2wk) | 2:42 |
+| 16 | [What You're Wishing For \(Ellie's Song\)](https://open.spotify.com/track/7HzJ2hl7XrD1nA33I4Navc) | [David Payne](https://open.spotify.com/artist/1n5SEVlJG9VCnWJdTSnMAI) | [What You're Wishing For \(Ellie's Song\)](https://open.spotify.com/album/4xUiYxA7mHVpQjOfK6A2wk) | 2:42 |
 | 17 | [Something That I Need](https://open.spotify.com/track/4NhSaf0Lp95hLW9vM9pSil) | [Carson Beyer](https://open.spotify.com/artist/7ko8K3oegiC9oECP0zecen) | [Something That I Need](https://open.spotify.com/album/7DdLTkOiAlppOrZd9Z0c4Z) | 3:00 |
 | 18 | [Life Still Happens](https://open.spotify.com/track/4nTaGLquorPd3hqwhip5vA) | [Josh Weathers](https://open.spotify.com/artist/4yrOIPlpAaSZ0Xb2n5Wdyu) | [Neon Never Fades](https://open.spotify.com/album/3FwgpjvcY4BQfsKznIQCNg) | 2:39 |
 | 19 | [The Right One](https://open.spotify.com/track/2GgewnJ6exD13mwwMViuS8) | [Luke Prater](https://open.spotify.com/artist/7hdXshF2FiBZdNKhNJdoFu) | [The Right One](https://open.spotify.com/album/6NmlOnSYDn1ZsfbeAdwIkm) | 3:10 |

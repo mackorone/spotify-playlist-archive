@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 98 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
 | 99 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 |
 | 100 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
-| 101 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
-| 102 | [End Of Time](https://open.spotify.com/track/4Ui92XkATFufDbqv0qXzEX) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [SOLACE](https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ) | 3:17 |
+| 101 | [End Of Time](https://open.spotify.com/track/4Ui92XkATFufDbqv0qXzEX) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [SOLACE](https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ) | 3:17 |
+| 102 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
 | 103 | [pink starburst](https://open.spotify.com/track/4njZsHyu8iHpZmT8sV4Mjn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:55 |
 | 104 | [Break Her Heart for Me](https://open.spotify.com/track/1dZAvU7hI7c3fNU1GllHGX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 3:22 |
 | 105 | [Lost](https://open.spotify.com/track/1f2moQ7gDFBBEat9s7rKZj) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 2:22 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 141 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 142 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcF/mgAAAACCvs/AkU87mf/EZIYcKatd`
+Snapshot ID: `AcGFOgAAAAAkvZ6BXMq59s0oN3nHciBG`

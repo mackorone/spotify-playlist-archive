@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,788 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,813 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 24 | [Evol](https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:14 |
 | 25 | [John Came Home](https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [John Came Home](https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p) | 3:11 |
 | 26 | [Bottom of the River](https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Carry the Fire](https://open.spotify.com/album/42NjSADnDs97o75bICIqs0) | 3:22 |
-| 27 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
-| 28 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
+| 27 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
+| 28 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
 | 29 | [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 |
 | 30 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 31 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 70 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 71 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
 | 72 | [Every Man Is a Warrior](https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Oko](https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89) | 3:16 |
-| 73 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
-| 74 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 73 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 74 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
 | 75 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
 | 76 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
 | 77 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 87 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 88 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 89 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 90 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 91 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
-| 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 90 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 91 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
+| 92 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
 | 93 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
 | 94 | [Beautiful Hell](https://open.spotify.com/track/1DlbCKscf5uSlVpbKYVxOS) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Beautiful Hell](https://open.spotify.com/album/6xTzNBU5ayQKPQeIrhNKV8) | 2:56 |
 | 95 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 |

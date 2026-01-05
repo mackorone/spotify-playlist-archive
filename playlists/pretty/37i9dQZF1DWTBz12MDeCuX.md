@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,111 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,029 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 16 | [Danke](https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Danke](https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t) | 2:34 |
 | 17 | [Augenblick](https://open.spotify.com/track/73IArrFHGpMR7fAgtWdyCF) | [Pouma](https://open.spotify.com/artist/1xgdN2FchVCKN0GhdjUYyZ) | [Augenblick](https://open.spotify.com/album/5FmRBYHxT174E0HtJdhgNY) | 2:48 |
 | 18 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 |
-| 19 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 19 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 20 | [Weihnachtslied 2025](https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2025](https://open.spotify.com/album/5m5IV1KRZdXeJTj0HCLUyT) | 2:38 |
 | 21 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\) \[Noah Kraus Remix\]](https://open.spotify.com/track/7vQJweluBnvuS8VYnZyohr) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\) \[Noah Kraus Remix\]](https://open.spotify.com/album/4WuA2oYJLhooOcYCEyLoVU) | 2:00 |
 | 22 | [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 |

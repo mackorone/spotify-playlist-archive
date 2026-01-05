@@ -1,6 +1,6 @@
 {
   "description": "agenda della giornata: sveglia alle 2 del pomeriggio e lista dei buoni propositi",
-  "num_followers": 140267,
+  "num_followers": 140276,
   "original_name": "pov: devi riprenderti da capodanno",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-01-01 01:01:13",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2026-01-01 01:01:13",
+      "album": {
         "name": "lovely (with Khalid)",
         "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
-    },
-    {
-      "added_at": "2026-01-01 01:01:13",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2026-01-01 01:01:13",

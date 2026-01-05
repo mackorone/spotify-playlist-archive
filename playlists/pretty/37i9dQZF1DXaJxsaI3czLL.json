@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136347,
+  "num_followers": 136346,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 259713,
       "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
+        "name": "\u52c7\u6c17",
+        "url": "https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z"
+      },
+      "artists": [
+        {
+          "name": "betcover!!",
+          "url": "https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "\u30b9\u30c6\u30a4\u30a6\u30a3\u30ba\u30df\u30fc",
+      "url": "https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
-        "name": "\u52c7\u6c17",
-        "url": "https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z"
-      },
-      "artists": [
-        {
-          "name": "betcover!!",
-          "url": "https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "\u30b9\u30c6\u30a4\u30a6\u30a3\u30ba\u30df\u30fc",
-      "url": "https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "\u5317\u3078\u5411\u304b\u3046",
-        "url": "https://open.spotify.com/album/5EdJTMHBPL2ziqG47U0ILo"
-      },
-      "artists": [
-        {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
-        }
-      ],
-      "duration_ms": 270413,
-      "name": "\u8a18\u61b6",
-      "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u5317\u3078\u5411\u304b\u3046",
+        "url": "https://open.spotify.com/album/5EdJTMHBPL2ziqG47U0ILo"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "duration_ms": 270413,
+      "name": "\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 392173,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
         "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 248600,
       "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "UTAU",
         "url": "https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 417803,
       "name": "Flavor Of Life",
       "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version\uff09",
+      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
     },
     {
       "added_at": "2025-11-11 17:08:53",

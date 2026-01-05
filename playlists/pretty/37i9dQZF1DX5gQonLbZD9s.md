@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 
 > The best uptempo pop for the workout girlies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,754 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,778 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 24 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
 | 25 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 26 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 27 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 28 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
+| 27 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
+| 28 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 29 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 30 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 31 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 43 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 44 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 45 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
-| 46 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
-| 47 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 46 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 47 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
 | 48 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 | 49 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 50 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 69 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 70 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 | 71 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 |
-| 72 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 73 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
+| 72 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
+| 73 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 74 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
 | 75 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 

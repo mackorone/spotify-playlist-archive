@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,276 songs - 5 day 2 hr 4 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,282 songs - 5 day 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2284,5 +2284,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2274 | [Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6) | [Design19](https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8) | [Trigger](https://open.spotify.com/album/7o5z9uEOAZkfZJAV26Lv1j) | 3:56 |
 | 2275 | [Kismet](https://open.spotify.com/track/0tCyw7KzjtccLoW0vbmRWr) | [FREE JIMI](https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf) | [Kismet](https://open.spotify.com/album/232fr9yEY7Poi2KYFiRlH3) | 3:41 |
 | 2276 | [HUNNIDDOLLA](https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [HUNNIDDOLLA](https://open.spotify.com/album/2Zd7deeqEMClIaUCo19aIc) | 2:16 |
+| 2277 | [Spit](https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Corpus I](https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm) | 4:00 |
+| 2278 | [Metallic Taste](https://open.spotify.com/track/0H4fQFdmbkARxfqEUVAXPY) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Body War](https://open.spotify.com/album/44byRkiG5AmHjfrBuodMzp) | 3:13 |
+| 2279 | [Stomach](https://open.spotify.com/track/3Aps6IsMXhG31pqf7inyyK) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB), [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [CORPUS II](https://open.spotify.com/album/24u1Z5loy8yAJFszGlfAo1) | 2:36 |
+| 2280 | [How to Pretend](https://open.spotify.com/track/4IKG0oDjlYYJKSGhPxaoSd) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [Fête de la Vanille](https://open.spotify.com/album/280In5hW4bTXFGOZRPLkoj) | 3:44 |
+| 2281 | [Harvest Moon](https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part IX: The Soulseek Saga](https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd) | 2:16 |
+| 2282 | [CLOVER](https://open.spotify.com/track/5hAM55vP9ItpfFCjdCLIUk) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [CLOVER](https://open.spotify.com/album/2OARpFnfS5yBGuWeqY8zA6) | 2:33 |
 
-Snapshot ID: `AAAE4AtdmoAwyTlvMKZb0mrI2lhKskF8`
+Snapshot ID: `AAAE5koeodPDiOSmJY0l+japSCAtxXbF`

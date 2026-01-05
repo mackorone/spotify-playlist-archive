@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,795 likes - 225 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,791 likes - 225 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 22 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 |
 | 23 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 |
 | 24 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 |
-| 25 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 |
-| 26 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
+| 25 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
+| 26 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 |
 | 27 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 |
 | 28 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
 | 29 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 |
@@ -116,11 +116,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 106 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 |
 | 107 | [cowboy like me](https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 |
 | 108 | [Bigger Than The Whole Sky](https://open.spotify.com/track/3jzbpOzoYa22FvzBkNkLvC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:38 |
-| 109 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 |
-| 110 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 |
+| 109 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 |
+| 110 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 |
 | 111 | [hoax](https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:40 |
-| 112 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 |
-| 113 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 |
+| 112 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 |
+| 113 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 |
 | 114 | [imgonnagetyouback](https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:42 |
 | 115 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 |
 | 116 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 138 | [Better Than Revenge \(Taylor's Version\)](https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:40 |
 | 139 | [Soon You’ll Get Better \(feat\. The Chicks\)](https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:21 |
 | 140 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 |
-| 141 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 |
-| 142 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 |
+| 141 | [Eldest Daughter](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:06 |
+| 142 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 |
 | 143 | [Clean \(Taylor's Version\)](https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:31 |
 | 144 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 |
 | 145 | [I Hate It Here](https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:03 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 224 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 | 225 | [Dark Blue Tennessee](https://open.spotify.com/track/09CEIc9goZeeqRYwz6GYFD) | [outplay](https://open.spotify.com/artist/2vUjgOHdDaeftRG27IxxNq) | [Dark Blue Tennessee](https://open.spotify.com/album/5Am8oboqYxIQiEYU5tcSDz) | 3:17 |
 
-Snapshot ID: `AcF/mgAAAADZU8wN5q/AnGNomEpwrUrY`
+Snapshot ID: `AcGFOgAAAAD+3P42o5MLvhwTjUhmeS2e`

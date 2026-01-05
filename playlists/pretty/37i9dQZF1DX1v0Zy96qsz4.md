@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,471 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,476 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 2 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
-| 3 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
-| 4 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
+| 3 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
+| 4 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
 | 5 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
 | 6 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 7 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 40 | [Demon High](https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demon High](https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq) | 3:17 |
 | 41 | [SORRY NOT SORRY \(feat\. Nas, JAY\-Z & James Fauntleroy\) \- Harmonies by The Hive](https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:18 |
 | 42 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 |
-| 43 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
-| 44 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
+| 43 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
+| 44 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 45 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
 | 46 | [I'm Different](https://open.spotify.com/track/6J5sxraPPZ4b0CVOGAgpXj) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Based On A T.R.U\. Story \(Deluxe\)](https://open.spotify.com/album/1wBFRaacNYmqfkidUZ0NtM) | 3:27 |
 | 47 | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi) | 2:40 |

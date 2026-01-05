@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,795 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,740 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 34 | [Onde A Gente Chegou](https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Onde A Gente Chegou](https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If) | 2:40 |
 | 35 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 | 36 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
-| 37 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
-| 38 | [Coração de Aço \- Acústico](https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Aço \(Acústico\)](https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP) | 3:48 |
+| 37 | [Coração de Aço \- Acústico](https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Aço \(Acústico\)](https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP) | 3:48 |
+| 38 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 |
 | 39 | [Hoje Eu Quero Me Perder \- Acústico](https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Hoje Eu Quero Me Perder \(Acústico\)](https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe) | 2:25 |
 | 40 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 41 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |

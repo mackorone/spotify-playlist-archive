@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,742 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,789 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,30 +33,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 23 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:45 |
 | 24 | [Generator](https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:47 |
 | 25 | [Run](https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 5:23 |
-| 26 | [Let It Die](https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:05 |
-| 27 | [No Way Back](https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:16 |
+| 26 | [No Way Back](https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:16 |
+| 27 | [Let It Die](https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:05 |
 | 28 | [Saint Cecilia](https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Saint Cecilia EP](https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo) | 3:41 |
 | 29 | [Hey, Johnny Park!](https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:08 |
-| 30 | [Stranger Things Have Happened](https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:20 |
-| 31 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
+| 30 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
+| 31 | [Stranger Things Have Happened](https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:20 |
 | 32 | [Aurora](https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 5:49 |
 | 33 | [Something from Nothing](https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 4:48 |
 | 34 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
 | 35 | [Dear Rosemary](https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:25 |
 | 36 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
 | 37 | [Walking After You](https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 5:03 |
-| 38 | [Low](https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:28 |
+| 38 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 |
 | 39 | [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:36 |
 | 40 | [Nothing At All](https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:27 |
-| 41 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 |
-| 42 | [Doll](https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 1:23 |
+| 41 | [Low](https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:28 |
+| 42 | [Come Alive](https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:10 |
 | 43 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 44 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 |
-| 45 | [Come Alive](https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:10 |
+| 45 | [Doll](https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 1:23 |
 | 46 | [No Son Of Mine](https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 3:28 |
 | 47 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:48 |
 | 48 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 49 | [Alone + Easy Target](https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:05 |
 | 50 | [Shame Shame](https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:17 |
 
-Snapshot ID: `aVcKgAAAAABzngb16sjhjs0VGkKJgcXX`
+Snapshot ID: `aVhcAAAAAADAF4+ZCrnyyZRR5hm1J6g9`

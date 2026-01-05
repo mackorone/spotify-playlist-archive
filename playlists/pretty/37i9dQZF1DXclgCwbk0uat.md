@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Germanini, Nacho G Flow & Lyon la f
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,125 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,152 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
 | 50 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 
-Snapshot ID: `AAAAAK7+ImMo3zxZiTdIUsaeYshAmGa4`
+Snapshot ID: `AAAAADEUbBbggpGNaESJO1vRygCRov0X`

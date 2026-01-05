@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "wild",
+        "url": "https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223711,
+      "name": "wild",
+      "url": "https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq"
+    },
+    {
+      "album": {
         "name": "Working For The Man",
         "url": "https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc"
       },

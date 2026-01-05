@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,281 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,304 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 13 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 14 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 15 | [him all along](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [him all along](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 |
-| 16 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 |
-| 17 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
+| 16 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
+| 17 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 |
 | 18 | [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 |
 | 19 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
 | 20 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 45 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
 | 46 | [OK K \(feat\. Abra Cadabra & La Mano 1.9\)](https://open.spotify.com/track/58T9EyY1u834Eue6QaBwmz) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 3:11 |
 | 47 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
-| 48 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
-| 49 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
+| 48 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
+| 49 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 |
 | 50 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 |
 | 51 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
 | 52 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |

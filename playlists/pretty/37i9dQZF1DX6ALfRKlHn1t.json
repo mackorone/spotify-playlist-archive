@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1148512,
+  "num_followers": 1148454,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Trip Tape",
         "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 174347,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 82823,
-      "name": "$500 Fine",
-      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+      "duration_ms": 82823,
+      "name": "$500 Fine",
+      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -1135,6 +1119,22 @@
       "duration_ms": 194337,
       "name": "Barrio Hustle",
       "url": "https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2025-10-10 04:00:44",

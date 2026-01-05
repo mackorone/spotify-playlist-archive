@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAC8RVWX8ZSDY0Lec2676CY3",
+  "snapshot_id": "aVhcAAAAAADIhlFAha6+KZyjCmU+bvsf",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Politics",
-        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Hood Politics",
-      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 157557,
       "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
       "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Politics",
+        "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Hood Politics",
+      "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Tee",
-        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Season 2",
         "url": "https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 180104,
       "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
       "url": "https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
     },
     {
       "added_at": null,

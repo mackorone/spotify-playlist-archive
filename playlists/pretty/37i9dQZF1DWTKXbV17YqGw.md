@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > 2025 Detty December anthems selected by Spotify editors\. <br/>Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,656 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,700 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9400,
+  "num_followers": 9401,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADyGsgR9L58V00V/TWIfxLC",
+  "snapshot_id": "aVhcAAAAAAAYasslUOcD54/MIcy9fIGf",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
       "artists": [
         {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 728064,
-      "name": "Haseen Thi",
-      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
@@ -439,42 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
-      },
-      "artists": [
-        {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -492,25 +452,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 844005,
-      "name": "Shadow Forces",
-      "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+      "duration_ms": 728064,
+      "name": "Haseen Thi",
+      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
     },
     {
       "added_at": null,
@@ -544,9 +488,101 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "duration_ms": 844005,
+      "name": "Shadow Forces",
+      "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3S0KtGUkB5XIzcAnJMs6LF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
       "duration_ms": 327373,
       "name": "Na Ja Balam",
       "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -575,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -604,9 +624,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 168565,
-      "name": "Coming Home, Pt. 2",
-      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     },
     {
       "added_at": null,
@@ -627,30 +647,6 @@
       "duration_ms": 469421,
       "name": "Forgotten Land",
       "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
-        }
-      ],
-      "duration_ms": 879797,
-      "name": "Eyes Of The Endless",
-      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
     },
     {
       "added_at": null,
@@ -679,42 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
-      },
-      "artists": [
-        {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/3S0KtGUkB5XIzcAnJMs6LF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -732,9 +692,45 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 815804,
-      "name": "Sharabi",
-      "url": "https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw"
+      "duration_ms": 879797,
+      "name": "Eyes Of The Endless",
+      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 224154,
+      "name": "Endless February, Pt. 1",
+      "url": "https://open.spotify.com/track/52HqnlUppYvrfPlDeXUF36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
     },
     {
       "added_at": null,
@@ -759,22 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
       "artists": [
         {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 224154,
-      "name": "Endless February, Pt. 1",
-      "url": "https://open.spotify.com/track/52HqnlUppYvrfPlDeXUF36"
+      "duration_ms": 815804,
+      "name": "Sharabi",
+      "url": "https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw"
     },
     {
       "added_at": null,

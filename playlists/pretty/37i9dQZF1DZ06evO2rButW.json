@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 764893,
+  "num_followers": 765003,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADbj5doR54SI/fHyPSoF0HR",
+  "snapshot_id": "aVhcAAAAAABOvNhXUeuVRepW1DFu2X2Y",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 250146,
       "name": "Aunque Te Mueras Por Volver",
       "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra: Cap\u00edtulo 0",
-        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 224650,
-      "name": "Callej\u00f3n de los Secretos",
-      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
       "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+      "duration_ms": 224650,
+      "name": "Callej\u00f3n de los Secretos",
+      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 344385,
+  "num_followers": 344431,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAcdXAKWEy/3CDe4iN01rCP",
+  "snapshot_id": "aVhcAAAAAABgJyYJ/4LA2ygNHAeQr26w",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mas Buscados",
-        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "El Heredero",
-      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Virus Del Amor",
         "url": "https://open.spotify.com/album/0zPdPmQSaEvZQt4PvllaJB"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+        "name": "Los Mas Buscados",
+        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
       "artists": [
         {
@@ -780,9 +764,25 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 197040,
-      "name": "El MZ",
-      "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
+      "duration_ms": 206280,
+      "name": "El Heredero",
+      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "La Gran Noche",
+      "url": "https://open.spotify.com/track/1A1J6knUAtu0FgY1GeqyfU"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 191853,
-      "name": "La Gran Noche",
-      "url": "https://open.spotify.com/track/1A1J6knUAtu0FgY1GeqyfU"
+      "duration_ms": 197040,
+      "name": "El MZ",
+      "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
     },
     {
       "added_at": null,

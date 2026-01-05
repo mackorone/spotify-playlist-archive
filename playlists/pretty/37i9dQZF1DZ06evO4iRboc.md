@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,641 likes - 37 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,744 likes - 37 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 25 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 26 | [Slow Down](https://open.spotify.com/track/4KLZOU5V5XuEkvytSgyW6u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 2:25 |
 | 27 | [Trouble](https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:51 |
-| 28 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
-| 29 | [Street by Street](https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Street by Street](https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw) | 3:44 |
+| 28 | [Street by Street](https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Street by Street](https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw) | 3:44 |
+| 29 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
 | 30 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 31 | [Someone New](https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Someone New](https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii) | 3:18 |
 | 32 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 36 | [Seems Like Old Times \- Bonus Track](https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:59 |
 | 37 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
 
-Snapshot ID: `aVcKgAAAAACrX5K0oL590WMbYANyVlQh`
+Snapshot ID: `aVhcAAAAAABJX4IMzT85icHkQ9n665Gl`

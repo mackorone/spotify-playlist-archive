@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 660365,
+  "num_followers": 660399,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACS5k04qBYRSzF2dBLdNG1H",
+  "snapshot_id": "aVhcAAAAAADBtlhQ1dd9mdgRjMOU9Z5m",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
         "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 268838,
       "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
       "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Youngstown",
-      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
+      "duration_ms": 237786,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
     },
     {
       "added_at": null,

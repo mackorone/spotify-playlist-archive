@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Jan 23:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Jan 14:04 UTC.
 
-5,976 songs - 13 day 20 hr 13 min
+5,977 songs - 13 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 | 2024-08-07 | 2024-08-10 |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-08-01 | 2025-08-15 |
 | [Beautiful & Broken](https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Beautiful & Broken](https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7) | 3:28 | 2024-05-03 | 2024-05-05 |
+| [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 | 2026-01-04 |  |
 | [Beauty School](https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beauty School](https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw) | 4:02 | 2024-08-21 | 2024-08-23 |
 | [BEAVER](https://open.spotify.com/track/0v0lpnyAFNZsuRlRXIRl6W) | [Shed Theory](https://open.spotify.com/artist/7Aa8J7h4G1AekOsXWwWlzT), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm), [Milkreset](https://open.spotify.com/artist/2VGOMLMoSd3R0Zipkb74ku), [Aceii](https://open.spotify.com/artist/1sCQdrVVXw7lY5236l2b4V), [Henry Mosto](https://open.spotify.com/artist/4E56SbTM5uJH92JHDCkblH), [Ricky Chix](https://open.spotify.com/artist/1RLsaAGGlgHJ3dftyKru6l), [Dugan](https://open.spotify.com/artist/3sFShXW1N2kNiog60HVDIA) | [BEAVER](https://open.spotify.com/album/4wrCQijY5z8MvAfVTicb6V) | 3:24 | 2024-10-21 | 2024-10-24 |
 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 | 2024-08-30 | 2024-09-04 |
@@ -4073,7 +4074,7 @@
 | [Profane Usurpation](https://open.spotify.com/track/1xa5DbGc2eyvG7oZrLB5LA) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Profane Usurpation](https://open.spotify.com/album/1aQvOk6rCEDUqZYs8eDddZ) | 3:46 | 2024-10-08 | 2024-10-11 |
 | [Professional](https://open.spotify.com/track/5mf38TlBPICYpezymg8y6F) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Professional](https://open.spotify.com/album/5JlxfNxKekJwlNOOE0hJZL) | 2:57 | 2025-07-25 | 2025-08-02 |
 | [Project Z](https://open.spotify.com/track/3CLhTFlOw3qvfQhl4ax4Qg) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Project Z](https://open.spotify.com/album/6h04HyX6APITqu3K1JptQl) | 3:45 | 2024-09-27 | 2024-10-02 |
-| [Promise](https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu) | 3:32 | 2025-12-14 |  |
+| [Promise](https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu) | 3:32 | 2025-12-14 | 2026-01-05 |
 | [promises](https://open.spotify.com/track/4eZZwf34YtM0QxkGljAhdj) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [promises](https://open.spotify.com/album/1m7138O2yJiku77vNLBcJD) | 2:28 | 2024-11-29 | 2024-12-05 |
 | [Prophecy](https://open.spotify.com/track/6dUN5gfOJN6y61piEiPViQ) | [Creo](https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1) | [Prophecy](https://open.spotify.com/album/6glqlPmfb0zXdAeCCEoUqC) | 2:46 | 2025-06-05 | 2025-06-11 |
 | [Prophet](https://open.spotify.com/track/6a1aIVUbb5hYXgrM0N5pu0) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [Prophet](https://open.spotify.com/album/3TelWBPEgJvbXF5HqiJIUC) | 2:30 | 2025-09-09 | 2025-09-13 |

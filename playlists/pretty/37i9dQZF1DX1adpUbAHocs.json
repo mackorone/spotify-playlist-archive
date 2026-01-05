@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 641620,
+  "num_followers": 641566,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 204453,
       "name": "Trick To Happy",
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "Rolling Sea",
-      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Migration Stories",
         "url": "https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
         }
       ],
-      "duration_ms": 212674,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
+      "duration_ms": 318893,
+      "name": "Rolling Sea",
+      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1663,6 +1647,22 @@
       "duration_ms": 318000,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 212674,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
     }
   ],
   "unique_name": "Scenic Route",

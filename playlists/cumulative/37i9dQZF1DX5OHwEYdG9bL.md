@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: DOYOUNG\(도영\)\) \(Enjoy a playlist of songs that support music video features!\)
 
-180 songs - 9 hr 57 min
+181 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk) | 3:55 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf) | 4:10 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d) | 4:10 | 2025-08-13 |  |
+| [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/1Xy7oLNn3tRGSuTSvyMFUV) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/73TIXbTuLNEfEjGBUV7ffR) | 3:26 | 2026-01-05 |  |
 | [R&B ME \(feat\. Changbin\)](https://open.spotify.com/track/0Uxh4wV2FSgCEDQyhwnkYb) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Dear my muse](https://open.spotify.com/album/33XQGNALxI7Lu76Yx0SUOA) | 2:55 | 2025-10-24 |  |
 | [REBEL HEART](https://open.spotify.com/track/2itoCOiuGnbeEE8AkCPEOK) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/1j9jMOd3leVxC05E8Rx17t) | 3:13 | 2025-07-15 | 2025-08-20 |
 | [Rich Man](https://open.spotify.com/track/2stuLR7ix3QFg5XQbC6CoW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man](https://open.spotify.com/album/2bvecqTmvOzEL8VnzlI6gJ) | 3:29 | 2025-10-24 |  |

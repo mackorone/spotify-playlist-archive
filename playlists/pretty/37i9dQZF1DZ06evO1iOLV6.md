@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,070 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,071 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 16 | [No Jonze](https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [No Jonze](https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob) | 2:37 |
 | 17 | [Girlie 'O' \- Remix](https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Girlie 'O' \(Remix\)](https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4) | 3:55 |
 | 18 | [Kolo Kolo](https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:23 |
-| 19 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
-| 20 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
+| 19 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
+| 20 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
 | 21 | [Players](https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN) | 3:39 |
 | 22 | [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 |
 | 23 | [Money](https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:44 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 33 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 |
 | 34 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 35 | [Magbe \(feat\. Patoranking\)](https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Alagbe](https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn) | 2:53 |
-| 36 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
-| 37 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
+| 36 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
+| 37 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
 | 38 | [Credit Alert](https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Credit Alert](https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet) | 3:13 |
 | 39 | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt) | 3:39 |
 | 40 | [Yo Body](https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 |
 | 50 | [One Love](https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 2:33 |
 
-Snapshot ID: `aVcKgAAAAABbEKyAxGtU62v7+DAihRap`
+Snapshot ID: `aVhcAAAAAABHKBzHX/ArC0xjuiNX630F`

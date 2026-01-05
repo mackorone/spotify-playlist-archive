@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,791 likes - 46 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,982 likes - 46 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 28 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 |
 | 29 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:40 |
 | 30 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
-| 31 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 |
-| 32 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
+| 31 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
+| 32 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 |
 | 33 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
 | 34 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 35 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 45 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 |
 | 46 | [Juro Que](https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Juro Que](https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG) | 2:50 |
 
-Snapshot ID: `aVcKgAAAAADdYy9ZgUfNeOJYCB/gY6BK`
+Snapshot ID: `aVhcAAAAAAAsroz+UDwOM68jiZXjbq1z`

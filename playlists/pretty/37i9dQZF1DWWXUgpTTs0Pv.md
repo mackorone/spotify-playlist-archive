@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,749 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,805 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 16 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 |
 | 17 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
 | 18 | [Millionaire](https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:30 |
-| 19 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 19 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
 | 20 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
-| 21 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
+| 21 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 22 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
 | 23 | [Fearless \(Taylor’s Version\)](https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:01 |
 | 24 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 64 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 65 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 66 | [What If I Never Get Over You](https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:26 |
-| 67 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
-| 68 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
+| 67 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
+| 68 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 69 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
 | 70 | [Highway Don't Care](https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Two Lanes Of Freedom](https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl) | 4:36 |
 | 71 | [Wanted](https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 3:48 |

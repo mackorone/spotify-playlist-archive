@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,525 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,515 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
 | 27 | [stuhl im garten](https://open.spotify.com/track/4Y7upz5qZ64BE3eZBe3jB8) | [Shelly Coral](https://open.spotify.com/artist/6tb18AJTldiMoBdoQ3BLJf) | [stuhl im garten](https://open.spotify.com/album/17NbtpN0dn55bk7GiVkfMF) | 2:35 |
 | 28 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
-| 29 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
-| 30 | [Doppel H](https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [2woEazy](https://open.spotify.com/artist/4eMUW0y2GksbfKbcTYRSOh) | [Doppel H](https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN) | 1:45 |
-| 31 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
-| 32 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 |
+| 29 | [Doppel H](https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [2woEazy](https://open.spotify.com/artist/4eMUW0y2GksbfKbcTYRSOh) | [Doppel H](https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN) | 1:45 |
+| 30 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
+| 31 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 |
+| 32 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 | 33 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
 | 34 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
 | 35 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 48 | [seele berührst](https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:31 |
 | 49 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
 | 50 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
-| 51 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
-| 52 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
-| 53 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
+| 51 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
+| 52 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
+| 53 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
 | 54 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 55 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
 | 56 | [i love you don't worry xx](https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 3:05 |
-| 57 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
-| 58 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 57 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 58 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 59 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 | 60 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 

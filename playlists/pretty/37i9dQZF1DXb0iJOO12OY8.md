@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,883 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,873 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 36 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
 | 37 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
 | 38 | [Ordner seg](https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU) | [Ordner seg](https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu) | 2:55 |
-| 39 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
-| 40 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |
+| 39 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |
+| 40 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
 | 41 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 |
 | 42 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 43 | [Sklir forbi](https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Sklir forbi](https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 47 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
 | 48 | [Kanskje det går te helvete](https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ps\. Kanskje det går](https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq) | 3:34 |
 | 49 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
-| 50 | [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 |
+| 50 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 |
 
 Snapshot ID: `AAAAAMwpcoTaot9FvPrPigVeQzGMoThG`

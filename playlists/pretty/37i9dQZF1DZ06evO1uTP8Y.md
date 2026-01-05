@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,429 likes - 44 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,465 likes - 44 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 5 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 6 | [My Heart](https://open.spotify.com/track/1CqcGbXZrpJJygqUM8PW05) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:52 |
 | 7 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
-| 8 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 |
+| 8 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 9 | [Molotov](https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:15 |
 | 10 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
-| 11 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
+| 11 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 |
 | 12 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
 | 13 | [Blur](https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:01 |
 | 14 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 43 | [Nothing On You](https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [A Good Life \(Deluxe\)](https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy) | 3:45 |
 | 44 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 
-Snapshot ID: `aVcKgAAAAADeL4MEF2ji9QpcwHf3WsKq`
+Snapshot ID: `aVhcAAAAAADrQQJwee6/vPJYSR5QxoHn`

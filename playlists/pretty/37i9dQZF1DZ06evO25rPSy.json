@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25076,
+  "num_followers": 25077,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACda6CtCzQcxoUcOzH4s3Y3",
+  "snapshot_id": "aVhcAAAAAADREugKLCABiCzXJR3UC14E",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Mi Auto Era Una Rana",
-      "url": "https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv"
+      "duration_ms": 209133,
+      "name": "Sentimiento Increible",
+      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Sentimiento Increible",
-      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
+      "duration_ms": 238360,
+      "name": "Mi Auto Era Una Rana",
+      "url": "https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
       "duration_ms": 231897,
       "name": "Esa S\u00ed Es una Mujer",
       "url": "https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

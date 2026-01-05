@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,224 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,085 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 29 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
 | 30 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
 | 31 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
-| 32 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
-| 33 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
+| 32 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
+| 33 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 34 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 35 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 |
 | 36 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 64 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 |
 | 65 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
 | 66 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
-| 67 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 |
-| 68 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
+| 67 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
+| 68 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 |
 | 69 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
 | 70 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 |
 

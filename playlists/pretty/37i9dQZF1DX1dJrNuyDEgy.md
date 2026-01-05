@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > qué no se apague la lumbre 🍺🔥 con Carin León, Lalo Mora y Eliseo Robles
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,376 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,411 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 8 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 |
 | 9 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 |
 | 10 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 |
-| 11 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
-| 12 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
-| 13 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
+| 11 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
+| 12 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
+| 13 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
 | 14 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
 | 15 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 |
 | 16 | [Alma Enamorada](https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 2:52 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 28 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/16240HVz8WRk5I0ddFDLFS) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tu Ya Lo Conoces](https://open.spotify.com/album/7l8sxsHe2YQVuleL1nQN18) | 3:03 |
 | 29 | [Voy a Pintar Mi Raya](https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 3:46 |
 | 30 | [La Gitanilla](https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 3:08 |
-| 31 | [Abrazado de un Poste](https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf) | [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [15 Exitos De Lorenzo De Monteclaro](https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz) | 2:33 |
-| 32 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
+| 31 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
+| 32 | [Abrazado de un Poste](https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf) | [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [15 Exitos De Lorenzo De Monteclaro](https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz) | 2:33 |
 | 33 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
 | 34 | [Ojitos De Golondrina](https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:19 |
 | 35 | [Cuatro Milpas](https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,029 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,033 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 22 | [THUNDA](https://open.spotify.com/track/1BEyOBT9L7Sl9oXJiJgryS) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [THUNDA](https://open.spotify.com/album/7Lw4duprv7ZTxEBm1Hj87H) | 2:41 |
 | 23 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 |
 | 24 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
-| 25 | [有心論](https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [有心論](https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV) | 4:08 |
+| 25 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
 | 26 | [いのちのパレヱド](https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [いのちのパレヱド](https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695) | 2:49 |
-| 27 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
+| 27 | [有心論](https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [有心論](https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV) | 4:08 |
 | 28 | [Ayatsunagi](https://open.spotify.com/track/5grQQK8iCsqDuwj2IgvQtf) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [Ayatsunagi](https://open.spotify.com/album/7en1OvDGyIYuTeL6OIyjYI) | 4:30 |
 | 29 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 |
 | 30 | [To Be Alive](https://open.spotify.com/track/0KgZSae308sPk5yh39jm8c) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [To Be Alive](https://open.spotify.com/album/0vr01ZdWCT3LwFzvsu5Azk) | 4:06 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 39 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 40 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 |
 | 41 | [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 |
-| 42 | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
-| 43 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 42 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 43 | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
 | 44 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 |
 | 45 | [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 |
 | 46 | [メーベル](https://open.spotify.com/track/2O7HF4q4GbBOwZ5qKdN1yB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メーベル](https://open.spotify.com/album/0Ac4zecj11ls9CDRr66FIL) | 3:09 |

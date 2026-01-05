@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171945,
+  "num_followers": 171950,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACx24gjA0UH5f9OfZcD71zW",
+  "snapshot_id": "aVhcAAAAAABRT/YZbCB2Frr8BhU+IJse",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
-        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         },
         {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
+        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+      "duration_ms": 228546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
     },
     {
       "added_at": null,

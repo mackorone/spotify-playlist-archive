@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,742 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,959 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 33 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 34 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 35 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
-| 36 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
+| 36 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 37 | [First Time](https://open.spotify.com/track/1FQ0ecMZMI3ArhcJQPROFP) | [Robin Beck](https://open.spotify.com/artist/0tUERnHmr1tKp2pSwPLN8b) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:16 |
 | 38 | [You Make Me Feel](https://open.spotify.com/track/6ap82DD5UEs3e63CqGiioP) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [You Make Me Feel \- The Ballads](https://open.spotify.com/album/6nUFRklKmzbh0VHzYJYjoB) | 4:44 |
 | 39 | [Heaven](https://open.spotify.com/track/6w2q9iV3oJAjcN8cPKNT4a) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Homerun](https://open.spotify.com/album/4CUSYHYyzqumxIUrCcLDco) | 4:33 |

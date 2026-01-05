@@ -4,11 +4,11 @@
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-85 songs - 6 hr 29 min
+86 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1,000 Names](https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:44 | 2024-05-24 |  |
+| [1,000 Names](https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:44 | 2024-05-24 | 2026-01-05 |
 | [Able](https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:33 | 2025-09-16 |  |
 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 | 2024-05-24 |  |
 | [At Your Name \(Yahweh, Yahweh\)](https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:54 | 2024-05-24 |  |
@@ -30,6 +30,7 @@
 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 | 2025-10-02 |  |
 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 | 2024-05-24 |  |
 | [Here with Me \- Acoustic](https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:15 | 2024-05-24 |  |
+| [His Name Is Jesus](https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:21 | 2026-01-05 |  |
 | [Homesick For Heaven](https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Homesick For Heaven](https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX) | 4:10 | 2025-06-01 | 2025-10-17 |
 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 | 2025-10-17 |  |
 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 | 2024-05-24 | 2025-10-09 |

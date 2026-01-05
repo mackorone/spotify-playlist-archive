@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: ar tis ta / Foto: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,902 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,874 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 40 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
 | 41 | [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 |
 | 42 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 43 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
-| 44 | [Kissin My Friends](https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Kissin My Friends](https://open.spotify.com/album/6O0smLjs9vs8cgm2kh8jbp) | 2:17 |
+| 43 | [Kissin My Friends](https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Kissin My Friends](https://open.spotify.com/album/6O0smLjs9vs8cgm2kh8jbp) | 2:17 |
+| 44 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 45 | [Everyone’s A Star!](https://open.spotify.com/track/1A1PKRd7QNAuZTVFVowK5G) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 |
 | 46 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 47 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,166 songs - 5 day 6 hr 46 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,170 songs - 5 day 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2174,5 +2174,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2164 | [Number One Fool](https://open.spotify.com/track/2L4G4DitFpNesNNVsaKUb9) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Number One Fool](https://open.spotify.com/album/1v0HIgRvAREbt1ZHV5i1fL) | 2:45 |
 | 2165 | [Young and Pretty](https://open.spotify.com/track/4qEGHTukgfzD7vkrUMmSNe) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Uninhibited 2006](https://open.spotify.com/album/705AOHOqDlHAl9JCYz1SWW) | 4:12 |
 | 2166 | [Could Have Been Me](https://open.spotify.com/track/27ymI5ECIY6HFMaFl7tCRg) | [Olivia Genesis](https://open.spotify.com/artist/3erbH0PpyK4eIMceD0AU09) | [Could Have Been Me](https://open.spotify.com/album/0rs3eCRZkqpVnD3ikMUYY7) | 2:26 |
+| 2167 | [Nocturna](https://open.spotify.com/track/3g3ndZiKovVRfcmU195JjG) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP), [Microfono Amarillo](https://open.spotify.com/artist/55mktFKHMf876y87zBzMyY) | [Nocturna](https://open.spotify.com/album/51ZE109C9PTxRM0GmZxYH5) | 3:57 |
+| 2168 | [Falling Apart](https://open.spotify.com/track/6kMZHZFL24X8WFbjvpHj0h) | [Stranger In The Room](https://open.spotify.com/artist/5qwZlRW1t0uj8vJP99ow83) | [Falling Apart](https://open.spotify.com/album/7rb1CZSyg8BFa6j39wCqd2) | 4:06 |
+| 2169 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 |
+| 2170 | [In the quiet of the night](https://open.spotify.com/track/0E8HI1hCSZIUg8EwvvTLTH) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [In the quiet of the night](https://open.spotify.com/album/37c6qoNN7SW3sF0547OjOt) | 3:37 |
 
-Snapshot ID: `AAAJC3ml2gVkmEUWf+6v2Db1B3EBx7RX`
+Snapshot ID: `AAAJDxTVH/Ec27fk78/mHwUXPU0T572K`

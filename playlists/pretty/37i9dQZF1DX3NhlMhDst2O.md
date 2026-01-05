@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,422 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,489 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 27 | [Dame Un Beso Y Dime Adiós](https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:27 |
 | 28 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 29 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 30 | [Total Que Más Da](https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:18 |
-| 31 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
+| 30 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
+| 31 | [Total Que Más Da](https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:18 |
 | 32 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |
 | 33 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
 | 34 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 554 likes - 455 songs - 22 hr 5 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 555 likes - 455 songs - 22 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

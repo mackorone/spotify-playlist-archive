@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,048 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,043 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 20 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 |
 | 21 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |
 | 22 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
-| 23 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 23 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 24 | [Ecstasy](https://open.spotify.com/track/6dZveJk4t5MazzX1HW2x65) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Ecstasy](https://open.spotify.com/album/2uGAnU3lDDpLKaa8vSw9Jm) | 2:21 |
 | 25 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 26 | [FaceTime \(feat\. Don Toliver\)](https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Euphoria](https://open.spotify.com/album/1NATXlXj7ZUSJuAbLoQyIE) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,336 likes - 40 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,337 likes - 40 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 18 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 4:34 |
 | 19 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 |
 | 20 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
-| 21 | [Some Might Say \- Remastered](https://open.spotify.com/track/15J419FaKaBT7bYJmpLDpf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 5:27 |
+| 21 | [Roll with It \- Remastered](https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:00 |
 | 22 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
 | 23 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
 | 24 | [Married With Children \- Remastered](https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 3:15 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 31 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
 | 32 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
 | 33 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
-| 34 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
+| 34 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
 | 35 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
 | 36 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
 | 37 | [Going Nowhere](https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:39 |
-| 38 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
+| 38 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
 | 39 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 | 40 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
 
-Snapshot ID: `aVcKgAAAAACFIvg6i9I1DiF6ufCcTZmy`
+Snapshot ID: `aVhcAAAAAAD5jnLZV87mbOkJT6FMWisA`

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119021,
+  "num_followers": 119029,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAfqa+TfKY0PvnSIv2ObMQ/",
+  "snapshot_id": "aVhcAAAAAADdQ3mvNewGPmCbaADU+HMC",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
-      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
-      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 202666,
       "name": "Mad Stalkers",
       "url": "https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
+      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
     },
     {
       "added_at": null,
@@ -1040,10 +1040,6 @@
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
@@ -1052,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 160320,
-      "name": "Disrespectful",
-      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
+      "duration_ms": 147986,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,973 likes - 80 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,035 likes - 80 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 25 | [Enjoy the Silence](https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 4:15 |
 | 26 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
 | 27 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
-| 28 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
-| 29 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 28 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 29 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 30 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
 | 31 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 32 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 57 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 58 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
 | 59 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
-| 60 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
+| 60 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
 | 61 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 62 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 |
 | 63 | [Thank U](https://open.spotify.com/track/3CVDronuSnhguSUguPoseM) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Supposed Former Infatuation Junkie](https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp) | 4:18 |
 | 64 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
-| 65 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
+| 65 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 | 66 | [You](https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [You](https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW) | 4:32 |
 | 67 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
 | 68 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 |

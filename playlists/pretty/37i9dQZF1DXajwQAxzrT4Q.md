@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,720 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,728 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 65 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 66 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
 | 67 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
-| 68 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
+| 68 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
 | 69 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
 | 70 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 | 71 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 72 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
-| 73 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 |
+| 73 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
 | 74 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 75 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 |
 

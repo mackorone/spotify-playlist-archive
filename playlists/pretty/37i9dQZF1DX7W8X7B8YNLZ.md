@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,856 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,884 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 3 | [Chanson sur ma drôle de vie \- Remasterisé en 2008](https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [De l'autre côté de mon rêve \(Remasterisé en 2008\)](https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b) | 2:41 |
 | 4 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
 | 5 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Le Chasseur](https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH) | 3:04 |
-| 6 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
-| 7 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
+| 6 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
+| 7 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
 | 8 | [Quand on arrive en ville \- Remasterisé en 2009](https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7), [Nanette Workman](https://open.spotify.com/artist/4KM2fWVoNDDdgrKmk41Ygy), [Starmania](https://open.spotify.com/artist/4VOX5R6FyddOOtzKgY8OGv) | [Starmania \(Remasterisé en 2009\)](https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ) | 3:37 |
 | 9 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 |
 | 10 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |

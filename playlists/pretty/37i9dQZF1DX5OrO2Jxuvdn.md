@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs\. Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,108 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,116 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 67 | [All To Myself](https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:49 |
 | 68 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 69 | [Hard To Forget](https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:24 |
-| 70 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 |
+| 70 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
 | 71 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:20 |
-| 72 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
+| 72 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 |
 | 73 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
 | 74 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |
 | 75 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
-| 76 | [Good Girl](https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:25 |
-| 77 | [Kinfolks](https://open.spotify.com/track/52lGuLAkIVbm4LZkSf9nj0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:01 |
+| 76 | [Kinfolks](https://open.spotify.com/track/52lGuLAkIVbm4LZkSf9nj0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:01 |
+| 77 | [Good Girl](https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:25 |
 | 78 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
 | 79 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 80 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 96 | [You Broke Up with Me](https://open.spotify.com/track/6UsoV6X96Rox9mfxoz7SFy) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [You Broke Up with Me](https://open.spotify.com/album/1R17oeIhKvtOuAvavGXi0A) | 3:15 |
 | 97 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 |
 | 98 | [Happen To Me](https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Happen To Me](https://open.spotify.com/album/5FzT4YTYR95DHUhUkKWjvb) | 3:03 |
-| 99 | [Dangerous](https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:27 |
+| 99 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
 | 100 | [ONE BEER](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 
 Snapshot ID: `AAAAABIxKn36m0zy4LbRvio04k6pZ1WW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,490 likes - 44 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,519 likes - 44 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 43 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
 | 44 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 |
 
-Snapshot ID: `aVcKgAAAAABYeYaEzOiOEa2e8yNqrUCx`
+Snapshot ID: `aVhcAAAAAADddj0/tF7ObkqC73v/ReBf`

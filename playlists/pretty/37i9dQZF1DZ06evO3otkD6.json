@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 89423,
+  "num_followers": 89435,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADQZ7ojIs4/wpLdPa8cvnW5",
+  "snapshot_id": "aVhcAAAAAABLko07YnRWtuHdOVuBM6Wd",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+        "name": "Detector De Metal",
+        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
       "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 220253,
-      "name": "\u00c1ngel - Once in Your Lifetime",
-      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
+      "duration_ms": 250866,
+      "name": "Muriendo Lento (feat. Belinda)",
+      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detector De Metal",
-        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
       "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Muriendo Lento (feat. Belinda)",
-      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+      "duration_ms": 220253,
+      "name": "\u00c1ngel - Once in Your Lifetime",
+      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 185480,
       "name": "Si No Te Quisiera",
       "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 233080,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202088,
-      "name": "Cursi De +",
-      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202088,
+      "name": "Cursi De +",
+      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Lo Siento (I'm Sorry)",
+      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IND\u00d3MITA",
         "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 191250,
       "name": "M\u00edrame Feliz",
       "url": "https://open.spotify.com/track/0Yw0ldA2xaqI5lNjP9TnK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Lo Siento (I'm Sorry)",
-      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184430,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 311346,
       "name": "Ay Haiti!",
       "url": "https://open.spotify.com/track/3FifroUyur8j5mTM78WuXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184430,
+      "name": "Aries",
+      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,26 @@
       "duration_ms": 206226,
       "name": "Sal De Mi Piel",
       "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blink Twice (Dos Veces Remix)",
+        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 154134,
+      "name": "Blink Twice - Dos Veces Remix",
+      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     }
   ],
   "unique_name": "This Is Belinda",

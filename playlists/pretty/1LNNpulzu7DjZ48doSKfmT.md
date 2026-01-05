@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 623 songs - 1 day 8 hr 13 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 626 songs - 1 day 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -631,5 +631,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 621 | [Los Amos del Mundo](https://open.spotify.com/track/5t2A8lBwiShoUQw48j6lIs) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Alfredo García](https://open.spotify.com/artist/7pWyynwHl03zPkHgCaEc2R), [Alfa](https://open.spotify.com/artist/5PkQTwun3XkirriRmvAHjU), [Buenas Noches Rose](https://open.spotify.com/artist/7LYYIl02UMr8DmwrxtSlDA) | [Los Amos del Mundo](https://open.spotify.com/album/711Jd6pXX7oHPosx5hJ3mZ) | 4:05 |
 | 622 | [no caigo](https://open.spotify.com/track/6dbfcErWTpNnF8lmuyYvcJ) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9) | [VØIKKA Vol\. 1](https://open.spotify.com/album/1ylwMBaSqC4aHhuuhJyUEl) | 2:08 |
 | 623 | [20 leg parlay](https://open.spotify.com/track/2HzcmhX02SELYna1BrWt7u) | [OffTheFanta](https://open.spotify.com/artist/4voeJpjBMAoeVjhykRJTjZ), [BACKEND DREW](https://open.spotify.com/artist/6cnptOKIX6CVo93nz709A6) | [20 leg parlay](https://open.spotify.com/album/5YAuCC3C2D8prGyops1uGU) | 2:19 |
+| 624 | [IN THE RAIN](https://open.spotify.com/track/3QRAJ2NcQxtCEHrJ6qwQMS) | [BIG REY PRODUCTION](https://open.spotify.com/artist/1rWcaXTfHPhcuZqslDRuEi) | [IN THE RAIN](https://open.spotify.com/album/4hIYRVv1pajGr0xrhH8Apn) | 3:09 |
+| 625 | [Oro y Seda](https://open.spotify.com/track/7DyMoRc9qCguT9KAwGNVLt) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [ETERNA](https://open.spotify.com/album/1udNGP2ScoMW4dQ6Yo6u4P) | 2:58 |
+| 626 | [Defeat Is Not An Option \- Spotify Release](https://open.spotify.com/track/7AXtbBJGxFR0pXxiDQWdxd) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Defeat Is Not An Option \(Spotify Release\)](https://open.spotify.com/album/6joB4Ab6h9jhfF4tqr4d49) | 5:01 |
 
-Snapshot ID: `AAAXkNWMgMBVV4Vvz/00XEegm2Kdcukr`
+Snapshot ID: `AAAXk1++8rMols5IeQHoM29Z+Fq0fyQa`

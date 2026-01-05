@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,336,167 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336,368 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 20 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 21 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 22 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
-| 23 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
-| 24 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 |
+| 23 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 |
+| 24 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 25 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 26 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 27 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 30 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 31 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 32 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
-| 33 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
-| 34 | [Maggie May](https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:50 |
+| 33 | [Maggie May](https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:50 |
+| 34 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 35 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
 | 36 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 | 37 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 38 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 39 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
 | 40 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
-| 41 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:32 |
-| 42 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
+| 41 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
+| 42 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:32 |
 | 43 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
 | 44 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 |
 | 45 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 |

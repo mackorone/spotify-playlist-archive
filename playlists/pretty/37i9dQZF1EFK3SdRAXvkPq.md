@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 136 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 136 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 14 | [Jangueo](https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:51 |
 | 15 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 16 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
-| 17 | [69](https://open.spotify.com/track/722s6HA9byq7s6eEybrl6i) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:41 |
-| 18 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:42 |
+| 17 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:42 |
+| 18 | [69](https://open.spotify.com/track/722s6HA9byq7s6eEybrl6i) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:41 |
 | 19 | [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 |
 | 20 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 21 | [Si Te Preguntan..\. \- feat\. Nicky Jam & Jay Wheeler](https://open.spotify.com/track/2r1L6F0JvRf4eUboSZGYwb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:43 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 135 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 136 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcF/mgAAAAARK5X1ESU2NjksDYK+nd8K`
+Snapshot ID: `AcGFOgAAAABev5CuX7GBTK/OSrYm5tht`

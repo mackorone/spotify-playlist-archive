@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Bu hafta kısa bir ara veriyoruz\. 9 Ocak'ta haftanın en iyi çıkışlarıyla görüşmek üzere!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,962 likes - 95 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,969 likes - 95 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

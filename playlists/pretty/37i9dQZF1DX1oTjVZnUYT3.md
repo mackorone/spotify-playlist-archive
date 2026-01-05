@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,666 likes - 57 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,761 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 10 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 11 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 12 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
-| 13 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
-| 14 | [La Belle De Jour](https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [2 Em 1](https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J) | 4:29 |
+| 13 | [La Belle De Jour](https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [2 Em 1](https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J) | 4:29 |
+| 14 | [Sou Teu Fã](https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Sou Teu Fã](https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd) | 2:50 |
 | 15 | [Tiro Ao Álvaro](https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [The Essential](https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz) | 2:42 |
 | 16 | [Você Não Entende Nada](https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Divino Maravilhoso \- Gal Costa Interpreta Caetano Veloso](https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ) | 3:50 |
 | 17 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 46 | [Taxi Lunar](https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Bicho De 7 Cabeças](https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG) | 3:32 |
 | 47 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 48 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
-| 49 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
-| 50 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
+| 49 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
+| 50 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 51 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 52 | [Como Vovó Já Dizia \(Óculos Escuros\)](https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [20 Grandes Sucessos De Raul Seixas](https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU) | 3:21 |
 | 53 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
-| 54 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
-| 55 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 54 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 55 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
 | 56 | [Faixa Amarela](https://open.spotify.com/track/131eE1wdPFIUAzxveZispD) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Gold](https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4) | 4:53 |
 | 57 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 

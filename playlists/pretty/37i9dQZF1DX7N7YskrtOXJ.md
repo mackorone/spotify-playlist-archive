@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,542 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,598 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 50 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 51 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
 | 52 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
-| 53 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
-| 54 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
+| 53 | [Una Cerveza RMX](https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una Cerveza RMX](https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX) | 3:01 |
+| 54 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
 | 55 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
 | 56 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
 | 57 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
-| 58 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
-| 59 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
+| 58 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
+| 59 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 60 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 61 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 62 | [Pero Qué Necesidad](https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pero Qué Necesidad](https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w) | 3:10 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 88 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
 | 89 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
 | 90 | [Cumbia buena](https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn) | [Luis Ornelas](https://open.spotify.com/artist/4fV5UOyZ7VTY9y04Jt79gI), [Luis Ornelas y su Grupo](https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44) | [En Vivo](https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI) | 1:57 |
-| 91 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
-| 92 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
+| 91 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
+| 92 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
 | 93 | [Palomita / Olguita / Engañadora / Mi Gran Amor \- En Vivo](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
 | 94 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
 | 95 | [Hermano Mio](https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk) | [Los Kachorros](https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad) | [Con Paso Firme](https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ) | 3:54 |

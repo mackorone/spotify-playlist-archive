@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Be Real Black for Me",
+      "url": "https://open.spotify.com/track/7JTSRQ7WBhrX5MXYVYbNrB"
+    },
+    {
+      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -364,7 +386,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 420986,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"

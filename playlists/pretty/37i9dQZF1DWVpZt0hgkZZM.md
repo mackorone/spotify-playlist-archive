@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,771 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,780 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 10 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
 | 11 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 12 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
-| 13 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
-| 14 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 13 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 14 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 15 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
 | 16 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 17 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
-| 18 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
-| 19 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
+| 18 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
+| 19 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 20 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
 | 21 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 22 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |

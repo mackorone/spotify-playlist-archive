@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 
 > If you’re willing to take the risk, the galaxy is full of opportunity\. Listen to the music from Star Wars Outlaw, available now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,386 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,384 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

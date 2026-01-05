@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,160 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,184 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 28 | [Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:15 |
 | 29 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 30 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
-| 31 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 32 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
-| 33 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 31 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 32 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
+| 33 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
 | 34 | [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:11 |
 | 35 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 |
 | 36 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 61 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 | 62 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 63 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
-| 64 | [Loose Ends](https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:16 |
-| 65 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
+| 64 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
+| 65 | [Loose Ends](https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:16 |
 | 66 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 67 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
-| 68 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 |
-| 69 | [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 |
-| 70 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
+| 68 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
+| 69 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 |
+| 70 | [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 |
 | 71 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 72 | [The Wire](https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
 | 73 | [Tilted](https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar) | 3:53 |

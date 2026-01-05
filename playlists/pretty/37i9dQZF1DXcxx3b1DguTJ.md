@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 
 > Grandes clásicos del pop en español\. ¡Todo limpio y ordenado!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,642 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,684 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 | 13 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 14 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
 | 15 | [¡Ay Amor!](https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:21 |
-| 16 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
-| 17 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 16 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 17 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 18 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 19 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
 | 20 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 | 22 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
 | 23 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 24 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
-| 25 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
-| 26 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 25 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 26 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
 | 27 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 28 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
 | 29 | [Jamás](https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 3:24 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 | 33 | [Sera Porque Te Amo](https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:10 |
 | 34 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 35 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:17 |
-| 36 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
-| 37 | [Doce Rosas](https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Doce Rosas](https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh) | 3:49 |
-| 38 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
+| 36 | [Doce Rosas](https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Doce Rosas](https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh) | 3:49 |
+| 37 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
+| 38 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
 | 39 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
 | 40 | [Popurri Juan Gabriel Medley](https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:55 |
 | 41 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |

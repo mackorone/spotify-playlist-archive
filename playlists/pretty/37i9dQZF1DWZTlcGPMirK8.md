@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,515 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,524 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 34 | [Can't Get You out of My Head](https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:50 |
 | 35 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
 | 36 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
-| 37 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
-| 38 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
+| 37 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
+| 38 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
 | 39 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 |
 | 40 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
 | 41 | [Take Me Over](https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Take Me Over](https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB) | 3:28 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 46 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 47 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 | 48 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
-| 49 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
-| 50 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
+| 49 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
+| 50 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
 | 51 | [One Summer](https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Edge](https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF) | 3:42 |
 | 52 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
 | 53 | [Amazing](https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i) | [Alex Lloyd](https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy) | [Watching Angels Mend](https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6) | 3:23 |

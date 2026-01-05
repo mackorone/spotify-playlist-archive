@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,383 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,384 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 59 | [It's Forever](https://open.spotify.com/track/4JsrOg77NgsCeQ43D9bWyG) | [Harlen](https://open.spotify.com/artist/2k1NNKMVa0VXuUMsnUbvKj) | [It's Forever](https://open.spotify.com/album/5WnoACFkL5psiKdQ1aPW38) | 3:05 |
 | 60 | [Darwin](https://open.spotify.com/track/5nOjr1kE0zkXPMYHZRDake) | [Tilda Hellstrom](https://open.spotify.com/artist/18f5uYgLFZ2lTCO4Umn03l) | [Darwin](https://open.spotify.com/album/2BZP1uiPM1tsXu5E1xWNw4) | 3:28 |
 
-Snapshot ID: `AAAAAPUh/TCs0QFVOuDZ1zSEsfRSRGmP`
+Snapshot ID: `AAAAAJ6nVJHUPqop70vtoCzFv9t9SefY`

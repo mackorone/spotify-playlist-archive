@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADLZtEHjKdsQTtHQP0Na+Q7",
+  "snapshot_id": "aVhcAAAAAAAVvtbmbGFxPzdI49k5XyMt",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Fringed Iris",
-      "url": "https://open.spotify.com/track/103DXzjo75QFwdSouZh8Y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 262920,
       "name": "Follow me!",
       "url": "https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Fringed Iris",
+      "url": "https://open.spotify.com/track/103DXzjo75QFwdSouZh8Y0"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 251773,
-      "name": "V!vace",
-      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
+      "duration_ms": 215653,
+      "name": "Dive to World",
+      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 215653,
-      "name": "Dive to World",
-      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
+      "duration_ms": 251773,
+      "name": "V!vace",
+      "url": "https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm"
     },
     {
       "added_at": null,
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 227920,
-      "name": "Crescent Lullaby",
-      "url": "https://open.spotify.com/track/16o8ITScy3QsF24fgDHgF3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
+      "duration_ms": 257799,
+      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/5oZ8xQwKZYIpowQvbpspj2"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307f\u3061\u304f\u3055",
-        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 277986,
-      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+        "name": "\u307f\u3061\u304f\u3055",
+        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209213,
-      "name": "FLAMES",
-      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
+      "duration_ms": 277986,
+      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 295320,
       "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
       "url": "https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "FLAMES",
+      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
     },
     {
       "added_at": null,

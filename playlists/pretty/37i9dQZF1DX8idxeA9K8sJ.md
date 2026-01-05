@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,505 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,700 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 79 | [Cómo Han Pasado los Años](https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Hay Amores Y Amores](https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd) | 3:34 |
 | 80 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
 | 81 | [Duri Duri \(Baila Baila\)](https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39) | [Click](https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w) | [Duri Duri](https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5) | 4:54 |
-| 82 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
-| 83 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
+| 82 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
+| 83 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
 | 84 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
 | 85 | [Eres](https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:21 |
 | 86 | [Uno Entre Mil](https://open.spotify.com/track/3kxlhUdlPfokHfECHjaskF) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Uno Entre Mil](https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,909 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,911 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 31 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
 | 32 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 |
 | 33 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
-| 34 | [Cold Water](https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:41 |
+| 34 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
 | 35 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 |
 | 36 | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:35 |
-| 37 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
+| 37 | [Cold Water](https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:41 |
 | 38 | [Do You Wanna Be Alive \(feat\. BIG SISTER\)](https://open.spotify.com/track/04wXkr0ZwuLU4h4qMdv11h) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BIG SISTER](https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:10 |
 | 39 | [Cold World](https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 4:25 |
 
-Snapshot ID: `aVcKgAAAAABScH6TNoHuBTp8gu0ETLzF`
+Snapshot ID: `aVhcAAAAAACeQWkyUYltQz9B4DDVS01z`

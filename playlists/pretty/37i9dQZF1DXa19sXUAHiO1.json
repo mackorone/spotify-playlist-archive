@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1250206,
+  "num_followers": 1250183,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
       "added_at": "2021-12-14 20:07:58",
       "album": {
         "name": "Rocky Mountain High",
@@ -363,6 +347,22 @@
       "duration_ms": 285797,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
-      "added_at": "2022-07-05 19:20:09",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
-    },
-    {
       "added_at": "2021-12-14 20:07:58",
       "album": {
         "name": "All Things Must Pass (Remastered 2014)",
@@ -619,6 +603,22 @@
       "duration_ms": 264413,
       "name": "What Is Life - Remastered 2014",
       "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
+    },
+    {
+      "added_at": "2022-07-05 19:20:09",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2021-01-06 18:39:03",

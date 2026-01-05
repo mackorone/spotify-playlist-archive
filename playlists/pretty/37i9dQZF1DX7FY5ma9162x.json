@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Leon Thomas",
-  "num_followers": 297451,
+  "num_followers": 297481,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -319,38 +319,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -375,18 +343,34 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -407,22 +391,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Here We Go (Uh Oh)",
-        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 216507,
-      "name": "Here We Go (Uh Oh)",
-      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -439,6 +407,54 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
+        "name": "Here We Go (Uh Oh)",
+        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 216507,
+      "name": "Here We Go (Uh Oh)",
+      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -451,26 +467,6 @@
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -495,34 +491,22 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 186173,
+      "name": "You Right",
+      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -543,6 +527,22 @@
       "duration_ms": 260645,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -607,38 +623,6 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -675,26 +659,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 399153,
-      "name": "Hours In Silence",
-      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
@@ -715,18 +679,38 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 252750,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -831,42 +851,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279203,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279203,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "SOMEBODY LOVES ME PT. 2",
-        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "SOMEBODY LOVES ME PT. 2",
-      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "SOMEBODY LOVES ME PT. 2",
+        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "SOMEBODY LOVES ME PT. 2",
+      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 277720,
-      "name": "Members Only (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 277720,
+      "name": "Members Only (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "Persuasive (with SZA)",
         "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
       },
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "PAID IN MEMORIES",
-        "url": "https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 182722,
-      "name": "**CUDN\u2019T B ME**",
-      "url": "https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7"
-    },
-    {
-      "added_at": "2025-12-15 20:20:26",
-      "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
       },
@@ -1611,6 +1579,38 @@
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+    },
+    {
+      "added_at": "2025-12-15 20:20:26",
+      "album": {
+        "name": "PAID IN MEMORIES",
+        "url": "https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 182722,
+      "name": "**CUDN\u2019T B ME**",
+      "url": "https://open.spotify.com/track/2MEwzbnd94ru6DkUR9pxA7"
     },
     {
       "added_at": "2025-12-15 20:20:26",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2025-12-15 20:20:26",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "For Tonight",
+        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 223157,
-      "name": "FOREVER (with 6LACK)",
-      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+      "duration_ms": 193821,
+      "name": "For Tonight",
+      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     }
   ],
   "unique_name": "R&B Favourites",

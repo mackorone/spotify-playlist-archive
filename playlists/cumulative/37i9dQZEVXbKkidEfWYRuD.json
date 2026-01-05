@@ -6465,6 +6465,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "Everything Is Fine",
         "url": "https://open.spotify.com/album/3VMESYkOtoWUlcgYhxdbdp"
       },
@@ -11122,7 +11140,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -31390,7 +31408,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -32512,7 +32530,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 166967,
       "name": "\u041d\u0456\u0447",
       "url": "https://open.spotify.com/track/3WXKnok5czWW1veDyPyFD7"
@@ -33664,7 +33682,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 167250,
       "name": "\u041f\u0438\u0442\u0430\u043d\u044c \u043d\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/1fInP7GtqNWNjtvM7uQAmH"
@@ -33954,7 +33972,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -35344,7 +35362,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
@@ -35654,7 +35672,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 177346,
       "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"

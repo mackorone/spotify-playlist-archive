@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado (En Vivo)",
+      "url": "https://open.spotify.com/track/0han8uTSYeZDTQmtQyibou"
+    },
+    {
+      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 262906,
       "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
       "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"

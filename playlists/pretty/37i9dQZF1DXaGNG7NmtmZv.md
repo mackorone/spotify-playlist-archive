@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,919 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,948 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 4 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
 | 5 | [Fazer](https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:13 |
 | 6 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 |
-| 7 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
+| 7 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 8 | [Start Today](https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:03 |
 | 9 | [New York City](https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 2:01 |
-| 10 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
+| 10 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
 | 11 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
 | 12 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 13 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: Loud Luxury",
-  "num_followers": 95227,
+  "num_followers": 95235,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -883,30 +883,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Yamore (Edit Version)",
         "url": "https://open.spotify.com/album/6V05sU49mttq81gsk1ZA05"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 150000,
       "name": "Yamore - Edit Version",
       "url": "https://open.spotify.com/track/1y62v08lkqdPTBj7si8tnA"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "light years (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 220978,
-      "name": "light years (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2007,30 +2007,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Baby again..",
-        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 319963,
-      "name": "Baby again..",
-      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Summertime Blues (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
       },
@@ -2051,6 +2027,30 @@
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "added_at": "2025-10-17 04:00:41",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 176208,
+  "num_followers": 176249,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 212754,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 212754,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "No Me Digas Que No",
-        "url": "https://open.spotify.com/album/6J5Kf8vKFJJlxdnykuLbHq"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 203470,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Pero La Recuerdo",
         "url": "https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 242906,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "No Me Digas Que No",
+        "url": "https://open.spotify.com/album/6J5Kf8vKFJJlxdnykuLbHq"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Iconos Kitsch",
         "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Las Viejas Mas Bailadas",
-        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 187152,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/0njRGxKFeTq80VTvwYoYew"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Ritmo, Sol y Arena",
         "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 147866,
       "name": "Acapulco Tropical",
       "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 187152,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0njRGxKFeTq80VTvwYoYew"
     },
     {
       "added_at": "2025-07-14 16:04:01",

@@ -917,6 +917,28 @@
     },
     {
       "album": {
+        "name": "Tri\u1ec7u (Phase 1 of 3)",
+        "url": "https://open.spotify.com/album/4P4Hymi1F14y3jj1wM9Zlo"
+      },
+      "artists": [
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        },
+        {
+          "name": "Tyronee",
+          "url": "https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ai Ngo\u00e0i Anh",
+      "url": "https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B"
+    },
+    {
+      "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
       },
@@ -9378,7 +9400,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -15670,7 +15692,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 247196,
       "name": "M\u1ed9t N\u0103m M\u1edbi B\u00ecnh An",
       "url": "https://open.spotify.com/track/7ESH2ntyD5Bb1XckoJU554"
@@ -18720,7 +18742,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 202999,
       "name": "PH\u00d3NG Z\u00ccN Z\u00ccN",
       "url": "https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p"
@@ -21406,7 +21428,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -23376,7 +23398,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -25132,7 +25154,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -25562,7 +25584,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 261617,
       "name": "v\u1ebft th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/6mKMGpkgP2cH5gmqILWe7b"

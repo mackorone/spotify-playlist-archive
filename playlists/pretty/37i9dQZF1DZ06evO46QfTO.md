@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,130 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,134 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 17 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 18 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
 | 19 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
-| 20 | [Fallin’ For You \(feat\. Maren Morris\)](https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [This Time Around](https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX) | 3:36 |
+| 20 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 |
 | 21 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
-| 22 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 |
+| 22 | [Fallin’ For You \(feat\. Maren Morris\)](https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [This Time Around](https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX) | 3:36 |
 | 23 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
 | 24 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 |
 | 25 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [cry in the car](https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:47 |
 | 50 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
 
-Snapshot ID: `aVcKgAAAAADrYAbvXn9ytGAZa2eIMP8r`
+Snapshot ID: `aVhcAAAAAAAuVb4PODB6a1YCus/w87O9`

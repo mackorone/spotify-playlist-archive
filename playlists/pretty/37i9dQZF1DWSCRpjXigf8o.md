@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,031 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,030 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 88 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 89 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
 | 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/5g1PiWaOKr7LGDY5VupNTi) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6AqJJfCWmCKZEqM3Mphbso) | 3:32 |
-| 91 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 |
-| 92 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
-| 93 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
+| 91 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
+| 92 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
+| 93 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 |
 | 94 | [ネイルの島](https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9) | 3:41 |
 | 95 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
 | 96 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |

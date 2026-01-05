@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACwBrstrndpwV8iz8ewfuBn",
+  "snapshot_id": "aVhcAAAAAADVJ9AbB9y+vSsqFbTS1mWB",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sneeze",
-      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Sneeze",
+      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Lose Your Head",
         "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,

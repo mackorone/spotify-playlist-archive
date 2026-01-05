@@ -4,7 +4,7 @@
 
 > 
 
-8,262 songs - 20 day 23 hr 40 min
+8,264 songs - 20 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,6 +1302,7 @@
 | [Computer Blue](https://open.spotify.com/track/3rNCkAhv9cASYco3kC9q3D) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 3:59 | 2025-01-15 |  |
 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 | 2025-01-15 |  |
 | [Confession](https://open.spotify.com/track/5QihlzvglRvSA6b7YSdziq) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Confession](https://open.spotify.com/album/6HXYz5I6DsxsFBul7m9ZoT) | 5:02 | 2025-01-03 |  |
+| [Confession](https://open.spotify.com/track/1WPnxJgzviOXhHoNCMuyax) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Confession](https://open.spotify.com/album/0IBuzdNhtV5fnJGiUJUj7T) | 5:02 | 2026-01-04 |  |
 | [Confession](https://open.spotify.com/track/3Nx3wHy9guZ4bZyZczDDNy) | [Park Hye Kyung](https://open.spotify.com/artist/0VDruJIp4XAwBf2V3Zwubh) | [+01](https://open.spotify.com/album/4GA7GXVa6jo6xy1GoRZu1h) | 3:56 | 2025-01-15 |  |
 | [Confession / Secret](https://open.spotify.com/track/6tuZRKka2B6uokT2AKrUF9) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:31 | 2025-04-20 |  |
 | [Confutatis](https://open.spotify.com/track/3p7TAEWi2WoYc4R28HABmc) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Cantus Aeternus \(Original Game Soundtrack\)](https://open.spotify.com/album/2n2LvBVabXSthRaLEDGGSe) | 1:55 | 2025-11-29 |  |
@@ -5057,6 +5058,7 @@
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2025-01-15 |  |
 | [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 | 2025-01-03 |  |
 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 | 2025-04-24 |  |
+| [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 | 2026-01-04 |  |
 | [Red Room](https://open.spotify.com/track/2MJdgSby3DtSS7bUJx2cly) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Red Room](https://open.spotify.com/album/3lxvJqSvGR9o3Z402FnY0Z) | 4:01 | 2025-01-04 |  |
 | [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 | 2025-08-05 |  |
 | [Red Velvet](https://open.spotify.com/track/5AnpPlwvf01F9D1gcAbCRa) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:52 | 2025-01-15 |  |

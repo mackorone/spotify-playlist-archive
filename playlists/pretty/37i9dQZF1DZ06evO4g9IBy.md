@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,945 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,950 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 34 | [Sorcerer](https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:54 |
 | 35 | [Rhiannon \- Live 2005](https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 7:01 |
 | 36 | [Long Distance Winner](https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 4:51 |
-| 37 | [Landslide](https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Rock and Roll Hall of Fame Volume 5: 1998\-1999](https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c) | 3:48 |
+| 37 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
 | 38 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 |
-| 39 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
+| 39 | [Landslide](https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Rock and Roll Hall of Fame Volume 5: 1998\-1999](https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c) | 3:48 |
 | 40 | [Sister Honey](https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:50 |
 | 41 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(Deluxe Edition\)](https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI) | 6:09 |
 | 42 | [Every Day](https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [The Lighthouse](https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lighthouse](https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6) | 4:51 |
 | 50 | [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 |
 
-Snapshot ID: `aVcKgAAAAACx24gjA0UH5f9OfZcD71zW`
+Snapshot ID: `aVhcAAAAAABRT/YZbCB2Frr8BhU+IJse`

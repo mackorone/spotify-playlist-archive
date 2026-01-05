@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,153 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,194 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 43 | [Busy Earnin'](https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:01 |
 | 44 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
 | 45 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
-| 46 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
-| 47 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
-| 48 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 |
+| 46 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
+| 47 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 |
+| 48 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
 | 49 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
 | 50 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 51 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 81 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
 | 82 | [Hazey](https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:25 |
 | 83 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
-| 84 | [Fantasy](https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora](https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En) | 3:38 |
-| 85 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
+| 84 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
+| 85 | [Fantasy](https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora](https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En) | 3:38 |
 | 86 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
 | 87 | [No Rest for the Wicked](https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [I Never Learn](https://open.spotify.com/album/4fGqfyineAZmulNxgitERh) | 3:42 |
 | 88 | [Morning](https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 5:19 |

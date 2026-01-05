@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,790 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,810 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 39 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 40 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
 | 41 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
-| 42 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
-| 43 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
+| 42 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
+| 43 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 44 | [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 |
 | 45 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 46 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Juju B\. Goode\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,678 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,663 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 25 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 |
 | 26 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 27 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
-| 28 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
-| 29 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
+| 28 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
+| 29 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 30 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
 | 31 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 |
 | 32 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 43 | [Night, Star, You](https://open.spotify.com/track/4PulV0p7Jaqpq4YEVGQYTK) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Night, Star, You](https://open.spotify.com/album/49wFjGGRTp4pzYDgNkMaWv) | 3:33 |
 | 44 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
 | 45 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
-| 46 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 |
-| 47 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
+| 46 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
+| 47 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 |
 | 48 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
-| 50 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
+| 50 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 
 Snapshot ID: `AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD`

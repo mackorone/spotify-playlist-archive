@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,380 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,405 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [El Ranchero](https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Décimo Aniversario \(Deluxe Edition\)](https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj) | 2:39 |
 | 50 | [El Troquero](https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Troquero](https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc) | 3:06 |
 
-Snapshot ID: `aVcKgAAAAAD9GtCTKhO47luKb91ml5tR`
+Snapshot ID: `aVhcAAAAAAD0e9IFg7FuUX8QE0IaqSk+`

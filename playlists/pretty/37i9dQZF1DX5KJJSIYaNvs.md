@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Best tracks from EQUAL India in 2025\. Cover \- Jonita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,292 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,299 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

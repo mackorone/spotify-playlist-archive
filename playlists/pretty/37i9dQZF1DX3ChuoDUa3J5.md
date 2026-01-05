@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ChuoDUa3J5.md) - [plain]
 
 > helping you get zoned in 📓💡
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,025 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,997 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

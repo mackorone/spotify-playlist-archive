@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 
 > This is Tainy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,968 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,982 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 13 | [Imaginaste](https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:18 |
 | 14 | [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 |
 | 15 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 |
-| 16 | [FATAL FANTASSY](https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:28 |
-| 17 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 |
+| 16 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 |
+| 17 | [FATAL FANTASSY](https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:28 |
 | 18 | [Sci\-Fi](https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:17 |
 | 19 | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy) | 2:38 |
 | 20 | [¿Cuándo Fue?](https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 39 | [BUSCANDO CALOR](https://open.spotify.com/track/1AuakKBKABJveKizKBl9j7) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:53 |
 | 40 | [La Gatita \- Remix](https://open.spotify.com/track/1qihgOJwlXqB4LQrY40MRT) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [La Gatita \(Remix\)](https://open.spotify.com/album/4JzAbR7V4k5UWv8IOJ7lCM) | 3:26 |
 
-Snapshot ID: `aVcKgAAAAABuLweWzrjGDfO3OYFj6n2L`
+Snapshot ID: `aVhcAAAAAAC551IPiZxUB9VqEbkdyQHR`

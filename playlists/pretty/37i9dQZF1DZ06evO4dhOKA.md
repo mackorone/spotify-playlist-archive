@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,538 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,549 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
 | 2 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/2yGA0E2SvFEKz17nAjWo1w) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:16 |
 | 3 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 |
-| 4 | [Los Dos Amigos \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/0TulgteBidfTl6b9LfoVr0) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Rosendo Cantú](https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:16 |
+| 4 | [Aguanta Corazón \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 2:37 |
 | 5 | [Eslabón Por Eslabón](https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:58 |
 | 6 | [Si Me Vas A Dejar](https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 2:28 |
 | 7 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
-| 8 | [Aguanta Corazón \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 2:37 |
+| 8 | [Los Dos Amigos \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/0TulgteBidfTl6b9LfoVr0) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Rosendo Cantú](https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:16 |
 | 9 | [Aguanta Corazón](https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:09 |
 | 10 | [Mi Borrachera](https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ahí Deje las Llaves, Mami](https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR) | 2:51 |
 | 11 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 |
 | 50 | [Sin Recompensa Ni Esperanza \(En Vivo\)](https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:58 |
 
-Snapshot ID: `aVcKgAAAAAB2hYIn8t4AxKx4ipxYEnU3`
+Snapshot ID: `aVhcAAAAAACoLJPCI/qXNB68qCenKDIA`

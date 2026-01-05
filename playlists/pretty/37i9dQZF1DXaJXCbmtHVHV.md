@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,413 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,426 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 49 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
 | 50 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
 | 51 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
-| 52 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
+| 52 | [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 |
 | 53 | [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 |
-| 54 | [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 |
+| 54 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
 | 55 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 |
 | 56 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
 | 57 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 68 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 | 69 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
 | 70 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
-| 71 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
-| 72 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
+| 71 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
+| 72 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
 | 73 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
 | 74 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 |
 | 75 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 76 | [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 |
-| 77 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
-| 78 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 |
+| 77 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 |
+| 78 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
 | 79 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 80 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 81 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |

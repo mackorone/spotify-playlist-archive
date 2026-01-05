@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,367 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,368 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 30 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
 | 31 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 32 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
-| 33 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
+| 33 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 34 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 35 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 35 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 36 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
-| 37 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 38 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
+| 37 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
+| 38 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 39 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 40 | [messy](https://open.spotify.com/track/2KbfdK6PJ8zyIJlteQ0cpL) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [messy](https://open.spotify.com/album/3RJdAhgVY8B77K9YBduQ3i) | 2:41 |
-| 41 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 42 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 41 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
+| 42 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 43 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 44 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 45 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 51 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 | 52 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 53 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
-| 54 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
-| 55 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
+| 54 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
+| 55 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
 | 56 | [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 |
 | 57 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 58 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
-| 59 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 60 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
+| 58 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 59 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
+| 60 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
 
 Snapshot ID: `AAAAAAwMlSky0dlRDXgk1fy64scIV8KI`

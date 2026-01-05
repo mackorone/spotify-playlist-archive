@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 461183,
+  "num_followers": 461336,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
-        }
-      ],
-      "duration_ms": 238270,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Cathedral",
         "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 251138,
       "name": "Cathedral",
       "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
     },
     {
       "added_at": "2025-12-12 05:00:37",

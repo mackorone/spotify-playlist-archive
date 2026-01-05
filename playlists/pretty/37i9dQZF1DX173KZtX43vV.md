@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,204 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,202 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

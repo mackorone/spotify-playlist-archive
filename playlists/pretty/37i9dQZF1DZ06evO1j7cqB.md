@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,292 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,291 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 43 | [Golden Leaves \(feat\. Benjamin Walker\)](https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Benjamin Walker](https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:18 |
 | 44 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
 | 45 | [The Ellen and Brian Theme \(feat\. Julie Fowlis\)](https://open.spotify.com/track/3aZEnt7Ylz19DWLb0UmIsF) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:21 |
-| 46 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
-| 47 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
+| 46 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
+| 47 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 | 48 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 49 | [Passacaglia](https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 1 \(Original Soundtrack\) \[Remastered\]](https://open.spotify.com/album/7neV6oTowNHwpXXXbDOEzv) | 5:15 |
 | 50 | [Sun Rising on the Flagstone \(feat\. Julie Fowlis\)](https://open.spotify.com/track/7oEBKN5354KHGntRFRHjv1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 2:44 |
 
-Snapshot ID: `aVcKgAAAAABCIhqhWOSW5wZZL+EI++E9`
+Snapshot ID: `aVhcAAAAAADkz4PlpKqB7a1Tuh15UQuY`

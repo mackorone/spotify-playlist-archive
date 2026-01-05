@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > KATSEYE, Ninho, et MOLIY au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,376 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,351 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

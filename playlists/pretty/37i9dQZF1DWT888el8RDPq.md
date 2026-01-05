@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,292 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,287 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 43 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 44 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
 | 45 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
-| 46 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
-| 47 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 46 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 47 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 48 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
 | 49 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 50 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 70 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:55 |
 | 71 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
 | 72 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
-| 73 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 |
-| 74 | [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 |
-| 75 | [Buon Viaggio \(Share The Love\)](https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Più Che Logico](https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3) | 3:27 |
+| 73 | [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 |
+| 74 | [Buon Viaggio \(Share The Love\)](https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Più Che Logico](https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3) | 3:27 |
+| 75 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 76 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 |
-| 77 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
+| 77 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 |
 | 78 | [Si, ah](https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Regardez moi](https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd) | 2:52 |
 | 79 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 |
 | 80 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |

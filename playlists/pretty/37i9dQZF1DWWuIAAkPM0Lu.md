@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag og den er paaacked! Ny musik fra Ida Laurberg,  JOSVA & Artigeardit, Anton Westerlin & ozzy og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,709 likes - 73 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,705 likes - 73 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

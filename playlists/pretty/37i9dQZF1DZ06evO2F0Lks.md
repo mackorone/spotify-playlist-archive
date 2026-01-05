@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,770 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,767 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 49 | [It Had to Be You](https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:48 |
 | 50 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 
-Snapshot ID: `aVcKgAAAAAC5TbuDYkhYdo931KkiSRsy`
+Snapshot ID: `aVhcAAAAAADk6EG6M/8r4y9X4AzvT8jB`

@@ -1,6 +1,6 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4202228,
+  "num_followers": 4202369,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 176250,
       "name": "Golden - David Guetta REM/X",
       "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 238886,
-      "name": "How Bad Do U Want Me",
-      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
+      "duration_ms": 204760,
+      "name": "We R Who We R",
+      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "Cannibal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 204760,
-      "name": "We R Who We R",
-      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -979,42 +999,6 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "you look like you love me (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     }
   ],
   "unique_name": "Confidence Boost",

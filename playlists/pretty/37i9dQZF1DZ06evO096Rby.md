@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,731 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,758 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 40 | [El De La Selva](https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El De La Selva](https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm) | 1:58 |
 | 41 | [El De La 31](https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 | 42 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
-| 43 | [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 |
-| 44 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
+| 43 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
+| 44 | [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 |
 | 45 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
 | 46 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 47 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
 | 50 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
 
-Snapshot ID: `aVcKgAAAAABNsBqlHI7c9oOy6cvkNBCX`
+Snapshot ID: `aVhcAAAAAABozheBZy74j+tq9FwmiuF2`

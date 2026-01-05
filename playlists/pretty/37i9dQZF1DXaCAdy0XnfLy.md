@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,567 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,566 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

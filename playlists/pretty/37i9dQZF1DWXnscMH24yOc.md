@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,564 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,584 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 26 | [Running up That Hill](https://open.spotify.com/track/2xL5yK2xJZ2ZkNwRkmOi1M) | [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Running up That Hill](https://open.spotify.com/album/2gKHrg2lOloXI4aPpW2ajq) | 4:00 |
 | 27 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
 | 28 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 |
-| 29 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
-| 30 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
+| 29 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
+| 30 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 31 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 32 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
 | 33 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 52 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
 | 53 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
 | 54 | [dreams](https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [dreams](https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO) | 4:17 |
-| 55 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 |
-| 56 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
+| 55 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
+| 56 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 |
 | 57 | [White Flag](https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ) | [Ryan Corn](https://open.spotify.com/artist/6HOBJhMPSZxZEsfTcSPD0m) | [White Flag](https://open.spotify.com/album/4RgtpOkCDxykmCR9KyLCjG) | 3:31 |
 | 58 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
 | 59 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 90 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
 | 91 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 92 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
-| 93 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
-| 94 | [She's Not There \- \(The Zombies cover\)](https://open.spotify.com/track/0dz9cFDDSyj2VFqzXkzmx1) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [France](https://open.spotify.com/album/6poorXKsPRsrowWfn97Sel) | 2:55 |
+| 93 | [She's Not There \- \(The Zombies cover\)](https://open.spotify.com/track/0dz9cFDDSyj2VFqzXkzmx1) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [France](https://open.spotify.com/album/6poorXKsPRsrowWfn97Sel) | 2:55 |
+| 94 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
 | 95 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 |
 | 96 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 97 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |

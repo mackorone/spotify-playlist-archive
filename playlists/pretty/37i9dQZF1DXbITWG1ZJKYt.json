@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4826023,
+  "num_followers": 4827087,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I've Got A Crush On You",
-      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I've Got A Crush On You",
+      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 259812,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 438280,
       "name": "Song For My Father",
       "url": "https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
+        "name": "My Favorite Things (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 824133,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "My Favorite Things (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 824133,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Jazz Profile: Cannonball Adderley",
         "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+      "duration_ms": 194240,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1283,6 +1267,22 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 449773,
-      "name": "Footprints - Remastered",
-      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 301866,
       "name": "Tell Me a Bedtime Story",
       "url": "https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 449773,
+      "name": "Footprints - Remastered",
+      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
         "name": "Now He Sings, Now He Sobs (Expanded Edition)",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 214026,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/12uL43MR8byTEjtg241Z7m"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1483,22 +1483,6 @@
       "duration_ms": 267173,
       "name": "Where We Used to Live",
       "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Search For Peace",
-      "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1567,6 +1551,22 @@
       "duration_ms": 369386,
       "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Search For Peace",
+      "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Straight, No Chaser",
-        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 688600,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 505453,
       "name": "One For Daddy-O",
       "url": "https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Straight, No Chaser",
+        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 688600,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 482440,
-      "name": "Blue Bossa - Remastered",
-      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
+      "duration_ms": 396960,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1851,34 +1851,18 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Relaxin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 396960,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
+      "duration_ms": 482440,
+      "name": "Blue Bossa - Remastered",
+      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 235760,
       "name": "If I Should Lose You",
       "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Tea for Two",
+      "url": "https://open.spotify.com/track/0Otf1ZfYNIjhqFIuJk0fsy"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1947,22 +1963,6 @@
       "duration_ms": 255626,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Tea for Two",
-      "url": "https://open.spotify.com/track/0Otf1ZfYNIjhqFIuJk0fsy"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 392026,
-      "name": "Stolen Moments",
-      "url": "https://open.spotify.com/track/1tbzRQCZUoKYMCxzK0Jx5p"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 403640,
       "name": "Blue Rondo \u00e0 la Turk",
       "url": "https://open.spotify.com/track/36MLLjFug6TJYNODUVR7av"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 392026,
+      "name": "Stolen Moments",
+      "url": "https://open.spotify.com/track/1tbzRQCZUoKYMCxzK0Jx5p"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2091,30 +2091,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Standards, Vol. 2",
-        "url": "https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
       },
@@ -2147,18 +2123,26 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+        "name": "Standards, Vol. 2",
+        "url": "https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 503786,
-      "name": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
+      "duration_ms": 435266,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2175,6 +2159,22 @@
       "duration_ms": 372786,
       "name": "I'm A Fool To Want You - Remastered 2006",
       "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 503786,
+      "name": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 385866,
-      "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Workin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 433106,
       "name": "Four",
       "url": "https://open.spotify.com/track/2CBfYM9el9Sh15s9NCeYFP"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 385866,
+      "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Sarah Vaughan In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Best Of Clifford Brown",
-        "url": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 412653,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Best Of Clifford Brown",
+        "url": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -3363,22 +3363,18 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Lee Konitz Meets Jimmy Giuffre",
-        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
           "name": "Lee Konitz",
           "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX"
+      "duration_ms": 266706,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -3451,18 +3447,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "Lee Konitz Meets Jimmy Giuffre",
+        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
       "artists": [
         {
           "name": "Lee Konitz",
           "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 266706,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+      "duration_ms": 216360,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -3547,22 +3547,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Complete Gus Wildi Recordings",
-        "url": "https://open.spotify.com/album/3mglYkqFkapisfgT6NXNxH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 169360,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/7HgaPfZlch4d4AAiP5wcyq"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -3607,6 +3591,22 @@
       "duration_ms": 413306,
       "name": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Complete Gus Wildi Recordings",
+        "url": "https://open.spotify.com/album/3mglYkqFkapisfgT6NXNxH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 169360,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/7HgaPfZlch4d4AAiP5wcyq"
     },
     {
       "added_at": "2025-11-05 13:16:42",

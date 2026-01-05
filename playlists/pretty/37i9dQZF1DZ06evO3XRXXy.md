@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,815 likes - 44 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,839 likes - 44 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 33 | [Besame Mucho](https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 7:11 |
 | 34 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
 | 35 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
-| 36 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
-| 37 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
+| 36 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
+| 37 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
 | 38 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 | 39 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
 | 40 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [Stranger On The Shore](https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 3:07 |
 | 44 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 
-Snapshot ID: `aVcKgAAAAAC/bbTcNOVvvqO+cPHfuq3l`
+Snapshot ID: `aVhcAAAAAACLVt4gtINlTYetVUcJyn0I`

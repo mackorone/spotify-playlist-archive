@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,599 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,649 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 31 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
 | 32 | [Te Miro Para Ver Si Me Ves Mirarte](https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [SOS](https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P) | 4:35 |
 | 33 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
-| 34 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
-| 35 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
+| 34 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
+| 35 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 36 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 37 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 38 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 64 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 65 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 66 | [Flamingo](https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt) | 4:45 |
-| 67 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
-| 68 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
+| 67 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
+| 68 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 69 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
 | 70 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
 | 71 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 78 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
 | 79 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
 | 80 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
-| 81 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
-| 82 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
+| 81 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
+| 82 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
 | 83 | [Dos que uno](https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 4:22 |
 | 84 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
 | 85 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |

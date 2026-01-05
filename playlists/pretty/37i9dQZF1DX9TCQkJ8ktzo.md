@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,276 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,284 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 20 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 21 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
 | 22 | [Amigo Organillero](https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Y Todavia Te Quiero](https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG) | 3:11 |
-| 23 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 |
-| 24 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
+| 23 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
+| 24 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 |
 | 25 | [Adios Nonino](https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [El Tango](https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF) | 4:58 |
 | 26 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
 | 27 | [Cuando Calienta el Sol](https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 |

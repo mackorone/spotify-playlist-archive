@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 435813,
+  "num_followers": 435874,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2025-12-04 13:00:20",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2025-12-04 13:00:20",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
     },
     {
       "added_at": "2025-12-04 13:00:20",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Inner Monologue Part 1",
-        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "What A Time (feat. Niall Horan)",
-      "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "Inner Monologue Part 1",
+        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "What A Time (feat. Niall Horan)",
+      "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
     },
     {
       "added_at": "2025-12-04 13:00:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2025-12-04 13:00:20",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
         "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "Forever You and Me",
         "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-04 13:00:20",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207309,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
-    },
-    {
-      "added_at": "2025-12-04 13:00:20",
-      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 208106,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
+    },
+    {
+      "added_at": "2025-12-04 13:00:20",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207309,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     }
   ],
   "unique_name": "Lazy Sunday",

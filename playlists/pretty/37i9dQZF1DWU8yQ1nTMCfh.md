@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Zoé
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,274 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,239 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 65 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
 | 66 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 | 67 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 |
-| 68 | [Vuelve con Él](https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn) | [Franno](https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW) | [Historia de Amor](https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr) | 3:34 |
-| 69 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
+| 68 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
+| 69 | [Vuelve con Él](https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn) | [Franno](https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW) | [Historia de Amor](https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr) | 3:34 |
 | 70 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
 | 71 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 |
 | 72 | [Mayo](https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:35 |

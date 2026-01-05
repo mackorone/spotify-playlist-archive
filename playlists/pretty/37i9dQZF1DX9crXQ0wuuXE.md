@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,148 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,119 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 17 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 18 | [House Fire](https://open.spotify.com/track/1RJyToUKkGSEfJjavJHSsF) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:52 |
 | 19 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
-| 20 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 21 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
+| 20 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
+| 21 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 22 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
 | 23 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 24 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 66 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
 | 67 | [Ether & Wood](https://open.spotify.com/track/6ARgq6vnDSjxsfpB7oUQ5k) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 4:23 |
 | 68 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 |
-| 69 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 |
-| 70 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
+| 69 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
+| 70 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 |
 | 71 | [Young Man](https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA) | 4:06 |
 | 72 | [Fire and the Flood \- Acoustic](https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Fire and the Flood \(Acoustic\)](https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk) | 3:42 |
 | 73 | [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 82 | [Tried to Tell You](https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 3:38 |
 | 83 | [Violent Shiver](https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 2:46 |
 | 84 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
-| 85 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 86 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
-| 87 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
+| 85 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
+| 86 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 87 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 88 | [Kansas City](https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:04 |
 | 89 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
 | 90 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 |

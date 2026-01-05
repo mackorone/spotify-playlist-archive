@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 921290,
+  "num_followers": 921423,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABhUAvcpreX01ahhUWg3X+8",
+  "snapshot_id": "aVhcAAAAAAA74khQkJOr3j1Q6glddAJI",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": null,

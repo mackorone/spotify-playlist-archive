@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNR7UbdVQiC.md) - [plain]
 
 > because you deserve it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,651 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,657 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNR7UbdVQiC.md) - [plain]
 | 48 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 49 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
 | 50 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
-| 51 | [Flowers In December](https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:57 |
-| 52 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
+| 51 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
+| 52 | [Flowers In December](https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:57 |
 | 53 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 54 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 |
 | 55 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 |
@@ -81,18 +81,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNR7UbdVQiC.md) - [plain]
 | 71 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
 | 72 | [my house is warm](https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [my house is warm](https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp) | 3:35 |
 | 73 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
-| 74 | [Vanilla Baby](https://open.spotify.com/track/0jsXpJsdXhnwnwnCLKjYLF) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:15 |
-| 75 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 74 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
+| 75 | [Vanilla Baby](https://open.spotify.com/track/0jsXpJsdXhnwnwnCLKjYLF) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:15 |
 | 76 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
 | 77 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 78 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 79 | [Smother](https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 4:01 |
-| 80 | [Dark](https://open.spotify.com/track/6qWW8mNGVEMNQ8mhPEaAJ5) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:56 |
-| 81 | [Love in the Time of Socialism](https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [A Carnival of Fears](https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59) | 4:11 |
+| 80 | [Love in the Time of Socialism](https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [A Carnival of Fears](https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59) | 4:11 |
+| 81 | [Dark](https://open.spotify.com/track/6qWW8mNGVEMNQ8mhPEaAJ5) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:56 |
 | 82 | [Care](https://open.spotify.com/track/3MklLppNRhuAupVGO3uNW2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Care](https://open.spotify.com/album/2b1U4077xOeivHAa3Jz8HY) | 2:49 |
-| 83 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 |
+| 83 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
 | 84 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 85 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 85 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 |
 | 86 | [10x Stronger](https://open.spotify.com/track/3xLU29XDzxUllbDjLumKf7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 1:15 |
 | 87 | [Breakthespell](https://open.spotify.com/track/3tzuST1enlzD7ttdFgbf0r) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 4:27 |
 | 88 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNR7UbdVQiC.md) - [plain]
 | 93 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 94 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
 | 95 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
-| 96 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
+| 96 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 |
 | 97 | [Dream](https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A Good Day](https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW) | 3:31 |
-| 98 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 |
+| 98 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 99 | [Movie Star](https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:32 |
 | 100 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 

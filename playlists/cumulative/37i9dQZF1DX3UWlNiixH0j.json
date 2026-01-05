@@ -19247,6 +19247,24 @@
     },
     {
       "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ"
+      },
+      "artists": [
+        {
+          "name": "\u3084\u3055\u3057\u3044\u307f\u3089\u3044",
+          "url": "https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223991,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc"
+    },
+    {
+      "album": {
         "name": "MOONRAKER",
         "url": "https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN"
       },
@@ -38796,7 +38814,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 248056,
       "name": "\u307c\u3061\u307c\u3061\u3044\u304d\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75"

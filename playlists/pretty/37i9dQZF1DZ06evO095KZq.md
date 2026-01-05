@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,123 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,126 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 12 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 |
 | 13 | [Borracho de Cochera](https://open.spotify.com/track/0acLovnnWxsN8JwjTr0ecY) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:06 |
 | 14 | [Dolor y Amor](https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:39 |
-| 15 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
-| 16 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 |
+| 15 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 |
+| 16 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
 | 17 | [Guárdame Esta Noche](https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 2:56 |
 | 18 | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/track/126OceJdkcpvQre3orMumy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV) | 3:26 |
 | 19 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 42 | [Las Verdades \- En Vivo](https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [Vengo a Aclarar \(En Vivo\)](https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj) | 2:30 |
 | 43 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 44 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
-| 45 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 |
-| 46 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 |
+| 45 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 |
+| 46 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 |
 | 47 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
-| 48 | [Ella](https://open.spotify.com/track/14uHKZWp2QjJUG0pgK9nWH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:39 |
+| 48 | [La Enorme Distancia](https://open.spotify.com/track/7qIw9JxhZ8Zv4l9IR9D75O) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 1:50 |
 | 49 | [Mi Tiempo](https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Mi Tiempo](https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA) | 1:54 |
 | 50 | [Presente](https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Presente](https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8) | 2:25 |
 
-Snapshot ID: `aVcKgAAAAAA5E4htO/EXswIJFv4PPOUx`
+Snapshot ID: `aVhcAAAAAAAZw3O1A+geaS2/zA6fYqZw`

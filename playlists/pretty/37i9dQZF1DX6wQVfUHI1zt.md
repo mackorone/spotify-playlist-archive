@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,763 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,786 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 13 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |
 | 14 | [Y Te Lo Pido](https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Back To Basics](https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc) | 5:15 |
 | 15 | [Me Vuelvo A Enamorar](https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Viva Tejano Party Mix](https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1) | 3:31 |
-| 16 | [Aire](https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:05 |
+| 16 | [Amigo Mío](https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Solo Para Ti](https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714) | 4:12 |
 | 17 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
 | 18 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
-| 19 | [Amigo Mío](https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Solo Para Ti](https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714) | 4:12 |
+| 19 | [Aire](https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:05 |
 | 20 | [La Llamada \- 1993 Version](https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:09 |
-| 21 | [Fuertemente](https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 2:49 |
+| 21 | [No Te Olvidaré](https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [No Te Olvidare](https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy) | 3:49 |
 | 22 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 |
 | 23 | [Costumbres](https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:49 |
-| 24 | [No Te Olvidaré](https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [No Te Olvidare](https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy) | 3:49 |
+| 24 | [Fuertemente](https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 2:49 |
 | 25 | [Ahora Dile](https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Ven Mi Amor](https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8) | 3:52 |
 | 26 | [Ahora Qué Hago Sin Ti](https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Siempre Humilde \(Remastered\)](https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl) | 3:51 |
 | 27 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |

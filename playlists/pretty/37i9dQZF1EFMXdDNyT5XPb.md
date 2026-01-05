@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 89 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
 | 90 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
 | 91 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
-| 92 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
-| 93 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
+| 92 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
+| 93 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
 | 94 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
 | 95 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
 | 96 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 105 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 106 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcF/mgAAAAC1jFLfauzd0om9T7WWR9ot`
+Snapshot ID: `AcGFOgAAAAAM7n1wpCm1GHHBAWfd8EIa`

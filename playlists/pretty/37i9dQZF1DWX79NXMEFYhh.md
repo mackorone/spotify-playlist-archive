@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,945 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,899 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 21 | ['Cause You Have To](https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 4:10 |
 | 22 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
 | 23 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 |
-| 24 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 25 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
-| 26 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 24 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
+| 25 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 26 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
 | 27 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 |
 | 28 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 29 | [OTW](https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OTW](https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI) | 4:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,854 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,855 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,28 +35,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 25 | [Vital](https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:14 |
 | 26 | [A Cover Over](https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:48 |
 | 27 | [Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 2:59 |
-| 28 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 |
+| 28 | [Promise](https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:49 |
 | 29 | [Heart Current](https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 4:41 |
-| 30 | [Promise](https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:49 |
+| 30 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 |
 | 31 | [Labyrinth](https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 3:47 |
-| 32 | [Cover the Long Way](https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
-| 33 | [Water People](https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Water People 7"](https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx) | 4:07 |
-| 34 | [Ode to the blue](https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:53 |
+| 32 | [Ode to the blue](https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:53 |
+| 33 | [Cover the Long Way](https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
+| 34 | [Water People](https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Water People 7"](https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx) | 4:07 |
 | 35 | [Holding](https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 7:56 |
 | 36 | [No Other](https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 3:46 |
 | 37 | [Cloud in Places](https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
-| 38 | [It Feels Alright](https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:02 |
+| 38 | [Down to the Ocean](https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:07 |
 | 39 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 40 | [Atone](https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 4:55 |
 | 41 | [Hold](https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Hold / Sick \- Single](https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE) | 5:30 |
-| 42 | [Down to the Ocean](https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:07 |
+| 42 | [It Feels Alright](https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:02 |
 | 43 | [Make Me Over](https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 1:59 |
 | 44 | [A Lie](https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:13 |
-| 45 | [Blouse](https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 2:45 |
+| 45 | [Basement Mix](https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 5:17 |
 | 46 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 |
 | 47 | [Little Boat/Bone Dance \(Audrey\)](https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 3:06 |
 | 48 | [Dragging the Streets \- First Heart Tone](https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 6:20 |
-| 49 | [Basement Mix](https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 5:17 |
-| 50 | [The Races](https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 0:50 |
+| 49 | [The Races](https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 0:50 |
+| 50 | [Sick](https://open.spotify.com/track/574DJfC8RrVqyaybr1AabW) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Hold / Sick \- Single](https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE) | 5:08 |
 
-Snapshot ID: `aVcKgAAAAAAXZeqImMe85lAYa039uhFK`
+Snapshot ID: `aVhcAAAAAAA1npOq/yf9p+QAg5L+eP2Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,297 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,310 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 17 | [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 |
 | 18 | [La Estrella De Los Bailes](https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 |
 | 19 | [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 |
-| 20 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
-| 21 | [Te Lavaste la Cara, El Mono No](https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:50 |
+| 20 | [Te Lavaste la Cara, El Mono No](https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:50 |
+| 21 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
 | 22 | [Que Sacrificio](https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 |
 | 23 | [Juan Colorado](https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:29 |
 | 24 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 44 | [Te Necesito](https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 3:10 |
 | 45 | [Cecy](https://open.spotify.com/track/7kauAAbQZtUgHj1YN9mMEM) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:30 |
 | 46 | [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 |
-| 47 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
-| 48 | [Un Rayo de Sol](https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Nueva Era de la Quebradita](https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc) | 3:13 |
+| 47 | [Un Rayo de Sol](https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Nueva Era de la Quebradita](https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc) | 3:13 |
+| 48 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 | 49 | [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 |
 | 50 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 |
 
-Snapshot ID: `aVcKgAAAAADDy/z19vBuwvx6aZrvp2j6`
+Snapshot ID: `aVhcAAAAAADDnGNWO7gJd0ye6dePV/77`

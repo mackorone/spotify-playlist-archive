@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 
 > seamless, soft, soulful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,276 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,275 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 19 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 20 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
 | 21 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
-| 22 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
-| 23 | [Summer Rain](https://open.spotify.com/track/3JgLXkayVYWkQr1G9VhIV5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Rain](https://open.spotify.com/album/2xKGcZ5dvdKpiK973Ixid6) | 2:53 |
+| 22 | [Summer Rain](https://open.spotify.com/track/3JgLXkayVYWkQr1G9VhIV5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Rain](https://open.spotify.com/album/2xKGcZ5dvdKpiK973Ixid6) | 2:53 |
+| 23 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
 | 24 | [Care](https://open.spotify.com/track/3MklLppNRhuAupVGO3uNW2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Care](https://open.spotify.com/album/2b1U4077xOeivHAa3Jz8HY) | 2:49 |
 | 25 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
 | 26 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 44 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 45 | [STEREO DRIVER](https://open.spotify.com/track/3ndgTTYs0dGZQPLHkVxGHl) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:51 |
 | 46 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 |
-| 47 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 |
-| 48 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
+| 47 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
+| 48 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 |
 | 49 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 50 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 51 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 77 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
 | 78 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 |
 | 79 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 |
-| 80 | [All the Difference](https://open.spotify.com/track/2KxVEwlxExzVHI2N5GIYZI) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:19 |
+| 80 | [Little Me](https://open.spotify.com/track/6VrNYlfKnyVIoijUSlcauh) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Little Me](https://open.spotify.com/album/6i1IKR5YGPHbmFWfVE1dFk) | 3:53 |
 
 Snapshot ID: `AAAAAKgvSKIo466yd08vDKzfEU9RJ//2`

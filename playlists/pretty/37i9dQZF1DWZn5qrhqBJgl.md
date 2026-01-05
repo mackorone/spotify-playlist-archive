@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,296 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,300 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 8 | [Le jour où j'ai arrêté le rap \(Instrumental\)](https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [Le jour où j'ai arrêté le rap](https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY) | 3:22 |
 | 9 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
 | 10 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
-| 11 | [Grace](https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Grace](https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi) | 2:24 |
-| 12 | [Selflessly](https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [How Did We](https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB) | 3:01 |
+| 11 | [Selflessly](https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [How Did We](https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB) | 3:01 |
+| 12 | [Grace](https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Grace](https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi) | 2:24 |
 | 13 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
 | 14 | [Papi \- Instrumental](https://open.spotify.com/track/1VeFGeFeMw607RUCZKzgJa) | [LBandy](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [Woo Luv : Guitars & Emo Trap \(Instrumental\)](https://open.spotify.com/album/7j0aJqD2B3VvPYPzlSSyOc) | 2:16 |
 | 15 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 33 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |
 | 34 | [If You Show Me Love](https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [If You Show Me Love](https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i) | 1:30 |
 | 35 | [Daydream in Green](https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Daydream in Green](https://open.spotify.com/album/3nkRVQuQNbFm3sid5OPCOR) | 3:40 |
-| 36 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
+| 36 | [Wie im Traum \- Instrumental](https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:24 |
 | 37 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
 | 38 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
-| 39 | [Wie im Traum \- Instrumental](https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:24 |
+| 39 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
 | 40 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
 | 41 | [Instant Knafeh](https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec) | [Kawakb](https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp) | [Instant Knafeh](https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz) | 3:12 |
 | 42 | [سمراء](https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX) | [Deeb](https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt) | [السلام البارد](https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C) | 1:26 |

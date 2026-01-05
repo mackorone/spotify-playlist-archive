@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > A escolha de nossos editores do Melhor de EQUAL Brasil 2025\. Cover: Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,498 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,500 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
 | 27 | [você vai gostar](https://open.spotify.com/track/4NONYT8T6OK8hjO46EnajI) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [esse delírio vol.1](https://open.spotify.com/album/6AUcLdJaoXmK6OSCS0RCwi) | 3:24 |
 | 28 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 |
-| 29 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
-| 30 | [Sexy Yemanjá](https://open.spotify.com/track/3G2AmZYrlU04tcDxSmxyZl) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 4:12 |
+| 29 | [Sexy Yemanjá](https://open.spotify.com/track/3G2AmZYrlU04tcDxSmxyZl) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 4:12 |
+| 30 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
 | 31 | [Culpada Sim](https://open.spotify.com/track/0HgpTy5a2UB8ssQj7xrkhc) | [Galícia](https://open.spotify.com/artist/79N95MiRQ5G55CtC7cVBsr), [Stephany Lima](https://open.spotify.com/artist/20gCI7XNPcraA38OcpR3if) | [Culpada Sim](https://open.spotify.com/album/0Yhrlamwb7cx313p33k4V4) | 2:28 |
 | 32 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 33 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |

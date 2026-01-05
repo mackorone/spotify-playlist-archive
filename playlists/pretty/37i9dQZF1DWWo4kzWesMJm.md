@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,094 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,193 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 9 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 | 10 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
 | 11 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
-| 12 | [Andalouse](https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 2:47 |
-| 13 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 12 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 13 | [Andalouse](https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 2:47 |
 | 14 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 |
 | 15 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 16 | [La terre est ronde](https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Le Chant des sirènes](https://open.spotify.com/album/0NhgwNb57nLRJsL9G4NSpY) | 3:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 41 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 42 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
 | 43 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
-| 44 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
-| 45 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
+| 44 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
+| 45 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
 | 46 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
 | 47 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 48 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |

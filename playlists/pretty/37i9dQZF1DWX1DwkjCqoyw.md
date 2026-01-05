@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,208 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,191 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 39 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
 | 40 | [London](https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [London](https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA) | 2:31 |
 | 41 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
-| 42 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
-| 43 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 42 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 43 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 | 44 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
 | 45 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
 | 46 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |

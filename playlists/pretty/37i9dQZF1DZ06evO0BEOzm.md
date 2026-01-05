@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,023 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,047 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 15 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 |
 | 16 | [Bigger In Texas](https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:32 |
 | 17 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
-| 18 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
-| 19 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 |
+| 18 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 |
+| 19 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
 | 20 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 3:02 |
 | 21 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
 | 22 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 37 | [Tuned In Freestyle](https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:03 |
 | 38 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
 | 39 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
-| 40 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
-| 41 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
+| 40 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
+| 41 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
 | 42 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 |
 | 43 | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK) | 3:19 |
 | 44 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/0W7R5wlb4rjvowSPOY7c8m) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:07 |
 | 50 | [Freak Nasty](https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:53 |
 
-Snapshot ID: `aVcKgAAAAAA4Xk8ZKCZgQ7wrzQK/TMEj`
+Snapshot ID: `aVhcAAAAAAD9EwK//bc1YPtavGttjmyT`

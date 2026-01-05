@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,035 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,044 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Tattoo](https://open.spotify.com/album/3EYAbEV8gM0VvHPqF3asP4) | 3:21 |
 | 50 | [Visto Caro](https://open.spotify.com/track/30VujwhY6q8PiRbxkHh9zY) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 2:48 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

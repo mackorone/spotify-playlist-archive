@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,284 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,297 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 25 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 26 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
 | 27 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 |
-| 28 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
-| 29 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
+| 28 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
+| 29 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
 | 30 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 | 31 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
 | 32 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 47 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 |
 | 48 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 |
 | 49 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
-| 50 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
+| 50 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
 
 Snapshot ID: `AAAAAOe5p0vbreiDqrzfSiLtCKBNlds5`

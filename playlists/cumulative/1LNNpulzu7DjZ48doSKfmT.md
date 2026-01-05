@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-518 songs - 1 day 2 hr 49 min
+520 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Day By Day](https://open.spotify.com/track/3Ek8qhUAMaSVfhpfKSIjyJ) | [Way Beyond Different Entertainment](https://open.spotify.com/artist/0eQGCK10kU7wyN7Yctookk), [Straight Free D](https://open.spotify.com/artist/3QwvyLsb1fQmS9Tq4xNy1c), [Ja Sol](https://open.spotify.com/artist/2fFlBs7Tz02lIQUdUOwvKY), [Lil Brizzyy](https://open.spotify.com/artist/3I2LygP4G0ebqQ6Qjd1K7o), [RAIN](https://open.spotify.com/artist/3LeuuCIT6YKEXsBXYPnPI8) | [Day By Day](https://open.spotify.com/album/1mAcvxZDlllq2LtFoXOqpT) | 5:47 | 2025-07-23 |  |
 | [Daydreamer](https://open.spotify.com/track/0oTfSnSqQ2R6xm47Y2QrJk) | [DJ David Marquez](https://open.spotify.com/artist/3RIlwEx1oApXkTfEKeOmha) | [Daydreamer](https://open.spotify.com/album/77oZX13nt3JxjFdSg5XrX5) | 2:39 | 2025-09-17 |  |
 | [Deceit \(feat\. Adam Beaparlant\)](https://open.spotify.com/track/0FGRVn2PGLd4oIPlwwNrHZ) | [Dr Souc](https://open.spotify.com/artist/0qTbPOyOrc8TV03OFGjtQz), [Adam Beaparlant](https://open.spotify.com/artist/55ZHpe0fGofc1LAyXd9Cyz) | [Mad World](https://open.spotify.com/album/6IYOpzoVzYkaa6MhBak8W9) | 4:30 | 2025-10-10 |  |
+| [Defeat Is Not An Option \- Spotify Release](https://open.spotify.com/track/7AXtbBJGxFR0pXxiDQWdxd) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Defeat Is Not An Option \(Spotify Release\)](https://open.spotify.com/album/6joB4Ab6h9jhfF4tqr4d49) | 5:01 | 2026-01-05 |  |
 | [DEL BARRIO SOY](https://open.spotify.com/track/6efYvzaUS5vm5UP4zLNlwP) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [DEL BARRIO SOY](https://open.spotify.com/album/4QBJUjp12DiUbDNtjrc1Gx) | 1:44 | 2025-11-16 |  |
 | [Demander](https://open.spotify.com/track/2zUuDZZFbRJ83mdrANi43v) | [Divag](https://open.spotify.com/artist/6aXSmIcCXJUtxy8w2DUIOS) | [Impermanent](https://open.spotify.com/album/1zAkueauVVzWuoMOL5Tnvs) | 2:07 | 2025-12-27 |  |
 | [Der Busfara Song](https://open.spotify.com/track/5Ig9yHQsrIku63xTYYdagZ) | [Nicolas Hauptmann](https://open.spotify.com/artist/534CVveHGYbXL310sIYh14), [Marvin Johannes Fritz](https://open.spotify.com/artist/2YClHjf2KuzgDyv89Ubr6h) | [Der Busfara Song](https://open.spotify.com/album/0AN56wFIOt7KHjday2rUFX) | 3:00 | 2025-10-06 |  |
@@ -327,6 +328,7 @@
 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 | 2025-12-02 |  |
 | [One Way Road](https://open.spotify.com/track/3gpPiz0MCAfeq25uMTfBRl) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [One Way Road](https://open.spotify.com/album/6BDbhOeZBBfwq1iHeFhPaM) | 3:12 | 2025-11-16 |  |
 | [Only Tonight](https://open.spotify.com/track/5d9SYa0iKepZHTGf1Z8N2F) | [Stoloboy](https://open.spotify.com/artist/1TiYz6Ir6NF0IzoItwCJXE) | [Only Tonight](https://open.spotify.com/album/7ljUUhnGw7GHVPfyvXFa0W) | 3:20 | 2025-10-25 |  |
+| [Oro y Seda](https://open.spotify.com/track/7DyMoRc9qCguT9KAwGNVLt) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [ETERNA](https://open.spotify.com/album/1udNGP2ScoMW4dQ6Yo6u4P) | 2:58 | 2026-01-05 |  |
 | [Otra Vez](https://open.spotify.com/track/5rwUs97FbADrR9rDJmSSYw) | [invitro](https://open.spotify.com/artist/6v9l6q6Dbj7wjztHEIVsaM) | [Sueño Artificial](https://open.spotify.com/album/3ojaiSsI1EvSkZUKqlyef8) | 3:34 | 2025-10-30 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-10-11 |  |
 | [Outa Control \(feat\. Adam Beaparlant\)](https://open.spotify.com/track/1bMgCeH5Ef0aRgdOqRIviR) | [Dr Souc](https://open.spotify.com/artist/0qTbPOyOrc8TV03OFGjtQz), [Adam Beaparlant](https://open.spotify.com/artist/55ZHpe0fGofc1LAyXd9Cyz) | [Mad World](https://open.spotify.com/album/6IYOpzoVzYkaa6MhBak8W9) | 4:19 | 2025-10-10 |  |

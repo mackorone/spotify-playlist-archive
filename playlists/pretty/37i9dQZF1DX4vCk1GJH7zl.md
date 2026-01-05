@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,711 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,740 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 7 | [Te Ver Superar](https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Te Ver Superar](https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO) | 3:44 |
 | 8 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 |
 | 9 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 |
-| 10 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 |
-| 11 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 |
+| 10 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 |
+| 11 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 |
 | 12 | [Testa](https://open.spotify.com/track/4ETX3vkNVSaOVCkfsfn7Hw) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Caranguejo \(Parte 1\)](https://open.spotify.com/album/7s49AGukDwUe9tYMXC0UKG) | 3:09 |
 | 13 | [Só nós 2](https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Só nós 2](https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH) | 3:38 |
 | 14 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 34 | [Eu não sou mais o mesmo](https://open.spotify.com/track/7ggCFNp07eR7nfpIbuHZQi) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Eu não sou mais o mesmo](https://open.spotify.com/album/0FRCbWvGvqxHWhcnxLu0DF) | 2:07 |
 | 35 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
 | 36 | [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 |
-| 37 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
-| 38 | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 |
+| 37 | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 |
+| 38 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
 | 39 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 40 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
 | 41 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |

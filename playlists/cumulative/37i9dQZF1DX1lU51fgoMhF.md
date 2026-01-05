@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: DAYOUNG\(다영\)\)
 
-389 songs - 21 hr 8 min
+390 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Everywhere \(feat\. Sojung\)](https://open.spotify.com/track/6ZXE8tjsYMewC160pFbs6s) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [Sojung](https://open.spotify.com/artist/2H8ECVLR3q013YhJezQ1o7) | [Everywhere](https://open.spotify.com/album/2Sy2nTlBd6b89z1OqbUYRy) | 3:36 | 2022-07-11 | 2022-07-29 |
 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 | 2025-06-25 |  |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2023-07-20 | 2024-04-19 |
+| [FANCY](https://open.spotify.com/track/2IZ6fFOq5d8lT0CxLDcxKz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/1GRocMBU2hYD29hexD5UVF) | 3:33 | 2025-09-09 |  |
 | [Far](https://open.spotify.com/track/0uE82ZU216vukGrT7L8d9K) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:27 | 2021-11-17 | 2022-07-27 |
 | [Feeling](https://open.spotify.com/track/7H4X19ofIhtgsNzGss2ebd) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Feeling](https://open.spotify.com/album/4EM7pzU5tvYNKIUquIFWGX) | 3:33 | 2022-06-08 | 2022-07-29 |
 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 | 2021-11-17 |  |
@@ -325,7 +326,7 @@
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-06-08 | 2022-09-12 |
 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-07-04 |  |
 | [Some Things Never Change](https://open.spotify.com/track/26PkMF0JgRobNBgMBDgUvE) | [ZOONIZINI\(ASTRO\)](https://open.spotify.com/artist/5rWyDdaaTqFKktqU2j0JdM) | [DICE](https://open.spotify.com/album/0wghP8LL50YyIia4U4JmbQ) | 3:02 | 2025-09-01 |  |
-| [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2021-11-17 |  |
+| [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2021-11-17 | 2026-01-05 |
 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 | 2025-06-16 |
 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 | 2022-07-11 | 2024-10-13 |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-11 | 2022-07-23 |

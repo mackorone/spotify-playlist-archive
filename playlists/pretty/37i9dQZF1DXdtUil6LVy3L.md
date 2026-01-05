@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,619 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,558 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

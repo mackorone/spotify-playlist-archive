@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,136 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,248 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 12 | [Tu Tu Hai Wahi \- Remix](https://open.spotify.com/track/2uD3RXappAgVMPbeLkq9jh) | [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF) | [Greatest Love Songs \(Vol\. 2\)](https://open.spotify.com/album/3Nb1JIqf0p2tDCzeUMptg8) | 6:08 |
 | 13 | [Rock Tha Party](https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q) | [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP) | [Introducing…](https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14) | 3:32 |
 | 14 | [Ab Mujhe Raat Din](https://open.spotify.com/track/4y5mqhrI0tdYI4M3EFluxP) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:25 |
-| 15 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
-| 16 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
+| 15 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
+| 16 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
 | 17 | [Dholna](https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Pyar Ke Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7) | 4:40 |
 | 18 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 |
-| 19 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
-| 20 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
+| 19 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
+| 20 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
 | 21 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
 | 22 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
 | 23 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 35 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |
 | 36 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
 | 37 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 |
-| 38 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
-| 39 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
+| 38 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
+| 39 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
 | 40 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 41 | [Bijuria \- Old Version](https://open.spotify.com/track/0N5aIboDkYJ2iZuPfTk64u) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Mausam](https://open.spotify.com/album/3TgsiJzGTGn5JWY9VjGaXj) | 4:49 |
 | 42 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |

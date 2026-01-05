@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,720 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,731 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 27 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
 | 28 | [Ik Zie Een Ster](https://open.spotify.com/track/36ZnMUDoSrGUV8moDcilOF) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 2:56 |
 | 29 | [Telkens Weer](https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:12 |
-| 30 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
-| 31 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
+| 30 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
+| 31 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
 | 32 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
-| 33 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
-| 34 | [Oh Darling](https://open.spotify.com/track/3lG95fkYa4vlzqDVP9nC7T) | [Theo Diepenbrock](https://open.spotify.com/artist/7INz03Eq6ZwllxktYTzdHO) | [Oh Darling](https://open.spotify.com/album/7oUIOYCWBKgEk27hFpCCWX) | 3:21 |
+| 33 | [Oh Darling](https://open.spotify.com/track/3lG95fkYa4vlzqDVP9nC7T) | [Theo Diepenbrock](https://open.spotify.com/artist/7INz03Eq6ZwllxktYTzdHO) | [Oh Darling](https://open.spotify.com/album/7oUIOYCWBKgEk27hFpCCWX) | 3:21 |
+| 34 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
 | 35 | [De Tamme Boerenzoon](https://open.spotify.com/track/0QdHoKxsUspo3PRFB5jXLg) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [De Tamme Boerenzoon](https://open.spotify.com/album/2Fl945IbiGs1Ac6iBNV0mA) | 4:41 |
 | 36 | [Blauwe Korenbloemen](https://open.spotify.com/track/5N8apD8l7pOOLdJKg6FJ13) | [Zusjes De Roo](https://open.spotify.com/artist/5zzTSqOoDI9d7JQFplIgNk) | [Blauwe Korenbloemen](https://open.spotify.com/album/0XEmzOcucnMpOtdyo8GIxS) | 3:09 |
 | 37 | [Meisjes Met Rode Haren](https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ) | [Arne Jansen](https://open.spotify.com/artist/0JvAQH3pfJAvEL8cAd6TSe) | [Zijn Allergrootste Hits](https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL) | 5:35 |

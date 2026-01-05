@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,718 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,742 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 13 | [Navegue No Seu Próprio Rio](https://open.spotify.com/track/5uS0ZbPUzCy9B16pWUF5T3) | [Allê Barbosa](https://open.spotify.com/artist/2FRgntiTtDuOhfwh7Rw1wq) | [Navegue No Seu Próprio Rio](https://open.spotify.com/album/5igA3zBsqyH0qwQHr5KNhf) | 2:48 |
 | 14 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
 | 15 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
-| 16 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
+| 16 | [Cigana](https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Suricateando](https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx) | 2:42 |
 | 17 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:24 |
-| 18 | [Cigana](https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Suricateando](https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx) | 2:42 |
+| 18 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 19 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 |
 | 20 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 21 | [Lugar Ao Sol](https://open.spotify.com/track/3EY2I6zWuJjZai4G7Bcmzx) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Lugar Ao Sol](https://open.spotify.com/album/3wa8aaRNTsOnZpzCtWoYzg) | 3:07 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 44 | [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 |
 | 45 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |
 | 46 | [Ímpar](https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:30 |
-| 47 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
-| 48 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 47 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 48 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 49 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
 | 50 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
 | 51 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [GEORGIA](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 57 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
 | 58 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 59 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 |
-| 60 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
+| 60 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
 
 Snapshot ID: `AAAAAFl8ATDUn6QsyDODe1PrbAVKnxoL`

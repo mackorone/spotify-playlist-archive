@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,412 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,425 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 24 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 |
 | 25 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 26 | [\(What A\) Wonderful World \- Mono](https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:08 |
-| 27 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
-| 28 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
+| 27 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
+| 28 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 29 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
 | 30 | [Put Your Head On My Shoulder](https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:34 |
 | 31 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:40 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 76 | [The Life I Live](https://open.spotify.com/track/3IhHkd0OPXZc6hNLD4N8Ao) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/6b00wZnLXMXTvjh2zdaNVg) | 3:19 |
 | 77 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 78 | [B\-A\-B\-Y \(From "Baby Driver"\)](https://open.spotify.com/track/3t7VYEzgcTDWXpEmHQAOVs) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [B\-A\-B\-Y](https://open.spotify.com/album/2EVSSXijDa2zw8m4mJbpyJ) | 2:53 |
-| 79 | [Sweet Soul Music](https://open.spotify.com/track/4iV9451W6WrY0kJYgKZua6) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:21 |
-| 80 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
+| 79 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
+| 80 | [Sweet Soul Music](https://open.spotify.com/track/4iV9451W6WrY0kJYgKZua6) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:21 |
 | 81 | [Dear Ann](https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Little Green Bag](https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj) | 3:02 |
 | 82 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
 | 83 | [I'm A Believer](https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |

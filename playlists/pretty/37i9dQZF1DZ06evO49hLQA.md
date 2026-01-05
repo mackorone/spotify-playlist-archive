@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,217,261 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,217,336 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 30 | [War Machine](https://open.spotify.com/track/5YnNWHKCJaJKwbagXDb5Uf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:10 |
 | 31 | [High Voltage](https://open.spotify.com/track/5pLgH1bCkBV3bbmvm0qvom) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 4:04 |
 | 32 | [Big Gun](https://open.spotify.com/track/7zjzu90Q4mtNNaE9Ol9Zbv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Backtracks](https://open.spotify.com/album/0I7FkYrckzJtK1ND8vzqoO) | 4:23 |
-| 33 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
-| 34 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
+| 33 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
+| 34 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
 | 35 | [Live Wire](https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:50 |
 | 36 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 |
 | 37 | [Fire Your Guns](https://open.spotify.com/track/0cLvKgKkqlaJ9UajbitH4l) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 50 | [The Razors Edge](https://open.spotify.com/track/4ObCns6nM6tShx5a5tHiGC) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:22 |
 
-Snapshot ID: `aVcKgAAAAADiU7BdFKOLPHCSeoRSdQIs`
+Snapshot ID: `aVhcAAAAAACA/+FN4fKVbeUsiizGQ8Hv`

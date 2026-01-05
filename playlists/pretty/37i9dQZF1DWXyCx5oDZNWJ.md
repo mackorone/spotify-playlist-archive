@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,904 likes - 40 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,910 likes - 40 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

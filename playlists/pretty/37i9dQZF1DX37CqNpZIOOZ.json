@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26971,
+  "num_followers": 26984,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -415,30 +415,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
-        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1735253,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Capriccio - Works for Violin and Piano [Digital version]",
         "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 217973,
       "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
       "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
+        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1735253,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -811,50 +811,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss: Elektra",
-        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Ekaterina Popova",
-          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
-        },
-        {
-          "name": "Olga Legkova",
-          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
-        },
-        {
-          "name": "Ekaterina Sergeeva",
-          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
-        },
-        {
-          "name": "Tatiana Kravtsova",
-          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Lia Shevtsova",
-          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
-        }
-      ],
-      "duration_ms": 369720,
-      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
-      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
       },
@@ -931,6 +887,50 @@
       "duration_ms": 314533,
       "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss: Elektra",
+        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Ekaterina Popova",
+          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
+        },
+        {
+          "name": "Olga Legkova",
+          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
+        },
+        {
+          "name": "Ekaterina Sergeeva",
+          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
+        },
+        {
+          "name": "Tatiana Kravtsova",
+          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Lia Shevtsova",
+          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
+        }
+      ],
+      "duration_ms": 369720,
+      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
+      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Reger & Strauss: Cello Sonatas",
-        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Emmanuelle Bertrand",
-          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
-        },
-        {
-          "name": "Pascal Amoyel",
-          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
-        }
-      ],
-      "duration_ms": 558666,
-      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Oboe Concerto",
         "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 509000,
       "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Reger & Strauss: Cello Sonatas",
+        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Emmanuelle Bertrand",
+          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
+        },
+        {
+          "name": "Pascal Amoyel",
+          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
+        }
+      ],
+      "duration_ms": 558666,
+      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
     },
     {
       "added_at": "2025-12-15 11:35:26",

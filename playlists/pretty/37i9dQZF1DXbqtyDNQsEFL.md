@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,659 likes - 80 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,421 likes - 80 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 47 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 48 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
 | 49 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 |
-| 50 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
-| 51 | [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 |
+| 50 | [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 |
+| 51 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 52 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 53 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
 | 54 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
-  "num_followers": 190393,
+  "num_followers": 190434,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -227,50 +227,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "El Cantar de los Anzuelos",
-        "url": "https://open.spotify.com/album/6EC7bqC3eLObVq1trOes4B"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 232183,
-      "name": "El Cantar de los Anzuelos",
-      "url": "https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE"
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -291,6 +259,38 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
+        "name": "El Cantar de los Anzuelos",
+        "url": "https://open.spotify.com/album/6EC7bqC3eLObVq1trOes4B"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 232183,
+      "name": "El Cantar de los Anzuelos",
+      "url": "https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
         "name": "yo tambi\u00e9n les tengo miedo",
         "url": "https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN"
       },
@@ -303,54 +303,6 @@
       "duration_ms": 168810,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nunca quise",
-      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/5XMXCxDFyyyxNObfCVLoQk"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Dejame",
-      "url": "https://open.spotify.com/track/027osVoX5klptuTXFAe6gT"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -371,6 +323,54 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/5XMXCxDFyyyxNObfCVLoQk"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Dejame",
+      "url": "https://open.spotify.com/track/027osVoX5klptuTXFAe6gT"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -383,38 +383,6 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
-        "name": "CABLE A TIERRA",
-        "url": "https://open.spotify.com/album/0AHJyoZLe9xYX5aVVTh55k"
-      },
-      "artists": [
-        {
-          "name": "ZAL0",
-          "url": "https://open.spotify.com/artist/12fmYYQxS5zRxHtbEieSQU"
-        }
-      ],
-      "duration_ms": 163486,
-      "name": "CABLE A TIERRA",
-      "url": "https://open.spotify.com/track/1t7qr6rWyWL6YT9Ex7kjDo"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -435,18 +403,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "CABLE A TIERRA",
+        "url": "https://open.spotify.com/album/0AHJyoZLe9xYX5aVVTh55k"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "ZAL0",
+          "url": "https://open.spotify.com/artist/12fmYYQxS5zRxHtbEieSQU"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 163486,
+      "name": "CABLE A TIERRA",
+      "url": "https://open.spotify.com/track/1t7qr6rWyWL6YT9Ex7kjDo"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -463,6 +431,38 @@
       "duration_ms": 160866,
       "name": "Seguir Viviendo Sin Tu Amor",
       "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -595,6 +579,38 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -631,22 +647,6 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Habla Tu Espejo",
-        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 259839,
-      "name": "No llora",
-      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
         "name": "Rocanroles Sin Destino",
         "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 210013,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "Habla Tu Espejo",
+        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 259839,
+      "name": "No llora",
+      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
-    },
-    {
-      "added_at": "2025-12-19 12:08:42",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-12-19 12:08:42",
       "album": {
-        "name": "El Club de la Pelea I",
-        "url": "https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 229503,
-      "name": "Irme Lejos",
-      "url": "https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO"
+      "duration_ms": 209893,
+      "name": "Mi Caramelo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
     },
     {
       "added_at": "2025-12-19 12:08:42",
@@ -1195,6 +1179,22 @@
       "duration_ms": 269053,
       "name": "Rezo por Vos",
       "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
+    },
+    {
+      "added_at": "2025-12-19 12:08:42",
+      "album": {
+        "name": "El Club de la Pelea I",
+        "url": "https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 229503,
+      "name": "Irme Lejos",
+      "url": "https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO"
     },
     {
       "added_at": "2025-12-19 12:08:42",

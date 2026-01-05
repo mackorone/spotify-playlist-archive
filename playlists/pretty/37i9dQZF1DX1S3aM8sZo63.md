@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. La Arrolladora Banda El Limón De Rene Camacho en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,800 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,900 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 97 | [Sentimental](https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Sentimental](https://open.spotify.com/album/7EWCw5uwGEqLN1SbaGusS4) | 2:14 |
 | 98 | [Solo Los Tontos](https://open.spotify.com/track/0HCppG6072QTQxh7J292CI) | [El Chalinillo](https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL) | [Solo Los Tontos](https://open.spotify.com/album/7Eip7DBiKbFr3PStlIheec) | 3:01 |
 | 99 | [Suerte he tenido](https://open.spotify.com/track/6Q4l5N6g4FSix6jVTknNae) | [Grupo Balsas Musical](https://open.spotify.com/artist/18N3Pj4QasQ3lPqs0eOi8H) | [Suerte he tenido](https://open.spotify.com/album/3V4vRCobjhjYjpwCPdPtTg) | 3:29 |
-| 100 | [Como La Palma De Mi Mano](https://open.spotify.com/track/17R3mRqGjQs8nc5aptk2Ri) | [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh) | [Como La Palma De Mi Mano](https://open.spotify.com/album/6DTorNIDYu5LqKXwefIUoZ) | 3:26 |
-| 101 | [RINCONCITO EN EL CIELO](https://open.spotify.com/track/2aFdS8mu5BARgkwHilLpw7) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [SIGO SIENDO ORIGINAL](https://open.spotify.com/album/06h5kvydYpAcAu7SEGdqsV) | 3:21 |
+| 100 | [RINCONCITO EN EL CIELO](https://open.spotify.com/track/2aFdS8mu5BARgkwHilLpw7) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [SIGO SIENDO ORIGINAL](https://open.spotify.com/album/06h5kvydYpAcAu7SEGdqsV) | 3:21 |
+| 101 | [Como La Palma De Mi Mano](https://open.spotify.com/track/17R3mRqGjQs8nc5aptk2Ri) | [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh) | [Como La Palma De Mi Mano](https://open.spotify.com/album/6DTorNIDYu5LqKXwefIUoZ) | 3:26 |
 | 102 | [Cuídala](https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Antes y Ahora \(35 Aniversario\)](https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L) | 3:17 |
 | 103 | [Nadie Como Tú](https://open.spotify.com/track/4rLtVsNQOzEgJkjeTU2Nda) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Nadie Como Tú](https://open.spotify.com/album/1E96ajg4gmUDbxbYGR6pBW) | 3:17 |
 | 104 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
@@ -127,10 +127,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 117 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 |
 | 118 | [Mas Alla Del Sol](https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:43 |
 | 119 | [En Peligro de Extinción](https://open.spotify.com/track/1Utd9DbmWNHWjEuzItBmRX) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 3:54 |
-| 120 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 120 | [Una Noche Mas Contigo](https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp) | 4:10 |
 | 121 | [Tu Me Gustas](https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Seis](https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K) | 2:45 |
-| 122 | [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 |
-| 123 | [Una Noche Mas Contigo](https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp) | 4:10 |
+| 122 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 123 | [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 |
 | 124 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
 | 125 | [Escondidos](https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 3:11 |
 

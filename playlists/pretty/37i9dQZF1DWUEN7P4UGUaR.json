@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16281,
+  "num_followers": 16296,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -383,8 +383,8 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
     },
     {
       "added_at": "2025-12-12 00:01:30",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-12-12 00:01:30",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2025-12-12 00:01:30",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 163628,
       "name": "DND",
       "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
+    },
+    {
+      "added_at": "2025-12-12 00:01:30",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     }
   ],
   "unique_name": "Aseda",

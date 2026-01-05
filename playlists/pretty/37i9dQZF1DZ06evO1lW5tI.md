@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,301 likes - 48 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,349 likes - 48 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 47 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
 | 48 | [Cómo Te Quiero](https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:02 |
 
-Snapshot ID: `aVcKgAAAAAC64mRi4iOK1sqk+Sav2aCv`
+Snapshot ID: `aVhcAAAAAACBW/DB6eqheNBE5oqtX3dH`

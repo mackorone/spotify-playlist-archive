@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,448 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,405 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 36 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
 | 37 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
 | 38 | [Fly](https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
-| 39 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 |
-| 40 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
+| 39 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
+| 40 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 |
 | 41 | [Take It To The Head](https://open.spotify.com/track/2lD4LsB3iQVnddkVM2RFAl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kiss The Ring \(Deluxe\)](https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr) | 4:27 |
 | 42 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 43 | [The Way Life Goes \(feat\. Nicki Minaj & Oh Wonder\) \- Remix](https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Way Life Goes \(feat\. Nicki Minaj & Oh Wonder\) \[Remix\]](https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI) | 3:50 |
 | 50 | [Bed \(feat\. Ariana Grande\)](https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:09 |
 
-Snapshot ID: `aVcKgAAAAAAsGBOMg0gI99zFczZAjJCw`
+Snapshot ID: `aVhcAAAAAACmcVr2mJ1iAzYpQWlrQGet`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,896 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,971 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 4 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 5 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
 | 6 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
-| 7 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
+| 7 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 8 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 9 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
-| 10 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
+| 10 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
 | 11 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 12 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 13 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 97 | [When the Smoke Is Going Down \- MTV Unplugged](https://open.spotify.com/track/4H8pOSgzSBkoZmjgZ0fOlf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 3:45 |
 | 98 | [Love Is A Killer](https://open.spotify.com/track/2ZMO4x1D3aeXP1ISozKOnU) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Rev It Up!](https://open.spotify.com/album/3ojiLMvJpANQKvzSO7Jhuj) | 4:43 |
 | 99 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
-| 100 | [When I Find Love](https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [Hungry](https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1) | 4:17 |
+| 100 | [Don't Close Your Eyes](https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Don't Close Your Eyes](https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA) | 4:12 |
 
 Snapshot ID: `AAAAAHgoheJLVR4LUcqXpdLfmTWD+rB5`

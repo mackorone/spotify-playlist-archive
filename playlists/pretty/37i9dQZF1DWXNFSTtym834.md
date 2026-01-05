@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,817 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,915 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 21 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
 | 22 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
 | 23 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 |
-| 24 | [Y'all Want a Single](https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:17 |
-| 25 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
-| 26 | [I Don't Wanna Stop](https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 3:59 |
+| 24 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
+| 25 | [Y'all Want a Single](https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:17 |
+| 26 | [Break](https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 3:13 |
 | 27 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
-| 28 | [Break](https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 3:13 |
+| 28 | [I Don't Wanna Stop](https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 3:59 |
 | 29 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 |
 | 30 | [Amerika](https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:46 |
 | 31 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 50 | [Right Now](https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:09 |
 | 51 | [Hand Of Blood](https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 3:36 |
 | 52 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 53 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
-| 54 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
+| 53 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
+| 54 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
 | 55 | [Here To Stay](https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ) | 4:30 |
 | 56 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 |
 | 57 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
-| 58 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 59 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
+| 58 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
+| 59 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
 | 60 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 61 | [The art of dying](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 9:54 |
 | 62 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 76 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
 | 77 | [The Pursuit of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
 | 78 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
-| 79 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
-| 80 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
+| 79 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
+| 80 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 81 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 82 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 | 83 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,716 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,764 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 46 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 47 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:09 |
 | 48 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
-| 49 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
-| 50 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
+| 49 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
+| 50 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 51 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 52 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 53 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 |

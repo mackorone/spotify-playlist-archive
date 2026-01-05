@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,337 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,341 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 29 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
 | 30 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 | 31 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
-| 32 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
+| 32 | [This Is All Now](https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 4:03 |
 | 33 | [New Again](https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:33 |
 | 34 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
-| 35 | [This Is All Now](https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 4:03 |
+| 35 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
 | 36 | [Stood A Chance](https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:39 |
 | 37 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 |
 | 38 | [Lightbringer](https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Call Come Running](https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:12 |
 | 50 | [Cut Me Up Jenny](https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:52 |
 
-Snapshot ID: `aVcKgAAAAADL9X94Yo/H5uLE8yOJ80cD`
+Snapshot ID: `aVhcAAAAAACKre7aWSlYTxM7NlHLjo2c`

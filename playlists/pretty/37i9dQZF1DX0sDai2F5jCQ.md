@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,019 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,987 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

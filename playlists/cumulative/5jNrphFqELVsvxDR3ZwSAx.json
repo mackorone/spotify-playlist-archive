@@ -2385,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Cowboys And Dreamers",
+        "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "Honky Tonk Hall Of Fame",
+      "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
+    },
+    {
+      "album": {
         "name": "A Taste Of India",
         "url": "https://open.spotify.com/album/0THEx7xURkd3lbSjtWTDdP"
       },

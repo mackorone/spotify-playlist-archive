@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Kirk Franklin Presents: Songs For The Storm, Volume 1",
+        "url": "https://open.spotify.com/album/6ZU8KFm0WRJw1vfwepNRdO"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286960,
+      "name": "Melodies From Heaven - With Kirk Franklin Outro",
+      "url": "https://open.spotify.com/track/0lidygcxcvRwlgMslWMCVs"
+    },
+    {
+      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 336773,
       "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
       "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"

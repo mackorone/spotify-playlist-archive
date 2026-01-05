@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > crashing out for the 15th time this week entering a flow state
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,112 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,319 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 2 | [SPIDERS](https://open.spotify.com/track/5mb9fbIUMvKroqaBhHIWLk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/3WWlaZfbZEgAgAkKIdQ4Sd) | 4:27 |
-| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 4 | [Scorsese Baby Daddy](https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:33 |
 | 5 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 6 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 68 | [Thru Your Phone](https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:08 |
 | 69 | [Some Protector](https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:37 |
 | 70 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/6KI1ZpZWYAJLvmVhCJz65G) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [FMA](https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja) | 3:21 |
-| 71 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
-| 72 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 71 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 72 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 73 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:05 |
 | 74 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
-| 75 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 75 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 
 Snapshot ID: `AAAAAMoDm5n+lJr0QSaZpBjMXegHHvZ1`

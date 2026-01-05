@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iDTU5OeufK.md) - [plain]
 
 > Muy a mi nivel 💋✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,962 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,990 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iDTU5OeufK.md) - [plain]
 | 21 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 22 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
 | 23 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
-| 24 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 |
-| 25 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
+| 24 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
+| 25 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 |
 | 26 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
 | 27 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 28 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |

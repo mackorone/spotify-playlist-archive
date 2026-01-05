@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABBvXLR8XgUd8ESau/Gqses",
+  "snapshot_id": "aVhcAAAAAABy/3YoAg9jAsNDVZHgaQzc",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando En Ti",
-        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
       "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 224200,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/4RxtmDANkY6wEO9GUCZfzN"
+      "duration_ms": 178920,
+      "name": "Separarnos",
+      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
     },
     {
       "added_at": null,
@@ -211,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+        "name": "Siempre Pensando En Ti",
+        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
       },
       "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Separarnos",
-      "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
+      "duration_ms": 224200,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/4RxtmDANkY6wEO9GUCZfzN"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Montame",
-        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Perd\u00f3name - Cumbia",
-      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Las Vegas",
         "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 400385,
       "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Montame",
+        "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Perd\u00f3name - Cumbia",
+      "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
+      "duration_ms": 189933,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Pensando En Ti",
+        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -687,34 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando En Ti",
-        "url": "https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5"
+        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
+        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
+        },
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y"
+      "duration_ms": 218886,
+      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
+      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
-        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
-      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+      "duration_ms": 215266,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

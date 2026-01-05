@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,676 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,685 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 22 | [Skin](https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 3:14 |
 | 23 | [Comin' Through](https://open.spotify.com/track/7pOrN8TYTjTzDZYQMShjXl) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Future Weather](https://open.spotify.com/album/1sG9LABomGMUH0w56LfNV0) | 3:21 |
 | 24 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
-| 25 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
-| 26 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
+| 25 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
+| 26 | [Letting Go](https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 3:30 |
 | 27 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 28 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 29 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 65 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 66 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
 | 67 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
-| 68 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
-| 69 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 |
+| 68 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 |
+| 69 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 70 | [Clean Heart](https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 3:52 |
 | 71 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
 | 72 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 73 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
-| 74 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
+| 73 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
+| 74 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
 | 75 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 76 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
 | 77 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
-| 78 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
-| 79 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
-| 80 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
+| 78 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
+| 79 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
+| 80 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
 
 Snapshot ID: `AAAAAMIr8oQFzA+ItUyLgvNRTHxg3xO2`

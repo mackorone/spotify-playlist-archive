@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,933 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,954 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 35 | [UN WOODCITO](https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:55 |
 | 36 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
 | 37 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
-| 38 | [EL QUE LA MUEVE](https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:27 |
-| 39 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 38 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
+| 39 | [EL QUE LA MUEVE](https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:27 |
 | 40 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 |
 | 41 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
 | 42 | [Seguimos Dando Lata](https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 |
 | 50 | [LOS ESPAÑOLES](https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:39 |
 
-Snapshot ID: `aVcKgAAAAAD4bNmQBBhZER+UhFnukH7W`
+Snapshot ID: `aVhcAAAAAAA/AP3RL/CdugFjA7+YBaj8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 193888,
+  "num_followers": 193893,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACWhkOHa+eO4dmXR51F8Gnf",
+  "snapshot_id": "aVhcAAAAAACwalrwWqfLWe6noUq52L4m",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 133885,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 153360,
       "name": "Route 66 (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 133885,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "Already Best Friends (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
         "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 236665,
       "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
       "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 241848,
+      "name": "Blame On Me",
+      "url": "https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 168906,
       "name": "Way Out (feat. Big Sean)",
       "url": "https://open.spotify.com/track/57VeLYXrvNxe8Vs18K2M9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 241848,
-      "name": "Blame On Me",
-      "url": "https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 177190,
       "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
       "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Keep It Light",
-      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Keep It Light",
+      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
     },
     {
       "added_at": null,

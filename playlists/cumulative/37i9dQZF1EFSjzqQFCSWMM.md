@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 5 hr 45 min
+122 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 | 2023-12-14 | 2024-02-02 |
 | [Foto \(feat\. Gemitaiz & MadMan\)](https://open.spotify.com/track/2cFyGMKscEgtlS6gqqBxAR) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 4:15 | 2023-12-13 |  |
 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 | 2024-01-11 |  |
+| [GG \- Hi Mix](https://open.spotify.com/track/6Dh2uEdrmVb2GJOhfnIIXi) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn) | 2:13 | 2026-01-04 |  |
 | [Go Dumb \(feat\. H.E.R.\)](https://open.spotify.com/track/18sGGoM0OlrZNyMqVFIqP7) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:24 | 2023-12-13 |  |
 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 | 2023-12-13 |  |
 | [God Sent](https://open.spotify.com/track/0MyOenr6UKkwTFlBvO5dQz) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 0:54 | 2023-12-13 |  |

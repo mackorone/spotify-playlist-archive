@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,701 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,704 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 51 | [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 |
 | 52 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 53 | [where everything flows](https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [where everything flows](https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP) | 2:48 |
-| 54 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
-| 55 | [Experience \- Solo Piano](https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered Vol.2](https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG) | 5:06 |
+| 54 | [Experience \- Solo Piano](https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered Vol.2](https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG) | 5:06 |
+| 55 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 | 56 | [fallen leaves](https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [fallen leaves](https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW) | 2:31 |
 | 57 | [雪解けの朝](https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq) | [荒井桃子](https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr) | [雪解けの朝](https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp) | 3:42 |
 | 58 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 77 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 |
 | 78 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 79 | [Recueil de chants, Op\. 65: No\. 6, Barcarolle](https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [WAVES: Music by Rameau, Ravel, Alkan](https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz) | 3:36 |
-| 80 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
+| 80 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 | 81 | [はひふへほ](https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はひふへほ](https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu) | 3:12 |
-| 82 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
+| 82 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
 | 83 | [nowhere \(2023 Remastered\)](https://open.spotify.com/track/0k23cl8qC2XyZXc1HpSmBS) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Nightfall \(2023 Remastered\)](https://open.spotify.com/album/7Dkecjt0UmfZFFSS6VGr1m) | 4:01 |
 | 84 | [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 |
 | 85 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |

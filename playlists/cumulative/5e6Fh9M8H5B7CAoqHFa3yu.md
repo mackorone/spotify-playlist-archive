@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,709 songs - 4 day 7 hr 32 min
+1,712 songs - 4 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Arabian Trip](https://open.spotify.com/track/18aomlRrdOJ964sOImmjEs) | [Andrea Braido](https://open.spotify.com/artist/365VUn5kWBvcGvGafj0CRZ) | [Tales](https://open.spotify.com/album/2VgiyEYRTMJkjWVkRUNiUG) | 4:44 | 2024-04-20 |  |
 | [Art Deco Bullet](https://open.spotify.com/track/5342WwQ7HSCwVK9UvrDQjN) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Art Deco Bullet](https://open.spotify.com/album/26btOM9uyz0yxGImcstoBO) | 3:32 | 2025-08-08 |  |
 | [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 | 2025-11-28 |  |
+| [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-12-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
@@ -787,6 +788,7 @@
 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-05-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/4OFDrbVd4DghiROQDaUOEo) | [Shaunie Littlehawk](https://open.spotify.com/artist/57gkrsc5LCKSx5HhayMdRS) | [Just the Way You Are](https://open.spotify.com/album/5R6L1PsDpq7aQyjCjSIiDl) | 3:36 | 2025-08-27 |  |
+| [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 | 2026-01-04 |  |
 | [Kann es sein](https://open.spotify.com/track/2qalkc1bt00V1tJQEqPIqr) | [Sophie Elora](https://open.spotify.com/artist/0Usozu4rpNTwvf5hmNZjEH) | [Kann es sein](https://open.spotify.com/album/2Z7cggJZERFnOp1h9alMH3) | 4:37 | 2025-06-11 |  |
 | [Karawatha Dub](https://open.spotify.com/track/7q5l5XCAltmsaUjlayCJ8f) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:12 | 2024-03-23 |  |
 | [Kartikeya](https://open.spotify.com/track/5YYW72AsAgFwpdxBEIUQdC) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:49 | 2024-03-25 |  |
@@ -1618,6 +1620,7 @@
 | [Warning \- Micronomade Remix](https://open.spotify.com/track/3Yk03gaR9TkTFxS2XOMmZD) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Micronomade](https://open.spotify.com/artist/0pSqI0rE5UF7zviRWrkmAf) | [Warning \(Micronomade Remix\)](https://open.spotify.com/album/4OpItgA73V6NBArSqCcJgM) | 4:14 | 2025-01-24 |  |
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |
 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 | 2025-12-30 |  |
+| [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 | 2026-01-04 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |
 | [We Rize](https://open.spotify.com/track/0UbGz7ghXaSO0eg4qmr30V) | [Caspa Clark](https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [We Rize](https://open.spotify.com/album/0LsxEYjEh8BWZdjNOi0rPk) | 3:59 | 2025-10-07 |  |
 | [Weed With Dub Love](https://open.spotify.com/track/0KXm5JRyIfoWM38BS20acy) | [Eter Dub](https://open.spotify.com/artist/0jJUaAYWFTgU3u2rJ2hemD) | [Eternally Wise](https://open.spotify.com/album/55JXe3ycpfulvzRPxaWxM9) | 4:32 | 2024-05-01 |  |

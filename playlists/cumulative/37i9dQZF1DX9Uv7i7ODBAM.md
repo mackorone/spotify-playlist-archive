@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-166 songs - 9 hr 35 min
+167 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/0hBePBf2fdBee6w85kwYvU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:28 | 2025-10-21 |  |
 | [C.H.E.E.R](https://open.spotify.com/track/1INJywlOiasLDzrYeGw8Kh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CCチアリーダーズ](https://open.spotify.com/artist/0PtynPDi6xGA1p3H2N0tLM) | [C.H.E.E.R](https://open.spotify.com/album/6xdzWqFCYDoRfedbjTrnLG) | 1:19 | 2025-05-27 |  |
 | [Cassie](https://open.spotify.com/track/4E8vaLzUNdpZJopd0Nxyzt) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 2:49 | 2024-07-07 |  |
+| [CATCH!!!](https://open.spotify.com/track/6EnaMPmxQwv0Hy3sbv6yaw) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [CATCH!!!](https://open.spotify.com/album/35CagDuUQABqYxk4hghz5a) | 3:33 | 2026-01-05 |  |
 | [Chris takes the world by storm](https://open.spotify.com/track/30sI2fCouCG9RMnDicqpqj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC鳴羽田漢気応援団](https://open.spotify.com/artist/1j2RJIb2DyBKbssxMjyqUl) | [Chris takes the world by storm](https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr) | 1:25 | 2025-05-27 |  |
 | [Coast to Coast](https://open.spotify.com/track/57glf24AnERvt2SqXeLaSH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Nicholas Aquilino](https://open.spotify.com/artist/19W88XiqODfaExksbWpU86), [Shayne Holland](https://open.spotify.com/artist/31boEXN1loQ6XgSoCiiGa4) | [Coast to Coast](https://open.spotify.com/album/4QYGe28cbzf7IgQb8wDBmB) | 1:37 | 2025-05-27 |  |
 | [Dabi Dance](https://open.spotify.com/track/1R565ZgWul3hkL4OQ6mE05) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:48 | 2023-03-14 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,221 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,213 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 4 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 5 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 6 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
-| 7 | [YMCA](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Can't Stop the Music \(Original Soundtrack 1980\)](https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS) | 3:22 |
-| 8 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
+| 7 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
+| 8 | [YMCA](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Can't Stop the Music \(Original Soundtrack 1980\)](https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS) | 3:22 |
 | 9 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 10 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 11 | [It's Raining Men](https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Success](https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt) | 5:25 |

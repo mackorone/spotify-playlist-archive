@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,178 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,200 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 6 | [Cemetery Gates](https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 7:02 |
 | 7 | [10's](https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:49 |
 | 8 | [A New Level \- 2012 Remaster](https://open.spotify.com/track/0tw2Cs19cFS98t1VzLD7tJ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power \(Expanded\)](https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN) | 3:57 |
-| 9 | [Mouth for War](https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
+| 9 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
 | 10 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 |
 | 11 | [5 Minutes Alone](https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:47 |
 | 12 | [Drag the Waters](https://open.spotify.com/track/5t8sFMJ2aQaHqLnrAd4Q40) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:55 |
-| 13 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
+| 13 | [Mouth for War](https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
 | 14 | [Primal Concrete Sledge](https://open.spotify.com/track/6lJJcUjhsp0TJRuzUIPOYO) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 2:13 |
 | 15 | [Becoming](https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:05 |
 | 16 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 | 40 | [Uplift](https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:45 |
 
-Snapshot ID: `aVcKgAAAAAA8kHh55iYhH+ocuXQRL3f/`
+Snapshot ID: `aVhcAAAAAAASSDCLjAujjtYw2CNOYNoT`

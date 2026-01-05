@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
@@ -4784,6 +4784,24 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -11696,7 +11714,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 195259,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
@@ -19740,7 +19758,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 265967,
       "name": "\u5012\u5e36",
       "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
@@ -23436,7 +23454,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 202913,
       "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
       "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
@@ -25988,6 +26006,24 @@
       "duration_ms": 302061,
       "name": "\u7d42\u9ede\u8d77\u9ede",
       "url": "https://open.spotify.com/track/2rmsL9k7LneLszZFBo1H6f"
+    },
+    {
+      "album": {
+        "name": "\u5bc2\u5bde\u4e0d\u75db",
+        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285546,
+      "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
     },
     {
       "album": {

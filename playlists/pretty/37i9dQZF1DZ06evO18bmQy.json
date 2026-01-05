@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 210193,
+  "num_followers": 210198,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACZC6jXDN5NmQpjC79QeX9g",
+  "snapshot_id": "aVhcAAAAAABbmWhPE3R0xjcdAXDQN5pF",
   "tracks": [
     {
       "added_at": null,
@@ -179,30 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/55PVUPowz0KPaCu2KXMPAN"
-        }
-      ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 229077,
       "name": "TIPO",
       "url": "https://open.spotify.com/track/6MrnySNH4BqzI8iioFCdp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/55PVUPowz0KPaCu2KXMPAN"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc"
     },
     {
       "added_at": null,

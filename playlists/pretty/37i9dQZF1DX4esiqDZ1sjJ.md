@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,438 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,444 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 21 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 | 22 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:35 |
 | 23 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
-| 24 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
-| 25 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
+| 24 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
+| 25 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 26 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 27 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
 | 28 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 38 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 |
 | 39 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 40 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
-| 41 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
-| 42 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
+| 41 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
+| 42 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
 | 43 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 44 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 45 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |

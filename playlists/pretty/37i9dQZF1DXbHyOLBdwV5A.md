@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,559 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,564 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 10 | [A Casa Sou Eu \- Remix](https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [A Casa Sou Eu](https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ) | 3:45 |
 | 11 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 12 | [Yeshua + Só Quero Ver Você \(feat\. Marcelo Markes\)](https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Marcelo Markes](https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze) | [Yeshua + Só Quero Ver Você](https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O) | 4:18 |
-| 13 | [Você Me Mudou](https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl) | [DJ Matheus Lazaretti](https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Você Me Mudou](https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1) | 3:03 |
-| 14 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
+| 13 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
+| 14 | [Você Me Mudou](https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl) | [DJ Matheus Lazaretti](https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Você Me Mudou](https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1) | 3:03 |
 | 15 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
 | 16 | [A Casa É Sua \- Remix](https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Casa É Sua \(Remix\)](https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc) | 2:41 |
 | 17 | [Praise](https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Praise](https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA) | 2:46 |

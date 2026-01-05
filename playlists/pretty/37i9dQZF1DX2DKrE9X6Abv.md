@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,510 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,551 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 23 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 24 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 25 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 |
-| 26 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
-| 27 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 26 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 27 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 28 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
 | 29 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 30 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 89 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
 | 90 | [Burner](https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Burner](https://open.spotify.com/album/6QEubYvTOj36YYpFRQpSAg) | 3:20 |
 | 91 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 |
-| 92 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 93 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
+| 92 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
+| 93 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 94 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 95 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
 | 96 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 97 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
-| 98 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
-| 99 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
+| 98 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
+| 99 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
 | 100 | [Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 4:07 |
 
 Snapshot ID: `AAAAAIQskU2dt5BrchlNCEdF1XsgHTM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 158 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 158 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 70 | [She Bumped Her Head \(feat\. Gunna\)](https://open.spotify.com/track/21dG6mNMHwkogPh7V5e83A) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 4:00 |
 | 71 | [Pull Up](https://open.spotify.com/track/3wGV5S5a2jkZw3KeH8BtB9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 2:22 |
 | 72 | [Shadows \(with Kehlani\)](https://open.spotify.com/track/2iPnYQRutwTQopudwgkIfm) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:53 |
-| 73 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
-| 74 | [Big Slimes \(feat\. Gunna & Lil Duke\)](https://open.spotify.com/track/4dhZy7EbsbhwIS7C6Ct8mI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 5:26 |
+| 73 | [Big Slimes \(feat\. Gunna & Lil Duke\)](https://open.spotify.com/track/4dhZy7EbsbhwIS7C6Ct8mI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 5:26 |
+| 74 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 75 | [LIGHT AGAIN!](https://open.spotify.com/track/3dIuilnw3QX0KkQNpERaDD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:57 |
 | 76 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 |
 | 77 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 157 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 158 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AcF/hgAAAAAge/VfyUPjrHHfCUfuDTqD`
+Snapshot ID: `AcGFHAAAAADKR8zOYRBReRPUkFTeqJSo`

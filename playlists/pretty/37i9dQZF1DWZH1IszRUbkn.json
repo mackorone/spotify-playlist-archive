@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2071,
+  "num_followers": 2072,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175328,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 177346,
       "name": "Juntos Somos Mas",
       "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175328,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Miss Patylu Vol. 2",
-        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 152198,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 156453,
       "name": "Osito Carpintero",
       "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 152198,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "31 Minutos, Ratoncitos",
-        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
-      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 184231,
       "name": "Garabato Colorado",
       "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "31 Minutos, Ratoncitos",
+        "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
+      "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -935,18 +935,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "31 Minutos",
-        "url": "https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL"
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
       },
       "artists": [
         {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+          "name": "Daniela",
+          "url": "https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82"
+        },
+        {
+          "name": "Los Pollitos",
+          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
         }
       ],
-      "duration_ms": 87866,
-      "name": "Lala - Lolo",
-      "url": "https://open.spotify.com/track/4bK6C3UzOgWrfaK5IC3pOO"
+      "duration_ms": 181840,
+      "name": "Susanita",
+      "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

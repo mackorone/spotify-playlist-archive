@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
-  "num_followers": 347245,
+  "num_followers": 347282,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 144840,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -883,6 +883,22 @@
       "duration_ms": 260680,
       "name": "Carta urgente (feat. Abel Pintos)",
       "url": "https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -915,22 +931,6 @@
       "duration_ms": 206880,
       "name": "Solo Otra Vez - Alone Again",
       "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 278920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
+        "name": "Quererte",
+        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 181825,
+      "name": "Quererte",
+      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/59kNzYG2XC92tcsyQI2gPz"
       },
@@ -1507,54 +1527,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Quererte",
-        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
       "artists": [
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         }
       ],
-      "duration_ms": 181825,
-      "name": "Quererte",
-      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1623,6 +1607,22 @@
       "duration_ms": 131213,
       "name": "Saber",
       "url": "https://open.spotify.com/track/28YJFlHZ7uQJMTG3mud12F"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2025-12-18 23:00:15",

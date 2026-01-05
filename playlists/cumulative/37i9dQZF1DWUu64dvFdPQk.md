@@ -4,12 +4,12 @@
 
 > seamless, soft, soulful.
 
-85 songs - 5 hr 2 min
+86 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 | 2025-03-28 |  |
-| [All the Difference](https://open.spotify.com/track/2KxVEwlxExzVHI2N5GIYZI) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:19 | 2025-03-28 |  |
+| [All the Difference](https://open.spotify.com/track/2KxVEwlxExzVHI2N5GIYZI) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:19 | 2025-03-28 | 2026-01-05 |
 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 | 2025-03-28 |  |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/6pLpm17TjgukQbWU5F6fwo) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Pulsar](https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB) | 5:09 | 2025-03-28 |  |
 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 | 2025-03-28 |  |
@@ -58,6 +58,7 @@
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2025-03-28 |  |
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2025-03-28 |  |
 | [LINE BACK 22](https://open.spotify.com/track/4OViUVBX31BQ47QRMpXiFI) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:31 | 2025-03-28 |  |
+| [Little Me](https://open.spotify.com/track/6VrNYlfKnyVIoijUSlcauh) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Little Me](https://open.spotify.com/album/6i1IKR5YGPHbmFWfVE1dFk) | 3:53 | 2025-03-28 |  |
 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 | 2025-03-28 |  |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2025-03-28 |  |
 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-03-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 219030,
+  "num_followers": 219052,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABUk7qofEPPkAgeC6U4tY6v",
+  "snapshot_id": "aVhcAAAAAAAC6Su9wGBfbShtdCRFCyo2",
   "tracks": [
     {
       "added_at": null,
@@ -279,38 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 355333,
-      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 342066,
       "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 355333,
+      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane Plays the Blues",
-        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 319679,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 462866,
       "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
       "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane Plays the Blues",
+        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 319679,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mating Call [RVG Remaster]",
-        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
-      },
-      "artists": [
-        {
-          "name": "Tadd Dameron",
-          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Soultrane - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 190573,
       "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
       "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mating Call [RVG Remaster]",
+        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
+      },
+      "artists": [
+        {
+          "name": "Tadd Dameron",
+          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Soultrane - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Village Blues",
-      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 437840,
       "name": "A Love Supreme, Pt. II - Resolution",
       "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 337133,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 550760,
       "name": "Moment's Notice - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 350102,
+      "name": "Cousin Mary - Mono",
+      "url": "https://open.spotify.com/track/6I1pxB8X2Fu4HFjo5Bgwor"
     }
   ],
   "unique_name": "This Is John Coltrane",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,230 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,257 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

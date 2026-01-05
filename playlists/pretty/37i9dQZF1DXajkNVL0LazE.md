@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,347 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,393 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 49 | [Girl in the War](https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:23 |
 | 50 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
 | 51 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
-| 52 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
-| 53 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 52 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 53 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 54 | [The Sea and the Rhythm](https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Sea & the Rhythm](https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy) | 5:23 |
 | 55 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 | 56 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |

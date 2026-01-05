@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1048818,
+  "num_followers": 1048735,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -273,6 +273,42 @@
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
+      "added_at": "2025-11-10 13:27:55",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
       "added_at": "2025-08-14 22:00:28",
       "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
@@ -295,42 +331,6 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-11-10 13:27:55",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "MILLION PLACES",
-        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "MILLION PLACES",
-      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -851,8 +835,24 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+        "name": "MILLION PLACES",
+        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "MILLION PLACES",
+      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -939,8 +939,8 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Living My Best Life",
+        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 177273,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Heart By Heart",
         "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Living My Best Life",
-        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 177273,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1495,22 +1511,6 @@
       "duration_ms": 132539,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Mind Reader (with Meghan Trainor)",
-        "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
+        "name": "You You You",
+        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 151810,
-      "name": "Mind Reader (with Meghan Trainor)",
-      "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
+      "duration_ms": 162113,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
     }
   ],
   "unique_name": "Pop Right Now",

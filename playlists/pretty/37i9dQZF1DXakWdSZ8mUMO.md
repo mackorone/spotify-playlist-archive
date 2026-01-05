@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 13 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
 | 14 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 15 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
-| 16 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
-| 17 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
+| 16 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
+| 17 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
 | 18 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:52 |
 | 19 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
 | 20 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 62 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
 | 63 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:53 |
 | 64 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
-| 65 | [Avalanche](https://open.spotify.com/track/4EyPadLFhtWojU7mkT5hqT) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:22 |
-| 66 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
+| 65 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
+| 66 | [Avalanche](https://open.spotify.com/track/4EyPadLFhtWojU7mkT5hqT) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:22 |
 | 67 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 68 | [Psychosocial](https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:43 |
 | 69 | [State of My Head](https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 98834,
+  "num_followers": 98854,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "JWAYE NW\u00c8L",
-        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
       "artists": [
         {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
         }
       ],
-      "duration_ms": 189714,
-      "name": "JWAYE NW\u00c8L",
-      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1543,6 +1547,38 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "JWAYE NW\u00c8L",
+        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
+      },
+      "artists": [
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "JWAYE NW\u00c8L",
+      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1567,58 +1603,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "BIDIBAM",
-        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
       },
       "artists": [
         {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        },
-        {
-          "name": "Dwala",
-          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
         }
       ],
-      "duration_ms": 190143,
-      "name": "BIDIBAM",
-      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1675,6 +1655,26 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "BIDIBAM",
+        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
+      },
+      "artists": [
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Dwala",
+          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
+        }
+      ],
+      "duration_ms": 190143,
+      "name": "BIDIBAM",
+      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
     },
     {
       "added_at": "2025-07-25 04:00:50",

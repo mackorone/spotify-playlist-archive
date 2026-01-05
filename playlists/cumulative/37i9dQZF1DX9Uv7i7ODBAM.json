@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "CATCH!!!",
+        "url": "https://open.spotify.com/album/35CagDuUQABqYxk4hghz5a"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "CATCH!!!",
+      "url": "https://open.spotify.com/track/6EnaMPmxQwv0Hy3sbv6yaw"
+    },
+    {
+      "album": {
         "name": "Chris takes the world by storm",
         "url": "https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr"
       },

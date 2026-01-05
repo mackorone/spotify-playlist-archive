@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,594 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,614 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 36 | [Bad Luck](https://open.spotify.com/track/3OyEgS5Y0rdlnrapTke9sP) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 2:54 |
 | 37 | [Good Morning Heartache](https://open.spotify.com/track/0kXTWwLrFYtQeVXgPQzTiv) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady](https://open.spotify.com/album/7IR2bLGz2TpcpfVZXV8bRs) | 2:09 |
 | 38 | [The Great Pretender](https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:37 |
-| 39 | [Heartbreak Hotel](https://open.spotify.com/track/4m7fiVwLrHrGO93XskiI7y) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0xdSbFfKXXDpZxZ0acD2iB) | 2:07 |
-| 40 | [But Not For Me](https://open.spotify.com/track/5LHoVlDpiHHC5JSmahM0TY) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 3:31 |
+| 39 | [Passing Strangers](https://open.spotify.com/track/0S2QQT8Mi0DhbIn8k2fBWl) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:37 |
+| 40 | [Heartbreak Hotel](https://open.spotify.com/track/4m7fiVwLrHrGO93XskiI7y) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0xdSbFfKXXDpZxZ0acD2iB) | 2:07 |
 | 41 | [Backwater Blues](https://open.spotify.com/track/26uFDxLujO2qtZQrpu7eTt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 3:02 |
 | 42 | [TODAY I SING THE BLUES](https://open.spotify.com/track/6xY3S5g4wqeyE1fItzNBPa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady \(International Version\)](https://open.spotify.com/album/5s2DFcjjTKMiL9HYHij0uH) | 3:20 |
-| 43 | [It's A Lonesome Old Town \- Remastered](https://open.spotify.com/track/3sa51kHJqK5SOVWqKlMxcz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Sings For Only The Lonely \(Remastered\)](https://open.spotify.com/album/3Pwg6fBaMoPmgfNNVJ5y8O) | 4:16 |
-| 44 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 |
-| 45 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
-| 46 | [Silhouettes](https://open.spotify.com/track/5P9EI5iZRctJ0QcarKmraH) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Jukebox One Hit Wonders](https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE) | 2:46 |
-| 47 | [You're Gonna Miss Me](https://open.spotify.com/track/7eWQ44UyyXCWNLdXp9Aqir) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:44 |
-| 48 | [Passing Strangers](https://open.spotify.com/track/0S2QQT8Mi0DhbIn8k2fBWl) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:37 |
+| 43 | [But Not For Me](https://open.spotify.com/track/5LHoVlDpiHHC5JSmahM0TY) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 3:31 |
+| 44 | [It's A Lonesome Old Town \- Remastered](https://open.spotify.com/track/3sa51kHJqK5SOVWqKlMxcz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Sings For Only The Lonely \(Remastered\)](https://open.spotify.com/album/3Pwg6fBaMoPmgfNNVJ5y8O) | 4:16 |
+| 45 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 |
+| 46 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
+| 47 | [Silhouettes](https://open.spotify.com/track/5P9EI5iZRctJ0QcarKmraH) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Jukebox One Hit Wonders](https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE) | 2:46 |
+| 48 | [You're Gonna Miss Me](https://open.spotify.com/track/7eWQ44UyyXCWNLdXp9Aqir) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:44 |
 
 Snapshot ID: `AAAAAOTl58bngFR5UAQRqNv1nzgnu4fe`

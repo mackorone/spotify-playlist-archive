@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 38 min
+98 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 | 2024-01-29 | 2024-03-09 |
 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 | 2024-01-29 |  |
 | [El Chapio](https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:55 | 2024-01-29 |  |
+| [El Chivo Tatemado \(En Vivo\)](https://open.spotify.com/track/0han8uTSYeZDTQmtQyibou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:50 | 2026-01-05 |  |
 | [El De La Aldea](https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:20 | 2024-01-29 | 2025-10-26 |
 | [El Enamorado \(En vivo\)](https://open.spotify.com/track/3JChPn2sVzhbsd5ZCWLFIB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Enamorado \(En vivo\)](https://open.spotify.com/album/0ZdZWuMLUKmWQ6W7I0iYCD) | 2:52 | 2024-01-29 | 2025-04-20 |
 | [El Fugitivo \(En Vivo\)](https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un) | 2:58 | 2024-01-29 |  |
@@ -104,6 +105,6 @@
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2024-01-29 | 2024-04-19 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-04-19 |  |
 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 | 2024-03-28 |  |
-| [¿En Dónde Te Habías Metido?](https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Color Del Amor](https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C) | 4:22 | 2025-10-14 |  |
+| [¿En Dónde Te Habías Metido?](https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Color Del Amor](https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C) | 4:22 | 2025-10-14 | 2026-01-05 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,642 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,632 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 41 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 42 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
 | 43 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
-| 44 | [La Calaca \- Remasterizada 2006](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre" Lo Mejor de Amparo Ochoa \(Remasterizada 2006\)](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
-| 45 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 44 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 45 | [La Calaca \- Remasterizada 2006](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre" Lo Mejor de Amparo Ochoa \(Remasterizada 2006\)](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
 | 46 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
 | 47 | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2) | 3:39 |
 | 48 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 73 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
 | 74 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 75 | [Vengan Abuelitos](https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:11 |
-| 76 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
-| 77 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
+| 76 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
+| 77 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
 | 78 | [Si Te Mueres Mañana](https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Quema Quema Quema](https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh) | 3:52 |
 | 79 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
 | 80 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,758 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,791 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

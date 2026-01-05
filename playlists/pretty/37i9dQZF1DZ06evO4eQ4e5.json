@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85828,
+  "num_followers": 85830,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAB7wbFSDlziDSBlYMRpkopX",
+  "snapshot_id": "aVhcAAAAAAC50nyytuf0ovD75o1OgeGr",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Completamente Blindada",
+      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amante de Lo Ajeno",
         "url": "https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 245920,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Completamente Blindada",
-      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 223045,
-      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
-      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tributo a",
         "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 161960,
       "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 223045,
+      "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
+      "url": "https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Extrav\u00edate",
-      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 229011,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Extrav\u00edate",
+      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Tengo todo excepto a ti",
+      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterna e Inolvidable",
         "url": "https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Tengo todo excepto a ti",
-      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

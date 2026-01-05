@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1040894,
+  "num_followers": 1040851,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
         "name": "HASTA QUE ME ENAMORO",
         "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
       },
@@ -659,42 +675,6 @@
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
-        "name": "capaz (merengueton)",
-        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -735,6 +715,26 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "GuabanSexxx",
-        "url": "https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 161055,
-      "name": "GuabanSexxx",
-      "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
+        "name": "GuabanSexxx",
+        "url": "https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161055,
+      "name": "GuabanSexxx",
+      "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
         "name": "BRONCEADOR",
         "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 188671,
       "name": "el cielo",
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 249884,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
         "name": "La_Playlist.mpeg",
         "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "added_at": "2025-12-12 16:39:14",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-12-12 16:39:14",
       "album": {
-        "name": "PREGUNTAS A LAS 11:11",
-        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "\u00bfTrato Hecho?",
-      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
-    },
-    {
-      "added_at": "2025-12-12 16:39:14",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 156466,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
+    },
+    {
+      "added_at": "2025-12-12 16:39:14",
+      "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     },
     {
       "added_at": "2025-12-12 16:39:14",

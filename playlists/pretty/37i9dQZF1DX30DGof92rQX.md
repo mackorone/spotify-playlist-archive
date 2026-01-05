@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sabat Batin
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,174 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

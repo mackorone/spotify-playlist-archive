@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143855,
+  "num_followers": 143867,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABtZWqkUABv7aXbF+sojEj/",
+  "snapshot_id": "aVhcAAAAAABdEDQ54zsDsu0yJAWImWZx",
   "tracks": [
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Que viva el rocanrol - En vivo",
-      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -595,6 +563,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 224906,
       "name": "Sara",
       "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "Mi chava no me comprende",
-      "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 239360,
       "name": "L\u00e1grimas en la lluvia",
       "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "Mi chava no me comprende",
+      "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 246960,
       "name": "Caseta de cobro",
       "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Chilangolandia",
+      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 209578,
       "name": "Chavo De Onda",
       "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "40 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "Chilangolandia",
-      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
     },
     {
       "added_at": null,

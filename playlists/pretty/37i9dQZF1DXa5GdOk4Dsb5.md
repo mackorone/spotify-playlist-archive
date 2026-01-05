@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella\. Jessi Uribe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,702 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,810 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 70 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 |
 | 71 | [Te Quedaste Casi A Nada \(En Vivo\)](https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Yakifest Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD) | 2:25 |
 | 72 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 |
-| 73 | [Los Chismes](https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Los Chismes](https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4) | 3:04 |
-| 74 | [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 |
+| 73 | [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 |
+| 74 | [Los Chismes](https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Los Chismes](https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4) | 3:04 |
 | 75 | [Borracha \- Remix](https://open.spotify.com/track/13MwThChk4U12oCWS0EI7j) | [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw), [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL) | [Borracha \(Remix\)](https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD) | 3:35 |
 | 76 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 77 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 85 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 86 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 |
 | 87 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
-| 88 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
-| 89 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
+| 88 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
+| 89 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
 | 90 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
 | 91 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
 | 92 | [Tu Maniquí](https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Tu Maniquí](https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi) | 2:34 |
-| 93 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
-| 94 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
+| 93 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
+| 94 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
 | 95 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
 | 96 | [Sobreviviré](https://open.spotify.com/track/7w1oxfGb7RuXJUeo7BXIeP) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw) | 3:44 |
 | 97 | [Las Locuras Mías](https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G) | 3:44 |
-| 98 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
-| 99 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 |
+| 98 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 |
+| 99 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
 
 Snapshot ID: `AAAAAB7TpwHxGGwtMF3flyORYfGMbusF`

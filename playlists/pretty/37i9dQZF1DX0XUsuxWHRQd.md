@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Uzi Vert, Esdeekid and 21 Savage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,818,554 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,817,602 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

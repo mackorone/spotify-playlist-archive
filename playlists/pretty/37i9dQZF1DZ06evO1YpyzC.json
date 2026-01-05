@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266007,
+  "num_followers": 266009,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACpxf8QanrN3+TeEkWbfvDG",
+  "snapshot_id": "aVhcAAAAAABXuDmb3eFHkLj/RvBhXP9x",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/1zZyFySIvpfT6Vl9reroCL"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": null,

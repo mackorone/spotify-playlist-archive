@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,593 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

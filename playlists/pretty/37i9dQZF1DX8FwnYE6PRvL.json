@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2749976,
+  "num_followers": 2750242,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -123,34 +123,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Rollin' (Air Raid Vehicle)",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+      "duration_ms": 256000,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -171,6 +155,38 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Rollin' (Air Raid Vehicle)",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -231,6 +231,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210328,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -283,38 +299,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210328,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292579,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 292579,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
+        "name": "The Works (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 348226,
+      "name": "Radio Ga Ga - Remastered 2011",
+      "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 260506,
       "name": "The Bad Touch",
       "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "The Works (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Radio Ga Ga - Remastered 2011",
-      "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Love For The Streets",
         "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 195666,
       "name": "Jerk It Out",
       "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1291,34 +1291,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE"
+      "duration_ms": 261812,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 261812,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
+      "duration_ms": 201360,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1367,6 +1351,22 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 190466,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2024-12-03 14:36:35",

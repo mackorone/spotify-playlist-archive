@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,704 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,579 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 17 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 18 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
 | 19 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
-| 20 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
-| 21 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
+| 20 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
+| 21 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 22 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 |
 | 23 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
 | 24 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 55 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
 | 56 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 |
 | 57 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 |
-| 58 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 59 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
+| 58 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
+| 59 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 60 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
 | 61 | [Take The Long Road And Walk It](https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj) | [The Music](https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2) | [The Music](https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ) | 4:53 |
 | 62 | [Battered & Bruised](https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Battered & Bruised](https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx) | 2:23 |

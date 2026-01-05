@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,207 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,204 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 36 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 |
 | 37 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
 | 38 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
-| 39 | [BALA PERDIDA](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [BALA PERDIDA](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 |
-| 40 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 |
+| 39 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 |
+| 40 | [BALA PERDIDA](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [BALA PERDIDA](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 |
 | 41 | [Obsesión](https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:35 |
 | 42 | [Te Quiero para Mí](https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:47 |
 | 43 | [La Tequilera](https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 49 | [Solamente Una Vez](https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:59 |
 | 50 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 |
 
-Snapshot ID: `aVcKgAAAAACV4mVLXZDJZrJhvsTGd72O`
+Snapshot ID: `aVhcAAAAAACJiVkpfy8I5pEMHTWXBxBK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,388 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,482 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 25 | [Me Gusta](https://open.spotify.com/track/3dfU4Gby9MXckEQVa68TDC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:38 |
 | 26 | [Que Me Importa](https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Que Me Importa](https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI) | 3:28 |
 | 27 | [Carlitos](https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:01 |
-| 28 | [Como Es](https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:20 |
-| 29 | [CARNAL](https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:54 |
+| 28 | [CARNAL](https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:54 |
+| 29 | [Como Es](https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:20 |
 | 30 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 |
 | 31 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59/66](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59/66](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
-| 32 | [Porque La Demora](https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:31 |
-| 33 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 32 | [El Drip](https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 2:22 |
+| 33 | [Porque La Demora](https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:31 |
 | 34 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
 | 35 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
-| 36 | [Comida del Espacio](https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 4:19 |
-| 37 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
+| 36 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
+| 37 | [Comida del Espacio](https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 4:19 |
 | 38 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
 | 39 | [Entre las de 20](https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Entre las de 20](https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6) | 2:48 |
 | 40 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 49 | [Quien Diria](https://open.spotify.com/track/7in3iob45LtO2p6njGZiUT) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 3:54 |
 | 50 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 |
 
-Snapshot ID: `aVcKgAAAAACGHxWVT/tN/z7RKwNQbuZe`
+Snapshot ID: `aVhcAAAAAAC/4tTtqJQmA/GsfknD472A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,890 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,979 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 58 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 59 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 60 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
-| 61 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
-| 62 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 61 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 62 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
 | 63 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
 | 64 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
 | 65 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 80 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
 | 81 | [Tratar de Estar Mejor](https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Tratar De Estar Mejor](https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj) | 3:35 |
 | 82 | [Cómo Te Extraño Mi Amor \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 |
-| 83 | [Sirena](https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:26 |
+| 83 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
 | 84 | [Sola](https://open.spotify.com/track/4etqoFocnO9gSKtqtQbwXh) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Oye Mujer \(Deluxe Edition\)](https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl) | 2:59 |
-| 85 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
+| 85 | [Sirena](https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:26 |
 | 86 | [Usted \(feat\. Vicentico\) \- MTV Unplugged](https://open.spotify.com/track/08llaN4Lh6GCfd9aHInwB2) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:47 |
 | 87 | [Sin Ti](https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5) | [Donato Y Estefano](https://open.spotify.com/artist/2bhbutacUCxd0aOWRnjPQl) | [Lo Mejor De Donato & Estéfano](https://open.spotify.com/album/3Ht85xn30gqLuaIZrAK8KT) | 4:07 |
 | 88 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |

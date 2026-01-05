@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,755 likes - 39 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,756 likes - 39 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 33 | [You Wind Me Up](https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:59 |
 | 34 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
 | 35 | [Mine Is Clouds](https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 6:15 |
-| 36 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
+| 36 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
 | 37 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
-| 38 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
+| 38 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
 | 39 | [When No Birds Sang](https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:48 |
 
-Snapshot ID: `aVcKgAAAAABV8FJPb4bD5nAP5iF6nGw3`
+Snapshot ID: `aVhcAAAAAAABvCofnS0qYNQ+NGbPb28N`

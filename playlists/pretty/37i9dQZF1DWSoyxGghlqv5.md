@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 
 > New bops? Girlies said yes pls 🫶 ✨💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,632 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,610 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 31 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 32 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
 | 33 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 |
-| 34 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
-| 35 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
-| 36 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
-| 37 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
+| 34 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
+| 35 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 36 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
+| 37 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
 | 38 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 | 39 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 40 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 41 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
-| 42 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
+| 41 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
+| 42 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
 | 43 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 44 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 45 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 41414,
+  "num_followers": 41407,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 367773,
+      "name": "Que Baje la Nube",
+      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Naci\u00f3 en Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
       },
@@ -355,26 +371,6 @@
       "duration_ms": 215131,
       "name": "Navidad Perfecta",
       "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -403,18 +399,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
       },
       "artists": [
         {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
         }
       ],
-      "duration_ms": 367773,
-      "name": "Que Baje la Nube",
-      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Campanas de Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/3GkhdOhEohD9nhtZJRDxxG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 193823,
-      "name": "Campanas de Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/31qOC3cubVPKA6a7ry0Xus"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Ella Dijo S\u00ed",
         "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 166375,
       "name": "Ella Dijo S\u00ed",
       "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Campanas de Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/3GkhdOhEohD9nhtZJRDxxG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 193823,
+      "name": "Campanas de Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/31qOC3cubVPKA6a7ry0Xus"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
-      },
-      "artists": [
-        {
-          "name": "Riosquad",
-          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Dios Anduvo en Pa\u00f1ales",
         "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186712,
       "name": "Dios Anduvo en Pa\u00f1ales",
       "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
+      },
+      "artists": [
+        {
+          "name": "Riosquad",
+          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Nattyvidad",
-        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "Nattyvidad",
-      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "\u00c1ngeles Cantando Est\u00e1n",
         "url": "https://open.spotify.com/album/0afRZOkMspkLFkiLsuAbam"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 196146,
       "name": "\u00c1ngeles Cantando Est\u00e1n",
       "url": "https://open.spotify.com/track/6XVtJgtXlaGtRx4yOTl29R"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Nattyvidad",
+        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "Nattyvidad",
+      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Ha Nacido el Rey",
-        "url": "https://open.spotify.com/album/5Uw1d36khu89kHDIQnv9NQ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        },
-        {
-          "name": "Daniel Vengo",
-          "url": "https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Ha Nacido el Rey",
-      "url": "https://open.spotify.com/track/4aZIWWQKC2YFlrJIt1291N"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Noche De Paz",
         "url": "https://open.spotify.com/album/0S9BgleYMmHBmhpNAjoPG3"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 248244,
       "name": "Noche De Paz",
       "url": "https://open.spotify.com/track/7cnp0cRWXtGt0cSE8dSLFh"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Ha Nacido el Rey",
+        "url": "https://open.spotify.com/album/5Uw1d36khu89kHDIQnv9NQ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Daniel Vengo",
+          "url": "https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Ha Nacido el Rey",
+      "url": "https://open.spotify.com/track/4aZIWWQKC2YFlrJIt1291N"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Hermoso Nombre",
-        "url": "https://open.spotify.com/album/6a5ttOQeBh6PQLxAGyhK2K"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        },
-        {
-          "name": "Coro Lakewood en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3LNf98S4xx74Vg00pJCZkY"
-        }
-      ],
-      "duration_ms": 384493,
-      "name": "Hermoso Nombre",
-      "url": "https://open.spotify.com/track/3dpyRy7JS4ViYghiQRvqrd"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Enciende",
         "url": "https://open.spotify.com/album/1Qd3RMG8ZtNEXAEA1ZH8UY"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 164624,
       "name": "Enciende",
       "url": "https://open.spotify.com/track/7EZFwA0cSbqDmWuKoy0pZo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Hermoso Nombre",
+        "url": "https://open.spotify.com/album/6a5ttOQeBh6PQLxAGyhK2K"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Coro Lakewood en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3LNf98S4xx74Vg00pJCZkY"
+        }
+      ],
+      "duration_ms": 384493,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/3dpyRy7JS4ViYghiQRvqrd"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
+      },
+      "artists": [
+        {
+          "name": "Egleyda Belliard",
+          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
+        }
+      ],
+      "duration_ms": 254887,
+      "name": "Gracias Por Nacer (Merengue)",
+      "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "El Rey naci\u00f3",
         "url": "https://open.spotify.com/album/6lLEc42Qh6CTx5HypLfRMB"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 310500,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/3KDZQocMHSIiukD5c4rYeU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
-      },
-      "artists": [
-        {
-          "name": "Egleyda Belliard",
-          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
-        }
-      ],
-      "duration_ms": 254887,
-      "name": "Gracias Por Nacer (Merengue)",
-      "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Jes\u00fas Es Navidad",
-        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "Jes\u00fas Es Navidad",
-      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Luz de Bel\u00e9n",
         "url": "https://open.spotify.com/album/0BnR5ui1ch5ZTWgx5aeFef"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 199999,
       "name": "Luz de Bel\u00e9n",
       "url": "https://open.spotify.com/track/52TxRkIYz3KjdeIYKkjNIG"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Jes\u00fas Es Navidad",
+        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 157833,
+      "name": "Jes\u00fas Es Navidad",
+      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
     },
     {
       "added_at": "2025-12-12 05:00:50",

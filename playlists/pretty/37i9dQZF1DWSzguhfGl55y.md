@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,078 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,102 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 23 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
 | 24 | [Interpol.com](https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Nr\. 415 \(Premium Edition\)](https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh) | 2:31 |
 | 25 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
-| 26 | [Nie ein Rapper](https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Saad](https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e) | [Carlo Cokxxx Nutten II \(Saad\)](https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto) | 4:02 |
+| 26 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
 | 27 | [Walpurgisnacht](https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:01 |
-| 28 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
-| 29 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
+| 28 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
+| 29 | [Nie ein Rapper](https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Saad](https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e) | [Carlo Cokxxx Nutten II \(Saad\)](https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto) | 4:02 |
 | 30 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 31 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 32 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 47 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
 | 48 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
 | 49 | [Das Urteil](https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 5:11 |
-| 50 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 |
+| 50 | [Susanne Zur Freiheit](https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw) | [Fischmob](https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1) | [Power](https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu) | 4:12 |
 
 Snapshot ID: `AAAAAA0260WgzIsVe/KTIL+6GNjzwwdo`

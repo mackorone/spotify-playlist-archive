@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier e 50 Cent, Kid Yugi e ANNA, Tony Boy, Niky Savage e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,390 likes - 102 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,398 likes - 102 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

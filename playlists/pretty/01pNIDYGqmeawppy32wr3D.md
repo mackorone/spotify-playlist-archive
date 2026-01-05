@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/01pNIDYGqmeawppy32wr3D.md) - [plain]
 
 > Best hip hop throwbacks from the 2000 – 2010s with hits from Missy Elliott, T.I., Dr\. Dre, and more! Over 8 hours to take you into the night.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 325,839 likes - 132 songs - 8 hr 56 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 325,818 likes - 132 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/01pNIDYGqmeawppy32wr3D.md) - [plain]
 | 107 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 108 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
 | 109 | [I Know You See It \(feat\. Brandy "Ms\. B" Hambrick\)](https://open.spotify.com/track/6giYNaycmjkbf7UmZ6RGtL) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [Brandy "Ms\. B" Hambrick](https://open.spotify.com/artist/0LFWRTqrlRmWoPZ80K8gZY) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
-| 110 | [Don't Trip](https://open.spotify.com/track/2VMn1qUPFKRclST2sJLrEK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:28 |
+| 110 | [Don't Trip](https://open.spotify.com/track/2VMn1qUPFKRclST2sJLrEK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:28 |
 | 111 | [Lean Back \(feat\. Lil Jon, Eminem, Mase & Remy Martin\) \- Remix](https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [All Or Nothing](https://open.spotify.com/album/1daamdMx4wmSEC3mfiCN37) | 4:50 |
 | 112 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 113 | [Girl](https://open.spotify.com/track/7tAXjikQCHflZLeGPTUcLQ) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 4:38 |

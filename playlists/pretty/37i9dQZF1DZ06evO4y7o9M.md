@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,290 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,423 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 19 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 20 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 |
 | 21 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 |
-| 22 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
-| 23 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
+| 22 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
+| 23 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 24 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 |
 | 25 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
 | 26 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 45 | [Te Extraño](https://open.spotify.com/track/4woupD6nz235hkCKdIkQJT) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:25 |
 | 46 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
 
-Snapshot ID: `aVcKgAAAAABhUAvcpreX01ahhUWg3X+8`
+Snapshot ID: `aVhcAAAAAAA74khQkJOr3j1Q6glddAJI`

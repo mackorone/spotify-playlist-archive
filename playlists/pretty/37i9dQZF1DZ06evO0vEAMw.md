@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,083 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,110 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 46 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 47 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 |
 | 48 | [Ada](https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN) | [Ecool](https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ada](https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky) | 3:03 |
-| 49 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
-| 50 | [Le Show](https://open.spotify.com/track/17XywqehSnEFzZjX0h8LWj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [A.W.A.M.](https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN) | 3:36 |
+| 49 | [Le Show](https://open.spotify.com/track/17XywqehSnEFzZjX0h8LWj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [A.W.A.M.](https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN) | 3:36 |
+| 50 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
 
-Snapshot ID: `aVcKgAAAAAC7kQP2bNlO2nVaZiieZRw4`
+Snapshot ID: `aVhcAAAAAABt94nDx8RVMLdmm0XrdQn8`

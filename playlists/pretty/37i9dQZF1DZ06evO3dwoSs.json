@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 567736,
+  "num_followers": 567752,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADWOO2R7/1lo8OMNXlttYEl",
+  "snapshot_id": "aVhcAAAAAAB54jxMH9JCfsfwGZBOjQZh",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
-        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
-      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AfterLife",
         "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 278813,
       "name": "Remember Everything",
       "url": "https://open.spotify.com/track/3GyPfNKi2VqoLRaevQU4MG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End (feat. BABYMETAL) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "The End (feat. BABYMETAL) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War is the Answer",
-        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Hard to See",
-      "url": "https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr"
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
       "duration_ms": 223766,
       "name": "Battle Born",
       "url": "https://open.spotify.com/track/6CEgkzY5yrSt29EwRK4rVe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Pride",
-      "url": "https://open.spotify.com/track/5V0UaxEtUeecWjEcK7jWj3"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Hard to See",
+      "url": "https://open.spotify.com/track/0rrv8cn4zvF4tS9a6ulxur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 178100,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 245951,
       "name": "M.I.N.E (End This Way)",
       "url": "https://open.spotify.com/track/2pkhDDoWnF31Vn0zrTliWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 178100,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt"
     },
     {
       "added_at": null,

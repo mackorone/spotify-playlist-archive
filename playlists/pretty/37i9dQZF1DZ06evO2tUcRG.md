@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,374 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,378 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 41 | [Gratidão](https://open.spotify.com/track/37NMRgokLpTpnaVaoZnZob) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 4:04 |
 | 42 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 |
 | 43 | [Hosana \- Ao Vivo](https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:26 |
-| 44 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
-| 45 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
-| 46 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
+| 44 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
+| 45 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
+| 46 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
 | 47 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 |
 | 48 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 49 | [Em Seu Nome](https://open.spotify.com/track/4IMvk0xyCGwwX4bVixr5cv) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Em Seu Nome](https://open.spotify.com/album/0CjJExJhqqfZ5LLJBs848d) | 9:02 |
 | 50 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 |
 
-Snapshot ID: `aVcKgAAAAADSBEg7IiEYnMGgPJmzT49B`
+Snapshot ID: `aVhcAAAAAAAib0BVt4Wecxdrax6BkPCy`

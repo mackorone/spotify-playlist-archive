@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,864 likes - 120 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,868 likes - 120 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

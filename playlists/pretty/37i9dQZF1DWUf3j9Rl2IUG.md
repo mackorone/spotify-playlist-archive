@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,678 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,841 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 68 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 |
 | 69 | [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 |
 | 70 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
-| 71 | [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:31 |
-| 72 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
+| 71 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
+| 72 | [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:31 |
 | 73 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 |
-| 74 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 |
-| 75 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
-| 76 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
-| 77 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
+| 74 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
+| 75 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 |
+| 76 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
+| 77 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 78 | [Pansa Pansa](https://open.spotify.com/track/3Nk1kjAFGSl4zEesuPckHR) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Afroculture](https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa) | 2:48 |
 | 79 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
 | 80 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,221 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,468 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 37 | [Luna](https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:12 |
 | 38 | [Me Canse de Amarte](https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Corporacion](https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o) | [Me Canse de Amarte](https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD) | 3:18 |
 | 39 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
-| 40 | [Cada Quien](https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe) | 3:17 |
-| 41 | [Gracias \(En Vivo\)](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
+| 40 | [Gracias \(En Vivo\)](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
+| 41 | [Cada Quien](https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe) | 3:17 |
 | 42 | [Quiere Llorar Y No Puede](https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:43 |
 | 43 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH) | 4:10 |
 | 44 | [Cita Con Un Invento \(En Vivo\)](https://open.spotify.com/track/4PfK8dEAp6rKxfOolZlBTy) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [El Roto \(En Vivo\)](https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [El Roto \(En Vivo\)](https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ) | 3:13 |
 | 50 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
 
-Snapshot ID: `aVcKgAAAAAB28shnnkp71pHt1LjCehXR`
+Snapshot ID: `aVhcAAAAAABQ+2f5TxcIg2Ij6yl+HuH9`

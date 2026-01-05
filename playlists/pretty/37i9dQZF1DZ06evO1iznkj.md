@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,347 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,445 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 19 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 |
 | 20 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 |
 | 21 | [still prevail](https://open.spotify.com/track/5ieqvcZfycFIMJnF84D1Du) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:12 |
-| 22 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
+| 22 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 |
 | 23 | [again](https://open.spotify.com/track/7FwgafuJFYX2M5CrEVfN4M) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:00 |
-| 24 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 |
-| 25 | [Hot \(Remix\) \[feat\. Gunna and Travis Scott\]](https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 4:39 |
-| 26 | [WAY IT IS](https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:15 |
+| 24 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
+| 25 | [WAY IT IS](https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:15 |
+| 26 | [Hot \(Remix\) \[feat\. Gunna and Travis Scott\]](https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 4:39 |
 | 27 | [Drip or Drown](https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown](https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ) | 2:06 |
 | 28 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
 | 29 | [Paranoia \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 49 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
 | 50 | [Slam the Door](https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:08 |
 
-Snapshot ID: `aVcKgAAAAACwWlaSgcPP/KT1hpN8hsC4`
+Snapshot ID: `aVhcAAAAAAAnR1DOTsYRvRav6bYFvvuO`

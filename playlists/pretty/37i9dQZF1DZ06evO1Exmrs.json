@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 388361,
+  "num_followers": 388503,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAC+4OPIP3+dmpTOBUExBKV/",
+  "snapshot_id": "aVhcAAAAAABHQdwf/ukjFqaM+M6cER5G",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 191725,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB"
+      "duration_ms": 201279,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 201279,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa"
+      "duration_ms": 191725,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
       "duration_ms": 198293,
       "name": "Catastrophize",
       "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 205786,
       "name": "Need Your Love (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": null,

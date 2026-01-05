@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,310 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,298 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 41 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:00 |
 | 42 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
 | 43 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:31 |
-| 44 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
-| 45 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
+| 44 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
+| 45 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
 | 46 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
 | 47 | [Blowin' in the Wind](https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 2:57 |
 | 48 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |

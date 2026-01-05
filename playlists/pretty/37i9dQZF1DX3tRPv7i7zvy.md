@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,501 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,526 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 45 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 |
 | 46 | [It Is Finished](https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [It Is Finished](https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls) | 3:00 |
 | 47 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
-| 48 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
+| 48 | [Figure Say](https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Dapper Diaries](https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb) | 2:20 |
 | 49 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 |
-| 50 | [Figure Say](https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Dapper Diaries](https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb) | 2:20 |
+| 50 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 51 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
 | 52 | [BALANCE \(with Lasmid\)](https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [BALANCE \(with Lasmid\)](https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED) | 2:46 |
 | 53 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |

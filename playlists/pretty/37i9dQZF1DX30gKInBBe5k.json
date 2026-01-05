@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212455,
+  "num_followers": 212453,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 336760,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Down Colorful Hill",
         "url": "https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 589440,
       "name": "Medicine Bottle",
       "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 316640,
-      "name": "The Moon",
-      "url": "https://open.spotify.com/track/4pbEwQiDjPln3oYlijXuOE"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 316640,
+      "name": "The Moon",
+      "url": "https://open.spotify.com/track/4pbEwQiDjPln3oYlijXuOE"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 336760,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "The Blue Moods Of Spain",
-        "url": "https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC"
-      },
-      "artists": [
-        {
-          "name": "Spain",
-          "url": "https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n"
-        }
-      ],
-      "duration_ms": 398426,
-      "name": "Untitled #1",
-      "url": "https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "The Blue Moods Of Spain",
+        "url": "https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC"
+      },
+      "artists": [
+        {
+          "name": "Spain",
+          "url": "https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n"
+        }
+      ],
+      "duration_ms": 398426,
+      "name": "Untitled #1",
+      "url": "https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -347,18 +363,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+        "name": "Palindrome Hunches",
+        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
         }
       ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+      "duration_ms": 220866,
+      "name": "Digging Shelters",
+      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -375,22 +391,6 @@
       "duration_ms": 229813,
       "name": "Blue Thunder",
       "url": "https://open.spotify.com/track/0DXsPlfQtOQBFbL0wAaOn6"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Palindrome Hunches",
-        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
-      },
-      "artists": [
-        {
-          "name": "Neil Halstead",
-          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Digging Shelters",
-      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Frigid Stars",
         "url": "https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9"
       },
@@ -487,22 +471,6 @@
       "duration_ms": 267533,
       "name": "D",
       "url": "https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Old Ramon",
-        "url": "https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8"
-      },
-      "artists": [
-        {
-          "name": "Red House Painters",
-          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
-        }
-      ],
-      "duration_ms": 337120,
-      "name": "Wop-A-Din-Din",
-      "url": "https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -523,6 +491,38 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Old Ramon",
+        "url": "https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8"
+      },
+      "artists": [
+        {
+          "name": "Red House Painters",
+          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
+        }
+      ],
+      "duration_ms": 337120,
+      "name": "Wop-A-Din-Din",
+      "url": "https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -539,38 +539,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 274475,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 314560,
-      "name": "Snowstorm",
-      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 315666,
       "name": "The Loom",
       "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 274475,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -667,6 +651,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Snowstorm",
+      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Reaching For Indigo",
         "url": "https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Waves Are Universal",
+        "url": "https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY"
+      },
+      "artists": [
+        {
+          "name": "Rachel Goswell",
+          "url": "https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "i hope everything goes well",
         "url": "https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 130798,
       "name": "glowing hands",
       "url": "https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Waves Are Universal",
-        "url": "https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY"
-      },
-      "artists": [
-        {
-          "name": "Rachel Goswell",
-          "url": "https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "Exit Music (For a Film)",
-      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Horse Jumper of Love",
         "url": "https://open.spotify.com/album/4f49uPuntbmcWXz0TUHYSk"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 319640,
       "name": "Return From The Ice",
       "url": "https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Exit Music (For a Film)",
+      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Red House Painters I",
-        "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
-      },
-      "artists": [
-        {
-          "name": "Red House Painters",
-          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
-        }
-      ],
-      "duration_ms": 502866,
-      "name": "Katy Song",
-      "url": "https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Didn't It Rain (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 472613,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Red House Painters I",
+        "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
+      },
+      "artists": [
+        {
+          "name": "Red House Painters",
+          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
+        }
+      ],
+      "duration_ms": 502866,
+      "name": "Katy Song",
+      "url": "https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Let Me Go, Let Me Go, Let Me Go",
-        "url": "https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca"
-      },
-      "artists": [
-        {
-          "name": "Jason Molina",
-          "url": "https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE"
-        }
-      ],
-      "duration_ms": 399933,
-      "name": "Let Me Go Let Me Go Let Me Go",
-      "url": "https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "WhatFunLifeWas",
         "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 284301,
       "name": "Bedside Table",
       "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Let Me Go, Let Me Go, Let Me Go",
+        "url": "https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca"
+      },
+      "artists": [
+        {
+          "name": "Jason Molina",
+          "url": "https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE"
+        }
+      ],
+      "duration_ms": 399933,
+      "name": "Let Me Go Let Me Go Let Me Go",
+      "url": "https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "The Lioness",
-        "url": "https://open.spotify.com/album/0rCkgwhPyKJqoDkmxkFHTn"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 436240,
-      "name": "The Black Crow",
-      "url": "https://open.spotify.com/track/3dqmRMwJaCymso6NXGPnyi"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Good morning (red)",
         "url": "https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "The Lioness",
+        "url": "https://open.spotify.com/album/0rCkgwhPyKJqoDkmxkFHTn"
+      },
+      "artists": [
+        {
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+        }
+      ],
+      "duration_ms": 436240,
+      "name": "The Black Crow",
+      "url": "https://open.spotify.com/track/3dqmRMwJaCymso6NXGPnyi"
     }
   ],
   "unique_name": "slowcore",

@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 780367,
+  "num_followers": 780347,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Crawlers - EP",
         "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 254418,
       "name": "Come Over (Again)",
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
     },
     {
       "added_at": "2025-09-02 23:00:32",

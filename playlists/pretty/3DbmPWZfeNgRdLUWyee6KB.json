@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1145,
+  "num_followers": 1151,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOka6SSyEuS7i3XHc2BA2H70QrfF7u",
+  "snapshot_id": "AAAO3EVMU1/6n0X5SCcOmnXiaOW1YJYt",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -281,46 +281,6 @@
       "url": "https://open.spotify.com/track/1EPqUZPqydfMgpQq6GSZQz"
     },
     {
-      "added_at": "2025-09-19 07:33:20",
-      "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/2IQZqJCPDHtENORCq4Hw6s"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Roberto Pentassuglia",
-          "url": "https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t"
-        },
-        {
-          "name": "Maurizio Perrone",
-          "url": "https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Soul Eyes",
-      "url": "https://open.spotify.com/track/5Duv8ycOqvC1Sq1F9EWPMj"
-    },
-    {
-      "added_at": "2025-08-08 07:45:11",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/4kK20BFEH9PWhKqjoikhUr"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 156934,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/403Ydn6kygiS70b89NOAV6"
-    },
-    {
       "added_at": "2025-12-16 10:59:47",
       "album": {
         "name": "Haze",
@@ -335,22 +295,6 @@
       "duration_ms": 217206,
       "name": "Candor",
       "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
-    },
-    {
-      "added_at": "2025-11-24 18:02:06",
-      "album": {
-        "name": "Written By Caitty",
-        "url": "https://open.spotify.com/album/1wowlkL5qOCspZ6TjHXEKM"
-      },
-      "artists": [
-        {
-          "name": "Caitty",
-          "url": "https://open.spotify.com/artist/1AGpP1Kgtg1qtlHAFY643d"
-        }
-      ],
-      "duration_ms": 228802,
-      "name": "Suitcase By The Door",
-      "url": "https://open.spotify.com/track/32BI9PMpCX7jROdJaCryrw"
     },
     {
       "added_at": "2025-12-26 09:32:39",
@@ -385,22 +329,6 @@
       "url": "https://open.spotify.com/track/3PyYrm3Y1Xvy7DiX5ZEyuN"
     },
     {
-      "added_at": "2025-12-04 14:25:22",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/5eh3fy6t871p8EIDxcMf4a"
-      },
-      "artists": [
-        {
-          "name": "Othy k",
-          "url": "https://open.spotify.com/artist/3GeCRJaGrkzdNO0deIDPlv"
-        }
-      ],
-      "duration_ms": 214468,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0854rJz7ZGPmB3MLFjnUix"
-    },
-    {
       "added_at": "2025-12-22 21:17:48",
       "album": {
         "name": "Ad Astra",
@@ -415,1098 +343,6 @@
       "duration_ms": 178989,
       "name": "Quiet Mirror",
       "url": "https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z"
-    },
-    {
-      "added_at": "2025-11-24 18:02:25",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/3VXDCADyu2hCbcR1XTgZ6G"
-      },
-      "artists": [
-        {
-          "name": "Matias Park",
-          "url": "https://open.spotify.com/artist/3ulkuAZTEEB9XT750GVShS"
-        }
-      ],
-      "duration_ms": 185058,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/13U4C7H2SImFBJXsHlpu3l"
-    },
-    {
-      "added_at": "2025-07-18 06:31:14",
-      "album": {
-        "name": "What are you doing the rest of your life?",
-        "url": "https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        }
-      ],
-      "duration_ms": 337663,
-      "name": "What are you doing the rest of your life?",
-      "url": "https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF"
-    },
-    {
-      "added_at": "2025-07-31 18:41:33",
-      "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/2HaYbIz3qSbk6Ff0fn2VtF"
-      },
-      "artists": [
-        {
-          "name": "Beato Angelico",
-          "url": "https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG"
-        }
-      ],
-      "duration_ms": 157548,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51ZiYIPv8p7cpcGg0AcdZI"
-    },
-    {
-      "added_at": "2025-11-24 18:01:35",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj"
-      },
-      "artists": [
-        {
-          "name": "Nick McKerl",
-          "url": "https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR"
-        }
-      ],
-      "duration_ms": 180613,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R"
-    },
-    {
-      "added_at": "2025-07-11 07:50:47",
-      "album": {
-        "name": "I came like water, like wind I go",
-        "url": "https://open.spotify.com/album/3jQo8nHd9lyBQ5J510ASy2"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "I came like water, like wind I go",
-      "url": "https://open.spotify.com/track/2QfSa214f8Mvij3TyEQn8p"
-    },
-    {
-      "added_at": "2025-11-24 18:01:50",
-      "album": {
-        "name": "Written By Caitty",
-        "url": "https://open.spotify.com/album/1wowlkL5qOCspZ6TjHXEKM"
-      },
-      "artists": [
-        {
-          "name": "Caitty",
-          "url": "https://open.spotify.com/artist/1AGpP1Kgtg1qtlHAFY643d"
-        }
-      ],
-      "duration_ms": 228802,
-      "name": "Suitcase By The Door",
-      "url": "https://open.spotify.com/track/32BI9PMpCX7jROdJaCryrw"
-    },
-    {
-      "added_at": "2025-11-24 18:02:56",
-      "album": {
-        "name": "Neon Dreaming",
-        "url": "https://open.spotify.com/album/6ckTA85aCzjpVV6zH45E1B"
-      },
-      "artists": [
-        {
-          "name": "Saim\u00f6\u00f6",
-          "url": "https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt"
-        },
-        {
-          "name": "Bobby John",
-          "url": "https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD"
-        }
-      ],
-      "duration_ms": 142330,
-      "name": "Neon Dreaming",
-      "url": "https://open.spotify.com/track/5SsOc7C3CtRl77BV5ALe3p"
-    },
-    {
-      "added_at": "2025-06-21 16:08:49",
-      "album": {
-        "name": "A Handful Of Sand",
-        "url": "https://open.spotify.com/album/3QS82EqY0TPodAGV7bUpy3"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri Bastarduna Quintet",
-          "url": "https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Maurizio Perrone",
-          "url": "https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr"
-        }
-      ],
-      "duration_ms": 255997,
-      "name": "A Handful Of Sand",
-      "url": "https://open.spotify.com/track/6yqKyLUm8vdfBRTLxaDfBd"
-    },
-    {
-      "added_at": "2025-06-05 14:54:19",
-      "album": {
-        "name": "A Single Multitude - The Jazz Side",
-        "url": "https://open.spotify.com/album/54BWMqqoETDvufz2VkbSTQ"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Maurizio Perrone",
-          "url": "https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr"
-        },
-        {
-          "name": "Massimiliano De Lucia",
-          "url": "https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc"
-        }
-      ],
-      "duration_ms": 198951,
-      "name": "A lot of loneliness",
-      "url": "https://open.spotify.com/track/33MDj2laCrr9NQCeN4Jc86"
-    },
-    {
-      "added_at": "2025-04-24 22:09:36",
-      "album": {
-        "name": "The Eternal Return",
-        "url": "https://open.spotify.com/album/1Hpy5xi3yZNwI816mwGexu"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Art Chill Jazz",
-          "url": "https://open.spotify.com/artist/68hOtRDNBE5eBzN7QZXc9d"
-        }
-      ],
-      "duration_ms": 219011,
-      "name": "The Eternal Return",
-      "url": "https://open.spotify.com/track/0cCnxDYuxT5LzPmzwO2IZ1"
-    },
-    {
-      "added_at": "2025-03-13 11:23:44",
-      "album": {
-        "name": "Latino",
-        "url": "https://open.spotify.com/album/4jnwtPzTR162ILC8K15HM2"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Manuel Gal\u00e1n",
-          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
-        },
-        {
-          "name": "Maurizio Perrone",
-          "url": "https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr"
-        },
-        {
-          "name": "Carlo Colombo",
-          "url": "https://open.spotify.com/artist/6CPbxGm2Uetd32H4OX1aZS"
-        },
-        {
-          "name": "Giampaolo Scatozza",
-          "url": "https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Latino",
-      "url": "https://open.spotify.com/track/6zr9elbnpV5Idcb1IVnWrO"
-    },
-    {
-      "added_at": "2025-11-21 16:44:12",
-      "album": {
-        "name": "Alleine im Partyraum",
-        "url": "https://open.spotify.com/album/7jFYriN5oyX3gwZZuJpEDm"
-      },
-      "artists": [
-        {
-          "name": "Nordwestpartycrew",
-          "url": "https://open.spotify.com/artist/5Jq329mT4XRIjQirRXkzbg"
-        }
-      ],
-      "duration_ms": 269077,
-      "name": "Alleine im Partyraum",
-      "url": "https://open.spotify.com/track/3IYJdA04iosfRwkMUOCc1O"
-    },
-    {
-      "added_at": "2025-11-21 16:44:13",
-      "album": {
-        "name": "La parade des loups-garous",
-        "url": "https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98"
-      },
-      "artists": [
-        {
-          "name": "Dominique Daumann",
-          "url": "https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6"
-        }
-      ],
-      "duration_ms": 212551,
-      "name": "Si Loin",
-      "url": "https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH"
-    },
-    {
-      "added_at": "2025-11-21 16:44:21",
-      "album": {
-        "name": "Christmas in the Islands",
-        "url": "https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u"
-      },
-      "artists": [
-        {
-          "name": "Harold Payne",
-          "url": "https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC"
-        }
-      ],
-      "duration_ms": 181541,
-      "name": "Christmas in the Islands",
-      "url": "https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR"
-    },
-    {
-      "added_at": "2025-11-21 16:44:22",
-      "album": {
-        "name": "Party girl",
-        "url": "https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx"
-      },
-      "artists": [
-        {
-          "name": "Deadarchives",
-          "url": "https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi"
-        }
-      ],
-      "duration_ms": 110318,
-      "name": "Party girl",
-      "url": "https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5"
-    },
-    {
-      "added_at": "2025-11-21 16:44:23",
-      "album": {
-        "name": "Vino El Amor",
-        "url": "https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD"
-      },
-      "artists": [
-        {
-          "name": "Evan Rodz",
-          "url": "https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw"
-        }
-      ],
-      "duration_ms": 223190,
-      "name": "Vino El Amor",
-      "url": "https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc"
-    },
-    {
-      "added_at": "2025-11-21 16:44:23",
-      "album": {
-        "name": "Spotlight From The Shadows",
-        "url": "https://open.spotify.com/album/4eTjld5f8cjfYX00rFYO2j"
-      },
-      "artists": [
-        {
-          "name": "Chris Mark Mickey",
-          "url": "https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        }
-      ],
-      "duration_ms": 210886,
-      "name": "Closed Circle",
-      "url": "https://open.spotify.com/track/3kOiYnhygbL1DDuKFf6DgS"
-    },
-    {
-      "added_at": "2025-11-21 16:44:24",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/5hin9vCARWLwDwXmMsU1J8"
-      },
-      "artists": [
-        {
-          "name": "CTRL FREQS",
-          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
-        },
-        {
-          "name": "RoBeats",
-          "url": "https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge"
-        }
-      ],
-      "duration_ms": 193737,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/1IJRybUORpBhRHIHYS5C5Z"
-    },
-    {
-      "added_at": "2025-11-24 18:03:23",
-      "album": {
-        "name": "Photographs",
-        "url": "https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi"
-      },
-      "artists": [
-        {
-          "name": "Elysium",
-          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
-        }
-      ],
-      "duration_ms": 366768,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt"
-    },
-    {
-      "added_at": "2025-11-24 18:03:24",
-      "album": {
-        "name": "En ti",
-        "url": "https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 251192,
-      "name": "En ti",
-      "url": "https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp"
-    },
-    {
-      "added_at": "2025-11-24 18:03:24",
-      "album": {
-        "name": "Instinto Animal",
-        "url": "https://open.spotify.com/album/1J7Dz8Fw98iGdyc5zkVqBy"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 170292,
-      "name": "Ahhh",
-      "url": "https://open.spotify.com/track/2vxr60lrZFVBxq1UmyTX1d"
-    },
-    {
-      "added_at": "2025-11-25 17:45:09",
-      "album": {
-        "name": "Fragmento",
-        "url": "https://open.spotify.com/album/4nhYrd1DdIpHKqWnwM18Ha"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 175119,
-      "name": "Wo wo wo wooo",
-      "url": "https://open.spotify.com/track/1RfGQhhdSt8tdnAgy9qI6a"
-    },
-    {
-      "added_at": "2025-11-25 17:45:10",
-      "album": {
-        "name": "Mal Presagio",
-        "url": "https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 164399,
-      "name": "La vida es tan corta",
-      "url": "https://open.spotify.com/track/76CdKpx2YFJen1lY769Tmr"
-    },
-    {
-      "added_at": "2025-11-25 17:45:10",
-      "album": {
-        "name": "La ansiedad",
-        "url": "https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/1ynOQL9168ge8jkyxRSbPl"
-    },
-    {
-      "added_at": "2025-11-25 17:45:16",
-      "album": {
-        "name": "Entre gargantas y o\u00eddos",
-        "url": "https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/3kNqJjZyw1IC49IafzLZGm"
-    },
-    {
-      "added_at": "2025-11-25 17:45:17",
-      "album": {
-        "name": "Instinto animal",
-        "url": "https://open.spotify.com/album/3LHoTzJioCqWN8lC3ecAP7"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Nada a favor",
-      "url": "https://open.spotify.com/track/15K9yOgfmxOzhJGmLPp7nP"
-    },
-    {
-      "added_at": "2025-11-25 17:45:17",
-      "album": {
-        "name": "\u00a1S\u00e1lvese quien pueda!",
-        "url": "https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 218801,
-      "name": "\u00a1S\u00e1lvese quien pueda!",
-      "url": "https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk"
-    },
-    {
-      "added_at": "2025-11-25 17:45:17",
-      "album": {
-        "name": "Amor = Triste Agon\u00eda",
-        "url": "https://open.spotify.com/album/029GPDxDNEeaaWgkAvdpIg"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 179599,
-      "name": "Princesa ruda",
-      "url": "https://open.spotify.com/track/6WtsuLdzBznR8kWY39azdo"
-    },
-    {
-      "added_at": "2025-11-25 17:45:18",
-      "album": {
-        "name": "La ansiedad",
-        "url": "https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 159799,
-      "name": "Que es la felicidad",
-      "url": "https://open.spotify.com/track/2CLeVG1WqYZjfbIGXKScpK"
-    },
-    {
-      "added_at": "2025-11-25 17:45:18",
-      "album": {
-        "name": "Un instante en el Universo",
-        "url": "https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 132995,
-      "name": "M\u00e1s equivocado",
-      "url": "https://open.spotify.com/track/01fGmw3f3jYtCexQwz6Dl8"
-    },
-    {
-      "added_at": "2025-11-25 17:45:19",
-      "album": {
-        "name": "Todo le di",
-        "url": "https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Medio lleno el vaso",
-      "url": "https://open.spotify.com/track/62xTr4b4oXgrbMWHV5qHgU"
-    },
-    {
-      "added_at": "2025-11-25 17:45:19",
-      "album": {
-        "name": "Todo le di",
-        "url": "https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 166719,
-      "name": "Tu ausencia",
-      "url": "https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS"
-    },
-    {
-      "added_at": "2025-11-25 17:45:23",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/59kHXQO88dKgGeOiNyMIoM"
-      },
-      "artists": [
-        {
-          "name": "tWIN",
-          "url": "https://open.spotify.com/artist/1APguz6a6pgYym9jUAia5K"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        }
-      ],
-      "duration_ms": 187359,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/7BoYRULbFPGNvnT2vVhcOf"
-    },
-    {
-      "added_at": "2025-11-25 17:45:23",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0kyV92eXT3VyZxas1mPOd8"
-      },
-      "artists": [
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        },
-        {
-          "name": "Prod. MyKey",
-          "url": "https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm"
-        }
-      ],
-      "duration_ms": 201221,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/7wgXjF0bJgfEsXAzYsbpdX"
-    },
-    {
-      "added_at": "2025-11-26 18:28:16",
-      "album": {
-        "name": "My Fire",
-        "url": "https://open.spotify.com/album/3Zunn4IB4LBVqM1Xr07EhL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Gerald",
-          "url": "https://open.spotify.com/artist/2rIvMVFcBfd5QZjfKXQGmu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "My Fire",
-      "url": "https://open.spotify.com/track/70envoliSCQOHL5mQx7MfR"
-    },
-    {
-      "added_at": "2025-11-26 18:28:16",
-      "album": {
-        "name": "A Holding Light",
-        "url": "https://open.spotify.com/album/3kJDagmAwsNnYzzXVqJnCq"
-      },
-      "artists": [
-        {
-          "name": "gebi.sounds",
-          "url": "https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a"
-        }
-      ],
-      "duration_ms": 231413,
-      "name": "A Holding Light",
-      "url": "https://open.spotify.com/track/05NiUyl6ugHxxgD9IWIlmj"
-    },
-    {
-      "added_at": "2025-11-26 18:28:17",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H"
-      },
-      "artists": [
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9"
-    },
-    {
-      "added_at": "2025-11-30 09:10:21",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/7KE21nAsBUZThp7imkUvcK"
-      },
-      "artists": [
-        {
-          "name": "Six Years Gone",
-          "url": "https://open.spotify.com/artist/3BYUpsDqN6Wk7wWehl3hSZ"
-        }
-      ],
-      "duration_ms": 227242,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/2gyG5UbBkej1ibLJoP4lWB"
-    },
-    {
-      "added_at": "2025-11-30 09:10:23",
-      "album": {
-        "name": "After The Lights",
-        "url": "https://open.spotify.com/album/4BSqAmihLDKi1YfE0QPE8a"
-      },
-      "artists": [
-        {
-          "name": "CTRL FREQS",
-          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
-        }
-      ],
-      "duration_ms": 223033,
-      "name": "After The Lights",
-      "url": "https://open.spotify.com/track/2HBjhM3rBDaNaIPogdCvbl"
-    },
-    {
-      "added_at": "2025-11-30 09:10:24",
-      "album": {
-        "name": "These Hands",
-        "url": "https://open.spotify.com/album/2PHTHw5QjKqBdzgOFMbrkS"
-      },
-      "artists": [
-        {
-          "name": "Adamz Skalze",
-          "url": "https://open.spotify.com/artist/4mRRtJpUTxeDAGM1VbNLjE"
-        },
-        {
-          "name": "Beth Warren",
-          "url": "https://open.spotify.com/artist/0YNg73EWevJK44TvQxepdY"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "These Hands",
-      "url": "https://open.spotify.com/track/6bCz2JsoZ29pe5k48osLoF"
-    },
-    {
-      "added_at": "2025-12-04 17:38:07",
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h"
-      },
-      "artists": [
-        {
-          "name": "Moni Blue",
-          "url": "https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5"
-        }
-      ],
-      "duration_ms": 188648,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV"
-    },
-    {
-      "added_at": "2025-12-04 17:38:08",
-      "album": {
-        "name": "Wake up Call",
-        "url": "https://open.spotify.com/album/3Zzd8qmOSV8pdWUupuvhBj"
-      },
-      "artists": [
-        {
-          "name": "Miguelito Loveless",
-          "url": "https://open.spotify.com/artist/5QB8ZoAPCu3jM5PP0Guhzn"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/5uLxFsB0XLqtiRGMgC4x80"
-    },
-    {
-      "added_at": "2025-12-04 17:38:08",
-      "album": {
-        "name": "If You Want To Be Famous",
-        "url": "https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc"
-      },
-      "artists": [
-        {
-          "name": "Elysium",
-          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "If You Want To Be Famous",
-      "url": "https://open.spotify.com/track/7e6X8Ur99dU8spGoXF1Isp"
-    },
-    {
-      "added_at": "2025-12-04 17:38:09",
-      "album": {
-        "name": "Strange Illusions",
-        "url": "https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7"
-      },
-      "artists": [
-        {
-          "name": "Beyond the touch",
-          "url": "https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93"
-        }
-      ],
-      "duration_ms": 236053,
-      "name": "Falling into the Void",
-      "url": "https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh"
-    },
-    {
-      "added_at": "2025-12-09 22:14:30",
-      "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2"
-      },
-      "artists": [
-        {
-          "name": "Gregg Lindor",
-          "url": "https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc"
-        }
-      ],
-      "duration_ms": 263269,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5GdjvwCtofhDovXaAHFl2y"
-    },
-    {
-      "added_at": "2025-12-09 22:14:35",
-      "album": {
-        "name": "Tempo de vit\u00f3ria (Acoustic)",
-        "url": "https://open.spotify.com/album/1XWYl2rrAwoR0cDIJQjtpP"
-      },
-      "artists": [
-        {
-          "name": "Virgilio alc",
-          "url": "https://open.spotify.com/artist/2yKbDLuTiE1kKT2AiBY1Tl"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Mais Alto Com Cristo - Acoustic",
-      "url": "https://open.spotify.com/track/4AY6D9mDxjVZXOXchspd8W"
-    },
-    {
-      "added_at": "2025-12-09 22:14:56",
-      "album": {
-        "name": "\u539f\u4f86\u767c\u73fe",
-        "url": "https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S"
-      },
-      "artists": [
-        {
-          "name": "Relic",
-          "url": "https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO"
-        }
-      ],
-      "duration_ms": 230357,
-      "name": "\u539f\u4f86\u767c\u73fe",
-      "url": "https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs"
-    },
-    {
-      "added_at": "2025-12-09 22:15:08",
-      "album": {
-        "name": "Oh Yeah",
-        "url": "https://open.spotify.com/album/1ukoyTIian9yntW6G2dPoK"
-      },
-      "artists": [
-        {
-          "name": "Nine Feet Underground",
-          "url": "https://open.spotify.com/artist/6mFyzC7PyeOpDHGhhn7wv4"
-        }
-      ],
-      "duration_ms": 269008,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/6N1EqR6nzR89JMBmbOvplf"
-    },
-    {
-      "added_at": "2025-12-09 22:15:15",
-      "album": {
-        "name": "Biting Nails",
-        "url": "https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi"
-      },
-      "artists": [
-        {
-          "name": "5EX",
-          "url": "https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "Biting Nails",
-      "url": "https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT"
-    },
-    {
-      "added_at": "2025-12-09 22:15:24",
-      "album": {
-        "name": "Falling in Love",
-        "url": "https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq"
-      },
-      "artists": [
-        {
-          "name": "FreeRider X",
-          "url": "https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Falling in Love",
-      "url": "https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS"
-    },
-    {
-      "added_at": "2025-12-09 22:15:35",
-      "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp"
-      },
-      "artists": [
-        {
-          "name": "Savannah Strand",
-          "url": "https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv"
-        }
-      ],
-      "duration_ms": 175491,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB"
-    },
-    {
-      "added_at": "2025-12-09 22:15:43",
-      "album": {
-        "name": "Delay",
-        "url": "https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N"
-      },
-      "artists": [
-        {
-          "name": "Barrie Johnson",
-          "url": "https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4"
-        }
-      ],
-      "duration_ms": 194047,
-      "name": "Delay",
-      "url": "https://open.spotify.com/track/6SY5BLYfK4mmb9fcU7q38X"
-    },
-    {
-      "added_at": "2025-12-09 22:15:48",
-      "album": {
-        "name": "Mal Presagio",
-        "url": "https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Tiempos malos",
-      "url": "https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk"
-    },
-    {
-      "added_at": "2025-12-09 22:15:53",
-      "album": {
-        "name": "Impuntual",
-        "url": "https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 170855,
-      "name": "Impuntual",
-      "url": "https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB"
-    },
-    {
-      "added_at": "2025-12-09 22:15:59",
-      "album": {
-        "name": "\u00bfA d\u00f3nde ir\u00e1 el amor?",
-        "url": "https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 208248,
-      "name": "Milenios de Amor",
-      "url": "https://open.spotify.com/track/5SKERroWJAtPprqyweRjuO"
-    },
-    {
-      "added_at": "2025-12-09 22:16:04",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 179879,
-      "name": "Dual",
-      "url": "https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR"
-    },
-    {
-      "added_at": "2025-12-09 22:16:14",
-      "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT"
-      },
-      "artists": [
-        {
-          "name": "K W Hoffman",
-          "url": "https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD"
-        }
-      ],
-      "duration_ms": 144491,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0"
-    },
-    {
-      "added_at": "2025-12-09 22:16:22",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz"
-      },
-      "artists": [
-        {
-          "name": "Nissu",
-          "url": "https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2"
-    },
-    {
-      "added_at": "2025-12-09 22:16:34",
-      "album": {
-        "name": "Sweet Girls",
-        "url": "https://open.spotify.com/album/25aLcpfG4Z6NVOQb7Vo9tm"
-      },
-      "artists": [
-        {
-          "name": "Nina Gabriela",
-          "url": "https://open.spotify.com/artist/2S5l1YffxlvE9SD3I3dW3Q"
-        }
-      ],
-      "duration_ms": 224250,
-      "name": "Sweet Girls",
-      "url": "https://open.spotify.com/track/77qyDQXVcgz8MzuUme9zwn"
-    },
-    {
-      "added_at": "2025-12-10 09:59:55",
-      "album": {
-        "name": "Canzone di A",
-        "url": "https://open.spotify.com/album/3a2pFbCjSspfvZmP7BPBLS"
-      },
-      "artists": [
-        {
-          "name": "Claudio Bassi",
-          "url": "https://open.spotify.com/artist/5ybJ724whrlsUYrHiJAJf7"
-        }
-      ],
-      "duration_ms": 299188,
-      "name": "Canzone di A",
-      "url": "https://open.spotify.com/track/28it4WzTeD37iacjUxiKJG"
-    },
-    {
-      "added_at": "2025-12-10 10:00:06",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Grace",
-          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
-        }
-      ],
-      "duration_ms": 228291,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6"
-    },
-    {
-      "added_at": "2025-12-10 10:00:07",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/3heC4MS7ewE0kXYJQdskbD"
-      },
-      "artists": [
-        {
-          "name": "CTRL FREQS",
-          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
-        },
-        {
-          "name": "RoBeats",
-          "url": "https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge"
-        }
-      ],
-      "duration_ms": 185435,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/66FFJv3Y8Xn9ENKQMXZW0Z"
-    },
-    {
-      "added_at": "2025-12-10 10:00:10",
-      "album": {
-        "name": "Chance It",
-        "url": "https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH"
-      },
-      "artists": [
-        {
-          "name": "David Bluefield",
-          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Chance It",
-      "url": "https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze"
     },
     {
       "added_at": "2025-12-13 00:02:07",
@@ -2131,26 +967,6 @@
       "duration_ms": 228789,
       "name": "Como un haz de luz",
       "url": "https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x"
-    },
-    {
-      "added_at": "2025-12-17 18:19:09",
-      "album": {
-        "name": "Missed Calls",
-        "url": "https://open.spotify.com/album/6n7EEwr3SPFplknmlsc4UW"
-      },
-      "artists": [
-        {
-          "name": "BlvckRxps",
-          "url": "https://open.spotify.com/artist/5WDAZVk9StpnQCSiuhyrxF"
-        },
-        {
-          "name": "OwzA",
-          "url": "https://open.spotify.com/artist/0JEsKWALln7rmGs7ObjVzy"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Missed Calls",
-      "url": "https://open.spotify.com/track/50VTmqNLyAXwYYEdh2KCRi"
     },
     {
       "added_at": "2025-12-17 23:22:23",
@@ -4003,6 +2819,126 @@
       "duration_ms": 274839,
       "name": "SELF ACCEPT your way to inner respect",
       "url": "https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL"
+    },
+    {
+      "added_at": "2026-01-04 12:08:56",
+      "album": {
+        "name": "Can you call?",
+        "url": "https://open.spotify.com/album/4KJ3VplFhO9gCQOGyhPJ5Y"
+      },
+      "artists": [
+        {
+          "name": "ZLAKE",
+          "url": "https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Can you call?",
+      "url": "https://open.spotify.com/track/4v4g7aRNtY7kk46Q6ihguu"
+    },
+    {
+      "added_at": "2026-01-04 12:09:06",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/3zWSg2gQ6DIPtjV0lGMqFo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0v3pBPPUXwbZBNzH6KABkR"
+        }
+      ],
+      "duration_ms": 148675,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2VUFOhph4XxIiiR2Fuqudi"
+    },
+    {
+      "added_at": "2026-01-04 12:09:17",
+      "album": {
+        "name": "Open Strum",
+        "url": "https://open.spotify.com/album/6SHMZncYOpPolAVIaZMD3L"
+      },
+      "artists": [
+        {
+          "name": "Open Strum",
+          "url": "https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932"
+        },
+        {
+          "name": "Hubert Francis",
+          "url": "https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e"
+        }
+      ],
+      "duration_ms": 113720,
+      "name": "The Gathering Chant",
+      "url": "https://open.spotify.com/track/6TATxNoveGvnIxWLoA8GbO"
+    },
+    {
+      "added_at": "2026-01-04 12:09:32",
+      "album": {
+        "name": "Situazione complicata",
+        "url": "https://open.spotify.com/album/6yKjEIz2nxP8dpTOfwwoZ9"
+      },
+      "artists": [
+        {
+          "name": "Michele Blasco",
+          "url": "https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW"
+        }
+      ],
+      "duration_ms": 222207,
+      "name": "Situazione complicata",
+      "url": "https://open.spotify.com/track/08UX2BEhPxVX2TFBl1igwE"
+    },
+    {
+      "added_at": "2026-01-04 13:03:20",
+      "album": {
+        "name": "Playing Games Again",
+        "url": "https://open.spotify.com/album/6S4v3E0vuhnUFFTjoA4zSk"
+      },
+      "artists": [
+        {
+          "name": "Jenner Brandon",
+          "url": "https://open.spotify.com/artist/0tzRDLY7TgosQIxgB1mCte"
+        }
+      ],
+      "duration_ms": 142960,
+      "name": "Playing Games Again",
+      "url": "https://open.spotify.com/track/36njWEANR6L7Y7oJwF6PsP"
+    },
+    {
+      "added_at": "2026-01-04 16:29:48",
+      "album": {
+        "name": "Mister Cassimy",
+        "url": "https://open.spotify.com/album/3QurtUCxNdwv5fbAVzTrFW"
+      },
+      "artists": [
+        {
+          "name": "Evrod Cassimy",
+          "url": "https://open.spotify.com/artist/79fiDRFteZu6dW75vx7ol5"
+        }
+      ],
+      "duration_ms": 174248,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/3JLT6C7CoyxBhXKX2nZJWk"
+    },
+    {
+      "added_at": "2026-01-04 18:33:36",
+      "album": {
+        "name": "Open Strum 2",
+        "url": "https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko"
+      },
+      "artists": [
+        {
+          "name": "Open Strum",
+          "url": "https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932"
+        },
+        {
+          "name": "Danny Bourgeois",
+          "url": "https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Wolves (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK"
     }
   ],
   "unique_name": "New Indie Music",

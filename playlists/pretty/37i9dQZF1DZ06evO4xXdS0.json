@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 505439,
+  "num_followers": 505481,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACTMZ1zKuQj+be2T1JU2H2Z",
+  "snapshot_id": "aVhcAAAAAACr+YfxR3I3/DajNUe7KvNN",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Tomorrow Is My Turn",
-      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 253800,
       "name": "Lilac Wine",
       "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 259866,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
     },
     {
       "added_at": null,

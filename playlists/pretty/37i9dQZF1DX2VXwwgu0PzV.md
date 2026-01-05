@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Cee Sharp & Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,041 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,059 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

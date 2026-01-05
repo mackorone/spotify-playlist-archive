@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,209 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,238 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 28 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/7zqcivRqGdMJpvXeBjBYhQ) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Los Originales](https://open.spotify.com/album/3bs5xfckUfDqTMJqdzJcb5) | 2:48 |
 | 29 | [Por que Te Amo Tanto](https://open.spotify.com/track/6NwGEYGZ4lRSZ5D0f03ckx) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Rock de los 60's](https://open.spotify.com/album/057AlXqiJT5LmMyqWzWHk3) | 2:25 |
 | 30 | [Ruedas](https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E) | [Fabricio](https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn) | [Multiplicación](https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9) | 2:02 |
-| 31 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
-| 32 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
+| 31 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
+| 32 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
 | 33 | [El Abuelo Ye Ye](https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:25 |
 | 34 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
 | 35 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |

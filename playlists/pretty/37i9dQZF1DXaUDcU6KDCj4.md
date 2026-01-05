@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,511 likes - 182 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,514 likes - 182 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 100 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 101 | [Pajarito](https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Pajarito](https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71) | 1:40 |
 | 102 | [Home](https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Home](https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH) | 1:59 |
-| 103 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 103 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 104 | [Capital I](https://open.spotify.com/track/05aeDb92Kyyy6ANkRzoQJf) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Borrow or Rob](https://open.spotify.com/album/4mtdVPjqnp4TvvVk9xhfgM) | 3:37 |
 | 105 | [Laying Low](https://open.spotify.com/track/68LCrRHSHTVagcSFf0OjUH) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Love and Fortune](https://open.spotify.com/album/7qEZ2vRPu9ojHwkCWMRrOB) | 3:30 |
 | 106 | [Hold On To The Light](https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hold On To The Light](https://open.spotify.com/album/0znG5vLsfp5W8CSbPdoY4i) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > The Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,790 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,814 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 25 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
 | 26 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
 | 27 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
-| 28 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
-| 29 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
+| 28 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
+| 29 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
 | 30 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 |
 | 31 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 32 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
-| 33 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
-| 34 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
+| 33 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
+| 34 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
 | 35 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 36 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 | 37 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |

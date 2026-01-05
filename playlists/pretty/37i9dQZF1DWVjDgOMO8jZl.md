@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
+> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Emma Nolde in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,111 likes - 31 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,108 likes - 31 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

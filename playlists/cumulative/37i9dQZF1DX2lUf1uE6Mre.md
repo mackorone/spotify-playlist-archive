@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-414 songs - 17 hr 33 min
+415 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Parkplatz](https://open.spotify.com/track/3sTr8yoAaBlnBARdiVTvpP) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Parkplatz](https://open.spotify.com/album/3nLKdyHEUFyx0EPcoeV7X3) | 2:34 | 2025-11-06 |  |
 | [party girls don’t cry](https://open.spotify.com/track/3UHFCU03ID0xyFQywdR0A9) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [party girls don’t cry](https://open.spotify.com/album/7C26v74F2WB5qo9wInxpgS) | 2:31 | 2025-04-10 | 2025-04-25 |
 | [Pasaport](https://open.spotify.com/track/1QA3bX5WWKkLqHb6Ft69Qc) | [Delil](https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Pasaport](https://open.spotify.com/album/4eBfzWqgbbTiqHsU0CONlf) | 2:03 | 2024-06-28 | 2025-11-07 |
-| [Pech & Schwefel](https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Pech & Schwefel](https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R) | 3:07 | 2025-10-02 |  |
+| [Pech & Schwefel](https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Pech & Schwefel](https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R) | 3:07 | 2025-10-02 | 2026-01-05 |
 | [Phantom](https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Phantom](https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v) | 2:33 | 2025-11-27 |  |
 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 | 2024-06-28 | 2025-11-07 |
 | [Planet Vegeta](https://open.spotify.com/track/5yc8bnBQ4c8uNBNVkYQFJb) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7) | [Planet Vegeta](https://open.spotify.com/album/5tjI8eVQxXXCu3mUng3pcO) | 2:21 | 2025-12-19 |  |
@@ -328,6 +328,7 @@
 | [Sie ist](https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Sie ist](https://open.spotify.com/album/55LftgNaBrImsVkBQZLUsG) | 2:24 | 2025-10-16 |  |
 | [Simpel](https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Simpel](https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL) | 2:43 | 2025-08-28 |  |
 | [Skandal](https://open.spotify.com/track/5AXo7u1jihgxE4sjzDed2y) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [Skandal](https://open.spotify.com/album/3gM4Id6Vz2mnzjJn3Kxf4U) | 2:52 | 2025-03-24 | 2025-04-25 |
+| [Slumdog Millionär](https://open.spotify.com/track/1BDbJHMlLpLvuCXXFqMzCl) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Aymo](https://open.spotify.com/album/56Mh0Il6skOooJcxoHsVim) | 3:04 | 2025-12-19 |  |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-10-11 |
 | [SO FRESH SO CLEAN](https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [G\-CODE](https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw) | 2:30 | 2025-03-24 |  |
 | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/track/5g6kQitL4OSo9tWkWDGkNT) | [Celo & Abdi](https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/album/4CPkcm6whVsY6f48SHjxpB) | 2:49 | 2024-06-28 | 2024-08-22 |

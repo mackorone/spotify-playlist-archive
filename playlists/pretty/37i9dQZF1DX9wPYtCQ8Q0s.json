@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 317739,
+  "num_followers": 317708,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Family Matters",
-        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 456933,
-      "name": "Family Matters",
-      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "Don't Box Me In",
         "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 191907,
       "name": "2 Mazza (feat. Drake)",
       "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 227692,
-      "name": "Evil Ways (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 199427,
       "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1543,6 +1543,30 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "La Maquina",
+        "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Scatter Brain (feat. Ludacris & JID)",
+      "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1567,30 +1591,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "La Maquina",
-        "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Scatter Brain (feat. Ludacris & JID)",
-      "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
     },
     {
       "added_at": "2025-12-11 16:00:17",

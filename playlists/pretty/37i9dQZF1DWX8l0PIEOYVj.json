@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with Seven Lions",
-  "num_followers": 472878,
+  "num_followers": 472866,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Same High",
         "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 213000,
       "name": "Same High",
       "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3"
-      },
-      "artists": [
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "I Am Not My Body",
-        "url": "https://open.spotify.com/album/2xeVGOuUdFsNJJZIZ7pTHt"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 138918,
-      "name": "I Am Not My Body",
-      "url": "https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "DOPAMINE++",
         "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
       },
@@ -1503,26 +1487,18 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
+        "name": "I Am Not My Body",
+        "url": "https://open.spotify.com/album/2xeVGOuUdFsNJJZIZ7pTHt"
       },
       "artists": [
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "ANDe",
-          "url": "https://open.spotify.com/artist/47p7liSrrHaWOqBiegEJGy"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         }
       ],
-      "duration_ms": 271298,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/1YeNK6CZfTOjphogqF6ois"
+      "duration_ms": 138918,
+      "name": "I Am Not My Body",
+      "url": "https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1547,6 +1523,30 @@
       "duration_ms": 230068,
       "name": "A Better World",
       "url": "https://open.spotify.com/track/7MARy6sJ24UhLfbEsVs7a0"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "ANDe",
+          "url": "https://open.spotify.com/artist/47p7liSrrHaWOqBiegEJGy"
+        }
+      ],
+      "duration_ms": 271298,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/1YeNK6CZfTOjphogqF6ois"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Just A Mirage",
         "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 288000,
       "name": "Just A Mirage",
       "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "XE3 (Whethan Turn)",
+        "url": "https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr"
+      },
+      "artists": [
+        {
+          "name": "Mssingno",
+          "url": "https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "XE3 (Whethan Turn)",
+      "url": "https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "XE3 (Whethan Turn)",
-        "url": "https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr"
-      },
-      "artists": [
-        {
-          "name": "Mssingno",
-          "url": "https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "XE3 (Whethan Turn)",
-      "url": "https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Nothing to Lose",
         "url": "https://open.spotify.com/album/1SIhxMaUOEnfa3TSFjCgqG"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 232000,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/0fUGpNaRH925javytIbW5h"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2367,6 +2367,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Who Am I Now",
+        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Who Am I Now",
+      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/6w6CCu67mut6Kn8UVfKWHo"
       },
@@ -2387,26 +2407,6 @@
       "duration_ms": 252387,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1yzJPwHYOiYmxLsFiegKou"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Who Am I Now",
-        "url": "https://open.spotify.com/album/2POM1L7zMqtNorwBow3iAY"
-      },
-      "artists": [
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "GLNNA",
-          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Who Am I Now",
-      "url": "https://open.spotify.com/track/1ojE0p2PApAkCkRYaPlK5Q"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2455,26 +2455,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "All We Need",
-        "url": "https://open.spotify.com/album/46pgGtx7kSYsDqXeLVQgCd"
-      },
-      "artists": [
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "All We Need",
-      "url": "https://open.spotify.com/track/0RREnEZetqn1UjcPaLQBBU"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "I Feel Alive",
         "url": "https://open.spotify.com/album/3cKs83Pz9RlNILp4JZen07"
       },
@@ -2491,6 +2471,26 @@
       "duration_ms": 219200,
       "name": "I Feel Alive",
       "url": "https://open.spotify.com/track/42yauBSK4hCNL88yMHM5dV"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/46pgGtx7kSYsDqXeLVQgCd"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/0RREnEZetqn1UjcPaLQBBU"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "can\u2019t come down",
-        "url": "https://open.spotify.com/album/0aRP0BVUcGu72hsL33woPA"
-      },
-      "artists": [
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        },
-        {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "can't come down",
-      "url": "https://open.spotify.com/track/3rs24EFgAoF6zX7FlTHHmK"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
       },
@@ -2651,6 +2631,26 @@
       "duration_ms": 240000,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "can\u2019t come down",
+        "url": "https://open.spotify.com/album/0aRP0BVUcGu72hsL33woPA"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "can't come down",
+      "url": "https://open.spotify.com/track/3rs24EFgAoF6zX7FlTHHmK"
     },
     {
       "added_at": "2025-12-19 05:00:35",

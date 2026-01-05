@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Karan Aujla & Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,228 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,239 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

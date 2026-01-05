@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-95 songs - 6 hr 11 min
+96 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 |  |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
 | [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-11 |  |
+| [P](https://open.spotify.com/track/0amoXRUE2zKK8BkogS7oDX) | [NoFap](https://open.spotify.com/artist/7iP0M2miLscLy2PCughele) | [P](https://open.spotify.com/album/2iKytyfl8SOZlCk73EMTAa) | 3:22 | 2026-01-04 |  |
 | [Peace Defined](https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Peace Defined](https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN) | 4:21 | 2025-09-10 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-11-24 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |

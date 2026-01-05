@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Courtney Marie Andrews
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721,352 likes - 107 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,721,203 likes - 107 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 2 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
 | 3 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 |
-| 4 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 4 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 5 | [Music by Men](https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:31 |
 | 6 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 |
 | 7 | [Little Picture of a Butterfly](https://open.spotify.com/track/2R2AITSPOZeKXwekNA46ug) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Little Picture of a Butterfly](https://open.spotify.com/album/6BC23J8lxnqKVEDpaZ2Zi7) | 4:45 |

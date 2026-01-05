@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 236474,
+  "num_followers": 236525,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAD5FXg0DD0tUEOyU1SMqIDA",
+  "snapshot_id": "aVhcAAAAAACeeb+rLBihqK7Oj27ESpuZ",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Get You Down",
-      "url": "https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventeen Going Under (Live Deluxe)",
         "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Get You Down",
+      "url": "https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Pretending That You're Dead",
-      "url": "https://open.spotify.com/track/4NCq3RBBNrwEECqKnIUXvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Pretending That You're Dead",
+      "url": "https://open.spotify.com/track/4NCq3RBBNrwEECqKnIUXvZ"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greasy Spoon",
         "url": "https://open.spotify.com/album/3Gd8IlgSnxxjFQW5dQaSFC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 178414,
       "name": "Greasy Spoon",
       "url": "https://open.spotify.com/track/0DDUWYjTJCV3R4S4FOUTcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx"
     },
     {
       "added_at": null,

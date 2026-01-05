@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack.
 
-512 songs - 1 day 7 hr 30 min
+513 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 | 2022-01-26 | 2022-04-16 |
 | [Archie, Marry Me](https://open.spotify.com/track/1cSzFn8tBOd75LCCHRRll0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/7hZHazzF2CYhmxIzvgDtyC) | 3:16 | 2021-03-26 | 2022-04-21 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-26 |  |
-| [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2023-09-25 |  |
+| [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2023-09-25 | 2026-01-05 |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2024-04-26 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-08-22 |  |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2021-03-26 | 2022-04-20 |
@@ -115,6 +115,7 @@
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2021-03-26 | 2022-04-21 |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2021-03-26 | 2022-07-29 |
 | [deja vu](https://open.spotify.com/track/0pxSWLTNNDqVfCttX1iodN) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/6yWrpE2mIyPHZGruU12jhP) | 3:35 | 2021-04-02 | 2022-07-29 |
+| [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2025-12-05 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-27 | 2024-10-28 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-19 | 2023-09-26 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-03-17 | 2023-07-24 |

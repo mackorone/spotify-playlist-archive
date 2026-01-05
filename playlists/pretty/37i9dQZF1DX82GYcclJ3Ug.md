@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,158 likes - 135 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,130 likes - 135 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 40 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 |
 | 41 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 42 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
-| 43 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 43 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 44 | [75$72](https://open.spotify.com/track/54JAMmH0gbqITnnorqN1WJ) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [75$72](https://open.spotify.com/album/4BjPYS5MEh3TJRLx8tHgVY) | 3:28 |
 | 45 | [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 |
 | 46 | [Failure](https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Failure](https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE) | 2:24 |

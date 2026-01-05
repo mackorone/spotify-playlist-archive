@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 65267,
+  "num_followers": 65287,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -243,6 +243,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 177190,
+      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -255,30 +279,6 @@
       "duration_ms": 173893,
       "name": "Letter From Houston",
       "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -307,26 +307,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
         }
       ],
-      "duration_ms": 177190,
-      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -431,22 +431,54 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "YTB Trench",
+          "url": "https://open.spotify.com/artist/5PHYg0IcnpyZJ1y9euAx4i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 212063,
-      "name": "Already Won (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
+      "duration_ms": 201546,
+      "name": "Paid the Fine (feat. Lil Baby & YTB Trench)",
+      "url": "https://open.spotify.com/track/0GqaZ1L5KAXMNngAZbGvLf"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -471,6 +503,26 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 212063,
+      "name": "Already Won (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -511,8 +563,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
       "artists": [
         {
@@ -520,13 +572,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+      "duration_ms": 123446,
+      "name": "Face Of My City (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -547,34 +599,62 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
+      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "YTB Trench",
-          "url": "https://open.spotify.com/artist/5PHYg0IcnpyZJ1y9euAx4i"
-        },
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 231771,
+      "name": "Get Ready (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 201546,
-      "name": "Paid the Fine (feat. Lil Baby & YTB Trench)",
-      "url": "https://open.spotify.com/track/0GqaZ1L5KAXMNngAZbGvLf"
+      "duration_ms": 195063,
+      "name": "Still Hood",
+      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,66 +715,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 231771,
-      "name": "Get Ready (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
-      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 195063,
-      "name": "Still Hood",
-      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "G.I.H.F.",
         "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
       },
@@ -719,22 +739,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+        "name": "Forever Set In Stone",
+        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 123446,
-      "name": "Face Of My City (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
+      "duration_ms": 179997,
+      "name": "Forever Set In Stone",
+      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Forever Set In Stone",
-        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Forever Set In Stone",
-      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Life of Betrayal",
         "url": "https://open.spotify.com/album/2X3LXTlexW5rShj3ygFBLf"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 359139,
       "name": "I Wish Grandpas Never Died - Live",
       "url": "https://open.spotify.com/track/7KYUPObhhhayMQleMepg3u"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 126256,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/1t7H77FNwoit8U4NiXij66"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     }
   ],
   "unique_name": "Druski's Taste",

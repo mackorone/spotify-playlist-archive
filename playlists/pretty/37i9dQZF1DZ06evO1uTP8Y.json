@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 10429,
+  "num_followers": 10465,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADeL4MEF2ji9QpcwHf3WsKq",
+  "snapshot_id": "aVhcAAAAAADrQQJwee6/vPJYSR5QxoHn",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 142135,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+      "duration_ms": 179036,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
     },
     {
       "added_at": null,
@@ -195,18 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaslight 101",
-        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
       "artists": [
         {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 179036,
-      "name": "Gaslight 101",
-      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
       "added_at": null,

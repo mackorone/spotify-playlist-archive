@@ -3481,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "CATCH!!!",
+        "url": "https://open.spotify.com/album/35CagDuUQABqYxk4hghz5a"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "CATCH!!!",
+      "url": "https://open.spotify.com/track/6EnaMPmxQwv0Hy3sbv6yaw"
+    },
+    {
+      "album": {
         "name": "Chain",
         "url": "https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB"
       },
@@ -11409,6 +11427,24 @@
     },
     {
       "album": {
+        "name": "Kotozute",
+        "url": "https://open.spotify.com/album/6ZR9n1hm3cFAhj4087XZ7L"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275925,
+      "name": "Kotozute",
+      "url": "https://open.spotify.com/track/0xMkAsZxwq6TRmZWFORNVz"
+    },
+    {
+      "album": {
         "name": "KUNOICHI",
         "url": "https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI"
       },
@@ -17776,7 +17812,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 212194,
       "name": "RIRONBUSO SITE",
       "url": "https://open.spotify.com/track/2lSLJUdUP82uFZKZ43gZlr"
@@ -39632,7 +39668,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-05",
       "duration_ms": 335274,
       "name": "\u679c\u3066\u3057\u306a\u304d",
       "url": "https://open.spotify.com/track/0Ua4vUehTg5JcWrEKugWRt"

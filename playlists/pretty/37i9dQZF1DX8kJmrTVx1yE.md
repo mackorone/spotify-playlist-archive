@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 
 > Dale play, y que los temazos no paren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,797 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,847 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 22 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 23 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 24 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
-| 25 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
+| 25 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 |
 | 26 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
-| 27 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 |
+| 27 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
 | 28 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
 | 29 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 30 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 68 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
 | 69 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 70 | [Dejame Llorar](https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 5:12 |
-| 71 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 72 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 71 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 72 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 73 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 74 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
 | 75 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |

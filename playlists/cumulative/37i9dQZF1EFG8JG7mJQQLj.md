@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-605 songs - 1 day 10 hr 6 min
+606 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [All We Are](https://open.spotify.com/track/1Jx69b09LKTuBQxkEiFfVX) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:26 | 2024-01-29 |  |
 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 | 2024-01-29 |  |
 | [Already Gone](https://open.spotify.com/track/5zCunX8URvLoBHlg1Fnjv6) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 4:03 | 2024-01-29 |  |
-| [Amnesia](https://open.spotify.com/track/0FFH6s2w7Kc9rJDmm39zNA) | [Dima Bilan](https://open.spotify.com/artist/19rplJ3Uh67C1fNAwq7ohw) | [Believe](https://open.spotify.com/album/79WcDcIIWtVpvFo5Nh7tOK) | 3:38 | 2024-01-29 |  |
+| [Amnesia](https://open.spotify.com/track/0FFH6s2w7Kc9rJDmm39zNA) | [Dima Bilan](https://open.spotify.com/artist/19rplJ3Uh67C1fNAwq7ohw) | [Believe](https://open.spotify.com/album/79WcDcIIWtVpvFo5Nh7tOK) | 3:38 | 2024-01-29 | 2026-01-05 |
+| [Amnesia](https://open.spotify.com/track/1v5fn8mb4aW4MTs95atAxa) | [Dima Bilan](https://open.spotify.com/artist/19rplJ3Uh67C1fNAwq7ohw) | [Believe](https://open.spotify.com/album/5erbvgWn5S4UXvcnBI7FER) | 3:38 | 2026-01-04 |  |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2024-01-29 |  |
 | [Angels Like You](https://open.spotify.com/track/2WpUhVtOOBjnCv3u95JASR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Angels Like You \(Official Video\)](https://open.spotify.com/album/2QOSpCedUS3qeNhFb6F9Lt) | 4:05 | 2024-01-30 | 2024-02-02 |
 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 | 2024-01-29 |  |

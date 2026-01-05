@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,160 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,234 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 46 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 |
 | 47 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 48 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
-| 49 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 50 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
+| 49 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
+| 50 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 51 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
 | 52 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 53 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 57 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
 | 58 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 59 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 |
-| 60 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
-| 61 | [Dixieland Delight](https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Closer You Get...](https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM) | 5:25 |
+| 60 | [Dixieland Delight](https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Closer You Get...](https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM) | 5:25 |
+| 61 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 62 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 63 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
 | 64 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 96 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:50 |
 | 97 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 |
 | 98 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
-| 99 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 |
-| 100 | [Friends Like That \(feat\. Jason Aldean\)](https://open.spotify.com/track/3RL5e0b30F6Ly6Z0gvJlcF) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Friends Like That \(feat\. Jason Aldean\)](https://open.spotify.com/album/3Pfcc6AxszeBvZyMzKlRCs) | 3:06 |
+| 99 | [Friends Like That \(feat\. Jason Aldean\)](https://open.spotify.com/track/3RL5e0b30F6Ly6Z0gvJlcF) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Friends Like That \(feat\. Jason Aldean\)](https://open.spotify.com/album/3Pfcc6AxszeBvZyMzKlRCs) | 3:06 |
+| 100 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 |
 
 Snapshot ID: `AAAAAA2AC2TGQ5h+PI/cSfdh3eY2fNfc`

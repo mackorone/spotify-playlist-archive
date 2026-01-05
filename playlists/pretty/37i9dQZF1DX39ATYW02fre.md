@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,924 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,967 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 30 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 31 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 | 32 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 |
-| 33 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 34 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 33 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 34 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 35 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 |
 | 36 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
-| 37 | [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 |
-| 38 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
+| 37 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
+| 38 | [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 |
 | 39 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
 | 40 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 41 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |

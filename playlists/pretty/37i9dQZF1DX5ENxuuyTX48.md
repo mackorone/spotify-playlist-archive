@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: Ernie Zakri, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,919 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,922 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 44 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 45 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
 | 46 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 |
-| 47 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
+| 47 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
 | 48 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
-| 49 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
+| 49 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 50 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
 
 Snapshot ID: `AAAAAFoZtixH1+L/9IU852MQ4TqDdXi7`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 549524,
+  "num_followers": 549786,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAVBWFYQDT19MhBu0EgBEAT",
+  "snapshot_id": "aVhcAAAAAABu9vc7hiSiTQIpxphU2gSb",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/2YUVybwjooIwGMbyzpeplq"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/0jYGePHozqLtHWoKVQZrFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apodo",
-        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 173954,
-      "name": "Apodo",
-      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 157600,
       "name": "0 SENTIMIENTOS",
       "url": "https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,935 songs - 4 day 17 hr 22 min
+1,939 songs - 4 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Fall in](https://open.spotify.com/track/1ja9Y6okchKZddKX0Z5DvO) | [JsSenor](https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9), [dazingoff](https://open.spotify.com/artist/0ey5UfPaLdQCjyax6o3OII) | [I wanna feel love](https://open.spotify.com/album/31lhzT6x3dxjpUq5egXU4j) | 2:29 | 2025-08-19 |  |
 | [Fall Like Rain](https://open.spotify.com/track/4okl3ndjrfVdBcBjsh7LNz) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [Growing Up](https://open.spotify.com/album/5UkoMQKGss3s6TIerlJFzf) | 2:47 | 2024-08-26 |  |
 | [Fallen Angel \(Mild Abomination\)](https://open.spotify.com/track/6nt6GFSIFNcMYgjeWz2Quk) | [Daniel Horton](https://open.spotify.com/artist/4sVUM23ROHtFuQgj03qSw7) | [Pleading for Judas.](https://open.spotify.com/album/40ivNxDtuYSFdmLoJ7O1aY) | 3:07 | 2024-05-20 |  |
+| [Falling Apart](https://open.spotify.com/track/6kMZHZFL24X8WFbjvpHj0h) | [Stranger In The Room](https://open.spotify.com/artist/5qwZlRW1t0uj8vJP99ow83) | [Falling Apart](https://open.spotify.com/album/7rb1CZSyg8BFa6j39wCqd2) | 4:06 | 2026-01-04 |  |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2025-12-09 |  |
 | [Falling Petals](https://open.spotify.com/track/641nzVqym9Ika5Kgxaxcgn) | [Sleeping Fox](https://open.spotify.com/artist/540u2i9eC0MQvVy45YVqDa) | [Falling Petals](https://open.spotify.com/album/3tJfVKvDvc1rLovb8fUpZc) | 3:06 | 2025-06-20 |  |
 | [Fama Drama](https://open.spotify.com/track/1z9ix3duj6QUsB8Q9g7QaJ) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Fama Drama](https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD) | 3:10 | 2025-10-14 |  |
@@ -820,6 +821,7 @@
 | [In The Grey](https://open.spotify.com/track/2Y2c0FKVeIFd3IErGVzBHQ) | [Daniel Parsons](https://open.spotify.com/artist/7dRlQLZCamdKLzJGL75T0f) | [In The Grey](https://open.spotify.com/album/5cVu54mDVOP41JR8lm2sK9) | 2:07 | 2025-05-29 |  |
 | [In The Light](https://open.spotify.com/track/7vnzDwtFQk81tOfyhaKRW5) | [Ethan Brown](https://open.spotify.com/artist/5W55dgAAq0SZRlnxQ6LGAI) | [In The Light](https://open.spotify.com/album/1R1O4sWV3FpiMDB8K0zRpi) | 4:06 | 2024-07-21 |  |
 | [In the Middle](https://open.spotify.com/track/4yRu5P0gJtuu6IZhaz2uFw) | [Rowan Newcomb](https://open.spotify.com/artist/4eR6CQMscB4QgyyRvpFzoh) | [In the Middle](https://open.spotify.com/album/1vhFBxRPVWXWYLsTLO5vOx) | 4:00 | 2025-11-17 |  |
+| [In the quiet of the night](https://open.spotify.com/track/0E8HI1hCSZIUg8EwvvTLTH) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [In the quiet of the night](https://open.spotify.com/album/37c6qoNN7SW3sF0547OjOt) | 3:37 | 2026-01-04 |  |
 | [In the Shop](https://open.spotify.com/track/6JUoj0Voet2JsPLjryPBNK) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Everything Is Temporary](https://open.spotify.com/album/2OVSUzXDFmfXYm0gaLTrNV) | 4:03 | 2025-07-21 |  |
 | [In the Snow](https://open.spotify.com/track/5T5m05AwU5nqpmEB7QkBzc) | [TrapHaus Creo](https://open.spotify.com/artist/5HCSQ0AGG0egsqqUMLNHif) | [In the Snow](https://open.spotify.com/album/012lqqPhIfoU1LJ037LYx4) | 1:37 | 2024-08-29 |  |
 | [In the water](https://open.spotify.com/track/4qtVkjMvoKaZpBCDO9ELvs) | [Blindman](https://open.spotify.com/artist/3Sg69LJn3oGVu3hB0o7313) | [In The Water](https://open.spotify.com/album/6Ubyhw2l6ToM3vSGq9s0xA) | 4:15 | 2025-03-26 |  |
@@ -1155,6 +1157,7 @@
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-08-14 |  |
 | [No Tomorrow](https://open.spotify.com/track/2GrAPuU2WQgNMmo4jkJfBk) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [No Tomorrow](https://open.spotify.com/album/3Vnk4zERDz8zHb7GzXJK1K) | 3:11 | 2025-05-01 |  |
 | [Nobody's Party](https://open.spotify.com/track/1RBbF0iJ632hhhR6eCvEUq) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Nobody's Party](https://open.spotify.com/album/44fcCU4HGUqtEVTyx5G6on) | 4:32 | 2024-09-09 |  |
+| [Nocturna](https://open.spotify.com/track/3g3ndZiKovVRfcmU195JjG) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP), [Microfono Amarillo](https://open.spotify.com/artist/55mktFKHMf876y87zBzMyY) | [Nocturna](https://open.spotify.com/album/51ZE109C9PTxRM0GmZxYH5) | 3:57 | 2026-01-04 |  |
 | [Non so perchè](https://open.spotify.com/track/6xOCExbmCTDLGYCx6UGka0) | [Troppofreak](https://open.spotify.com/artist/17hSlSuT49zZZpllmIWHZX) | [Non so perchè](https://open.spotify.com/album/5utoSYLteDukZJaC3IMQvc) | 3:24 | 2025-11-25 |  |
 | [North Carolina](https://open.spotify.com/track/6bjoDCYFGRgMWB5AApmVpL) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [stir\-crazy](https://open.spotify.com/album/2uVoW0lD6AMHQcxGK7Zc9t) | 3:31 | 2025-07-02 |  |
 | [North Up the Avenue](https://open.spotify.com/track/5BclCB4RlC2BNsBwmiQlBx) | [The Hale Brothers](https://open.spotify.com/artist/2tN2hgz3zHLfQzYLXp8Yt4) | [North Up the Avenue](https://open.spotify.com/album/7p3h4CAc4BQC7H1feXZkst) | 3:16 | 2025-05-20 |  |
@@ -1275,6 +1278,7 @@
 | [Portals](https://open.spotify.com/track/2fobEYVrSi58I87wMhJuMB) | [Ghostcake](https://open.spotify.com/artist/5Bw8ybOh68aelvHDJEsoNb) | [Portals](https://open.spotify.com/album/71PrqmT0gmNw3ppgI1BB8p) | 3:43 | 2025-10-14 |  |
 | [PORTOFINO](https://open.spotify.com/track/3grfVUE40sDo56NFfrzP2N) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [PORTOFINO](https://open.spotify.com/album/0QhGmfZRTXFCIurpMqus8E) | 3:07 | 2025-08-25 |  |
 | [Postcard Friends](https://open.spotify.com/track/4QKa12mkqcvc1QtEYed0y4) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Postcard Friends](https://open.spotify.com/album/5Uucav77D9xs1LO0hQmCvg) | 3:41 | 2025-07-08 |  |
+| [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2026-01-04 |  |
 | [Praia Da Brisa](https://open.spotify.com/track/1FHbwsrjtgdJb62dDd38WN) | [Autumn Flyz](https://open.spotify.com/artist/4zX3bdAM4scgQffjR9kXju), [Solposto](https://open.spotify.com/artist/6eWu78OiCHFtRI2ORJpAuu) | [Praia Da Brisa](https://open.spotify.com/album/0AUG5jUHTMnZd5EmAYHj90) | 1:50 | 2025-07-31 |  |
 | [Pray for Tonight](https://open.spotify.com/track/3oe09Q7QkdLddpZ5Qf4PRO) | [Tears on Paper](https://open.spotify.com/artist/3I8bUKDD6miAP2trqMdWo4) | [Pray for Tonight](https://open.spotify.com/album/6VoNFQFefnLBrbhknk2s83) | 5:47 | 2025-09-29 |  |
 | [Prefiero Mentirte Otra Vez](https://open.spotify.com/track/3KztQerQbQCkSiHfX0O5ds) | [Ay Gregorio!](https://open.spotify.com/artist/7JWYz76kcuMX1ZpdgQKGhs), [Andrea Razo](https://open.spotify.com/artist/5dV7tTPS55Vx4RB14rc9Hg) | [Cantos Gregorianos Renacidos](https://open.spotify.com/album/37I3BnW3ul9E9sCWKWS4oS) | 3:21 | 2025-06-21 |  |

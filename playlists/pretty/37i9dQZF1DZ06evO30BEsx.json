@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1812,
+  "num_followers": 1813,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADwuiuATJq+Vd21EYmKrH1b",
+  "snapshot_id": "aVhcAAAAAABIvQbqft40hFmNirxHgaQF",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
-      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faur\u00e9: Complete Chamber Music for Strings",
         "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 232995,
       "name": "Faur\u00e9: Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belli: T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+        "url": "https://open.spotify.com/album/0f2oCCwQkp4SLKghExzPF2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "T\u00e0m\u00e2r M\u0115t\u016bshel\u0101\u1e25",
+      "url": "https://open.spotify.com/track/7dv6WvK413GDS9322npcfM"
     },
     {
       "added_at": null,
@@ -411,58 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Marguerite Monnot",
-          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Monnot / Orch. Ducros: Hymne \u00e0 l'amour",
-      "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dessner: Towards the Forest",
-        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Towards the Forest",
-      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -495,6 +443,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dessner: Towards the Forest",
+        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Towards the Forest",
+      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Monnot",
+          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Monnot / Orch. Ducros: Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dunckel: Wake",
         "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
@@ -515,38 +515,6 @@
       "duration_ms": 252866,
       "name": "Wake",
       "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/15Tm3klxsizQAnp0vkRjZE"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Richter: The Leftovers: She Remembers",
-      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/15Tm3klxsizQAnp0vkRjZE"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Richter: The Leftovers: She Remembers",
+      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -619,58 +619,6 @@
       "duration_ms": 275933,
       "name": "Sequence for Ga\u00efa",
       "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 344426,
-      "name": "Dvo\u0159\u00e1k: Rusalka, Op. 114, B. 203, Act 1: Song to the Moon (Instrumental Version)",
-      "url": "https://open.spotify.com/track/4wjvxvqEkdTr6smrVh8WKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Adagietto\" - Soft and Relaxing Music",
-        "url": "https://open.spotify.com/album/49RLVp155M89DFefilrbIG"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 91093,
-      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/7EQenLjNIhHZKFvsmpzyVs"
     },
     {
       "added_at": null,
@@ -728,16 +676,12 @@
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
           "name": "Adrien Perruchon",
@@ -748,9 +692,33 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 181197,
-      "name": "Cohen / Orch. Ducros: Hallelujah",
-      "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
+      "duration_ms": 344426,
+      "name": "Dvo\u0159\u00e1k: Rusalka, Op. 114, B. 203, Act 1: Song to the Moon (Instrumental Version)",
+      "url": "https://open.spotify.com/track/4wjvxvqEkdTr6smrVh8WKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Adagietto\" - Soft and Relaxing Music",
+        "url": "https://open.spotify.com/album/49RLVp155M89DFefilrbIG"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 91093,
+      "name": "Bach, JS: The Well-Tempered Clavier, Book I, Prelude and Fugue No. 5 in D Major, BWV 850: Prelude (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/7EQenLjNIhHZKFvsmpzyVs"
     },
     {
       "added_at": null,
@@ -815,6 +783,66 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 181197,
+      "name": "Cohen / Orch. Ducros: Hallelujah",
+      "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Franz Leh\u00e1r",
+          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Heure exquise (From La Veuve joyeuse)",
+      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
     },
     {
       "added_at": null,
@@ -896,8 +924,8 @@
       },
       "artists": [
         {
-          "name": "Franz Leh\u00e1r",
-          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -912,9 +940,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Heure exquise (From La Veuve joyeuse)",
-      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+      "duration_ms": 221693,
+      "name": "Barcarolle (From Les contes d\u2019Hoffmann)",
+      "url": "https://open.spotify.com/track/4V1R4gea117Fvh48YSuZCY"
     },
     {
       "added_at": null,
@@ -971,62 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        }
-      ],
-      "duration_ms": 387440,
-      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Jacques Offenbach",
-          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Barcarolle (From Les contes d\u2019Hoffmann)",
-      "url": "https://open.spotify.com/track/4V1R4gea117Fvh48YSuZCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beethoven: Piano Trios No. 5, \"Ghost\" & No. 7, \"Archduke\"",
         "url": "https://open.spotify.com/album/6Zkzy8c0Zax3LkGLKOBhnq"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 687426,
       "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
     },
     {
       "added_at": null,
@@ -1163,34 +1163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninoff & Brahms",
-        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Andreas Ottensamer",
-          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
-      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
         "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
@@ -1239,6 +1211,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rachmaninoff & Brahms",
+        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
+      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations",
         "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
       },
@@ -1263,30 +1263,6 @@
       "duration_ms": 172173,
       "name": "Nessun dorma (From \"Turandot\")",
       "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
-        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 385493,
-      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
-      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
     },
     {
       "added_at": null,
@@ -1319,6 +1295,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
+        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 385493,
+      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
+      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destination Paris",
         "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
@@ -1343,50 +1343,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "Sensations - La vie en rose",
+        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "B\u00e9atrice Muthelet",
-          "url": "https://open.spotify.com/artist/1g2WdTd3cGeJBqaRPd337j"
-        },
-        {
-          "name": "Esther Hoppe",
-          "url": "https://open.spotify.com/artist/5P6R1Fp5iLgZHZ090XVs7F"
-        },
-        {
-          "name": "Florent Jodelet",
-          "url": "https://open.spotify.com/artist/6bRfALDm1P7NjYk9eIiRiE"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Louiguy",
+          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Michel Dalberto",
-          "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         },
         {
-          "name": "Paul Meyer",
-          "url": "https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn"
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 76133,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux, R 125: XII. Fossiles",
-      "url": "https://open.spotify.com/track/6twvqDY7lfbPn3FUD1VlDX"
+      "duration_ms": 264013,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

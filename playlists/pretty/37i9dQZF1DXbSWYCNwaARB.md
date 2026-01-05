@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: KATSEYE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,434 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,548 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 17 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 18 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 19 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
-| 20 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
-| 21 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
+| 20 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
+| 21 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
 | 22 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
 | 23 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 24 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |

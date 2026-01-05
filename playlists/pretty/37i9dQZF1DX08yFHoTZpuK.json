@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 20906,
+  "num_followers": 20948,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-12 05:20:10",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
-    },
-    {
-      "added_at": "2025-12-12 05:20:10",
-      "album": {
         "name": "RESONATE",
         "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 175200,
       "name": "RESONATE",
       "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
+    },
+    {
+      "added_at": "2025-12-12 05:20:10",
+      "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
     },
     {
       "added_at": "2025-12-12 05:20:10",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-12-12 05:20:10",
       "album": {
-        "name": "wo ai ni",
-        "url": "https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        },
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 213700,
-      "name": "wo ai ni - Shinichi Osawa Remix",
-      "url": "https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt"
-    },
-    {
-      "added_at": "2025-12-12 05:20:10",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -867,18 +847,22 @@
     {
       "added_at": "2025-12-12 05:20:10",
       "album": {
-        "name": "glowing arcade",
-        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
+        "name": "wo ai ni",
+        "url": "https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV"
       },
       "artists": [
         {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        },
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
         }
       ],
-      "duration_ms": 168333,
-      "name": "glowing arcade",
-      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
+      "duration_ms": 213700,
+      "name": "wo ai ni - Shinichi Osawa Remix",
+      "url": "https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt"
     },
     {
       "added_at": "2025-12-12 05:20:10",
@@ -903,6 +887,22 @@
       "duration_ms": 203020,
       "name": "WHAT",
       "url": "https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw"
+    },
+    {
+      "added_at": "2025-12-12 05:20:10",
+      "album": {
+        "name": "glowing arcade",
+        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "glowing arcade",
+      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
     },
     {
       "added_at": "2025-12-12 05:20:10",

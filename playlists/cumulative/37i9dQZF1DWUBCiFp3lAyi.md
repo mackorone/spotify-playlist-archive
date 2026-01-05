@@ -4,7 +4,7 @@
 
 > Your personalized GTA radio station.
 
-160 songs - 10 hr 55 min
+161 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 | 2023-12-15 |  |
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2023-12-15 |  |
 | [Peace of Mind](https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 5:03 | 2023-12-15 |  |
-| [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2023-12-15 |  |
+| [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2023-12-15 | 2026-01-05 |
 | [Personal Jesus \- Single Version](https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT) | 3:44 | 2023-12-15 | 2024-04-19 |
 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 | 2023-11-13 |  |
 | [r \- Cali](https://open.spotify.com/track/6AtscuPpNRwDvuehpFtWw1) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 2:19 | 2023-12-15 |  |
@@ -141,6 +141,7 @@
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2023-11-13 |  |
 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 | 2023-11-13 |  |
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2023-12-15 | 2025-11-23 |
+| [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 | 2025-05-07 |  |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2023-11-13 |  |
 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 | 2023-11-13 | 2024-04-19 |
 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 | 2023-12-15 |  |

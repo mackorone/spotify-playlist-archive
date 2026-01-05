@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,707 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,728 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 45 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 | 46 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 47 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
-| 48 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
-| 49 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
+| 48 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
+| 49 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 50 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
 Snapshot ID: `AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy`

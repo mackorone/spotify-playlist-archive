@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,871 songs - 4 day 6 hr 50 min
+1,872 songs - 4 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,10 +813,10 @@
 | [Interestelar](https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Interestelar](https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa) | 3:08 | 2024-10-30 | 2024-11-10 |
 | [Interestelar](https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm) | 3:08 | 2025-03-25 |  |
 | [Interestelar](https://open.spotify.com/track/5lGXgWvY60L80gKGk5Clgc) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:08 | 2024-11-09 | 2025-03-26 |
-| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-03 |  |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-03 | 2026-01-05 |
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-09 | 2024-03-11 |
-| [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-09-23 | 2026-01-02 |
+| [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-09-23 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2023-11-18 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [Isso é Sério](https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 4:45 | 2024-09-11 | 2024-09-24 |
@@ -956,6 +956,7 @@
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-02-25 | 2023-11-26 |
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-06-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-08-19 |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-04 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-23 | 2025-04-06 |
 | [Luxemburgo](https://open.spotify.com/track/1sD1YXeS4R9xPCjc0ze0md) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Luxemburgo](https://open.spotify.com/album/5ZNGmhq2CJJaRGeNKzQGQd) | 3:31 | 2024-10-02 | 2024-10-21 |
 | [Luxemburgo](https://open.spotify.com/track/1yjYtmNf1DpfQMjBpVy5rg) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm) | 3:31 | 2024-11-10 | 2025-10-27 |
@@ -1141,7 +1142,7 @@
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2024-10-18 | 2024-10-28 |
 | [Nirvana](https://open.spotify.com/track/1d9WnUOwgcnigchwI7pMPu) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Nirvana](https://open.spotify.com/album/6iVnhMtEQAuG6EpErY879Q) | 2:03 | 2023-11-04 | 2023-11-12 |
 | [Nirvana](https://open.spotify.com/track/27yIaTZY9eXpfyIykppEes) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Ligação Tokyo](https://open.spotify.com/album/00abp5gJEOtKqu7E3m5HpQ) | 2:03 | 2023-11-11 | 2023-11-19 |
-| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2026-01-01 |  |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2026-01-01 | 2026-01-05 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2021-12-12 | 2022-08-24 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-08 |

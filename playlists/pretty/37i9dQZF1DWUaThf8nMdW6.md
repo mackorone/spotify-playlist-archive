@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaThf8nMdW6.md) - [plain]
 
 > Relive Southeast Asia's most adored pop hits from the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594,488 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,594,579 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaThf8nMdW6.md) - [plain]
 | 10 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
 | 11 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 |
 | 12 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 13 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
+| 13 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 14 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 |
 | 15 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
-| 16 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 16 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 17 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 18 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 19 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaThf8nMdW6.md) - [plain]
 | 22 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 |
 | 23 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 24 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
-| 25 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:55 |
+| 25 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 26 | [The Reason](https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Best Of](https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU) | 3:52 |
-| 27 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
+| 27 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:55 |
 | 28 | [Wherever You Will Go](https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/482njCey5m8quxX6ymvlIP) | 3:28 |
 | 29 | [Beautiful Girls](https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/71clfVkkopYLrgweVj2cow) | 3:45 |
 | 30 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 |

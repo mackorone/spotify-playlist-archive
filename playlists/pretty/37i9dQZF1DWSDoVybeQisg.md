@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,508 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,634 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 44 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
 | 45 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
 | 46 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
-| 47 | [Bass Strings](https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 5:03 |
-| 48 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
+| 47 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
+| 48 | [Bass Strings](https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 5:03 |
 | 49 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |
 | 50 | [Evil \- Single Version](https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj), [Gene Paul](https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto), [Jackson Howe](https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA) | [Cactology "The Cactus Collection"](https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ) | 3:16 |
 | 51 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |

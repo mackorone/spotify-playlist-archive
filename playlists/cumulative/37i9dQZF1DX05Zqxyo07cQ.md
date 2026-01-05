@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-916 songs - 1 day 20 hr 7 min
+917 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-03-23 | 2024-02-09 |
 | [Eternal](https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Eternal](https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B) | 2:31 | 2025-07-17 |  |
 | [Eternal mirage](https://open.spotify.com/track/23E3WfMLsstTOfP4HJnVSz) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Eternal mirage](https://open.spotify.com/album/4krCr357O9G5m7we7yB98O) | 2:30 | 2025-03-27 | 2025-04-14 |
-| [Eternal Moon](https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Eternal Moon](https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k) | 2:19 | 2025-03-19 |  |
+| [Eternal Moon](https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Eternal Moon](https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k) | 2:19 | 2025-03-19 | 2026-01-05 |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-03-03 |
 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 | 2025-01-08 | 2025-12-22 |
 | [Eternalesque](https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Eternalesque](https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU) | 2:34 | 2025-01-22 |  |
@@ -637,6 +637,7 @@
 | [Pure Devotion](https://open.spotify.com/track/5A1olsOXK5e86FYqxvnhAx) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Pure Devotion](https://open.spotify.com/album/5kneDPDEV2cJ3AxJmuYt3g) | 3:02 | 2023-11-10 | 2024-05-23 |
 | [Purifier](https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Purifier](https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts) | 3:45 | 2024-10-14 | 2025-04-09 |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-03-23 | 2024-01-18 |
+| [Purpose](https://open.spotify.com/track/7EhoLeMsr458a08qpQRvIg) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Purpose](https://open.spotify.com/album/4xp8AuxnrjzcZnuP9IRtGQ) | 2:47 | 2025-12-17 |  |
 | [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 | 2025-03-13 |
 | [Quand la neige tombe](https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Quand la neige tombe](https://open.spotify.com/album/0WS3vyLeMR9nNvvRf9c0fO) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 | 2025-04-23 | 2025-09-25 |

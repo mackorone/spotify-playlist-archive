@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,884 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,891 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 3 | [アンパンマンたいそう](https://open.spotify.com/track/0JULmVhkcHbK5iHaEGdVLC) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 4:31 |
 | 4 | [たましいの歌2021](https://open.spotify.com/track/0SXiDsdV3th4SNZOEU1hsN) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:43 |
 | 5 | [森は枯れても2024](https://open.spotify.com/track/55MQUePmTQwEE4kcX6fw6S) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 2:07 |
-| 6 | [悪いはすてき](https://open.spotify.com/track/1qVFtQgFx5sGUS1i6EwNIy) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:20 |
-| 7 | [ホラーマンメチャクチャチャ2018](https://open.spotify.com/track/5zx83PFN01qGbgij02Hbta) | [矢尾一樹（ホラーマン）](https://open.spotify.com/artist/4ITV3VbNKMIzK7HD6JTp9N), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 3:11 |
+| 6 | [ホラーマンメチャクチャチャ2018](https://open.spotify.com/track/5zx83PFN01qGbgij02Hbta) | [矢尾一樹（ホラーマン）](https://open.spotify.com/artist/4ITV3VbNKMIzK7HD6JTp9N), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 3:11 |
+| 7 | [悪いはすてき](https://open.spotify.com/track/1qVFtQgFx5sGUS1i6EwNIy) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:20 |
 | 8 | [夕日にむかって](https://open.spotify.com/track/4DvkO0jUUvxO5yz2YQw0vP) | [Kaho Minami \(Princess Sunny\)](https://open.spotify.com/artist/4Z9rAFmiqCkeylhX3l0Owl), [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:23 |
 | 9 | [鉄火のマキちゃん](https://open.spotify.com/track/5neoAiffSDWwEsE7Q0cPg6) | [勝生真沙子 \(鉄火のマキちゃん\)](https://open.spotify.com/artist/6fVm8inWxtqochLI6KmIZe) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:29 |
 | 10 | [バナナダンス](https://open.spotify.com/track/7E650osfs6gbLgSAOEOCsv) | [いずみたくとそのファミリー](https://open.spotify.com/artist/6KNV7Q5Cd96fexEAuLLrN3) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:54 |
-| 11 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 |
-| 12 | [ルンルンおむすび仁義](https://open.spotify.com/track/1tBFVGmkfWMymXHbJoH2Tc) | [柳志乃 \(おむすびまん\)](https://open.spotify.com/artist/4oFGrkXSTHQtZ8ZBWUayFV) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 4:22 |
+| 11 | [ルンルンおむすび仁義](https://open.spotify.com/track/1tBFVGmkfWMymXHbJoH2Tc) | [柳志乃 \(おむすびまん\)](https://open.spotify.com/artist/4oFGrkXSTHQtZ8ZBWUayFV) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 4:22 |
+| 12 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 |
 | 13 | [くろゆき姫のタンゴ](https://open.spotify.com/track/56smx2x9NE00Bh8LfjQ2kZ) | [愛華みれ \(くろゆき姫\)](https://open.spotify.com/artist/3twytdc7N3Fy3A9jCtBsRK) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 2:54 |
 | 14 | [おえかきベレちゃん](https://open.spotify.com/track/5LNQtPNMYrlXsYMe4yswih) | [新山千春 \(ベレちゃん\)](https://open.spotify.com/artist/4veY6En4CaKjsJYe5UdoQ6), [新山小春](https://open.spotify.com/artist/1sg66zvYr8bwyJmxW7vxMv) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 2:53 |
 | 15 | [ふたつの光 ～つきことしらたま～](https://open.spotify.com/track/3VKeGbCW1FX0KPRWDWs83b) | [石黒彩 \(つきこ\)](https://open.spotify.com/artist/7reWmjSNp7ize031l8LKcv), [伊倉一恵（しらたまさん\)](https://open.spotify.com/artist/18OrFg3IP7bzUEA0sI4Bdt) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:12 |

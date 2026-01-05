@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,351 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,354 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 50 | [ALFA Y OMEGA](https://open.spotify.com/track/314qc7qcc4idg1dvP6estp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [ALFA Y OMEGA](https://open.spotify.com/album/3wo8txPsFDPdlIIPd3ZghE) | 3:10 |
 
-Snapshot ID: `aVcKgAAAAACmaFVThhW8LUmaBxBdA+s5`
+Snapshot ID: `aVhcAAAAAABFF3sb0tm5ThYocg121aHj`

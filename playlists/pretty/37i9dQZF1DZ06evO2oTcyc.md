@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,786 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,813 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 47 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
 | 48 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 | 49 | [Coolin and Booted](https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:34 |
-| 50 | [Shootin Craps \(feat\. Lil Yachty\)](https://open.spotify.com/track/77IoxXrzRvWNBpedy6HR8a) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:32 |
+| 50 | [Project Blue](https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:15 |
 
-Snapshot ID: `aVcKgAAAAAAK5snf2tCeHNfKydZ4LrJp`
+Snapshot ID: `aVhcAAAAAADiG/KMSoJLH729H2hC4je1`

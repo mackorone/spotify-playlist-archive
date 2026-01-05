@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Blue Mash
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,464 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,466 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 51 | [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 |
 | 52 | [涙](https://open.spotify.com/track/2S0i7W6IDT3fE1NixUamvB) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [涙](https://open.spotify.com/album/0UVAJGeX3VdebaoVGm1x7b) | 3:50 |
 | 53 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
-| 54 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
+| 54 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
 | 55 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 |
-| 56 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
+| 56 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
 | 57 | [Romance](https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Romance](https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22) | 3:07 |
 | 58 | [ワンタイムエピローグ](https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ワンタイムエピローグ](https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme) | 3:34 |
 | 59 | [YURU FUWA](https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [YURU FUWA](https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,175 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,246 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 20 | [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 |
 | 21 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
 | 22 | [As the World Caves In](https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:38 |
-| 23 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
-| 24 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
+| 23 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
+| 24 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 25 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 | 26 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 27 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 44 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
 | 45 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 46 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
-| 47 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 48 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
+| 47 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
+| 48 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 49 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
 | 50 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
 | 51 | [Taking Pictures Of You](https://open.spotify.com/track/4lMwlBtIrYootJyUTTs3SE) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 2:41 |

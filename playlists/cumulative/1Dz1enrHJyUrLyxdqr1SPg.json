@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Hold It",
+        "url": "https://open.spotify.com/album/62H7ur3rSL5Wwe0GW8FTqH"
+      },
+      "artists": [
+        {
+          "name": "RCKYLNDN",
+          "url": "https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG"
+        }
+      ],
+      "date_added": "2026-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298947,
+      "name": "Hold It",
+      "url": "https://open.spotify.com/track/4cwHnEyUIhunVkmFNQhvLr"
+    },
+    {
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/0tmPBxqax2T8Lq8Mnv2NcP"
       },

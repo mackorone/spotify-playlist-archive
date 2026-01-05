@@ -4,7 +4,7 @@
 
 > Unwind in time to these 70s classics.
 
-87 songs - 5 hr 50 min
+88 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 | 2022-03-27 |  |
 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 | 2022-03-27 | 2024-04-19 |
 | [My Sweet Lord \- 2014 Remaster](https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 4:41 | 2022-03-27 | 2023-11-11 |
+| [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2024-08-05 |  |
 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 | 2022-03-27 |  |
 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 | 2022-03-27 |  |
 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:32 | 2022-03-27 | 2025-10-17 |
@@ -87,7 +88,7 @@
 | [Up Around The Bend](https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory](https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG) | 2:39 | 2022-03-27 | 2024-04-19 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2022-03-27 |  |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 | 2022-03-27 |  |
-| [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2024-08-05 |  |
+| [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2024-08-05 | 2026-01-05 |
 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2022-03-27 |  |
 | [Who'll Stop The Rain](https://open.spotify.com/track/2ciMJGCDW70hqq18Vgui68) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory](https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG) | 2:27 | 2022-03-27 | 2024-04-19 |
 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 | 2022-03-27 |  |

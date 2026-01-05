@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,893 likes - 49 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,003 likes - 49 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 15 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 |
 | 16 | [My One And Only Love](https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:01 |
 | 17 | [Primaveral](https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:51 |
-| 18 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
-| 19 | [Callejón de los Secretos](https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 3:44 |
+| 18 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
+| 19 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
 | 20 | [Ocupa Mi Piel](https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:45 |
-| 21 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
+| 21 | [Callejón de los Secretos](https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 3:44 |
 | 22 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
 | 23 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 |
 | 24 | [Veracruz](https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:22 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 48 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
 | 49 | [Placer Hollywood](https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:39 |
 
-Snapshot ID: `aVcKgAAAAADbj5doR54SI/fHyPSoF0HR`
+Snapshot ID: `aVhcAAAAAABOvNhXUeuVRepW1DFu2X2Y`

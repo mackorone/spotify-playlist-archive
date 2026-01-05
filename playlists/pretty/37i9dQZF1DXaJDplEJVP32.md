@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,646 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,668 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 32 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
 | 33 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 34 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
-| 35 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 36 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
+| 35 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
+| 36 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
 | 37 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
 | 38 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |
 | 39 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |

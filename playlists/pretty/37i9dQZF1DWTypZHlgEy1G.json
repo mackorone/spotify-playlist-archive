@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 534390,
+  "num_followers": 534382,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Les Plus Grands Succes",
-        "url": "https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta",
-          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Mamy Blue",
-      "url": "https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
         "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 166240,
       "name": "F\u00e9licie Aussi",
       "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Les Plus Grands Succes",
+        "url": "https://open.spotify.com/album/0R9eQ7VFLVuTgm8L7v2aoA"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Mamy Blue",
+      "url": "https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ"
     },
     {
       "added_at": "2024-07-25 13:22:22",

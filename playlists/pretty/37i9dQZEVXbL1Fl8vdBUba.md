@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,705 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,716 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 27 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 28 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
 | 29 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
-| 30 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 30 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 31 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 32 | [Mal Amor](https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Mal Amor](https://open.spotify.com/album/6ImNw6NsqZ93Wxj2fGoNhV) | 2:41 |
 | 33 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Se Va La Vida](https://open.spotify.com/track/2zqdWJxskydGmP0IeCxhsD) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Éxitos De Rodolfo Aicardi, Vol\. 4](https://open.spotify.com/album/1kwvxuaNe1g48e6U7IPTad) | 3:39 |
 | 50 | [40 DE DICIEMBRE \(feat\. GeezyDee, CARABIN3\)](https://open.spotify.com/track/2hScMilrNzlbD9VD88t7jD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EXTRADITABLESSD](https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7) | 4:41 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

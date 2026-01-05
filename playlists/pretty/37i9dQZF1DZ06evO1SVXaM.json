@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3035785,
+  "num_followers": 3036066,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADsFDFvET7tGM19rxd6pcrY",
+  "snapshot_id": "aVhcAAAAAABRL/xOpp+daI2gWfZIcVW3",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
+      "duration_ms": 269041,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 269041,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      "duration_ms": 165160,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
     },
     {
       "added_at": null,

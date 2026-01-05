@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 34 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
 | 35 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 | 36 | [How Much Do You Love Me](https://open.spotify.com/track/4nede11n2Bu8fcS00E7XER) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:33 |
-| 37 | [One Too](https://open.spotify.com/track/7AQhTq4M6yXNX6inQC1op5) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:21 |
-| 38 | [Emerald City](https://open.spotify.com/track/6iwOHhChBjf9VqLJ05K1s1) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:16 |
+| 37 | [Emerald City](https://open.spotify.com/track/6iwOHhChBjf9VqLJ05K1s1) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:16 |
+| 38 | [One Too](https://open.spotify.com/track/7AQhTq4M6yXNX6inQC1op5) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:21 |
 | 39 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
 | 40 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
 | 41 | [Nothing Really Matters](https://open.spotify.com/track/39WrHcSaHfV38HRUJOid1K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 79 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 80 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AcF/mgAAAABpe+azS3Vy8YEQV8bkmXlf`
+Snapshot ID: `AcGFOgAAAAD6kV91H6cVBcxIFSxVJpIt`

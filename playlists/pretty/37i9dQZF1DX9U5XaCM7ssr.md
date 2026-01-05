@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,887 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,938 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 19 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
 | 20 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
 | 21 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
-| 22 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
-| 23 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
+| 22 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
+| 23 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 24 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
 | 25 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
 | 26 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |

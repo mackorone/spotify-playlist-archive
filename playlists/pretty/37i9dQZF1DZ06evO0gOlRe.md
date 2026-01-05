@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,854 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,860 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 5 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 |
 | 6 | [Wrong Way](https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Wrong Way](https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm) | 2:57 |
 | 7 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 |
-| 8 | [House of Cards](https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41) | 3:34 |
-| 9 | [Halo](https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Halo](https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL) | 2:41 |
+| 8 | [Halo](https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Halo](https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL) | 2:41 |
+| 9 | [House of Cards](https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41) | 3:34 |
 | 10 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 11 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
 | 12 | [Here Again](https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Here Again](https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP) | 2:45 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 42 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 | 43 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `aVcKgAAAAAC27ik9NByDQ9VAQ/AMGPOk`
+Snapshot ID: `aVhcAAAAAAAak3hts9NsfTyPw7gNM9zy`

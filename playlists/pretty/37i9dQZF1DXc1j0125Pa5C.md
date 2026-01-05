@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,297 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,442 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Só Pro Meu Prazer / E Agora \- Ao Vivo](https://open.spotify.com/track/7vk8j6aE01zh4CN1lZ8qQE) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1), [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Coleção de Pagodes \#1: Thais Macedo](https://open.spotify.com/album/6tZlc3KvCbU2ah3xNkNXCN) | 3:56 |
 | 75 | [Pra Mim Não É / Se Eu Te Pego Te Envergo / Instigante \- Ao Vivo](https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE) | 7:06 |
 
-Snapshot ID: `AAAAANYMLu/FNrqSDLV6Ho4AtRY2B5JT`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

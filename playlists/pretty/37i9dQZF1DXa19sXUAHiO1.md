@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,206 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,183 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 18 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 19 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 20 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
-| 21 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
-| 22 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
+| 21 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
+| 22 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 23 | [Stand by Me](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:52 |
 | 24 | [Only the Good Die Young](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:55 |
 | 25 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 34 | [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 |
 | 35 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
 | 36 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
-| 37 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
-| 38 | [What Is Life \- Remastered 2014](https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:24 |
+| 37 | [What Is Life \- Remastered 2014](https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:24 |
+| 38 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 39 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
 | 40 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
 | 41 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |

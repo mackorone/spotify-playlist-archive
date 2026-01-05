@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21113,
+  "num_followers": 21115,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADhlYtLjBnK+Tne7qFksXhF",
+  "snapshot_id": "aVhcAAAAAAB3txok57tESQRc3cGaN5Rb",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 205990,
-      "name": "Make E No Tey",
-      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 168150,
       "name": "Chop Time, No Friend",
       "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 205990,
+      "name": "Make E No Tey",
+      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maison Rouge",
         "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 145325,
       "name": "Love Me Now",
       "url": "https://open.spotify.com/track/7z6IhNr7jIoW5WhC3UMdTq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,

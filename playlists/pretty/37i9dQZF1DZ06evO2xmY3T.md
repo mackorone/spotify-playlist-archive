@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,586 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,626 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 25 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 |
 | 26 | [MotorSport](https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 5:03 |
 | 27 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(Remix Alternate Versions\)](https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6) | 3:44 |
-| 28 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687) | 4:36 |
+| 28 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 29 | [Bodega Baddie](https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 1:44 |
-| 30 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
+| 30 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687) | 4:36 |
 | 31 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
 | 32 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 33 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 41 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
 | 42 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 
-Snapshot ID: `aVcKgAAAAAA0KgdZZcJ1udTtOlv1RNSC`
+Snapshot ID: `aVhcAAAAAAALqtExCQDBrRlz57uvNg+F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,710 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,717 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 26 | [War Machine \- 2022 Remastered](https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:17 |
 | 27 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 |
 | 28 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
-| 29 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 |
-| 30 | [C'mon And Love Me \- 2025 Remaster](https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:58 |
+| 29 | [C'mon And Love Me \- 2025 Remaster](https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:58 |
+| 30 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 |
 | 31 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 32 | [God Of Thunder](https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 4:13 |
 | 33 | [Domino](https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:00 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 40 | [Do You Love Me](https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:33 |
 | 41 | [Christine Sixteen](https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:14 |
 | 42 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
-| 43 | [Firehouse](https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:17 |
-| 44 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
+| 43 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
+| 44 | [Firehouse](https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:17 |
 | 45 | [Hotter Than Hell](https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:31 |
 | 46 | [I Want You](https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:05 |
-| 47 | [100,000 Years](https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:22 |
-| 48 | [Talk To Me](https://open.spotify.com/track/1LYPRQIN8YHIX4da8fX3CX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 4:02 |
+| 47 | [Beth \- Live](https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:55 |
+| 48 | [100,000 Years](https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:22 |
 | 49 | [Parasite](https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:02 |
-| 50 | [Beth \- Live](https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:55 |
+| 50 | [Talk To Me](https://open.spotify.com/track/1LYPRQIN8YHIX4da8fX3CX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 4:02 |
 
-Snapshot ID: `aVcKgAAAAADe79tj2baW0l8NKQgjhlfy`
+Snapshot ID: `aVhcAAAAAAA/CMI9VYngdr8DSWdlXkYi`

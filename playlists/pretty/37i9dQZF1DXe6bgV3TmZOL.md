@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,494,100 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,494,153 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 66 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 | 67 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 68 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
-| 69 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
-| 70 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
+| 69 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
+| 70 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
 | 71 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 4:23 |
-| 72 | [Addicted to Pain](https://open.spotify.com/track/2I75GCnEOzCvNpxCR3XYZH) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 4:16 |
+| 72 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
 | 73 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
-| 74 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
+| 74 | [Addicted to Pain](https://open.spotify.com/track/2I75GCnEOzCvNpxCR3XYZH) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 4:16 |
 | 75 | [Never Again](https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:43 |
 | 76 | [Bled for Days](https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:45 |
 | 77 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 93 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
 | 94 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 95 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
-| 96 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |
-| 97 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
+| 96 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
+| 97 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |
 | 98 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 |
 | 99 | [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 |
 | 100 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |

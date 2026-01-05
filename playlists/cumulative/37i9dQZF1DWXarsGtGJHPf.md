@@ -4,7 +4,7 @@
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-34 songs - 2 hr 3 min
+35 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Funky Player](https://open.spotify.com/track/0JZAtX6MqrqAf430c11VGi) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Funky Player](https://open.spotify.com/album/4Mc9e5msOv56J3NRzEwX2x) | 3:31 | 2025-12-13 |  |
 | [HALLEY](https://open.spotify.com/track/1LXHzXrQBQwzbbCFNeM7oe) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [HALLEY](https://open.spotify.com/album/51tc6r9V8QGvv3Tukbz5YZ) | 3:03 | 2025-12-03 |  |
 | [Heavy Heart](https://open.spotify.com/track/3VfIcpqpEr8q0M9OuvS1c7) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Heavy Heart](https://open.spotify.com/album/7srQjmEGwrbYEWU0SQviXF) | 3:36 | 2025-07-06 |  |
+| [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/track/0pG7b0bItR0F63mOmiiNJp) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/album/5nvIByJ9NOzVhx51XIpWUP) | 2:37 | 2026-01-05 |  |
 | [I still love you](https://open.spotify.com/track/3u6FvRmmMc1ta2rtCQhL9W) | [VIOLA](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [I still love you](https://open.spotify.com/album/6EXdOZ4SvaepJTA82Kdv20) | 3:46 | 2025-10-15 |  |
 | [If you're with me](https://open.spotify.com/track/3Edd5X9vy6t49rj74h2pAL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [If you're with me](https://open.spotify.com/album/1yRqx40R9ons7xDlDKL2FS) | 3:53 | 2025-07-06 |  |
 | [Lilac](https://open.spotify.com/track/4UdyOkVnpwW3337qb3JBEf) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Lilac](https://open.spotify.com/album/6bhg1nEu6BjGxxYf8z2i2W) | 3:12 | 2025-10-15 |  |

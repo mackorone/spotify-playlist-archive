@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar, edición verano  📸  Bizarrap & J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,388 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,032 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc) | 2:52 |
 | 100 | [otro beso](https://open.spotify.com/track/1HJ2gcYoSL1pXDQRXJKRO2) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [otro beso](https://open.spotify.com/album/6GxesR7ZNlURvWfbp0uxMy) | 3:34 |
 
-Snapshot ID: `AAAAAHg9iRrX4kLPXXzesj0m8ZaGQJkW`
+Snapshot ID: `AAAAAGCD5SMVg3z0WyaWz9jnwYahU0h3`

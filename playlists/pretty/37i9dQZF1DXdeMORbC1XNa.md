@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,422 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,432 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 24 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 25 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 |
 | 26 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
-| 27 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
-| 28 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
+| 27 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
+| 28 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
 | 29 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
 | 30 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
 | 31 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |

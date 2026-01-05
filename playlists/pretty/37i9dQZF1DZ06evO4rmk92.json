@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 124748,
+  "num_followers": 124752,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAotyRcIukiYMHsndSViI7F",
+  "snapshot_id": "aVhcAAAAAAB9J26xOubQrsHWMaa9ffcz",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 209933,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thank You, Pretty Baby",
         "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 205786,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
     },
     {
       "added_at": null,

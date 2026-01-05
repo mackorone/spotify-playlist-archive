@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 217 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,595 likes - 217 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 140 | [Rat Race](https://open.spotify.com/track/5GHWqKEQLVCMNe94sr2hfy) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Uncomfortable](https://open.spotify.com/album/1Sb0QnODtzjlYmOO7cgIyn) | 3:13 |
 | 141 | [All The Way](https://open.spotify.com/track/1hvgtAaYk8AHmW6s9FxKO4) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/7ecGpncOzxSWmaZlCtQ7im) | 2:05 |
 | 142 | [When The Lions Come](https://open.spotify.com/track/06P0q7wYr1S1fqrkewX03G) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Castro](https://open.spotify.com/artist/54wtxcCMfVtf4J37TQWsVm), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 4:21 |
-| 143 | [Tall Trees](https://open.spotify.com/track/0HYBmUvAyjKlpK7iL385zf) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn) | 2:45 |
-| 144 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 143 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 144 | [Tall Trees](https://open.spotify.com/track/0HYBmUvAyjKlpK7iL385zf) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn) | 2:45 |
 | 145 | [high water](https://open.spotify.com/track/2c713T3XC5IHrLvSPPVrmZ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:48 |
 | 146 | [Shame](https://open.spotify.com/track/4ay8z23Fa9iJgvGdbBr4Iw) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 5:49 |
 | 147 | [FATHER FIGURE](https://open.spotify.com/track/2GEoDwjcRfDxHOiLbi7CWS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:51 |
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 176 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
 | 177 | [OBLIVIOUS](https://open.spotify.com/track/65hG7wpGsBD591lcfzEmHC) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:46 |
 | 178 | [Do](https://open.spotify.com/track/5bMAXFzjqnXjJoaobZFPpa) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:06 |
-| 179 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 |
-| 180 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
+| 179 | [RICH AND BROKE](https://open.spotify.com/track/4IhQDdS75FROk5hse6zaap) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:02 |
+| 180 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 |
 | 181 | [Hip Replacement](https://open.spotify.com/track/66raFn343Bxxfec5ByE5Yd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 4:13 |
 | 182 | [bottomline \(feat\. JoJo\)](https://open.spotify.com/track/1lKFDImYTHzIGPtiQQZSwu) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:22 |
 | 183 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 216 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 217 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcF/mgAAAACqIVPd11L/ZVJk+O4CGcbn`
+Snapshot ID: `AcGFOgAAAADA9gApJwZQkoiux7w/pQjp`

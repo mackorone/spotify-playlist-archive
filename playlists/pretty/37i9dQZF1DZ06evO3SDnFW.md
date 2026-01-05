@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 
 > This is Sam Fender\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,474 likes - 41 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,525 likes - 41 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 | 26 | [Wild Long Lie](https://open.spotify.com/track/5lQS3Q71OZWEA2tt7TcWai) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 6:04 |
 | 27 | [Saturday](https://open.spotify.com/track/3kROc4cT1QMKyQdPd0Gbvm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:01 |
 | 28 | [Spice](https://open.spotify.com/track/7KncmixRfCnvzSsKZnlHt8) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys \- EP](https://open.spotify.com/album/35pJYaery52xdW7eQIA2uy) | 2:21 |
-| 29 | [Get You Down](https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:23 |
-| 30 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
+| 29 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
+| 30 | [Get You Down](https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:23 |
 | 31 | [Me and The Dog](https://open.spotify.com/track/5kQrDtjNb2c3l9SfvNOXzq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 4:12 |
 | 32 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 |
-| 33 | [Pretending That You're Dead](https://open.spotify.com/track/4NCq3RBBNrwEECqKnIUXvZ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 2:58 |
-| 34 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
+| 33 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
+| 34 | [Pretending That You're Dead](https://open.spotify.com/track/4NCq3RBBNrwEECqKnIUXvZ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 2:58 |
 | 35 | [Wild Grey Ocean](https://open.spotify.com/track/4unenxuWoIq4RYG5hyHZpK) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 3:54 |
 | 36 | [Friday Fighting](https://open.spotify.com/track/7MRJJbjlgJF6n9QHbp6IA9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Friday Fighting](https://open.spotify.com/album/4fjvLL6wVDF81R0mY53TTH) | 3:10 |
-| 37 | [Start Again](https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Start Again](https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g) | 2:58 |
-| 38 | [Greasy Spoon](https://open.spotify.com/track/0DDUWYjTJCV3R4S4FOUTcf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Greasy Spoon](https://open.spotify.com/album/3Gd8IlgSnxxjFQW5dQaSFC) | 2:58 |
+| 37 | [Greasy Spoon](https://open.spotify.com/track/0DDUWYjTJCV3R4S4FOUTcf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Greasy Spoon](https://open.spotify.com/album/3Gd8IlgSnxxjFQW5dQaSFC) | 2:58 |
+| 38 | [Start Again](https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Start Again](https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g) | 2:58 |
 | 39 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
 | 40 | [Howdon Aldi Death Queue](https://open.spotify.com/track/1qMyNePQxHQaU2EULKnSUx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 1:58 |
 | 41 | [Back To Black \- BBC Radio 1 Live Session](https://open.spotify.com/track/3KtKOYmUpcmAU1SzArnFrp) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Back To Black \(BBC Radio 1 Live Session\)](https://open.spotify.com/album/3WuNB1VMKoPtUhm09D1QLt) | 5:12 |
 
-Snapshot ID: `aVcKgAAAAAD5FXg0DD0tUEOyU1SMqIDA`
+Snapshot ID: `aVhcAAAAAACeeb+rLBihqK7Oj27ESpuZ`

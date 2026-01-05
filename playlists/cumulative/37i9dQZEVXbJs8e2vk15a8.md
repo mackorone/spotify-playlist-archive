@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,648 songs - 8 day 3 hr 49 min
+3,649 songs - 8 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [365](https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx) | [Los Reales Del Río](https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV) | [365](https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL) | 3:08 | 2022-09-21 | 2022-10-02 |
 | [38](https://open.spotify.com/track/0zhiOM9XtH1MsLdFMhxIWI) | [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [38](https://open.spotify.com/album/1mel7e9QhZ5CgGjh6hCath) | 1:50 | 2022-12-20 | 2023-01-18 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-17 | 2023-11-12 |
-| [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-11-28 |  |
+| [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-11-28 | 2026-01-05 |
 | [40 GRADOS EN LA CIUDAD](https://open.spotify.com/track/0NJ8EStpxZZo8xUJ0A0STe) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 2:04 | 2023-01-10 | 2023-01-13 |
 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2024-06-13 | 2025-06-25 |
 | [444 \- Remix](https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [444 \(Remix\)](https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD) | 4:59 | 2025-11-18 | 2025-11-26 |
@@ -2606,6 +2606,7 @@
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-10-17 | 2023-10-25 |
 | [PURA FIXA QLA](https://open.spotify.com/track/4za8yeXikIpowhHVJobvvt) | [Julioko](https://open.spotify.com/artist/5nDVsNj4oi3OL8fkRahtj6) | [PURA FIXA QLA](https://open.spotify.com/album/31UEoeQB7d4G4qv4YfruYq) | 3:09 | 2023-10-31 | 2023-12-20 |
 | [Pure De Papas](https://open.spotify.com/track/4uP8zWmni2sjzpXkNNL3kt) | [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [Recuerdos Inolvidables](https://open.spotify.com/album/4FCjmVoFIeBkaZMEcoTzdb) | 2:16 | 2023-07-26 | 2023-08-04 |
+| [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2026-01-04 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-02-23 | 2023-03-08 |
 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 | 2023-01-19 | 2023-02-27 |
 | [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 | 2025-12-09 |  |

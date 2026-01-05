@@ -1,6 +1,6 @@
 {
   "description": "Enjoy these songs while you eat.",
-  "num_followers": 9285,
+  "num_followers": 9287,
   "original_name": "Iftar",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Sultan Bestekarlar",
-        "url": "https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd"
+        "name": "Niyazi Say\u0131n & Necdet Ya\u015far",
+        "url": "https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE"
       },
       "artists": [
         {
-          "name": "III. Selim",
-          "url": "https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx"
+          "name": "Necdet Ya\u015far",
+          "url": "https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s"
+        },
+        {
+          "name": "Niyazi Say\u0131n",
+          "url": "https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe"
         }
       ],
-      "duration_ms": 230201,
-      "name": "Suzidilara Pe\u015frev",
-      "url": "https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm"
+      "duration_ms": 324334,
+      "name": "Pen\u00e7g\u00e2h Pe\u015frevi",
+      "url": "https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -615,22 +619,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Niyazi Say\u0131n & Necdet Ya\u015far",
-        "url": "https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE"
+        "name": "Sultan Bestekarlar",
+        "url": "https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd"
       },
       "artists": [
         {
-          "name": "Necdet Ya\u015far",
-          "url": "https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s"
-        },
-        {
-          "name": "Niyazi Say\u0131n",
-          "url": "https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe"
+          "name": "III. Selim",
+          "url": "https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx"
         }
       ],
-      "duration_ms": 324334,
-      "name": "Pen\u00e7g\u00e2h Pe\u015frevi",
-      "url": "https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK"
+      "duration_ms": 230201,
+      "name": "Suzidilara Pe\u015frev",
+      "url": "https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Na\u011fmeler Evi (\u00c7ocuklar ve Gen\u00e7ler \u0130\u00e7in M\u00fczik K\u00fclt\u00fcr\u00fc)",
-        "url": "https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu"
-      },
-      "artists": [
-        {
-          "name": "Y\u00fcce G\u00fcm\u00fc\u015f",
-          "url": "https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba"
-        },
-        {
-          "name": "Murat Salim Tokac",
-          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
-        }
-      ],
-      "duration_ms": 313520,
-      "name": "Tanbur \u0130le Ferahfez\u00e2 Saz Sem\u00e2\u00eesi",
-      "url": "https://open.spotify.com/track/5cx9SXjMVoYi16tcBV8Na4"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Duygu Pinari",
         "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 277199,
       "name": "Esinti (K\u00fcrdi Saz Eseri)",
       "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Na\u011fmeler Evi (\u00c7ocuklar ve Gen\u00e7ler \u0130\u00e7in M\u00fczik K\u00fclt\u00fcr\u00fc)",
+        "url": "https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fcce G\u00fcm\u00fc\u015f",
+          "url": "https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba"
+        },
+        {
+          "name": "Murat Salim Tokac",
+          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Tanbur \u0130le Ferahfez\u00e2 Saz Sem\u00e2\u00eesi",
+      "url": "https://open.spotify.com/track/5cx9SXjMVoYi16tcBV8Na4"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Ahmet \u00d6zhan",
-        "url": "https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX"
-      },
-      "artists": [
-        {
-          "name": "Ahmet \u00d6zhan",
-          "url": "https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78"
-        }
-      ],
-      "duration_ms": 84241,
-      "name": "H\u00fczzam Saz Semai",
-      "url": "https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Kaftan (Instrumental Palace of Songs)",
         "url": "https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW"
       },
@@ -931,6 +915,30 @@
       "duration_ms": 80146,
       "name": "\u00c7argah Sirto",
       "url": "https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+      },
+      "artists": [
+        {
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        },
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Hakan Aysev",
+          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Serenat (Hicaz Medhal)",
+      "url": "https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig"
     }
   ],
   "unique_name": "Iftar",

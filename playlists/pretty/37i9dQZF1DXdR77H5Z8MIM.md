@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: SEVENTEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,218 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,243 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,19 +21,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 11 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 | 12 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 13 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
-| 14 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
-| 15 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
+| 14 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
+| 15 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
 | 16 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 17 | [Tick\-Tack](https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:09 |
 | 18 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
-| 19 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
-| 20 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
-| 21 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
-| 22 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
-| 23 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
+| 19 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
+| 20 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 21 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
+| 22 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
+| 23 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
 | 24 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
-| 25 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
-| 26 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 25 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
+| 26 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
 | 27 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 28 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
 | 29 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 46 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
 | 47 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 48 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
-| 49 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
-| 50 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 49 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 50 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 51 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 52 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
 | 53 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |

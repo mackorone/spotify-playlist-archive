@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 512551,
+  "num_followers": 512572,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "Take Me Home, Country Roads - Original Version",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 214880,
       "name": "The Gambler",
       "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 178826,
       "name": "When You're In Love With A Beautiful Woman",
       "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 122534,
-      "name": "Grandma's Hands",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 122534,
+      "name": "Grandma's Hands",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Once Upon A Star",
+        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
+      },
+      "artists": [
+        {
+          "name": "Bay City Rollers",
+          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "The Best of Bread",
         "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 214400,
       "name": "Kiss You All Over",
       "url": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Once Upon A Star",
-        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
-      },
-      "artists": [
-        {
-          "name": "Bay City Rollers",
-          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Christie",
-        "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
-      },
-      "artists": [
-        {
-          "name": "Christie",
-          "url": "https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Yellow River",
-      "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Dance With Me: The Best Of Orleans",
         "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Christie",
+        "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Yellow River",
+      "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Even In The Quietest Moments (Remastered)",
         "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
     },
     {
       "added_at": "2024-06-03 14:45:23",

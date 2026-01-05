@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,316 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,331 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 45 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
 | 46 | [Massa Real](https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 2:46 |
 | 47 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
-| 48 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
-| 49 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
+| 48 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
+| 49 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
 | 50 | [Coisinha do Pai](https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [O Carnaval de Beth Carvalho & Martinho Da Vila](https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf) | 2:53 |
 
 Snapshot ID: `AAAAAL/RkVLbYifL+cxBQWLYnqtoYctU`

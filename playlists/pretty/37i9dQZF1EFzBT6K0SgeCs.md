@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,650 likes - 139 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,648 likes - 139 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 34 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 |
 | 35 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
 | 36 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 |
-| 37 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
-| 38 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 |
+| 37 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 |
+| 38 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
 | 39 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 40 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 |
 | 41 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 | 139 | [Where the Poison Is \(16\-Bit FINNEAS Emulation\)](https://open.spotify.com/track/0SjugAYwjDRwSTVLcJpTtE) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [The Impossible Game Soundtrack, Vol\. 50](https://open.spotify.com/album/7JwSu9PDWyIejIoFanQSJu) | 3:09 |
 
-Snapshot ID: `AcF/mgAAAABXiZoyuy6JNNg69gNg+cZh`
+Snapshot ID: `AcGFOgAAAAAUjU02GUBbVYJnJWs0CFLX`

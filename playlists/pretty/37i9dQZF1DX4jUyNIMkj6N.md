@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,929 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,937 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 29 | [Avignon](https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Avignon](https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT) | 2:59 |
 | 30 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
 | 31 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
-| 32 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 |
-| 33 | [Nick of Time](https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Nick of Time](https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V) | 3:02 |
-| 34 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
+| 32 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
+| 33 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 |
+| 34 | [Nick of Time](https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Nick of Time](https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V) | 3:02 |
 | 35 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 36 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 37 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
 | 50 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 51 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
-| 52 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 53 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
-| 54 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 |
-| 55 | [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 |
-| 56 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 |
+| 52 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 |
+| 53 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
+| 54 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
+| 55 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 |
+| 56 | [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 |
 | 57 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 58 | [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 |
-| 59 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 |
+| 58 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 |
+| 59 | [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 |
 | 60 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 |
 
 Snapshot ID: `AAAAALuI0yzl4IC3aCKIpHGB4DdVo29i`

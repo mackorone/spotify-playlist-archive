@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 7227,
+  "num_followers": 7233,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -107,54 +107,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 359173,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/31SKMNN49ZSMu3IrtW8V1e"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Afrafra",
-        "url": "https://open.spotify.com/album/6ICGLCCUvVr1VJUYhR1CFM"
-      },
-      "artists": [
-        {
-          "name": "Kojo Antwi",
-          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
-        }
-      ],
-      "duration_ms": 356266,
-      "name": "Pour Some Sugar I",
-      "url": "https://open.spotify.com/track/1YmtpH8ihYtYVOdCfu9ln5"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Emmanuella",
-        "url": "https://open.spotify.com/album/7I0u2dlZgli071BzPJr0Ac"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 363706,
-      "name": "Emmanuela",
-      "url": "https://open.spotify.com/track/4aiZMWYiZxDeiqgzFNSeTw"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "ABC Of Love",
         "url": "https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH"
       },
@@ -167,22 +119,6 @@
       "duration_ms": 337773,
       "name": "ABC",
       "url": "https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 351346,
-      "name": "Wodo Enda",
-      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -203,8 +139,24 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+        "name": "Afrafra",
+        "url": "https://open.spotify.com/album/6ICGLCCUvVr1VJUYhR1CFM"
+      },
+      "artists": [
+        {
+          "name": "Kojo Antwi",
+          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
+        }
+      ],
+      "duration_ms": 356266,
+      "name": "Pour Some Sugar I",
+      "url": "https://open.spotify.com/track/1YmtpH8ihYtYVOdCfu9ln5"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
       "artists": [
         {
@@ -212,9 +164,41 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 349013,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
+      "duration_ms": 359173,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/31SKMNN49ZSMu3IrtW8V1e"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 351346,
+      "name": "Wodo Enda",
+      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Emmanuella",
+        "url": "https://open.spotify.com/album/7I0u2dlZgli071BzPJr0Ac"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 363706,
+      "name": "Emmanuela",
+      "url": "https://open.spotify.com/track/4aiZMWYiZxDeiqgzFNSeTw"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -235,6 +219,38 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "Densu",
+        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
+      },
+      "artists": [
+        {
+          "name": "Kojo Antwi",
+          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
+        }
+      ],
+      "duration_ms": 359400,
+      "name": "Mfa Me Nkoho",
+      "url": "https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 349013,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "Evergreen Tunes, Vol. 4",
         "url": "https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 570254,
       "name": "Agatha",
       "url": "https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Fre No Ma Me",
+        "url": "https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR"
+      },
+      "artists": [
+        {
+          "name": "Oheneba Kissi",
+          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Mante Wo Nka",
+      "url": "https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -287,70 +319,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Densu",
-        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
-      },
-      "artists": [
-        {
-          "name": "Kojo Antwi",
-          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
-        }
-      ],
-      "duration_ms": 359400,
-      "name": "Mfa Me Nkoho",
-      "url": "https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 384773,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Fre No Ma Me",
-        "url": "https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR"
-      },
-      "artists": [
-        {
-          "name": "Oheneba Kissi",
-          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Mante Wo Nka",
-      "url": "https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Twa Me Ke Ke",
         "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 382733,
       "name": "Mmobrowa",
       "url": "https://open.spotify.com/track/1UX48v0WSkBkq11mVKGNLd"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Densu",
+        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
+      },
+      "artists": [
+        {
+          "name": "Kojo Antwi",
+          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
+        }
+      ],
+      "duration_ms": 316586,
+      "name": "Densu",
+      "url": "https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -383,6 +367,38 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 384773,
+      "name": "Tokrom",
+      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "A. B Crentsil, Vol. 1",
         "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
       },
@@ -395,30 +411,6 @@
       "duration_ms": 295145,
       "name": "I Go Pay You Tomorrow",
       "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        },
-        {
-          "name": "Okyeame Kwame",
-          "url": "https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 594386,
-      "name": "Obi Ate Meso Buo - Remix",
-      "url": "https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -455,38 +447,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Densu",
-        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
-      },
-      "artists": [
-        {
-          "name": "Kojo Antwi",
-          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "Densu",
-      "url": "https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Atadwe",
-        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
-      },
-      "artists": [
-        {
-          "name": "Papa Sheee",
-          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
-        }
-      ],
-      "duration_ms": 360573,
-      "name": "Atadwe",
-      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Abeiku",
         "url": "https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT"
       },
@@ -499,22 +459,6 @@
       "duration_ms": 342960,
       "name": "Abeiku",
       "url": "https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Baya",
-        "url": "https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa"
-      },
-      "artists": [
-        {
-          "name": "Ben Brako",
-          "url": "https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "Ntsaase",
-      "url": "https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -535,6 +479,62 @@
       "duration_ms": 374770,
       "name": "Afia Donkor (feat. Bradez)",
       "url": "https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Atadwe",
+        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+      },
+      "artists": [
+        {
+          "name": "Papa Sheee",
+          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
+        }
+      ],
+      "duration_ms": 360573,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Baya",
+        "url": "https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa"
+      },
+      "artists": [
+        {
+          "name": "Ben Brako",
+          "url": "https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "Ntsaase",
+      "url": "https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Okyeame Kwame",
+          "url": "https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 594386,
+      "name": "Obi Ate Meso Buo - Remix",
+      "url": "https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -571,38 +571,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "FREMA",
-        "url": "https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2"
-      },
-      "artists": [
-        {
-          "name": "Akosua Adjepong",
-          "url": "https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t"
-        }
-      ],
-      "duration_ms": 288716,
-      "name": "K\u0254k\u0254\u0254k\u0254",
-      "url": "https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Best of Bessa Simons",
-        "url": "https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq"
-      },
-      "artists": [
-        {
-          "name": "Bessa Simons",
-          "url": "https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA"
-        }
-      ],
-      "duration_ms": 395480,
-      "name": "Belembe",
-      "url": "https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Medo Hemaa",
         "url": "https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr"
       },
@@ -635,6 +603,54 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "FREMA",
+        "url": "https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2"
+      },
+      "artists": [
+        {
+          "name": "Akosua Adjepong",
+          "url": "https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t"
+        }
+      ],
+      "duration_ms": 288716,
+      "name": "K\u0254k\u0254\u0254k\u0254",
+      "url": "https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Best of Bessa Simons",
+        "url": "https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq"
+      },
+      "artists": [
+        {
+          "name": "Bessa Simons",
+          "url": "https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA"
+        }
+      ],
+      "duration_ms": 395480,
+      "name": "Belembe",
+      "url": "https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Asew",
+        "url": "https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 362173,
+      "name": "Asew",
+      "url": "https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "Sweet Talks",
         "url": "https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu"
       },
@@ -656,22 +672,6 @@
       },
       "artists": [
         {
-          "name": "George Darko",
-          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
-        }
-      ],
-      "duration_ms": 375266,
-      "name": "Highlife Time",
-      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Rhythm On The Radio - Oval Records Singles 1974-1987",
-        "url": "https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6"
-      },
-      "artists": [
-        {
           "name": "Kantata",
           "url": "https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M"
         }
@@ -679,22 +679,6 @@
       "duration_ms": 334906,
       "name": "Duke",
       "url": "https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Asew",
-        "url": "https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 362173,
-      "name": "Asew",
-      "url": "https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -715,22 +699,34 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Twa Me Ke Ke",
-        "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
+        "name": "Kabribi Kyere Me",
+        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
       },
       "artists": [
         {
-          "name": "Kofi B",
-          "url": "https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O"
-        },
-        {
-          "name": "Yoggi Doggi",
-          "url": "https://open.spotify.com/artist/40hJgIb4amRIThJR0nAc6s"
+          "name": "Oheneba Kissi",
+          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
         }
       ],
-      "duration_ms": 331133,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO"
+      "duration_ms": 266866,
+      "name": "Asem Ben?",
+      "url": "https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Rhythm On The Radio - Oval Records Singles 1974-1987",
+        "url": "https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6"
+      },
+      "artists": [
+        {
+          "name": "George Darko",
+          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
+        }
+      ],
+      "duration_ms": 375266,
+      "name": "Highlife Time",
+      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -751,18 +747,22 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Kabribi Kyere Me",
-        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
+        "name": "Twa Me Ke Ke",
+        "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
       },
       "artists": [
         {
-          "name": "Oheneba Kissi",
-          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
+          "name": "Kofi B",
+          "url": "https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O"
+        },
+        {
+          "name": "Yoggi Doggi",
+          "url": "https://open.spotify.com/artist/40hJgIb4amRIThJR0nAc6s"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Asem Ben?",
-      "url": "https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK"
+      "duration_ms": 331133,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Twa Me Ke Ke",
-        "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
-      },
-      "artists": [
-        {
-          "name": "Kofi B",
-          "url": "https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O"
-        }
-      ],
-      "duration_ms": 335920,
-      "name": "Twa Me Ke Ke",
-      "url": "https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "The Best of Nana Fynn (2LOCK) Volume One",
         "url": "https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "Twa Me Ke Ke",
+        "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
+      },
+      "artists": [
+        {
+          "name": "Kofi B",
+          "url": "https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O"
+        }
+      ],
+      "duration_ms": 335920,
+      "name": "Twa Me Ke Ke",
+      "url": "https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "FREMA",
         "url": "https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2"
       },
@@ -975,6 +975,38 @@
       "duration_ms": 527046,
       "name": "Adwoa Yankey, Pt. 1",
       "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "The Best of Nana Fynn (2LOCK) Volume One",
+        "url": "https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv"
+      },
+      "artists": [
+        {
+          "name": "2LOCK",
+          "url": "https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn"
+        }
+      ],
+      "duration_ms": 333879,
+      "name": "Menkoaa",
+      "url": "https://open.spotify.com/track/7CPWYXyEHbELJCsa2rLp8n"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
+        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
+      },
+      "artists": [
+        {
+          "name": "Charles Amoah",
+          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
+        }
+      ],
+      "duration_ms": 381408,
+      "name": "Fre Me (Call Me)",
+      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1031,38 +1063,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "The Best of Nana Fynn (2LOCK) Volume One",
-        "url": "https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv"
-      },
-      "artists": [
-        {
-          "name": "2LOCK",
-          "url": "https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn"
-        }
-      ],
-      "duration_ms": 333879,
-      "name": "Menkoaa",
-      "url": "https://open.spotify.com/track/7CPWYXyEHbELJCsa2rLp8n"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
-        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
-      },
-      "artists": [
-        {
-          "name": "Charles Amoah",
-          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
-        }
-      ],
-      "duration_ms": 381408,
-      "name": "Fre Me (Call Me)",
-      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/62w8iROmmZVMVNGOSDHj1V"
       },
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Rakia",
-        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
-      },
-      "artists": [
-        {
-          "name": "Kofi Nti",
-          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
-        },
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 306906,
-      "name": "Atweetan",
-      "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
         "name": "Paapa Yankson Classics",
         "url": "https://open.spotify.com/album/5kpW5ly02ny70LsLWsU9l3"
       },
@@ -1151,6 +1131,22 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
+        "name": "Krokro Me",
+        "url": "https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2"
+      },
+      "artists": [
+        {
+          "name": "Kwaisey Pee",
+          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
+        }
+      ],
+      "duration_ms": 239570,
+      "name": "Krokro Me",
+      "url": "https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
         "name": "The Return of Kofi B",
         "url": "https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n"
       },
@@ -1167,34 +1163,22 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Highlife Classics",
-        "url": "https://open.spotify.com/album/4OctCBdZwxmCRNxseEGRS8"
+        "name": "Rakia",
+        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
       "artists": [
         {
-          "name": "Nana Tuffour",
-          "url": "https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Adeepena",
-      "url": "https://open.spotify.com/track/1Gs56NZM42tJvXVs7hMWAl"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Krokro Me",
-        "url": "https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2"
-      },
-      "artists": [
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        },
         {
-          "name": "Kwaisey Pee",
-          "url": "https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT"
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 239570,
-      "name": "Krokro Me",
-      "url": "https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb"
+      "duration_ms": 306906,
+      "name": "Atweetan",
+      "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1215,38 +1199,18 @@
     {
       "added_at": "2024-07-19 09:38:31",
       "album": {
-        "name": "Show Your Love",
-        "url": "https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7"
+        "name": "Highlife Classics",
+        "url": "https://open.spotify.com/album/4OctCBdZwxmCRNxseEGRS8"
       },
       "artists": [
         {
-          "name": "Paapa Yankson",
-          "url": "https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8"
+          "name": "Nana Tuffour",
+          "url": "https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv"
         }
       ],
-      "duration_ms": 406177,
-      "name": "Show Your Love",
-      "url": "https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl"
-    },
-    {
-      "added_at": "2024-07-19 09:38:31",
-      "album": {
-        "name": "Rakia",
-        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
-      },
-      "artists": [
-        {
-          "name": "Kofi Nti",
-          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
-        },
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 338720,
-      "name": "Rakia",
-      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
+      "duration_ms": 380316,
+      "name": "Adeepena",
+      "url": "https://open.spotify.com/track/1Gs56NZM42tJvXVs7hMWAl"
     },
     {
       "added_at": "2024-07-19 09:38:31",
@@ -1283,6 +1247,42 @@
       "duration_ms": 389666,
       "name": "Me Nko Meda",
       "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Show Your Love",
+        "url": "https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7"
+      },
+      "artists": [
+        {
+          "name": "Paapa Yankson",
+          "url": "https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8"
+        }
+      ],
+      "duration_ms": 406177,
+      "name": "Show Your Love",
+      "url": "https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl"
+    },
+    {
+      "added_at": "2024-07-19 09:38:31",
+      "album": {
+        "name": "Rakia",
+        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
+      },
+      "artists": [
+        {
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        },
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 338720,
+      "name": "Rakia",
+      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
     },
     {
       "added_at": "2024-07-19 09:38:31",

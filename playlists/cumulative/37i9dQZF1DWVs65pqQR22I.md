@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-208 songs - 9 hr 31 min
+209 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Dreamy Black Noise Melodies](https://open.spotify.com/track/4DfymJ5juOs7RmFQKb2voF) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Deep Relaxation with Black Noise](https://open.spotify.com/album/3r472qZO3RLPvLd98DXjXH) | 2:46 | 2023-03-10 | 2023-06-01 |
 | [Dreamy Void \- Black Noise](https://open.spotify.com/track/0yZs7qrhyEcUlqxFl0oghk) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 3:20 | 2023-07-06 |  |
 | [Drowsy Black Noise](https://open.spotify.com/track/6aAd7o0qkHfBz1ZenR8fRO) | [Snoozatronica](https://open.spotify.com/artist/6Ik1AwpZwK66FCXtsdPaLt) | [Black Noise Slumber](https://open.spotify.com/album/2CmI8r0pmlPqrzQV9gZmKl) | 2:26 | 2023-04-21 |  |
-| [Easy Black Noise](https://open.spotify.com/track/12hevm4UsrGBTcAUZdknFv) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Dreamy Black Noise](https://open.spotify.com/album/5xiRrH7erxV3vAfmhqre3n) | 2:41 | 2023-06-19 |  |
+| [Easy Black Noise](https://open.spotify.com/track/12hevm4UsrGBTcAUZdknFv) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Dreamy Black Noise](https://open.spotify.com/album/5xiRrH7erxV3vAfmhqre3n) | 2:41 | 2023-06-19 | 2026-01-05 |
 | [Elegant Black Noise](https://open.spotify.com/track/5662sRQQxkmyfumSQUOiW8) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Elegant Black Noise](https://open.spotify.com/album/5zqJo1EonzprK7DlH0F2wY) | 3:59 | 2025-02-26 |  |
 | [Enigmatic Reverie \- Black Noise](https://open.spotify.com/track/3Yc4o13GHVPWJZa6uGrHV3) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:40 | 2023-06-01 | 2023-07-06 |
 | [Ethereal Black Noise](https://open.spotify.com/track/3pe2XZVilCOoydQ8Kp21x6) | [Lakshmi Roo](https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU) | [Harmonious Black Noise](https://open.spotify.com/album/5rTO0oFjsYW5urVkgnsBou) | 2:13 | 2023-03-10 | 2023-11-08 |
@@ -176,6 +176,7 @@
 | [Serendipitous Black Noise](https://open.spotify.com/track/4I0BfEIZfJPkpGJTqGahCN) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Black Noise Haven](https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU) | 3:02 | 2023-03-10 |  |
 | [Serene Black Noise](https://open.spotify.com/track/4KY3v44ESVbj8SGEAKNJ4l) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Peaceful Black Noise](https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt) | 2:07 | 2023-06-01 |  |
 | [Serene Black Noise Melodies](https://open.spotify.com/track/6gU8MolsvmO35Y6wEeguVt) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Serene Black Noise Melodies](https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk) | 2:39 | 2023-03-10 | 2023-06-01 |
+| [shhh...black noise](https://open.spotify.com/track/0ZN60g19J0zRJywboiRxjL) | [Noise Fabricants](https://open.spotify.com/artist/07q0fVhoI2nw0fyuPrbQZ6) | [shhh...black noise](https://open.spotify.com/album/5fywtJ7V50TtHzChcDYl7S) | 4:04 | 2025-12-19 |  |
 | [Silent Black Noise](https://open.spotify.com/track/7DMpNcB4zFwjumxApzMdPb) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Peaceful Black Noise](https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt) | 2:10 | 2023-06-01 |  |
 | [Sleeping To The Black Noise](https://open.spotify.com/track/3PCj5llCd5b3E0pPVF1vqf) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Sleeping To The Black Noise](https://open.spotify.com/album/3bpnlO13XIwHQDBYCfEA9f) | 2:43 | 2023-03-10 | 2023-10-11 |
 | [Sleeposinic Black Noise](https://open.spotify.com/track/3yOzJnNeBmvWrQjNLesjES) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Black Noise Flow](https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO) | 3:14 | 2023-03-31 |  |

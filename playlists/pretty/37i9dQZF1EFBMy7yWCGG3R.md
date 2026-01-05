@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,514 likes - 268 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,515 likes - 268 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 2 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
 | 3 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 4 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/4bp5G6x1SXMQW4X9DbCCCp) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:29 |
-| 5 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 |
-| 6 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 5 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 6 | [Issues](https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:56 |
 | 7 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 | 8 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 |
 | 9 | [Hands To Myself](https://open.spotify.com/track/3CJvmtWw2bJsudbAC5uCQk) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 39 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 40 | [emails i can’t send](https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 1:44 |
 | 41 | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/track/3icbmPGKTsKAa0IinkizCM) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/album/7skmxw0M4VQMZwY4lICAHl) | 3:06 |
-| 42 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
-| 43 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 42 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 43 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
 | 44 | [Like To Be You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2IssBpPtHcViZL5vYQNHhA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:39 |
 | 45 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 46 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 267 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 268 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcF/mgAAAABAUDm8VCPrixOEMYzmxkHE`
+Snapshot ID: `AcGFOgAAAAAoGXdLCfc3O1P/2sg4n2kP`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,302 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
-| 2 | [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Es ist Zeit](https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy) | 2:53 |
+| 2 | [Tirol \- Remastered 2019](https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [20 Jahre DJ Ötzi \- Party ohne Ende](https://open.spotify.com/album/2GdMAyh93AU8DqQ66lrWnK) | 2:53 |
 | 3 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 4 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 5 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 27 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 28 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 29 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |
-| 30 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 |
+| 30 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:01 |
 | 31 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 32 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
 | 33 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 42 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 43 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
 | 44 | [NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov) | 2:03 |
-| 45 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
+| 45 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 46 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 47 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 48 | [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 |
+| 48 | [069](https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Deutschrap Hits](https://open.spotify.com/album/16hTVwSjNPqdvtsBv6zjcW) | 3:42 |
 | 49 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 50 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

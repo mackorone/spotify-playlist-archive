@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116875,
+  "num_followers": 116883,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAACgZrourBhKUpJG1Sje5+zB",
+  "snapshot_id": "aVhcAAAAAADNppbiFKmOJBHQ/XPZ78qf",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/0OIdc0aQSkDtXUuywx55OP"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 208927,
-      "name": "Los Mitotes",
-      "url": "https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0"
+      "duration_ms": 274692,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/555N8dZTTSQwhzlS3jryxf"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/0OIdc0aQSkDtXUuywx55OP"
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
       "artists": [
         {
@@ -652,29 +652,25 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 274692,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/555N8dZTTSQwhzlS3jryxf"
+      "duration_ms": 208927,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+        "name": "Una Llamada Al Cielo",
+        "url": "https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
         }
       ],
-      "duration_ms": 176400,
-      "name": "Ah\u00ed Quede",
-      "url": "https://open.spotify.com/track/0pcvJQf5xsC4aOu6MKCFKn"
+      "duration_ms": 213853,
+      "name": "Una Llamada Al Cielo",
+      "url": "https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu"
     },
     {
       "added_at": null,
@@ -695,6 +691,26 @@
       "duration_ms": 216604,
       "name": "La Ley del Mayo",
       "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Ah\u00ed Quede",
+      "url": "https://open.spotify.com/track/0pcvJQf5xsC4aOu6MKCFKn"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132328,
-      "name": "Aqui En Mi Corazon Tu Mandas",
-      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 149951,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Llamada Al Cielo",
-        "url": "https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Una Llamada Al Cielo",
-      "url": "https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Color Del Amor",
-        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 262906,
-      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
-      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado (En Vivo)",
+      "url": "https://open.spotify.com/track/0han8uTSYeZDTQmtQyibou"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,885 likes - 82 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 82 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 30 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
 | 31 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
 | 32 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
-| 33 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
-| 34 | [RANDAGI](https://open.spotify.com/track/0UFNkuBGeda7Rx2JTidBcu) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/5oRlxAHKgPHEO5cwSOk8U3) | 3:17 |
-| 35 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 33 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 34 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
+| 35 | [RANDAGI](https://open.spotify.com/track/0UFNkuBGeda7Rx2JTidBcu) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/5oRlxAHKgPHEO5cwSOk8U3) | 3:17 |
 | 36 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
 | 37 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
 | 38 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 72 | [La sfida contro il tempo](https://open.spotify.com/track/3JChn2cFbSZTtmQY4SvfOb) | [Ninna e Matti](https://open.spotify.com/artist/3ddOmMXJS1tUjF60vzU9eo) | [La sfida contro il tempo](https://open.spotify.com/album/6sNrtP2h6fSF3RvV39c0GY) | 3:04 |
 | 73 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 |
 | 74 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
-| 75 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 |
-| 76 | [Match Point](https://open.spotify.com/track/34U0T2a4EuIlsTIDJcFgcz) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:38 |
+| 75 | [Match Point](https://open.spotify.com/track/34U0T2a4EuIlsTIDJcFgcz) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:38 |
+| 76 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 |
 | 77 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
 | 78 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 |
 | 79 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 81 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 82 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 
-Snapshot ID: `AcF/mgAAAAA7H2sv05r/RNSbKprcygug`
+Snapshot ID: `AcGFOgAAAABGVWYfWAjbvjnVhEXv/uNA`

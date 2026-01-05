@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,199 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,201 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 68 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 69 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
 | 70 | [por qué está tan cabrón crecer?](https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [por qué está tan cabrón crecer?](https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7) | 3:46 |
-| 71 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
-| 72 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
+| 71 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
+| 72 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
 | 73 | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 |
 | 74 | [Te Lo Debo Contar](https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Te Lo Debo Contar](https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q) | 3:56 |
 | 75 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
 | 76 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 |
-| 77 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
-| 78 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 |
+| 77 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 |
+| 78 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 | 79 | [Quizá Algún Día](https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Fernanda Reséndiz](https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid) | [Quizá Algún Día](https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw) | 2:57 |
 | 80 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
 

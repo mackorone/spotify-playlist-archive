@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,326 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,379 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 |
 | 50 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
 
-Snapshot ID: `aVcKgAAAAABt24G7o41FY1c0Jv7F/fT0`
+Snapshot ID: `aVhcAAAAAACGM5U/UUJe8T/xfbAMxzpn`

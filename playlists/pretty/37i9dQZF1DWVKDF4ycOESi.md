@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Tony Boy, Kid Yugi e ANNA, Geolier e 50 Cent, Sabrina Carpenter e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,632 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,641 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

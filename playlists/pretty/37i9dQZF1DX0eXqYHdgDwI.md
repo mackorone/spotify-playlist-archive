@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,118 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,128 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 69 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 |
 | 70 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
 | 71 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
-| 72 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
-| 73 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
+| 72 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
+| 73 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 74 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:09 |
 | 75 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
 | 76 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |

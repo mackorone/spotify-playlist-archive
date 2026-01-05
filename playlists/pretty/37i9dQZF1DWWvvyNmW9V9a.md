@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > but what if Joe Keery's next move was to join Heated Rivalry season 2?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,096,231 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096,141 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 77 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
 | 78 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 |
 | 79 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
-| 80 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 80 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 81 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 82 | [가위바위보 Eeny meeny miny moe](https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Too Much Part 1](https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki) | 2:43 |
 | 83 | [Parasite](https://open.spotify.com/track/5YtYSUSeKI6jgNlY9Dprmr) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Parasite](https://open.spotify.com/album/7ycd7aaioLGruOwzSd5bw6) | 3:15 |

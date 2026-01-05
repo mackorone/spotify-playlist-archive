@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,108 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,111 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 30 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 31 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 32 | [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 |
-| 33 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 |
+| 33 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 34 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 35 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 | 36 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [NINAO](https://open.spotify.com/track/2zZxAdLZf3hhJHboKBMm29) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:47 |
 | 50 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 |
 
-Snapshot ID: `MOyPgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

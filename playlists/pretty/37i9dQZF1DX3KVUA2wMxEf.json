@@ -1,6 +1,6 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 121728,
+  "num_followers": 121752,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-06-27 23:12:23",

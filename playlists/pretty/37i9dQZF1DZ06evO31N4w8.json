@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 66705,
+  "num_followers": 66719,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAAAEW+WYtJU/vGTx/Lu/Eu4S",
+  "snapshot_id": "aVhcAAAAAADXWJA8hccgkg9VGqJ1OjPS",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 156640,
-      "name": "El Invencible",
-      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+      "duration_ms": 156640,
+      "name": "El Invencible",
+      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Para Qu\u00e9 Quieres Que Vuelva",
+      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abriendo Caminos",
         "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 206773,
       "name": "\u00bfY Ahora Que?",
       "url": "https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Para Qu\u00e9 Quieres Que Vuelva",
-      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+      "duration_ms": 162560,
+      "name": "Estabas Tan Linda",
+      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Los Rieles",
-        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Estabas Tan Linda",
-      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
     },
     {
       "added_at": null,

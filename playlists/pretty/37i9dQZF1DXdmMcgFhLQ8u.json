@@ -1,6 +1,6 @@
 {
   "description": "These country songs know exactly how you feel. Cover: Riley Green",
-  "num_followers": 213533,
+  "num_followers": 213542,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-12 01:51:47",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
+    },
+    {
+      "added_at": "2025-09-12 01:51:47",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2025-09-12 01:51:47",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
     }
   ],
   "unique_name": "Country Heartache",

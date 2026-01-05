@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-869 songs - 1 day 17 hr 28 min
+871 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 | 2025-03-19 | 2025-07-02 |
 | [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 |  |
 | [Hearts in Eden](https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Hearts in Eden](https://open.spotify.com/album/2pk80AF4W803dFQ71IOeDF) | 3:00 | 2025-05-07 | 2025-12-15 |
-| [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 |  |
+| [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 | 2026-01-05 |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-31 | 2023-12-09 |
 | [Hikari](https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Hikari](https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB) | 2:52 | 2025-09-23 |  |
 | [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-11-12 |  |
@@ -446,6 +446,7 @@
 | [Lumina](https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Lumina](https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY) | 2:12 | 2025-12-17 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2023-03-31 | 2024-02-09 |
 | [Luminescence](https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Luminescence](https://open.spotify.com/album/3TvEUPEaYRKxhQW4A7sAWu) | 2:45 | 2025-04-09 |  |
+| [Luminous](https://open.spotify.com/track/6gSLsmRvwqyhgGK4PeUfkQ) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Luminous](https://open.spotify.com/album/08JteIJ2jQ8yucOwjfSChf) | 2:04 | 2025-12-17 |  |
 | [Luminous Fade](https://open.spotify.com/track/2vBitzz07lHuwMqECshe7n) | [Nicolaj Stavrenko](https://open.spotify.com/artist/30C9fRGfoh7b2dg9g7coHv) | [Luminous Fade](https://open.spotify.com/album/2tjzy1zRLqplUrG6kSdLZ6) | 2:39 | 2025-12-02 |  |
 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-06-23 |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2024-03-21 |
@@ -617,7 +618,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-31 | 2024-02-09 |
 | [Recognition](https://open.spotify.com/track/6uw0ljrK4RlyEckezeUaMa) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Recognition](https://open.spotify.com/album/6IQA2AcX3BLAQ7k46YhxmZ) | 3:09 | 2025-11-12 |  |
 | [Recombination](https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Recombination](https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA) | 2:59 | 2024-11-05 | 2025-06-04 |
-| [Reconstitute](https://open.spotify.com/track/3ArhNAMaWOksN4ymVoN0sw) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Reconstitute](https://open.spotify.com/album/5hM6c9HtEY0DzPvHHEobDG) | 2:47 | 2025-09-23 |  |
+| [Reconstitute](https://open.spotify.com/track/3ArhNAMaWOksN4ymVoN0sw) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Reconstitute](https://open.spotify.com/album/5hM6c9HtEY0DzPvHHEobDG) | 2:47 | 2025-09-23 | 2026-01-05 |
 | [Red Mind](https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Red Mind](https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT) | 3:00 | 2024-01-13 | 2025-03-22 |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2023-03-31 | 2024-05-05 |
 | [Reflections](https://open.spotify.com/track/0WMxqTBStEzYizr2V3Z35z) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Reflections](https://open.spotify.com/album/7CBdIfVzECewERr8nvYolp) | 3:17 | 2025-02-04 | 2026-01-02 |
@@ -642,6 +643,7 @@
 | [Return Home](https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Return Home](https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML) | 3:03 | 2024-07-15 | 2025-09-24 |
 | [Revelation](https://open.spotify.com/track/7wQsmSxIPL8pN4hIKwmqQg) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Revelation](https://open.spotify.com/album/695Onhfl8t9WTtHUn9P8Kx) | 2:58 | 2025-12-17 |  |
 | [Ridges](https://open.spotify.com/track/6Q3WHEYkQ54apZl6WoFyQu) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Ridges](https://open.spotify.com/album/5QPmwgdpIy1rjFGazOFDpC) | 3:45 | 2023-03-31 | 2024-02-09 |
+| [Rituals](https://open.spotify.com/track/6amYDqp1Jctu3jbFGIFzaT) | [Aurora Chamber](https://open.spotify.com/artist/5RskfD8FI7hAdPYRLno1OX) | [Rituals](https://open.spotify.com/album/5ipVpC156LAZdVwgE6JApj) | 2:50 | 2025-12-17 |  |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2023-03-31 | 2024-02-09 |
 | [Royal Cubit](https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Royal Cubit](https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8) | 3:22 | 2024-03-20 | 2025-07-29 |
 | [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 | 2025-06-03 |  |

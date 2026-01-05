@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5866,
+  "num_followers": 5867,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAADTLme7jGYtoYSuN0n0O3sU",
+  "snapshot_id": "aVhcAAAAAAAZq83A8nZBrK7OysRJ3YG3",
   "tracks": [
     {
       "added_at": null,
@@ -382,31 +382,11 @@
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 177240,
-      "name": "Quisieran Tener Mi Lugar",
-      "url": "https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00c9NIX",
-        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "F\u00c9NIX",
-      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta"
     },
     {
       "added_at": null,
@@ -459,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+        "name": "F\u00c9NIX",
+        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
       },
       "artists": [
         {
@@ -468,9 +448,29 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Vas a Volver",
-      "url": "https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta"
+      "duration_ms": 197288,
+      "name": "F\u00c9NIX",
+      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Quisieran Tener Mi Lugar",
+      "url": "https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "La Malquerida",
+      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flores En Mi Alma",
         "url": "https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "La Malquerida",
-      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 206426,
       "name": "Entre Botellas",
       "url": "https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -579,26 +599,6 @@
       "duration_ms": 165040,
       "name": "El Honor",
       "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 182986,
       "name": "Ticket De Salida",
       "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
     },
     {
       "added_at": null,

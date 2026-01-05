@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVcKgAAAAABNoMSUpSZtC83nc7Fla9YV",
+  "snapshot_id": "aVhcAAAAAAAuwRvmWjTmkIiSVJow4vhk",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 373320,
-      "name": "Bonus Track",
-      "url": "https://open.spotify.com/track/3T3TRQqkipdriFOOh3OTDg"
+      "duration_ms": 293120,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0VW39KNnrbVnp4CnJExu5S"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 497560,
-      "name": "Papa's Land",
-      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 377960,
-      "name": "Oba Erediauwa",
-      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
+      "duration_ms": 497560,
+      "name": "Papa's Land",
+      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 479120,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
     },
     {
       "added_at": null,
@@ -479,6 +463,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 488400,
+      "name": "No More Wars",
+      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 913786,
+      "name": "Chant Of The Slaves Let My People Go",
+      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Wars",
         "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
@@ -511,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 913786,
-      "name": "Chant Of The Slaves Let My People Go",
-      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "51 Lex Presents: O'Nambia",
         "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
       },
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 488400,
-      "name": "No More Wars",
-      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
+      "duration_ms": 556386,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire In Soweto",
-        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
       },
       "artists": [
         {
@@ -584,25 +600,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 400026,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "51 Lex Presents: O'Nambia",
-        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 556386,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5"
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
     },
     {
       "added_at": null,
@@ -623,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 419626,
-      "name": "Jungle Beat",
-      "url": "https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Wars",
         "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 377093,
       "name": "Holy Mass",
       "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 400026,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 419626,
+      "name": "Jungle Beat",
+      "url": "https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic"
     },
     {
       "added_at": null,
