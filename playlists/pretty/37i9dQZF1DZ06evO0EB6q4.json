@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 259617,
+  "num_followers": 259654,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABLfZuPr6j/d95U/VC1k7N2",
+  "snapshot_id": "aVmtgAAAAABO8lVB7JPdVeaNcXPBdBS1",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "1+1=1",
-      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "1+1=1",
+      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 220612,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LQRA Session #7",
+        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "LQRA Session #7",
+      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desarmados",
         "url": "https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 215115,
       "name": "Desarmados",
       "url": "https://open.spotify.com/track/7Mcf8uGggfDxoW2XWVlGns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #7",
-        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "LQRA Session #7",
-      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
     },
     {
       "added_at": null,

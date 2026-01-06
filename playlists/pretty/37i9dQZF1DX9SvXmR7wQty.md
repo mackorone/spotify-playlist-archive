@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Solann
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,012 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,015 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 4 | [Désert](https://open.spotify.com/track/7N2BMfbFIh3e5nPiwpxpC2) | [Ms\. Bella](https://open.spotify.com/artist/75Y3RKposeHizzrQZyg6A7) | [Désert](https://open.spotify.com/album/7anjT08bdrIvsMwmm5XpaV) | 2:40 |
 | 5 | [VIEUX STOCK](https://open.spotify.com/track/5122PVHWtf1BHrWCBhVGXu) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIEUX STOCK](https://open.spotify.com/album/4cKmgW6KrAq0mnY80Gbgcm) | 2:58 |
 | 6 | [C QUOI ÇA](https://open.spotify.com/track/1LRTL3iKngZUwcMBFaGnRr) | [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [C QUOI ÇA](https://open.spotify.com/album/412Vsw1bHLiQRuaY7eYFoP) | 2:22 |
-| 7 | [Au fond des bois](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
+| 7 | [Au fond des bois \(feat\. Rymz\)](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
 | 8 | [Coller la petite \(feat\. Theodora\)](https://open.spotify.com/track/2Whypl8wAUIKVBqautgKhu) | [HollyG](https://open.spotify.com/artist/6zyKieIrkN8p44Z1JdPNde), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Coller la petite \(feat\. Theodora\)](https://open.spotify.com/album/3PMUBTYzkE08Bm0KVVZiDB) | 2:36 |
 | 9 | [Blood](https://open.spotify.com/track/6YQog39dMS4eoKFVB9LetC) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [LIEN200](https://open.spotify.com/album/7sz6ul97G5XJhzU51h4QCW) | 2:22 |
 | 10 | [TROP \- acoustique](https://open.spotify.com/track/7bA5PVKJJcAnQtHAZg4CGr) | [romie](https://open.spotify.com/artist/7wrEX7WSksgXmTz7qq9Dvw) | [TROP \(acoustique\)](https://open.spotify.com/album/1ie0Xt8yDRhKORhiZ7AWWV) | 2:15 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,002 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,013 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PRAISE!](https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PRAISE!](https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC) | 2:49 |
+| 1 | [GOT A REASON](https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GOT A REASON](https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC) | 2:49 |
 | 2 | [Can’t Tell It All \(Remix\)](https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COMA](https://open.spotify.com/album/1R9kIu20SZDjdKj3KpysYL) | 3:11 |
 | 3 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
 | 4 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:15 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 40 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 |
 | 41 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 |
 | 42 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
-| 43 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 |
-| 44 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
+| 43 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
+| 44 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 |
 | 45 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
 | 46 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 |
 | 47 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 | 50 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
 
-Snapshot ID: `aVhcAAAAAACOTGbtmK5/sFCrOVYprQik`
+Snapshot ID: `aVmtgAAAAADkv8OVnWbdPLyUPjbAuySz`

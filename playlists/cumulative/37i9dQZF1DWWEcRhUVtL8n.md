@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Esha Tewari
 
-2,230 songs - 4 day 22 hr 22 min
+2,231 songs - 4 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-09-02 |
 | [Anything Could Happen](https://open.spotify.com/track/7cdS2ZpDLR4kOug7FrRssx) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Anything Could Happen](https://open.spotify.com/album/5aBYZUmWL1v3mmk3Ji3M9Y) | 3:27 | 2021-03-16 | 2021-10-13 |
 | [Appetite](https://open.spotify.com/track/5VbH21TVJrKIsDpNbpTi7B) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PETROL BLOOM](https://open.spotify.com/album/2dAk99NhCCyRdko6BPPe9q) | 3:32 | 2020-12-08 | 2021-05-26 |
-| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 |  |
+| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 | 2026-01-06 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 | 2024-12-14 |
 | [are we done yet?](https://open.spotify.com/track/1BdzvR20FObuU4AdB7EuTs) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [are we done yet?](https://open.spotify.com/album/42mnwpVIAIYSNXjgCKsyLu) | 4:01 | 2022-09-23 | 2022-10-08 |
 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/63koRk9rszZKFiVLuhdo88) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Are We Having Any Fun Yet?](https://open.spotify.com/album/11iKlt3QabcuCbewlu2xHj) | 3:17 | 2020-10-20 | 2021-10-22 |
@@ -1220,6 +1220,7 @@
 | [love of your life](https://open.spotify.com/track/58mNlQC7dh07i8JF8CMycR) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [love of your life](https://open.spotify.com/album/2U7nCP55m7ws8MXAqfD8D9) | 2:50 | 2021-09-24 | 2022-04-15 |
 | [Love Somebody](https://open.spotify.com/track/7onurzG7nyLWQUGvdySaNS) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 5:10 | 2021-03-19 | 2021-03-23 |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2020-10-20 | 2020-10-21 |
+| [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 | 2026-01-05 |  |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2020-11-23 | 2022-07-29 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 | 2023-06-17 |
 | [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 | 2023-05-12 | 2023-09-30 |

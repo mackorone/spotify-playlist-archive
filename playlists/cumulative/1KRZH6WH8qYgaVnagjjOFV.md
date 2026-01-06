@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1KRZH6WH8qYgaVnagjjOFV.md) - cumulative - [plain](/playlists/plain/1KRZH6WH8qYgaVnagjjOFV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1KRZH6WH8qYgaVnagjjOFV)
 
-### [Top Christian Hits 2025](https://open.spotify.com/playlist/1KRZH6WH8qYgaVnagjjOFV)
+### [Top Christian Hits 2026](https://open.spotify.com/playlist/1KRZH6WH8qYgaVnagjjOFV)
 
-> Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
+> Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
 151 songs - 10 hr 7 min
 

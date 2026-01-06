@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,095 songs - 2 day 18 hr 42 min
+1,098 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 | 2024-07-30 | 2024-11-07 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
-| [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 | 2025-12-12 |  |
+| [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 | 2025-12-12 | 2026-01-06 |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-18 | 2025-02-19 |
 | [Birthday Song](https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Birthday Song](https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE) | 2:48 | 2025-05-07 | 2025-05-15 |
 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2024-06-05 | 2024-11-07 |
@@ -217,7 +217,7 @@
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [Diary](https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [Diary](https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq) | 2:53 | 2024-04-09 | 2024-05-10 |
-| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 |  |
+| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 | 2026-01-06 |
 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2025-06-05 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
@@ -247,7 +247,7 @@
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
 | [DUNE](https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [DUNE](https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49) | 4:15 | 2023-11-03 | 2023-11-24 |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-12 | 2025-10-07 |
-| [Echoes of You](https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [IDOL I Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0) | 3:20 | 2025-12-16 |  |
+| [Echoes of You](https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [IDOL I Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0) | 3:20 | 2025-12-16 | 2026-01-06 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2022-04-12 |  |
 | [Embrace](https://open.spotify.com/track/1aYbbNLHNm6DZqlB7bFM4O) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Promise](https://open.spotify.com/album/7e6PkMzboUpQPcnDiDQMOk) | 3:43 | 2023-02-04 | 2023-02-25 |
 | [embraces 23 \(a shitty love song\)](https://open.spotify.com/track/4TZ3i7Ygmz1CwMpRX7FP0s) | [Asian Boys, Crying](https://open.spotify.com/artist/7v4aEnk9ERqYtpyGWsq28R) | [embraces 23 \(a shitty love song\)](https://open.spotify.com/album/3yX7O3n5VurkIJfTlJ5paf) | 4:30 | 2022-07-08 | 2022-07-22 |
@@ -570,6 +570,7 @@
 | [LOVERS](https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Blue Heart](https://open.spotify.com/album/2x9kpvzZeiIpStGqulfA50) | 3:13 | 2025-12-16 |  |
 | [Loving You](https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [sunoa](https://open.spotify.com/artist/6N67hO98Q9C9Iam30gpcqQ) | [Loving You](https://open.spotify.com/album/4wUTMXz0OvkPtLXrbmsoA8) | 3:27 | 2024-11-06 | 2024-12-06 |
 | [Lunar phase](https://open.spotify.com/track/1F3pPDZkBpfxcPzcQbXjTt) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Lunar phase : A side](https://open.spotify.com/album/08wRhg5KFGIsE0MTQEfyF4) | 4:49 | 2022-04-21 | 2022-07-03 |
+| [LUV 2 MUCH](https://open.spotify.com/track/67zKFae520bELVlkMGpWyv) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Luv 2 Much](https://open.spotify.com/album/4dEb5kgnbC07lS4H1KLnwT) | 2:39 | 2026-01-05 |  |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-06-03 | 2022-07-28 |
 | [Magic Lily](https://open.spotify.com/track/2idifx4BoD1a2O3Tksl2h1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [KickKickKickKick \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3gMXpnk3yImBnut57xTF92) | 4:26 | 2025-02-10 | 2025-03-18 |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2023-07-08 |
@@ -951,6 +952,7 @@
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2025-12-16 |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow \(Song by E.R.E.R\)](https://open.spotify.com/track/1F2Sy1UnZk4oNpT7sKBfhp) | [STEAL HEART CLUB](https://open.spotify.com/artist/7pxiQtuIBhM9BjigTPAHOh) | [STEAL HEART CLUB \- BAND UNIT BATTLE](https://open.spotify.com/album/3eLk28vzp3TUbMXHCE3Zoi) | 2:57 | 2025-11-28 | 2025-12-09 |
+| [Tomorrow, Promise](https://open.spotify.com/track/4jy5dG5PYnigjz3zP1XHBA) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Tomorrow, Promise](https://open.spotify.com/album/3YAULJgi6CHVzTxLMUjAuF) | 4:26 | 2026-01-05 |  |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 | 2025-09-26 | 2025-10-07 |
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
@@ -1103,5 +1105,6 @@
 | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 | 2024-02-06 | 2024-03-28 |
 | [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-23 | 2025-10-10 |
 | [호우주의보 It's Raining](https://open.spotify.com/track/1xFJjh9QEVlWuOqfcp6V8K) | [Radio Paradise](https://open.spotify.com/artist/7ClbINnpciDolca5cIxchE) | [호우주의보 It's Raining](https://open.spotify.com/album/1y3x7RNNB13iLDl7CV1WAQ) | 3:53 | 2022-05-24 | 2022-05-28 |
+| [﻿Credit](https://open.spotify.com/track/4DQ8otby1CE3pNRfQ7rhFv) | [IN A MINUTE](https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq) | [Monthly MINUTE Vol\. 6](https://open.spotify.com/album/2UT14pkaLl3U692TE2na9O) | 3:20 | 2026-01-05 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,124 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,118 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 31 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
 | 32 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
 | 33 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 34 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 35 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 |
+| 34 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 |
+| 35 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 36 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 37 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
 | 38 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 59 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 |
 | 60 | [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 |
 | 61 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 |
-| 62 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
-| 63 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 62 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 63 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 64 | [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 |
 | 65 | [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 |
 | 66 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,887 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,896 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 36 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
 | 37 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 38 | [AAA](https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [AAA](https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm) | 3:11 |
-| 39 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
-| 40 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
+| 39 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
+| 40 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 41 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 42 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 |
 | 43 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 74 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
 | 75 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
 | 76 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
-| 77 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
-| 78 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
+| 77 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
+| 78 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
 | 79 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
 | 80 | [I Adore U](https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:42 |
 

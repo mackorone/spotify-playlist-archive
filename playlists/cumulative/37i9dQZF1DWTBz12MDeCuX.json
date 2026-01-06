@@ -31823,6 +31823,24 @@
     },
     {
       "album": {
+        "name": "lfme",
+        "url": "https://open.spotify.com/album/03DyXViqu7sKlcZmtHayIg"
+      },
+      "artists": [
+        {
+          "name": "3LNA",
+          "url": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "lfme",
+      "url": "https://open.spotify.com/track/7IAbljh3tbA852xhePXkfB"
+    },
+    {
+      "album": {
         "name": "Licht aus",
         "url": "https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i"
       },
@@ -58832,7 +58850,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 158542,
       "name": "Weihnachtslied 2025",
       "url": "https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF"

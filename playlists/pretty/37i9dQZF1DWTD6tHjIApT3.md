@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 『ユイカ』Yuika
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,087 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,079 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 50 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
 | 51 | [Goddess](https://open.spotify.com/track/6PDzZVxbuZHImcACGiaKLt) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Goddess / Waterproof / Swamp](https://open.spotify.com/album/664g5Wm5dsC1eMJ11FOrV6) | 3:34 |
 | 52 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
-| 53 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
-| 54 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
+| 53 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
+| 54 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
 | 55 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
 | 56 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
 | 57 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 65 | [ローズヒップティー](https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ローズヒップティー](https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs) | 3:12 |
 | 66 | [Thinking of You](https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Thinking of You](https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob) | 2:59 |
 | 67 | [素描](https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [素描](https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju) | 4:35 |
-| 68 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
-| 69 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
+| 68 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
+| 69 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
 | 70 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
 | 71 | [キミがいないと](https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [キミがいないと](https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5) | 3:35 |
 | 72 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 |
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 84 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 |
 | 85 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
 | 86 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
-| 87 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |
+| 87 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
 | 88 | [岩礁のきらめき](https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Wormhole / Yumi AraI](https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv) | 4:29 |
-| 89 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
+| 89 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |
 | 90 | [Like Gravity](https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Like Gravity](https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1) | 3:04 |
-| 91 | [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 |
-| 92 | [From Noir](https://open.spotify.com/track/1pRTgNZcnHsOOnK4wglCVm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [From Noir into Clair](https://open.spotify.com/album/73B4nwyWAWF9RgsRFdTxmu) | 3:45 |
-| 93 | [モノクロームラブ \-Shade of us\- \(feat\. 財津マイ\)](https://open.spotify.com/track/5upCzvw5syyoDtbSoV8M3J) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [モノクロームラブ \-Shade of us\- \(feat\. 財津マイ\)](https://open.spotify.com/album/0VrQOkYHczFVg25Mzz9Aes) | 2:44 |
+| 91 | [モノクロームラブ \-Shade of us\- \(feat\. 財津マイ\)](https://open.spotify.com/track/5upCzvw5syyoDtbSoV8M3J) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [モノクロームラブ \-Shade of us\- \(feat\. 財津マイ\)](https://open.spotify.com/album/0VrQOkYHczFVg25Mzz9Aes) | 2:44 |
+| 92 | [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 |
+| 93 | [From Noir](https://open.spotify.com/track/1pRTgNZcnHsOOnK4wglCVm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [From Noir into Clair](https://open.spotify.com/album/73B4nwyWAWF9RgsRFdTxmu) | 3:45 |
 | 94 | [星紡ぎ](https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE) | 4:12 |
 | 95 | [コースター](https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [コースター / カニステル](https://open.spotify.com/album/3bmDkkv8eRUmmDAG3NLXMw) | 3:42 |
 | 96 | [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 |

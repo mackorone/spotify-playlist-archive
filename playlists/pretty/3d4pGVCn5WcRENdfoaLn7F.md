@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 400 likes - 50 songs - 3 hr 1 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 402 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 48 | [Lithium](https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:32 |
 | 49 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 |
 | 50 | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/track/09v2BHi9r6vYjZ92DOrMNp) | [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/album/2ZiuHnUaPIjj2WawwsWIEM) | 2:28 |
+| 51 | [ponte a pensar](https://open.spotify.com/track/7lrX4uvZ2jAxkYztRmb9T6) | [MARCADODEESO](https://open.spotify.com/artist/6opl25ebP1jA6bVWfI21JL) | [ponte a pensar](https://open.spotify.com/album/1noVGcsDJs7DHKturu2d5J) | 3:36 |
 
-Snapshot ID: `AAACSeUdde2gpk5QHKPSoCyT4wgrfYFR`
+Snapshot ID: `AAACSnDCWwsiN9BVgyCBXsCNOBXo1x26`

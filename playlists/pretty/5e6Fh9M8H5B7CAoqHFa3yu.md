@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,777 songs - 4 day 11 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,780 songs - 4 day 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1785,5 +1785,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1775 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 |
 | 1776 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 |
 | 1777 | [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 |
+| 1778 | [The Kindling Starts it All](https://open.spotify.com/track/5whyJ4wKqDjaQmxx3mg1QI) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 3:30 |
+| 1779 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 |
+| 1780 | [RIDING DINAMITE](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [RIDING DINAMITE](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 |
 
-Snapshot ID: `AAAHwsjP+u78EaeVWD/JwbZTcFOtoebs`
+Snapshot ID: `AAAHxc2gxmt5qtVwpqbtbOCReY36DALC`

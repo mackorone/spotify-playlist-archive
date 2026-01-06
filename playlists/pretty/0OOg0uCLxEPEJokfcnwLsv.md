@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 590 likes - 70 songs - 4 hr 12 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 591 likes - 72 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 68 | [Pretty Fishes](https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 3:30 |
 | 69 | [Steal](https://open.spotify.com/track/53Zzy3zWCdZrn7PUl05nFO) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Steal](https://open.spotify.com/album/75FwO5KTjdbGbkLuEnfl3Q) | 3:22 |
 | 70 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 |
+| 71 | [A Cautionary Tale](https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:27 |
+| 72 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 |
 
-Snapshot ID: `AAAEY+AU+qdod//xuSLQJYo4WWUU4LqV`
+Snapshot ID: `AAAEZa5WXmQXjW+syA4oEZSqMQ9tiO/v`

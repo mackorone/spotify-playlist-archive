@@ -6238,7 +6238,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -16636,7 +16636,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -21330,7 +21330,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -31618,7 +31618,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 175448,
       "name": "Rodinnej Typ",
       "url": "https://open.spotify.com/track/35nvMkQglkoeydD81a0b77"
@@ -33148,7 +33148,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
@@ -33272,6 +33272,32 @@
       "duration_ms": 180800,
       "name": "SHY LIE LIE",
       "url": "https://open.spotify.com/track/5VofRQ5kwfj8zd1g14aOSa"
+    },
+    {
+      "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "Mat213",
+          "url": "https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "SHY LIE LIE",
+      "url": "https://open.spotify.com/track/5sOISo6P5XNtuaYBawpM7s"
     },
     {
       "album": {
@@ -33948,7 +33974,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 190477,
       "name": "SNAD SE TAM NEBUDE ST\u0158\u00cdLET",
       "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
@@ -35696,7 +35722,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -35838,7 +35864,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -35954,7 +35980,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -35972,7 +35998,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -37346,7 +37372,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -40046,7 +40072,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 175172,
       "name": "Val\u010d\u00edk",
       "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
@@ -40406,7 +40432,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"

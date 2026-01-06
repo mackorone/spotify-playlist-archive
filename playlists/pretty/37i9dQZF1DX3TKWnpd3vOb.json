@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Beto Cuevas",
-  "num_followers": 187287,
+  "num_followers": 187283,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Te Amodio",
-        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
+        "name": "Te van a olvidar",
+        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
       "artists": [
         {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 194757,
-      "name": "Te amodio",
-      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
+      "duration_ms": 241651,
+      "name": "Te van a olvidar",
+      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -239,22 +243,18 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Te van a olvidar",
-        "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
+        "name": "Te Amodio",
+        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        },
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
         }
       ],
-      "duration_ms": 241651,
-      "name": "Te van a olvidar",
-      "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
+      "duration_ms": 194757,
+      "name": "Te amodio",
+      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Let Me Fly",
+      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
         "name": "Mariposa Peregrina",
         "url": "https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 221714,
       "name": "Campo Abierto",
       "url": "https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Let Me Fly",
-      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Vacaciones de Invierno (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Sue\u00f1o A Marte",
-          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vacaciones de Invierno - ac\u00fastico",
-      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
         "name": "SUE\u00d1OS MOJADOS",
         "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 144000,
       "name": "SUE\u00d1OS MOJADOS",
       "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
+        "name": "Vacaciones de Invierno (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vacaciones de Invierno - ac\u00fastico",
+      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
     },
     {
       "added_at": "2025-11-14 03:00:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,932 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,948 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 26 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 |
 | 27 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 28 | [Tattoo](https://open.spotify.com/track/3Ui2jdyxbZQrZohfM0NOgG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 3:53 |
-| 29 | [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 |
-| 30 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
+| 29 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
+| 30 | [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 |
 | 31 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |
 | 32 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 |
 | 33 | [Be the One](https://open.spotify.com/track/1vTntttEXlVHk4uj1vtVEe) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/4btGe14gIJmTxbcPAQBtqb) | 3:22 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 44 | [Boy's a Liar](https://open.spotify.com/track/3QUbaXCfksmF19lW32BQE0) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 45 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
 | 46 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
-| 47 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
-| 48 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
+| 47 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
+| 48 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
 | 49 | [Messy](https://open.spotify.com/track/7yMAQkI1bG1zT1yvBxGxe0) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 4:44 |
 | 50 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 51 | [Finest](https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Finest](https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd) | 1:50 |
-| 52 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
-| 53 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
+| 52 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
+| 53 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
 | 54 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 |
 | 55 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/6unYuPl8iBohf9Rh2YQASG) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/7tMzgvY6LjjCObfrzLWDyc) | 3:08 |
 | 56 | [Woman \(Green\)](https://open.spotify.com/track/3ZWvKLyIWv4IvdZOusuuQm) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 2:51 |

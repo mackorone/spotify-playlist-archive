@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 196144,
       "name": "Kaathal Maari",
       "url": "https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95"
@@ -4194,6 +4194,32 @@
       "duration_ms": 202285,
       "name": "KALLU THE TODDY",
       "url": "https://open.spotify.com/track/1MigC5MPNAMPtef31ji6Fz"
+    },
+    {
+      "album": {
+        "name": "Haal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TCgcD0kzPASO874pZU9q0"
+      },
+      "artists": [
+        {
+          "name": "Nandhagopan V",
+          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
+        },
+        {
+          "name": "Shane Nigam",
+          "url": "https://open.spotify.com/artist/47YvIZTR2F3vbmKpPfUFEk"
+        },
+        {
+          "name": "BINS",
+          "url": "https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176094,
+      "name": "Kalyana Haal",
+      "url": "https://open.spotify.com/track/0xaVLFbze6aoUnym4GsMUE"
     },
     {
       "album": {
@@ -7310,6 +7336,40 @@
       "duration_ms": 193684,
       "name": "Nerunnu",
       "url": "https://open.spotify.com/track/5YPCtN3N5UDviYGBxzNdrw"
+    },
+    {
+      "album": {
+        "name": "Haal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TCgcD0kzPASO874pZU9q0"
+      },
+      "artists": [
+        {
+          "name": "Nandhagopan V",
+          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
+        },
+        {
+          "name": "Shane Nigam",
+          "url": "https://open.spotify.com/artist/47YvIZTR2F3vbmKpPfUFEk"
+        },
+        {
+          "name": "Vineeth Beep Kumar",
+          "url": "https://open.spotify.com/artist/69xV9L6P9H2HlZSuVjiwKl"
+        },
+        {
+          "name": "Abhi",
+          "url": "https://open.spotify.com/artist/5BjDsxNexoimmgWKNhJFjy"
+        },
+        {
+          "name": "BINS",
+          "url": "https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155362,
+      "name": "Nilapad",
+      "url": "https://open.spotify.com/track/2AimMibLoVOYwByF7n7LrW"
     },
     {
       "album": {
@@ -10636,7 +10696,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 130500,
       "name": "Therapara",
       "url": "https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS"

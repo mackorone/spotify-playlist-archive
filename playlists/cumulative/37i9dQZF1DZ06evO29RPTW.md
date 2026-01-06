@@ -4,7 +4,7 @@
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 25 min
+79 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,13 @@
 | [Demonoid Phenomenon](https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 4:11 | 2022-05-30 |  |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2022-05-30 |  |
 | [Electric Head, Pt\. 1 \(The Agony\) \- Live At Riot Fest / 2016](https://open.spotify.com/track/416cfwP0IYFWPtxzawa1iZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Astro\-Creep: 2000 Live \- Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head \(Live At Riot Fest\)](https://open.spotify.com/album/0gUwZR11HJJYAHo47RGvsY) | 5:13 | 2022-05-30 | 2022-10-13 |
-| [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 | 2022-05-30 |  |
+| [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 | 2022-05-30 | 2026-01-06 |
 | [Expanding the Head of Zed](https://open.spotify.com/track/625Ju6qdFZFspYHeoM0BVe) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 0:54 | 2022-10-31 | 2022-12-08 |
 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 | 2022-05-30 |  |
 | [Foxy, Foxy](https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:28 | 2022-10-12 |  |
 | [Get Loose](https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:27 | 2025-10-31 |  |
 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-05-30 |  |
+| [Girl On Fire](https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:29 | 2026-01-06 |  |
 | [Halloween \(She's So Mean\)](https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [Halloween Hootenanny](https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t) | 2:50 | 2022-10-18 | 2025-11-28 |
 | [Hands Of Death \(Burn Baby Burn\)](https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 4:12 | 2022-05-30 | 2025-11-02 |
 | [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-23 |  |

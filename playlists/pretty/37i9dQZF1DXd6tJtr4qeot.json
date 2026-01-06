@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 913976,
+  "num_followers": 913964,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 188240,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 197274,
+      "name": "Alone Again Or - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 200626,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 197274,
-      "name": "Alone Again Or - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
     }
   ],
   "unique_name": "Punk Essentials",

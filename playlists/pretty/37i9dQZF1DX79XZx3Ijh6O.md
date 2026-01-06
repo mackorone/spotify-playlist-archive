@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:1GmxKkVI7e4dcTOBAWTSo3">nanataalia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

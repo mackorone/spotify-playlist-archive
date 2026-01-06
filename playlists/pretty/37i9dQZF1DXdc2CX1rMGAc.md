@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,418 likes - 130 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,478 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 9 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 10 | [LAS XII](https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL) | [Fresh Bodden](https://open.spotify.com/artist/7blu0IsZ2zyetdLEQdLVUO), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LAS XII](https://open.spotify.com/album/3X6IJzx82bE6uwmF1Mpcgb) | 2:52 |
 | 11 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
-| 12 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 12 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 13 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 14 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 15 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |

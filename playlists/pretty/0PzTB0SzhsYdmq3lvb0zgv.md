@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Chill acoustic, mellow pop and singer\-songwriter tracks for focus, relaxation, studying and working\. Coffeehouse vibes and calm background music for a cozy café or lounge mood \|\| Rustige playlist voor focus, ontspanning, studeren en werken, met ontspannen vibes voor een knusse lounge of café sfeer
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 191,782 likes - 238 songs - 12 hr 53 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,179 likes - 238 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Favorite Place](https://open.spotify.com/track/523GiEoDg0ulav50HZItuF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Favorite Place](https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6) | 3:16 |
 | 2 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 |
-| 3 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
-| 4 | [That's What I Love](https://open.spotify.com/track/33vtLeCWJAMbYjIg6xc6cz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:46 |
+| 3 | [That's What I Love](https://open.spotify.com/track/33vtLeCWJAMbYjIg6xc6cz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:46 |
+| 4 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 5 | [All I Know](https://open.spotify.com/track/3Rg3MovzxzR6RdYw7hhZjB) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [All I Know](https://open.spotify.com/album/0cY4ctAngwJRl77crCckSE) | 2:53 |
 | 6 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 |
 | 7 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 |
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 | 13 | [Fade](https://open.spotify.com/track/0bDo5jU8xEeyfo0DYlyKQU) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Fade](https://open.spotify.com/album/2irS04uHyoblpXy7At0gPd) | 3:36 |
 | 14 | [Never Missed](https://open.spotify.com/track/2LKI33mt4a394sYGUUa0wO) | [Anne\-Fay](https://open.spotify.com/artist/4NKiHTs8h3aJkfya3JC0no) | [Never Missed](https://open.spotify.com/album/0uiRHoldlySQZCkJZJhi5v) | 2:53 |
 | 15 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 |
-| 16 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 16 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
 | 17 | [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 |
 | 18 | [Change of the Wind](https://open.spotify.com/track/7xNtOEytmitEDn2VAkiN3U) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/7C409MROKL9BybAANhUi1C) | 3:49 |
 | 19 | [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 |
-| 20 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
+| 20 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
 | 21 | [Si Te Quedas](https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si Te Quedas](https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105) | 2:55 |
 | 22 | [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 |
 | 23 | [When You're Here](https://open.spotify.com/track/3nWiKN5yH7Sp2vRi7RZOpv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 3:02 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 | 237 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
 | 238 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
 
-Snapshot ID: `AAAub7ZnzmL+3EP0vO7j6W37l2vKTPBy`
+Snapshot ID: `AAAucqCe7Ekl43uQ3syk2DvmETRJOina`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 916647,
+  "num_followers": 916628,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MO8t0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -73,7 +57,39 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "GO BESTFRIEND",
-        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -137,39 +137,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -189,7 +157,39 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 163520,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -205,23 +205,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
@@ -237,7 +221,39 @@
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -261,7 +277,23 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "I Run",
         "url": "https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -292,28 +324,12 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Baila de Gasolina",
-        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
-      },
-      "artists": [
-        {
-          "name": "Effe Serieus",
-          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
-        }
-      ],
-      "duration_ms": 140782,
-      "name": "Baila de Gasolina",
-      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Niemand",
         "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
@@ -349,23 +365,7 @@
       "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Kan Je Me Zien",
         "url": "https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU"
@@ -385,7 +385,23 @@
       "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
@@ -401,23 +417,87 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Hoogtevrees",
+        "url": "https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+      "duration_ms": 215568,
+      "name": "Hoogtevrees",
+      "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Baila de Gasolina",
+        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "duration_ms": 140782,
+      "name": "Baila de Gasolina",
+      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "LONDON",
         "url": "https://open.spotify.com/album/6nExdJHSEkx8AUo5ObaQf3"
@@ -437,87 +517,55 @@
       "url": "https://open.spotify.com/track/0i8xNA5Gpo9t50J6TeNXE7"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Voor Altijd",
-        "url": "https://open.spotify.com/album/17FIFTOPJCHfAQjSasRhEd"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 187357,
-      "name": "Terug In De Tijd",
-      "url": "https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Niet Nodig",
         "url": "https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u"
@@ -537,30 +585,10 @@
       "url": "https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "bLoOdLine",
-        "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 154062,
-      "name": "ZAAZAA",
-      "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+        "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
       },
       "artists": [
         {
@@ -568,60 +596,12 @@
           "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+      "duration_ms": 348400,
+      "name": "Sultans Of Swing",
+      "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Hoogtevrees",
-        "url": "https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 215568,
-      "name": "Hoogtevrees",
-      "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Echte Liefde Is Te Koop",
-        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Echte Liefde Is Te Koop",
-      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Gone Gone Gone",
         "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
@@ -645,7 +625,27 @@
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "bLoOdLine",
+        "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 154062,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Nog Even Blijven",
         "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
@@ -665,75 +665,7 @@
       "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Nachtenlang",
-        "url": "https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 175614,
-      "name": "Nachtenlang",
-      "url": "https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 521866,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
-    },
-    {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -749,7 +681,23 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -765,23 +713,39 @@
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Wacht Op Mij",
-        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 186676,
-      "name": "Wacht Op Mij",
-      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
@@ -797,23 +761,55 @@
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
+        "name": "Wacht Op Mij",
+        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
       },
       "artists": [
         {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
         }
       ],
-      "duration_ms": 147367,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
+      "duration_ms": 186676,
+      "name": "Wacht Op Mij",
+      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Voor Altijd",
+        "url": "https://open.spotify.com/album/17FIFTOPJCHfAQjSasRhEd"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
+      "album": {
+        "name": "Beetje Van Mij",
+        "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Beetje Van Mij",
+      "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
+    },
+    {
+      "added_at": "2026-01-05 17:12:36",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -833,52 +829,52 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Long Way Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "Beetje Van Mij",
-        "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 150620,
-      "name": "Beetje Van Mij",
-      "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
-      "added_at": "2026-01-04 13:36:04",
+      "added_at": "2026-01-05 17:12:36",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "Echte Liefde Is Te Koop",
+        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
         }
       ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 152659,
+      "name": "Echte Liefde Is Te Koop",
+      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1382738,
+  "num_followers": 1382965,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 167203,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Bobby Darin",
         "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 131719,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Tears Of Fire: The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "I Will Follow Him",
         "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 148160,
       "name": "I Will Follow Him",
       "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
-      },
-      "artists": [
-        {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 140120,
       "name": "Da Doo Ron Ron (When He Walked Me Home)",
       "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+      },
+      "artists": [
+        {
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Tommy James and The Shondells: Anthology",
-        "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
         "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Tommy James and The Shondells: Anthology",
+        "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
     },
     {
       "added_at": "2024-07-12 06:11:58",

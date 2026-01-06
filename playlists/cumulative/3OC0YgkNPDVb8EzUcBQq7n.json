@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Internet Girl",
+        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "Internet Girl",
+      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "album": {
         "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
       },

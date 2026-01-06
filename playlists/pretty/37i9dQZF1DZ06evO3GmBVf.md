@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,143 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,171 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 29 | [Ahora Es Diferente](https://open.spotify.com/track/6tST0LckVOXThIgappR0qk) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Es Diferente](https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6) | 4:39 |
 | 30 | [Abrázame](https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 5:36 |
 | 31 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
-| 32 | [Nada Es Perfecto](https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Nada Es Perfecto](https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq) | 3:08 |
-| 33 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 32 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 33 | [Nada Es Perfecto](https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Nada Es Perfecto](https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq) | 3:08 |
 | 34 | [Señorita Licor](https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:37 |
 | 35 | [En El Avión](https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En El Avión](https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta) | 3:47 |
 | 36 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
 | 50 | [Don Tan](https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Don Tan](https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP) | 4:12 |
 
-Snapshot ID: `aVhcAAAAAAALKGwwZrpHfTw1ApTPHlCQ`
+Snapshot ID: `aVmtgAAAAABy4RQFp0YZSVlykB270PUg`

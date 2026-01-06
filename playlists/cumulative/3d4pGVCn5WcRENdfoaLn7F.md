@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-145 songs - 8 hr 51 min
+146 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-12-20 |  |
 | [Perfect life](https://open.spotify.com/track/7MqtvOVB7fIqwaOFE8Upjk) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Perfect life](https://open.spotify.com/album/1rg4ZejsarO8YjR7fyu26X) | 2:44 | 2025-11-04 | 2025-12-06 |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
+| [ponte a pensar](https://open.spotify.com/track/7lrX4uvZ2jAxkYztRmb9T6) | [MARCADODEESO](https://open.spotify.com/artist/6opl25ebP1jA6bVWfI21JL) | [ponte a pensar](https://open.spotify.com/album/1noVGcsDJs7DHKturu2d5J) | 3:36 | 2026-01-06 |  |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-11-20 | 2025-12-12 |
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 | 2025-12-06 |
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-12-22 |  |

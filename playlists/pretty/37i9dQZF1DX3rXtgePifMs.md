@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,083 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,080 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 46 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 47 | [cracked screen](https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/4Gy7k2aM2mihnl4RvthFNq) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:32 |
 | 48 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
-| 49 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 |
-| 50 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
+| 49 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
+| 50 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 |
 | 51 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
 | 52 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
 | 53 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |

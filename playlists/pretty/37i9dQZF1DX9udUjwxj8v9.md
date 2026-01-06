@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,331 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,348 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 22 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 23 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
 | 24 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
-| 25 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
-| 26 | [Nossa Gente \(Avisa Lá\)](https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música Do Olodum \- 20 Anos](https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd) | 3:03 |
+| 25 | [Nossa Gente \(Avisa Lá\)](https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música Do Olodum \- 20 Anos](https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd) | 3:03 |
+| 26 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
 | 27 | [Xangô](https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g) | [Emerson Dias](https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz), [Acadêmicos Do Salgueiro](https://open.spotify.com/artist/1o6Ib1rhaC0r4YoVKayJWz) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 5:31 |
 | 28 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
 | 29 | [Rapunzel](https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:39 |

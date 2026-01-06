@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,253 songs - 3 day 4 hr 46 min
+1,254 songs - 3 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [Rolling Stone](https://open.spotify.com/track/1LUyHPbfI0EXbMkvHR0PNX) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 3:47 | 2022-11-30 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2024-04-19 | 2025-09-24 |
 | [Root of all Evil](https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 4:25 | 2025-12-02 |  |
+| [Roses](https://open.spotify.com/track/51w2uhHVvzmqCd3leyDIY2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 4:05 | 2026-01-05 |  |
 | [Routines In The Night](https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 | 2024-05-23 |  |
 | [RUIN MY LIFE](https://open.spotify.com/track/7JzTTmvNedMzaYwijsJhxA) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:41 | 2025-07-25 |  |
 | [Run It Back](https://open.spotify.com/track/2HYfuXcKxTRvrjJKKPIhR1) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 2:27 | 2024-07-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,830,539 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,830,853 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 65 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 |
 | 66 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
 | 67 | [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 |
-| 68 | [Big League](https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Big League](https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0) | 3:09 |
-| 69 | [Waiting On This](https://open.spotify.com/track/5VlI5lLyZWdaS6kIn1CyJs) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:28 |
+| 68 | [Waiting On This](https://open.spotify.com/track/5VlI5lLyZWdaS6kIn1CyJs) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:28 |
+| 69 | [Big League](https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Big League](https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0) | 3:09 |
 | 70 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 |
 | 71 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 |
-| 72 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 |
-| 73 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 72 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 73 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 |
 | 74 | [Fuel](https://open.spotify.com/track/6Yfg3TrnzThhrZ0i6UDBSv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 3:33 |
 | 75 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 76 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |

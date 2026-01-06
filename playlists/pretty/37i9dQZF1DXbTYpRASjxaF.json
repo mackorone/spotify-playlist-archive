@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 134942,
+  "num_followers": 134928,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,30 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
+        "name": "BANDIDO COM BANDIDA",
+        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Ericoness",
+          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
+        }
+      ],
+      "duration_ms": 171774,
+      "name": "BANDIDO COM BANDIDA",
+      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
+    },
+    {
+      "added_at": "2025-12-26 16:10:26",
+      "album": {
         "name": "Princ\u00edpios",
         "url": "https://open.spotify.com/album/51awyzGDxNNDDVvTOCngZn"
       },
@@ -539,30 +563,6 @@
       "duration_ms": 142702,
       "name": "Princ\u00edpios",
       "url": "https://open.spotify.com/track/5A9Eib6BX6y8k2xPcWM5x8"
-    },
-    {
-      "added_at": "2025-12-26 16:10:26",
-      "album": {
-        "name": "BANDIDO COM BANDIDA",
-        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
-      },
-      "artists": [
-        {
-          "name": "Dpaula",
-          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Ericoness",
-          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
-        }
-      ],
-      "duration_ms": 171774,
-      "name": "BANDIDO COM BANDIDA",
-      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
     },
     {
       "added_at": "2025-12-26 16:10:26",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
-    },
-    {
-      "added_at": "2025-12-26 16:10:26",
-      "album": {
         "name": "Pula Pula",
         "url": "https://open.spotify.com/album/2otx86iOPJ0iynLm8wAzrO"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 175448,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/2bv3MjBOFgMgf1VPGLT5py"
+    },
+    {
+      "added_at": "2025-12-26 16:10:26",
+      "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-12-26 16:10:26",

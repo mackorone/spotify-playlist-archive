@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 974632,
+  "num_followers": 974760,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACSasAJk4fq5c4I+7sG8+W8",
+  "snapshot_id": "aVmtgAAAAACznxubF8cwBf+hBP/w/3o5",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Weekend (feat. Miguel)",
-      "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 256426,
       "name": "Congratulations (feat. Bilal)",
       "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Weekend (feat. Miguel)",
+      "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/5lQuQV1SyJPbD5fIlEPrgV"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "Missed Calls",
-      "url": "https://open.spotify.com/track/2kT8LyskbN051qAEHp2tqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 216000,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/5lQuQV1SyJPbD5fIlEPrgV"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/2kT8LyskbN051qAEHp2tqA"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 243522,
-      "name": "Stoned",
-      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Cable Box",
-      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watching Movies with the Sound Off",
         "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 256423,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Cable Box",
+      "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
     },
     {
       "added_at": null,

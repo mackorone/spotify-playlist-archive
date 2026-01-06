@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-136 songs - 7 hr 1 min
+137 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [BW](https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [BW](https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs) | 2:51 | 2024-10-13 | 2025-05-16 |
 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 | 2023-08-08 | 2024-02-02 |
 | [Chingón sin chingar](https://open.spotify.com/track/5UHKqatK8TCqiL1ycgaccM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/6qkENPFwil1ObSPNM112Uw) | 3:07 | 2023-08-08 | 2024-06-06 |
-| [Chingón sin chingar](https://open.spotify.com/track/1Ea2n0ppekKL216GUPdQ7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol) | 3:07 | 2025-08-01 |  |
+| [Chingón sin chingar](https://open.spotify.com/track/1Ea2n0ppekKL216GUPdQ7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol) | 3:07 | 2025-08-01 | 2026-01-06 |
 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 | 2024-11-03 | 2026-01-03 |
 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 | 2023-08-08 | 2024-05-28 |
 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-08-08 | 2023-11-11 |
@@ -132,6 +132,7 @@
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2023-08-08 | 2025-07-27 |
 | [Solo Me Dejaste](https://open.spotify.com/track/1p0KNnO7497m5MYIZWzBlg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:06 | 2024-01-27 | 2024-03-13 |
 | [Solo Me Dejaste](https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5) | 3:06 | 2025-07-27 |  |
+| [Super Peligrosa](https://open.spotify.com/track/44lGVGpK2iddL5VqEEMLwb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 3:41 | 2026-01-06 |  |
 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 | 2025-06-08 |  |
 | [Todo Se Va](https://open.spotify.com/track/4iMlvDqxNPvWMMwr1x8bcz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Todo Se Va](https://open.spotify.com/album/7I1ssRibbgp1hIwdpMLJra) | 2:55 | 2023-08-08 | 2024-06-14 |
 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 | 2024-06-03 | 2025-12-15 |

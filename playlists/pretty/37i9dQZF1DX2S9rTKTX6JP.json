@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 748078,
+  "num_followers": 748136,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "The Predator",
-        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 275968,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 275968,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1583,34 +1583,6 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        },
-        {
-          "name": "I See Stars",
-          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
-        },
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "Ashland",
-          "url": "https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw"
-        }
-      ],
-      "duration_ms": 181695,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2025-08-22 04:00:05",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
@@ -1639,6 +1611,34 @@
       "duration_ms": 485018,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+    },
+    {
+      "added_at": "2025-08-22 04:00:05",
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        },
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        },
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Ashland",
+          "url": "https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw"
+        }
+      ],
+      "duration_ms": 181695,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
     },
     {
       "added_at": "2025-08-22 04:00:05",

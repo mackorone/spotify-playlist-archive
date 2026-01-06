@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,630 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,628 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 26 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
 | 27 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
 | 28 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
-| 29 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
-| 30 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 29 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 30 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 31 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
 | 32 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
 | 33 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |

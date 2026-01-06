@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 27 | [Cut You Off](https://open.spotify.com/track/4TlqVWqSCEEyNHhlEOtMvE) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 2:53 |
 | 28 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 29 | [Plastic Box](https://open.spotify.com/track/5v5ESV1s4Y964nDJdxb2s4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:21 |
-| 30 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
-| 31 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
+| 30 | [SUPA DUPA LUV](https://open.spotify.com/track/6hp4n7Bwt8TCpm9hImFLLX) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:52 |
+| 31 | [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 |
 | 32 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
 | 33 | [bamsopoong](https://open.spotify.com/track/3INETdToKVgt2vfp1wYBFw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:19 |
 | 34 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 125 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 126 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcGFCAAAAAA4Ky0DlPMvkGXtDgGKk5zi`
+Snapshot ID: `AcGKqAAAAABA+7ZdCaKXK8TH/ESNPRj1`

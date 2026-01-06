@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166 likes - 38 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 13 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
 | 14 | [Prophet](https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:56 |
 | 15 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
-| 16 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
-| 17 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3jT3NYsADHgJCBUMz93udD) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 5:19 |
+| 16 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3jT3NYsADHgJCBUMz93udD) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 5:19 |
+| 17 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
 | 18 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 |
 | 19 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
 | 20 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `aVhcAAAAAABtee8S0EOAN5wc89P8Q1Fw`
+Snapshot ID: `aVmtgAAAAACPt0LHnn2Khgt/Sma6iyDS`

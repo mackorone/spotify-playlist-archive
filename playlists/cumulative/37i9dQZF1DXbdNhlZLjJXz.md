@@ -2,9 +2,9 @@
 
 ### [hot girl agenda 🔥 🚒](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> you got a sports car?  Tate McRae at the VMAs
+> you got a sports car?
 
-333 songs - 18 hr 5 min
+334 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 | 2022-01-12 | 2023-07-07 |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-03-29 | 2024-09-07 |
 | [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 | 2024-06-17 |  |
+| [Boots \- Ballroom C\*NT mix](https://open.spotify.com/track/4vVeniYXly440fB5y4sKJc) | [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ), [Julz](https://open.spotify.com/artist/08UYuLV3x4aVSwEiLTWyqx), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [SweetFace Killah](https://open.spotify.com/album/5esV1fMq9HMmNAEfwazHg4) | 3:42 | 2026-01-05 |  |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2023-02-02 | 2023-03-14 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-18 | 2024-01-01 |
 | [Boss Ass Bitch](https://open.spotify.com/track/2FfSmCkOikuxMaD1ubPOoI) | [Ptaf](https://open.spotify.com/artist/6IAyf2t7LbAPSJ32G3guaP) | [Boss Ass Bitch](https://open.spotify.com/album/6SJz5udvzYWxJSeOLSTMeN) | 3:37 | 2022-01-12 | 2023-02-03 |
@@ -185,7 +186,7 @@
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-02-02 |  |
 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-17 |  |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-26 | 2024-05-15 |
-| [Kryptonite](https://open.spotify.com/track/4UewdamYCjn4PfaljS4RAn) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Kryptonite](https://open.spotify.com/album/5zovGhIhyYaG1DVYxb6jVs) | 2:57 | 2025-10-17 |  |
+| [Kryptonite](https://open.spotify.com/track/4UewdamYCjn4PfaljS4RAn) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Kryptonite](https://open.spotify.com/album/5zovGhIhyYaG1DVYxb6jVs) | 2:57 | 2025-10-17 | 2026-01-06 |
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2022-01-12 | 2023-02-03 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2023-02-02 | 2025-09-06 |
 | [Lifestyle](https://open.spotify.com/track/2DMC4phhdMN0sHg1F0A4qD) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:41 | 2025-03-11 |  |

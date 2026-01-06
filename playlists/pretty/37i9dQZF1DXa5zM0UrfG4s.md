@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,610 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,603 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 36 | [Morra di](https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Morra di](https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR) | 2:42 |
 | 37 | [Heidi](https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Heidi](https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g) | 2:04 |
 | 38 | [Trøbbel](https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Trøbbel](https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw) | 3:13 |
-| 39 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
+| 39 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 40 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
-| 41 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
+| 41 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 | 42 | [Født i nord](https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Født i nord](https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K) | 2:36 |
-| 43 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
+| 43 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
 | 44 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
 | 45 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 46 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 56 | [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 |
 | 57 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 |
 | 58 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
-| 59 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
-| 60 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
+| 59 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
+| 60 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
 | 61 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |
 | 62 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 |
 | 63 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |

@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "EPANO STO TRAPEZI",
         "url": "https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag"
       },
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 139607,
       "name": "OSE",
       "url": "https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb"
@@ -6096,7 +6114,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 141406,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
@@ -9072,6 +9090,28 @@
       "duration_ms": 128741,
       "name": "XAROS",
       "url": "https://open.spotify.com/track/0drZEILXlqWqzpniZMZEbh"
+    },
+    {
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218647,
+      "name": "Xeiroteri Genia",
+      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
     },
     {
       "album": {

@@ -811,22 +811,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "added_at": "2025-04-10 23:00:09",

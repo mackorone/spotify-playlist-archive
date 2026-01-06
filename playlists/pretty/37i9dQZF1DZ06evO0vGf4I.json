@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1633088,
+  "num_followers": 1633086,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADrYgwCKK7EZpTUz6qfwvV3",
+  "snapshot_id": "aVmtgAAAAACxu6OvlNSYpXKy/au6ti+t",
   "tracks": [
     {
       "added_at": null,
@@ -987,26 +987,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     }
   ],
   "unique_name": "This Is Travis Scott",

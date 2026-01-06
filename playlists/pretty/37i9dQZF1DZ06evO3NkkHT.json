@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 74105,
+  "num_followers": 74182,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACRfpJdcTZCqqu5LvLedYTQ",
+  "snapshot_id": "aVmtgAAAAADIi+9gFavvlChydrr/8Er0",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 149449,
       "name": "PISTOL PACCIN",
       "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 133002,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 226063,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Badu Flow",
+      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 173333,
       "name": "Box Me Up (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Badu Flow",
-      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
       "duration_ms": 124480,
       "name": "Life of a Boss",
       "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
@@ -930,7 +930,7 @@
       ],
       "duration_ms": 185000,
       "name": "I Hope You're Happy (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
+      "url": "https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt"
     },
     {
       "added_at": null,

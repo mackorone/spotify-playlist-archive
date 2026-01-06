@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 145272,
+  "num_followers": 145217,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Christmas Island",
-      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 257900,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
     },
     {
       "added_at": "2025-12-19 14:00:54",

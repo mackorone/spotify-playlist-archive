@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,758 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,791 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 16 | [El De Las Mieles](https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0) | 3:25 |
 | 17 | [A Chillar a otra parte](https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:33 |
 | 18 | [No Quiero Perderte](https://open.spotify.com/track/3kuQmp8Y0DNBjGAgawhnT8) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/7dsHqJqqvS4IY7XMAfk4pG) | 2:39 |
-| 19 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
-| 20 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
+| 19 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
+| 20 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
 | 21 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
 | 22 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
 | 23 | [Yo Soy El Pirata](https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 41 | [El De La 31](https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 | 42 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
 | 43 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
-| 44 | [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 |
-| 45 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
+| 44 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
+| 45 | [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 |
 | 46 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 47 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
-| 48 | [Un Día Antes](https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:52 |
-| 49 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
+| 48 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
+| 49 | [Un Día Antes](https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:52 |
 | 50 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
 
-Snapshot ID: `aVhcAAAAAABozheBZy74j+tq9FwmiuF2`
+Snapshot ID: `aVmtgAAAAACDwrPjLoYStW56ee43YF1A`

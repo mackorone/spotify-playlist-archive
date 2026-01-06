@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,992 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,989 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 49 | [if i was ur boy](https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [if i was ur boy](https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R) | 3:15 |
 | 50 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
 | 51 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
-| 52 | [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 |
-| 53 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
+| 52 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
+| 53 | [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 |
 | 54 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 |
 | 55 | [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 |
 | 56 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 62 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
 | 63 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 |
 | 64 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 65 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
-| 66 | [a letter to myself at 17](https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 3:19 |
+| 65 | [a letter to myself at 17](https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 3:19 |
+| 66 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
 | 67 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [My Soft Machine \(Deluxe\)](https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt) | 3:07 |
 | 68 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 |
 | 69 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 94 | [Satellite](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF) | [Satellite](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
 | 95 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 96 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 |
-| 97 | [Crying In The Carwash](https://open.spotify.com/track/6GiRACvCygC0xGbHxL8mz2) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:22 |
-| 98 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
+| 97 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
+| 98 | [Crying In The Carwash](https://open.spotify.com/track/6GiRACvCygC0xGbHxL8mz2) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:22 |
 | 99 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 100 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 |
 

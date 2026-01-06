@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,697 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,766 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 45 | [Oh No](https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2) | [Oberz](https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Oh No](https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb) | 2:40 |
 | 46 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
 | 47 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
-| 48 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
+| 48 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
 | 49 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
-| 50 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
+| 50 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
 | 51 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 | 52 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 |
 | 53 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 64 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
 | 65 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 66 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
-| 67 | [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:31 |
-| 68 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 |
+| 67 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 |
+| 68 | [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:31 |
 | 69 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
 | 70 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 |
 | 71 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 |

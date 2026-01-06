@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Peso Pluma y Tito Double P.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Junior H y Gael Valenzuela.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -3549,6 +3549,28 @@
     },
     {
       "album": {
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "da\u00f1o",
+      "url": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR"
+    },
+    {
+      "album": {
         "name": "DDD (Don Dimadon)",
         "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
       },
@@ -3742,7 +3764,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
@@ -10123,6 +10145,28 @@
     },
     {
       "album": {
+        "name": "MI GATA",
+        "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5TjOAPxCTQEcpVyIPnzmTY"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222366,
+      "name": "MI GATA",
+      "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
+    },
+    {
+      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -14736,7 +14780,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 171833,
       "name": "Sin Foto de Perfil",
       "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
@@ -16212,7 +16256,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 280250,
       "name": "Tus Mentiras (En Vivo)",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
@@ -16708,7 +16752,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 175000,
       "name": "Una Sola Ca\u00edda (En Vivo)",
       "url": "https://open.spotify.com/track/0T6JPIln8Rub4a92CNVMWP"

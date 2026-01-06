@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,938 likes - 80 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,045 likes - 80 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 70 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
 | 71 | [Such a Shame \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 7:01 |
 | 72 | [Nightshift \- Club Mix](https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol\. 1](https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5) | 7:03 |
-| 73 | [How Will I Know \- John "Jellybean" Benitez Remix](https://open.spotify.com/track/1dW1kgruSVDh57IsBfuocK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston \(The Deluxe Anniversary Edition\)](https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE) | 6:31 |
-| 74 | [My Prerogative](https://open.spotify.com/track/4pLECRxegC9jAtVpUlppKe) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 4:56 |
+| 73 | [My Prerogative](https://open.spotify.com/track/4pLECRxegC9jAtVpUlppKe) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 4:56 |
+| 74 | [How Will I Know \- John "Jellybean" Benitez Remix](https://open.spotify.com/track/1dW1kgruSVDh57IsBfuocK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston \(The Deluxe Anniversary Edition\)](https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE) | 6:31 |
 | 75 | [Jump \(For My Love\) \- 12" Long Version](https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Goldmine: The Best Of The Pointer Sisters](https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7) | 6:24 |
-| 76 | [Love Changes \(Everything\) \- Love Mix](https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Love Changes Everything](https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7) | 7:42 |
-| 77 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/7vaGequwI1SWTKGJes1ey7) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 7:08 |
+| 76 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/7vaGequwI1SWTKGJes1ey7) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 7:08 |
+| 77 | [Love Changes \(Everything\) \- Love Mix](https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Love Changes Everything](https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7) | 7:42 |
 | 78 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 | 79 | [Ain't Nothin' Goin' On But The Rent \- 12" Club Mix](https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:26 |
 | 80 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |

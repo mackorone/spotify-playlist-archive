@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,615 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,613 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 47 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 48 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 49 | [My Window Faces the South](https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:08 |
-| 50 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
-| 51 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
+| 50 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
+| 51 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 52 | [Candy Kisses](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
 | 53 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 54 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 60 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/7nskxCYXAwoKiJkZzUMcJo) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke! Smoke! Smoke!](https://open.spotify.com/album/2MOnT0IZ4U7FoDCGdK1WVs) | 2:43 |
 | 61 | [Move It On Over](https://open.spotify.com/track/5tQwMi9LK7kkS9GgkF35nJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 | 62 | [Panhandle Rag](https://open.spotify.com/track/5gWpIqRE0H93DQxViKGbJ7) | [Leon Mcauliff And His Cimarron Boys](https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2) | [Mister Western Swing](https://open.spotify.com/album/18P75CloFJDcR9uQXtoL2A) | 2:57 |
-| 63 | [Wine, Women and Song](https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best of Al Dexter](https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3) | 2:49 |
+| 63 | [Too Late To Worry, Too Blue To Cry](https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best Of Al Dexter](https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS) | 2:43 |
 | 64 | [Stars Of The Midnight Range](https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 2:53 |
 | 65 | [Filipino Baby](https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Filipino Baby](https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb) | 2:46 |
 | 66 | [I Saw The Light](https://open.spotify.com/track/54G86fa3eaMsq2sxIUTcMT) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 | 67 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |
-| 68 | [Too Late To Worry, Too Blue To Cry](https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best Of Al Dexter](https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS) | 2:43 |
+| 68 | [Wine, Women and Song](https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best of Al Dexter](https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3) | 2:49 |
 | 69 | [Room Full of Roses](https://open.spotify.com/track/2cBvzEpULwlad4RaXbcIiw) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Late Great \- 14 Greatest Hits](https://open.spotify.com/album/3ADMy0SgWASJ7tRcWimwl1) | 2:33 |
 | 70 | [Whopee Ti Yi Yo](https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM), [Dale Evans](https://open.spotify.com/artist/57FYvfgFq1D892GiwJCYgz) | [16 Great Songs of the Old West](https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6) | 2:17 |
 

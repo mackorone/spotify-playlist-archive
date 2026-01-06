@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3736,
+  "num_followers": 3740,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADPeascOHTS536lgenfFvbF",
+  "snapshot_id": "aVmtgAAAAAB/xOe8B/3QvhJ5DZTFbobT",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Tee Half Beast",
-        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 144000,
-      "name": "MilTroit (feat. Lakeyah)",
-      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+      "duration_ms": 155933,
+      "name": "Big FlexHer",
+      "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
     },
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Big FlexHer",
-      "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Ratchet",
-        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
-      },
-      "artists": [
-        {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "Get Ratchet",
-      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -567,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Ratchet",
+        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
+      },
+      "artists": [
+        {
+          "name": "Tae The Don",
+          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "Get Ratchet",
+      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 217731,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 165517,
       "name": "WANT EM HOOD",
       "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 145233,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "incua (special edition)",
         "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Hesitation",
         "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
       },
@@ -887,6 +887,30 @@
       "duration_ms": 238571,
       "name": "Worth The Wait (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Check (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
     },
     {
       "added_at": null,
@@ -935,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Check (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clock It",
         "url": "https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P"
       },
@@ -979,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have You",
-        "url": "https://open.spotify.com/album/0UTsWJ0n09oRKw56YVqjD3"
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
       "artists": [
         {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 192246,
-      "name": "Have You",
-      "url": "https://open.spotify.com/track/3l4MhzeGFbAYJGGgS9JEmq"
+      "duration_ms": 179513,
+      "name": "Loving Me",
+      "url": "https://open.spotify.com/track/4GpydPt9VVVb3djc7lzwzk"
     }
   ],
   "unique_name": "This Is Lakeyah",

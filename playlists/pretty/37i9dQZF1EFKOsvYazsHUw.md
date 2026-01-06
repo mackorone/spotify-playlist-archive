@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 82 | [Only A Friend](https://open.spotify.com/track/3bJ03IasWjJpaTwafcTmQO) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Orenjii](https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW) | 2:50 |
 | 83 | [Selfish](https://open.spotify.com/track/49AmjLr38cCCe8gqVGJ6YF) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:56 |
 | 84 | [Careless \(feat\. CHIIILD\)](https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:23 |
-| 85 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
-| 86 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 85 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 86 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
 | 87 | [Lotus](https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:18 |
 | 88 | [Whatta Night](https://open.spotify.com/track/5s9Mej8j5JhpoD6IAWDM9e) | [Ricky J](https://open.spotify.com/artist/4p1VIazDqCs6DKQndCEg1A) | [Whatta Night](https://open.spotify.com/album/2iYs3FFkrQrVjw4tSfFKlg) | 3:41 |
 | 89 | [Era](https://open.spotify.com/track/2ofSeGea3q9BZHYmvhKdtf) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:13 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 138 | [Aquatic Reflections](https://open.spotify.com/track/5Fav2DgDeP46Ea3TTZhIrs) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:03 |
 | 139 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcGFOgAAAAD2b/tY5PilIWzxIfaXZti8`
+Snapshot ID: `AcGKngAAAAAcMo/Z6er+jkbo7+J3ZABy`

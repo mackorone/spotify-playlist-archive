@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85769,
+  "num_followers": 85765,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192751,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192751,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 165357,
-      "name": "DArkSide",
-      "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 136960,
       "name": "UP!",
       "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 165357,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The After Taste",
-        "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/593knnQN4REEshx8th9zgK"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 217240,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "The After Taste",
+        "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/593knnQN4REEshx8th9zgK"
     },
     {
       "added_at": "2024-11-25 16:13:36",

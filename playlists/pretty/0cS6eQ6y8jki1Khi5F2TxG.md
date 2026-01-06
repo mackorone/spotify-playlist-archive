@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0cS6eQ6y8jki1Khi5F2TxG.md) - [plain](/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG)
 
-### [Pride Party Playlist  2025](https://open.spotify.com/playlist/0cS6eQ6y8jki1Khi5F2TxG)
+### [Pride Party Playlist  ](https://open.spotify.com/playlist/0cS6eQ6y8jki1Khi5F2TxG)
 
 > Music is Universal🌈 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,119 likes - 96 songs - 5 hr 39 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,115 likes - 96 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/0cS6eQ6y8jki1Khi5F2TxG.md) - [plain]
 | 95 | [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 |
 | 96 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 
-Snapshot ID: `AABIfTFqTh/o+GnjWWDMJSEvA7B8VaWk`
+Snapshot ID: `AABIfuNgjHa3X8WGVpK9WnOSf0Ch1ymX`

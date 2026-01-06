@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,552 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,463 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

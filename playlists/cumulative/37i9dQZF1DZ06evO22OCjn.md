@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-172 songs - 9 hr 16 min
+173 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [My Money, My Baby \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7gOb1BmKmG4EYw7lAePO1c) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 3:04 | 2022-03-03 | 2022-03-15 |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 | 2024-08-30 |  |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 | 2021-12-28 | 2024-08-30 |
-| [No Panic](https://open.spotify.com/track/679lDJUvGZrhtocsB26ON4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:39 | 2025-07-13 |  |
+| [No Panic](https://open.spotify.com/track/679lDJUvGZrhtocsB26ON4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:39 | 2025-07-13 | 2026-01-06 |
 | [No Sign of Weakness](https://open.spotify.com/track/0kOFrZxXIpM3tpFI3qLJgl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:55 | 2025-07-13 | 2025-09-03 |
 | [Normal](https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:04 | 2025-10-27 |  |
 | [Normal](https://open.spotify.com/track/4EDMfKmlvrDemvJBcoZvHk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:04 | 2023-08-27 | 2023-11-11 |
@@ -160,6 +160,7 @@
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-10-12 | 2024-11-08 |
 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 | 2024-05-17 |  |
 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-02-22 | 2025-07-18 |
+| [Update](https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:27 | 2026-01-06 |  |
 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 | 2025-06-26 | 2025-06-28 |
 | [Vanilla](https://open.spotify.com/track/0jjH8vwVEENKNpDPWWOwuK) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:35 | 2022-07-09 | 2024-09-10 |
 | [Vanilla](https://open.spotify.com/track/552javgfnUiLkrdN6Edioz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:35 | 2025-10-27 |  |

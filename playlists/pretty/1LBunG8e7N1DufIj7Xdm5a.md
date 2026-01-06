@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 265 likes - 3,865 songs - 8 day 13 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 267 likes - 3,867 songs - 8 day 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -673,7 +673,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 663 | [Borraré tus fotos](https://open.spotify.com/track/4cLJFI0WS7iwD2EGo47HZt) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [JM Acevedo](https://open.spotify.com/artist/0FKIEQpn3Iv8YCMd83s65X) | [Borraré tus fotos](https://open.spotify.com/album/6bRWU9hW38DToA6N9fkI9n) | 1:24 |
 | 664 | [Beauty Marks](https://open.spotify.com/track/5OGnldL9W0Kl5hoMMkZhCa) | [Pon Far](https://open.spotify.com/artist/0Qppibd1zTEQrT6zlUtmcr) | [Beauty Marks](https://open.spotify.com/album/01EUfHm6GFMiGmO1Hi6S7n) | 2:45 |
 | 665 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 |
-| 666 | [Estranged](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 |
+| 666 | [Estranged \- Demo](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged \(Demo\)](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 |
 | 667 | [Siempre Yendo](https://open.spotify.com/track/51YXm6NspBzpDVQ5Tnlst2) | [Sampras](https://open.spotify.com/artist/2t9OExVf9Tch7aiEKKF2Me) | [Notas de Viaje](https://open.spotify.com/album/55yh5ECbFozPrVagbDrf9S) | 3:11 |
 | 668 | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/track/3EpjVf2yHa1UBe5KgWXKtc) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghunghat Mein Chhupa Hai Chehra](https://open.spotify.com/album/362wVpruWIxJjqC6Pekp40) | 3:49 |
 | 669 | [Daiya Daiya Daiya Re](https://open.spotify.com/track/5QTjgFSJurZkpchKSqzl2S) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Daiya Daiya Daiya Re](https://open.spotify.com/album/4nkEMcfV2F5b7m6ezaDYpR) | 3:14 |
@@ -804,7 +804,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 794 | [Dancing in the Night \(another\)](https://open.spotify.com/track/5mwKPUJh7URzihRO6Bif96) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Trend Cool Fashion Pop Music](https://open.spotify.com/album/57wTkuygWZQS3p82tqeciv) | 2:04 |
 | 795 | [Groove in Your Heart](https://open.spotify.com/track/5UXtBrXyMgO8irQfOJw9A0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Funky Soul Music](https://open.spotify.com/album/3KehnrvqZF13rykMwdngd5) | 3:06 |
 | 796 | [Electric Dreams \(another\)](https://open.spotify.com/track/0G0caJehlSHckUASisWrfE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Pop Pop](https://open.spotify.com/album/2rx8w77qCVPDZ8SP1G6qhm) | 2:33 |
-| 797 | [Void](https://open.spotify.com/track/7sMgyUSWdvH9XMOh4R21lh) | [YZL](https://open.spotify.com/artist/5lfDtmxDp9WGk7NSWs6Nyr) | [Love is Rage](https://open.spotify.com/album/1cbpcAcUfHMbjA2eV60tAn) | 2:10 |
+| 797 | [Void](https://open.spotify.com/track/7sMgyUSWdvH9XMOh4R21lh) | [Sireno](https://open.spotify.com/artist/0XPMrfe6A6QuoovKqDQklh) | [Love is Rage](https://open.spotify.com/album/1cbpcAcUfHMbjA2eV60tAn) | 2:10 |
 | 798 | [All I Want](https://open.spotify.com/track/6UYGWLSmirEvBXrt4RLOAa) | [Sol Roth](https://open.spotify.com/artist/2hFn4Llkv4AkG2qF90Rgvt) | [Burning Bright](https://open.spotify.com/album/7sxukTG8RklM4CGBZ6ZL8u) | 3:09 |
 | 799 | [Letters I Never Sent](https://open.spotify.com/track/00Fi9Z70M2APXY7HwVlaVA) | [Jett Harlow](https://open.spotify.com/artist/6Yerr8iumOGPbdhUv7Qci8) | [Fragments](https://open.spotify.com/album/2SIUFOdX6ebNUfo33fwC6K) | 4:11 |
 | 800 | [Histerical glass](https://open.spotify.com/track/3MreCxZb2Erki9AYfiIG7m) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing house by AIVA](https://open.spotify.com/album/4ctVocjwrGn0qDXVTL1pio) | 4:15 |
@@ -3873,5 +3873,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3863 | [Dame Tu Luz](https://open.spotify.com/track/5uTWNaSWu58N3tiM15QYXL) | [Murielsounds](https://open.spotify.com/artist/0qZyBmuPA4KkTBJ1u5hReS) | [Dame Tu Luz](https://open.spotify.com/album/1aKztAgaS6uG0GZOWm0Uzl) | 3:48 |
 | 3864 | [Ashes of Yesterday](https://open.spotify.com/track/35wS2SAgZrLHw1hfM9hu9R) | [Pebblepimp](https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV) | [Finish Grade](https://open.spotify.com/album/2YGsZ5MMye11RxtFO2nY6k) | 3:12 |
 | 3865 | [Hole in Half](https://open.spotify.com/track/5uDzeJozN3o6y7TN5avkVV) | [Automatic Dead Drive](https://open.spotify.com/artist/65cffZYZPzqFHODis10F3B) | [Hole in Half](https://open.spotify.com/album/3NMWceqAHx7omRe1HMovqq) | 3:25 |
+| 3866 | [A Viagem do Dia a Dia](https://open.spotify.com/track/7esTTsykoaWgSmMWg0oc5H) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:57 |
+| 3867 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 |
 
-Snapshot ID: `AAAGqe7DkkBZwYTB9IoL3K5utZOHxMXu`
+Snapshot ID: `AAAGq+S83dMCoxkhXNxrPpoWocTPPO43`

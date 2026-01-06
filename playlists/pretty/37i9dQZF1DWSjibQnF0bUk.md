@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,625 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,767 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 22 | [Laye Mi](https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:24 |
 | 23 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 | 24 | [Baddi Ah](https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Mega EJ](https://open.spotify.com/artist/0sac58AQB9s0LOKuzxZ4LO), [P.M.F](https://open.spotify.com/artist/4Q3f5yoExJeuxMn9ahhXDX) | [Baddi Ah](https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV) | 3:48 |
-| 25 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
-| 26 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 |
+| 25 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 |
+| 26 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
 | 27 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 |
 | 28 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
 | 29 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |

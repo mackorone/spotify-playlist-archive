@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 70201,
+  "num_followers": 70226,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 623053,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v"
     },
     {
       "added_at": "2024-07-05 02:05:16",

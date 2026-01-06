@@ -4,7 +4,7 @@
 
 > With Yeat, Ken Carson, Autumn! and more
 
-99 songs - 4 hr 1 min
+101 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
 | [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
+| [It's a Stick Up](https://open.spotify.com/track/26HB2IAUsyDenlJWmkD4zk) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [Guapo Ep 5ive "B Side"](https://open.spotify.com/album/5voDVenL8jfpVojUTa8OCN) | 2:10 | 2026-01-06 |  |
 | [Jersey](https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Jersey](https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH) | 2:43 | 2025-11-29 |  |
 | [keep no glock](https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi) | [K\-SEE](https://open.spotify.com/artist/3Pa1wXxunsWmALJOnjbfbQ) | [keep no glock](https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN) | 1:46 | 2025-12-01 | 2025-12-20 |
 | [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 |  |
@@ -57,7 +58,7 @@
 | [loving again](https://open.spotify.com/track/0tXJjunKh3CAKo5lktVbrO) | [Chris Finesse Exclusives](https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI), [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm), [New Age Music](https://open.spotify.com/artist/5TU8hoWsbofB6z3PVRp9qo), [Dj Gren8de](https://open.spotify.com/artist/1nIB4FS1HpBS880wyCWK8O) | [loving again](https://open.spotify.com/album/0RYZBGfAzvvfRP7MmeyS1C) | 1:45 | 2025-11-29 |  |
 | [LUXURY](https://open.spotify.com/track/2W701EZmgjPgpYiPvPv56M) | [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [LUXURY](https://open.spotify.com/album/0ZZwesgpXwhNnMqtwKd2wP) | 2:33 | 2025-12-10 | 2025-12-14 |
 | [Mark William Lewis flow](https://open.spotify.com/track/1HeRtLBfJwP8sde2ZZtxTD) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Soulja Hate Repellant](https://open.spotify.com/album/0deyQpMyjqcEvJbJHYEkaH) | 2:30 | 2025-12-18 |  |
-| [Moe Texas](https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Un Verano En Nueva York](https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6) | 2:16 | 2025-11-29 |  |
+| [Moe Texas](https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Un Verano En Nueva York](https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6) | 2:16 | 2025-11-29 | 2026-01-06 |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2025-11-29 |  |
 | [Muay Thai](https://open.spotify.com/track/0omR5DOPM9BYS6LDoEh5g6) | [Luh keithan!](https://open.spotify.com/artist/29jQwDErYhTnGAuJx58ogV), [hzzikyah](https://open.spotify.com/artist/4wk1MJDiqsB3oIQ3DIOI9z) | [Clinched Teeth](https://open.spotify.com/album/4TTioZWmaRrLsjjU3fjTbF) | 2:45 | 2025-12-10 | 2025-12-16 |
 | [MY TIME](https://open.spotify.com/track/5DyxMRXh5kKwDPzbOSA1No) | [Kj2wavyy](https://open.spotify.com/artist/4ydOHPN2YSiPkCpbnSPIWT) | [2WO FOREVER](https://open.spotify.com/album/5vnLVwhfZcb6TLs5AMrV0E) | 3:13 | 2025-12-14 | 2025-12-17 |
@@ -71,7 +72,7 @@
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2025-12-12 |
-| [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 |  |
+| [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-01-06 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 |  |
 | [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2025-12-30 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
@@ -96,6 +97,7 @@
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |
 | [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 | 2025-12-22 |
 | [THE SAME](https://open.spotify.com/track/4OQsPgm4pSgYUypIixYGV0) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8) | [Super Joint](https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz) | 3:04 | 2025-12-15 | 2025-12-26 |
+| [Tokyo Drift](https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ) | [Ronnie Caine](https://open.spotify.com/artist/4WVnDsM7TEE05xMG0D5gUn) | [I Cant Lose](https://open.spotify.com/album/0SpaqDTVmSq6idNQac0I5X) | 2:19 | 2026-01-06 |  |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 | 2025-12-11 |
 | [vibe](https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD) | [ixlvice](https://open.spotify.com/artist/2MjjoL0FkaOOpEE5CJhS64) | [vibe](https://open.spotify.com/album/7AyL6Ya7hNVtcQ7ShOlXSp) | 3:37 | 2025-12-06 | 2025-12-13 |

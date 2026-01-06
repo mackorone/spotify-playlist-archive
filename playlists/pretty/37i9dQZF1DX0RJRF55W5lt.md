@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,433 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,491 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 46 | [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 |
 | 47 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 | 48 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
-| 49 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
-| 50 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
+| 49 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
+| 50 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
 | 51 | [Oh Baby](https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 5:43 |
 | 52 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |
 | 53 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 71 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 72 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 73 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 74 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
-| 75 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
+| 74 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 75 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 
 Snapshot ID: `AAAAAG5D8yptH9QhG3oT3//C/rb7sITz`

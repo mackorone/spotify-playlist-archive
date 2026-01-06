@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,290 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,375 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 9 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 |
 | 10 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 11 | [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 |
-| 12 | [Run To Master](https://open.spotify.com/track/7jLWKyNaNlHEzWO1snweWW) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [RETRO](https://open.spotify.com/album/0J4RKLs1BTCtxLDtzqflJL) | 2:06 |
+| 12 | [Run To](https://open.spotify.com/track/7jLWKyNaNlHEzWO1snweWW) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [RETRO](https://open.spotify.com/album/0J4RKLs1BTCtxLDtzqflJL) | 2:06 |
 | 13 | [LIKE DAT](https://open.spotify.com/track/08Tz0uX792uwDKmEn2SSF3) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [LIKE DAT](https://open.spotify.com/album/6Vlw661Ql7ttf1lellpKOP) | 3:39 |
 | 14 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
 | 15 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |

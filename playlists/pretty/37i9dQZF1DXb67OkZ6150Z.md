@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,771 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,783 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 49 | [Bittersweet Symphony](https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Melody & Silence](https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy) | 4:40 |
 | 50 | [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 |
 | 51 | [Put Your Head On My Shoulder](https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Put Your Head On My Shoulder](https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc) | 2:31 |
-| 52 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
-| 53 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
+| 52 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
+| 53 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 |
 | 54 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 |
 | 55 | [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 |
 | 56 | [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 |
 | 57 | [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 |
 | 58 | [Riptide](https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Riptide](https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S) | 3:13 |
-| 59 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Thank You For Being Here](https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq) | 2:05 |
-| 60 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
+| 59 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
+| 60 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Thank You For Being Here](https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq) | 2:05 |
 | 61 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
 | 62 | [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 |
-| 63 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
-| 64 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 |
+| 63 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 |
+| 64 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
 | 65 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 |
 | 66 | [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 |
 | 67 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 |

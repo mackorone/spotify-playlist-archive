@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,867 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,869 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 28 | [SOMOS](https://open.spotify.com/track/64hvYq2DRTMFCTc5EpuREh) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:41 |
 | 29 | [Entre Botellas](https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:26 |
 | 30 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
-| 31 | [De Lo Que Me Salvé](https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:32 |
-| 32 | [El Honor](https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:45 |
+| 31 | [Esa No Soy Yo](https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:49 |
+| 32 | [De Lo Que Me Salvé](https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:32 |
 | 33 | [Cuanto Te Debo](https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:33 |
-| 34 | [Esa No Soy Yo](https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:49 |
+| 34 | [El Honor](https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:45 |
 | 35 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 |
-| 36 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 |
-| 37 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
-| 38 | [NI MUERTA](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 |
+| 36 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
+| 37 | [NI MUERTA](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 |
+| 38 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 |
 | 39 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
 | 40 | [Brindaremos Por Él](https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 |
 | 41 | [Este Corazón](https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Este Corazón](https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [Madre Tierra \(Interlude\)](https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 0:46 |
 | 50 | [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 |
 
-Snapshot ID: `aVhcAAAAAAAZq83A8nZBrK7OysRJ3YG3`
+Snapshot ID: `aVmtgAAAAADpMixEy4u8XATHXlzYiXLI`

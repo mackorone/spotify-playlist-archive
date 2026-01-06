@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,742 likes - 263 songs - 14 hr 17 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,763 likes - 272 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,5 +271,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 261 | [Solsticio Verano III](https://open.spotify.com/track/37ccZ0JtdWlreQNvOq3Uz5) | [Morus](https://open.spotify.com/artist/4Cp0bEJANFeVhsFKIlYZf1) | [Solsticio Verano](https://open.spotify.com/album/58HCtEWPF2bizP7rRgNM6a) | 3:46 |
 | 262 | [You Hear Me Lord](https://open.spotify.com/track/2avZ8OsiEwcPW2v3YldyTT) | [Michelle McIntosh](https://open.spotify.com/artist/7Chvc6lb6L3tCvl6UtOy4Z) | [You Hear Me Lord](https://open.spotify.com/album/700XAxgCHy2bevpv27FN9t) | 4:16 |
 | 263 | [Cold Wind Blows](https://open.spotify.com/track/416wi20CY4p28Ez9xaXgf6) | [Deceased Me](https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU) | [Cold Wind Blows](https://open.spotify.com/album/592zWSpTLDSlH5IvAM8kSi) | 3:10 |
+| 264 | [Love police](https://open.spotify.com/track/4LCZ8wdKGkpw297GNoYxI0) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ), [Tina Carba](https://open.spotify.com/artist/4o6HWOcjHoabwwEg01vLB7) | [Love police](https://open.spotify.com/album/0sJtfPzyVQMruDScp2nK96) | 3:18 |
+| 265 | [Your Goodbye Changed Me](https://open.spotify.com/track/62lm06sb8O8x046vfXXh5V) | [NeonWave Pop](https://open.spotify.com/artist/2M6GdqHbJA0ew86Z7OZbwu) | [I Remember You More Than You Remember Me](https://open.spotify.com/album/3YoQSpeiKeOY6v4Vy0jx8V) | 2:45 |
+| 266 | [Dunno](https://open.spotify.com/track/7qqRfsxDwo08wJv6yXpZjz) | [Booyah](https://open.spotify.com/artist/70zwO6Gw1GxkriaLfcV2lO) | [Beyond Underground\. \. .](https://open.spotify.com/album/0wXgva6huhev3Jp6hrzTFm) | 1:32 |
+| 267 | [SEVEN SEAS](https://open.spotify.com/track/0v3tW3bQCIYEI4mrdamRzL) | [Mistamoe](https://open.spotify.com/artist/3QgzrXBBY1fG6NdLaIi3Od) | [SEVEN SEAS](https://open.spotify.com/album/2dGWRT1ztDMr1M34g6YTlz) | 2:50 |
+| 268 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 |
+| 269 | [Angel Left on Read](https://open.spotify.com/track/6BMArcefSwMoVOzCpZtpVd) | [Nikhil Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [Heaven Had Deadlines](https://open.spotify.com/album/4KVIecunhtfP0XJq0PB3jI) | 2:42 |
+| 270 | [LIPSTICK](https://open.spotify.com/track/3QRvnROKEnqwHmcl8SN3SB) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [LIPSTICK](https://open.spotify.com/album/1BUJSmx567njp2uyxBEJn5) | 3:02 |
+| 271 | [Between Here](https://open.spotify.com/track/6Z6bVevBuLPat8MkyvURIw) | [Derek Jasnoch](https://open.spotify.com/artist/3hIaFf2pJvbO51oHrencAG) | [Between Here](https://open.spotify.com/album/0o2qM4IuMQzr3EIJVvTHWh) | 5:01 |
+| 272 | [Closer than the sky](https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T) | [ChrisGCol](https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL), [Paula B](https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx) | [Closer than the sky](https://open.spotify.com/album/7k6BcY2jbUrVOhWF4E2ltd) | 3:21 |
 
-Snapshot ID: `AAAzR6hXjj2Q+7XGl31d/Gv3x19ijJhE`
+Snapshot ID: `AAAzUD3yJUnBtXqeFtuaqD/+ee+Zp+1p`

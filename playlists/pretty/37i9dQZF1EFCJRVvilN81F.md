@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,103 likes - 183 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,102 likes - 183 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 77 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
 | 78 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
 | 79 | [Blakkst Skn](https://open.spotify.com/track/7JCly2B16uFNXruzsSYmqr) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/056FmmhZZZeEs8dcjzcziI) | 3:30 |
-| 80 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
-| 81 | [SPACE INVADER](https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 4:34 |
+| 80 | [SPACE INVADER](https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 4:34 |
+| 81 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
 | 82 | [THE MOVE \- prod\. KAYTRANADA](https://open.spotify.com/track/5ZnZelwYbsrBsi2QmBcTXC) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [THE MOVE \(prod\. KAYTRANADA\)](https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU) | 3:14 |
 | 83 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
 | 84 | [September 21](https://open.spotify.com/track/7K1dTX1ydI3RMXTQU6dkgD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:51 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 182 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 183 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AcGFOgAAAAAWbji8BdI/v/ylI7iugXpl`
+Snapshot ID: `AcGKngAAAABk7qHFpUe+vzl4xi2nkhJ+`

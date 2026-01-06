@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23457,
+  "num_followers": 23459,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAW3EY2ZhRXEVcc3YQMbF+s",
+  "snapshot_id": "aVmtgAAAAAA3USFOrZms49nVAntVtPOk",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Hot For Preacher",
+      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 240760,
       "name": "I Found Away",
       "url": "https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Hot For Preacher",
-      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Steamer Trunk",
-      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Hair, And Eyeballs",
         "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 238973,
       "name": "Shake With Me",
       "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Steamer Trunk",
+      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 124560,
-      "name": "The Poison",
-      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Hair, And Eyeballs",
         "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 203533,
       "name": "Break",
       "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Hair, And Eyeballs",
         "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/1mjnFCE5vwFOJqe4PCsoMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187480,
       "name": "I Wanna Be A Warhol",
       "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,

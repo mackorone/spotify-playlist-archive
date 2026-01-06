@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ Cazzu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,395 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,503 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49966,
+  "num_followers": 49973,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADX8zB9IZYEoI3d5hs5ixP3",
+  "snapshot_id": "aVmtgAAAAAArU+ExMxGlCbRcqE4E79H/",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex & Death",
         "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 124600,
       "name": "Sex & Death",
       "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Dominoes Fall",
-      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
     },
     {
       "added_at": null,

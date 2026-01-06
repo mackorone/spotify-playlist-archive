@@ -1,6 +1,6 @@
 {
-  "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists. Cover: Yolanda Adams",
-  "num_followers": 72561,
+  "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists. Cover: Jonathan McReynolds",
+  "num_followers": 72543,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
+        "name": "sleigh ride (remix).wav",
+        "url": "https://open.spotify.com/album/26EJJhulroX2YoGM1hYaWI"
+      },
+      "artists": [
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 104104,
+      "name": "sleigh ride (remix).wav",
+      "url": "https://open.spotify.com/track/10hK6U1b0w3Sa6MJjaOvrt"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 379055,
       "name": "O Holy Night (feat. Melvin Crispell III & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
-        "name": "sleigh ride (remix).wav",
-        "url": "https://open.spotify.com/album/26EJJhulroX2YoGM1hYaWI"
-      },
-      "artists": [
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        }
-      ],
-      "duration_ms": 104104,
-      "name": "sleigh ride (remix).wav",
-      "url": "https://open.spotify.com/track/10hK6U1b0w3Sa6MJjaOvrt"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Good News - A Christmas Medley",
-        "url": "https://open.spotify.com/album/6cYiUlYiosStuxoQNJq7sT"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 202450,
-      "name": "Good News - A Christmas Medley",
-      "url": "https://open.spotify.com/track/66jMlKAjm4Qmz6g00RdtMN"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 264573,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Good News - A Christmas Medley",
+        "url": "https://open.spotify.com/album/6cYiUlYiosStuxoQNJq7sT"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 202450,
+      "name": "Good News - A Christmas Medley",
+      "url": "https://open.spotify.com/track/66jMlKAjm4Qmz6g00RdtMN"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Christmas with Yolanda Adams",
-        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Rejoice (with Vision)",
         "url": "https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 340666,
       "name": "O What A Night (with Vision)",
       "url": "https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Christmas with Yolanda Adams",
+        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Presents The Family, No Christmas Without You",
-        "url": "https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 261717,
-      "name": "No Christmas Without You",
-      "url": "https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 235100,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Presents The Family, No Christmas Without You",
+        "url": "https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 261717,
+      "name": "No Christmas Without You",
+      "url": "https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -2563,6 +2563,26 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
+        "name": "Joy And Peace",
+        "url": "https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK"
+      },
+      "artists": [
+        {
+          "name": "Sensere",
+          "url": "https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh"
+        },
+        {
+          "name": "Adolphus Scottie Scott",
+          "url": "https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Joy And Peace",
+      "url": "https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
         "name": "The Real Meaning Of Christmas Volume 2",
         "url": "https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM"
       },
@@ -2595,26 +2615,6 @@
       "duration_ms": 181306,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
-        "name": "Joy And Peace",
-        "url": "https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK"
-      },
-      "artists": [
-        {
-          "name": "Sensere",
-          "url": "https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh"
-        },
-        {
-          "name": "Adolphus Scottie Scott",
-          "url": "https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Joy And Peace",
-      "url": "https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD"
     },
     {
       "added_at": "2025-12-12 06:45:41",

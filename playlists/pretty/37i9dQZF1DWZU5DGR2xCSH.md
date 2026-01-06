@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,257 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,224 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 18 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 19 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 20 | [Te Hacen Falta Vitaminas \- Remasterizado 2007](https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:38 |
-| 21 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
-| 22 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
+| 21 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
+| 22 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 23 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
 | 24 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
 | 25 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 51 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
 | 52 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
 | 53 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
-| 54 | [Viernes, 3AM \- 2019 Remasterizado](https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa de las Capitales: Edición 40º Aniversario \(2019 Remasterizado\)](https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3) | 4:25 |
-| 55 | [Salgan al Sol](https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s) | [Billy Bond y La Pesada](https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY) | [Billy Bond y la Pesada del Rock And Roll](https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG) | 3:19 |
-| 56 | [El Chino \(feat\. Andrés Calamaro\)](https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Chocolate Inglés](https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q) | 3:38 |
+| 54 | [Salgan al Sol](https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s) | [Billy Bond y La Pesada](https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY) | [Billy Bond y la Pesada del Rock And Roll](https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG) | 3:19 |
+| 55 | [El Chino \(feat\. Andrés Calamaro\)](https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Chocolate Inglés](https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q) | 3:38 |
+| 56 | [Viernes, 3AM \- 2019 Remasterizado](https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa de las Capitales: Edición 40º Aniversario \(2019 Remasterizado\)](https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3) | 4:25 |
 | 57 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 58 | [De Nada Sirve](https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 7:43 |
 | 59 | [La Mamá de Jimmy](https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub) | 3:39 |

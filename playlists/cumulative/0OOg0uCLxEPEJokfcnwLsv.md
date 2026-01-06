@@ -4,10 +4,11 @@
 
 > These are some independent rock bands you need to hear.
 
-209 songs - 12 hr 48 min
+211 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Cautionary Tale](https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:27 | 2026-01-05 |  |
 | [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 | 2025-12-12 | 2026-01-05 |
 | [A Long Story](https://open.spotify.com/track/1sXc1lA2CtvG83pPK5a8BC) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [A Long Story](https://open.spotify.com/album/3PRvYoYU3Rv4NTymnp19qh) | 3:20 | 2025-11-11 | 2025-12-12 |
 | [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 | 2025-12-28 |
@@ -82,6 +83,7 @@
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 |  |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 | 2025-12-28 |
+| [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-01-05 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |

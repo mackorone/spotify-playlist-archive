@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,976 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,003 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

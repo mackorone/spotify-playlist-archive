@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2925,
+  "num_followers": 2929,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADz67K55mC/2RbC71EZ+tVD",
+  "snapshot_id": "aVmtgAAAAABqq6DJSjWhRlusRzaYSg+R",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,25 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 283991,
-      "name": "Evacuation",
-      "url": "https://open.spotify.com/track/5peOOgPogTScqCtUtm0MF5"
+      "duration_ms": 143508,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi"
     },
     {
       "added_at": null,
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+        "name": "Hedda (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Hedda Cast",
+          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
         }
       ],
-      "duration_ms": 94813,
-      "name": "The Bomber",
-      "url": "https://open.spotify.com/track/4e0tuqdsh6HPZcxQ5IWlso"
+      "duration_ms": 88624,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
     },
     {
       "added_at": null,
@@ -907,22 +911,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hedda (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Hedda Cast",
-          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
         }
       ],
-      "duration_ms": 88624,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
+      "duration_ms": 94813,
+      "name": "The Bomber",
+      "url": "https://open.spotify.com/track/4e0tuqdsh6HPZcxQ5IWlso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
     },
     {
       "added_at": null,
@@ -947,38 +987,6 @@
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser\u00eda II",
-        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
-        {
-          "name": "Amedeo",
-          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "David Thor",
-          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Without Memory",
-      "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
     },
     {
       "added_at": null,

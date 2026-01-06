@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Flipperachi",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Asim Azhar",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
@@ -1453,6 +1453,32 @@
     },
     {
       "album": {
+        "name": "bargad",
+        "url": "https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n"
+      },
+      "artists": [
+        {
+          "name": "sufr",
+          "url": "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        },
+        {
+          "name": "toorjo dey",
+          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "bargad",
+      "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl"
+    },
+    {
+      "album": {
         "name": "Sicario",
         "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
       },
@@ -1534,6 +1560,24 @@
       "duration_ms": 205200,
       "name": "Benz",
       "url": "https://open.spotify.com/track/3mKkgFwqRxhb6naMW44Fjc"
+    },
+    {
+      "album": {
+        "name": "Beparwah",
+        "url": "https://open.spotify.com/album/2xMxW7Z8ij0xc41wExsXGE"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193157,
+      "name": "Beparwah",
+      "url": "https://open.spotify.com/track/3jv9Mt5gKA8rwXoELAfKex"
     },
     {
       "album": {
@@ -3202,7 +3246,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -3706,7 +3750,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 178826,
       "name": "Gal Sun",
       "url": "https://open.spotify.com/track/4tdP02RmN1g1xsQ3HR8Smn"
@@ -8862,7 +8906,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 205391,
       "name": "Ronay Na Diyaa",
       "url": "https://open.spotify.com/track/3O6hCRofBptFDA86oyrxSJ"
@@ -9012,6 +9056,28 @@
       "duration_ms": 154455,
       "name": "Sadqay",
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+    },
+    {
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Sherazam",
+          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216922,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY"
     },
     {
       "album": {
@@ -9168,7 +9234,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 183072,
       "name": "Saiyaara Reprise - Female",
       "url": "https://open.spotify.com/track/1uRTH9LeFh40tFYlq48vcy"
@@ -9560,7 +9626,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 175138,
       "name": "Shaky",
       "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
@@ -12342,6 +12408,28 @@
       "duration_ms": 182222,
       "name": "Zaalima",
       "url": "https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V"
+    },
+    {
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207215,
+      "name": "Zalim Nazron Se",
+      "url": "https://open.spotify.com/track/7nc3VTV5y2yNhUPH2CTT9L"
     },
     {
       "album": {

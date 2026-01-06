@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,816 likes - 176 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,810 likes - 176 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
-| 2 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
-| 3 | [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 |
+| 1 | [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 |
+| 2 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 3 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
 | 4 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 5 | [Inombords](https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Inombords](https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g) | 2:25 |
-| 6 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
-| 7 | [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 |
-| 8 | [Vi som är natten](https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Vi som är natten](https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL) | 2:15 |
-| 9 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 |
-| 10 | [Horses](https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Horses](https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9) | 3:02 |
+| 6 | [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 |
+| 7 | [Vi som är natten](https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Vi som är natten](https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL) | 2:15 |
+| 8 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 |
+| 9 | [Horses](https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Horses](https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9) | 3:02 |
+| 10 | [Om 100 år](https://open.spotify.com/track/6Hcwt2OmOep6SHX1HveLpt) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Om 100 år](https://open.spotify.com/album/6wAIcfbhrjOayX3VuJ5GED) | 2:19 |
 | 11 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |
 | 12 | [Here For The Party](https://open.spotify.com/track/43zyKoCeEVqoajv7erMfhd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Here For The Party](https://open.spotify.com/album/6MGCAS368VJy11aVpPEfGx) | 3:29 |
 | 13 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 |
 | 14 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 |
-| 15 | [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 |
-| 16 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:48 |
-| 17 | [Om 100 år](https://open.spotify.com/track/6Hcwt2OmOep6SHX1HveLpt) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Om 100 år](https://open.spotify.com/album/6wAIcfbhrjOayX3VuJ5GED) | 2:19 |
+| 15 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
+| 16 | [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 |
+| 17 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:48 |
 | 18 | [Växtvärk](https://open.spotify.com/track/71YshPURU1bulv8OuF9d94) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46) | 3:29 |
 | 19 | [...fifteen](https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...fifteen](https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI) | 2:47 |
 | 20 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 175 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar II](https://open.spotify.com/album/1uUtCIhpSjsoYjTPYwRisz) | 2:54 |
 | 176 | [Heals Me](https://open.spotify.com/track/4RvuFElo4Y32QQXeckeEGx) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/3he4BH6RJnEfJZAbw5NgI6) | 4:30 |
 
-Snapshot ID: `AAAAAKXgvOnAnoE1CWbjaqcBhSipudhv`
+Snapshot ID: `AAAAAG9qJAys+f1eSTn+LNhSdL6Q2iZ4`

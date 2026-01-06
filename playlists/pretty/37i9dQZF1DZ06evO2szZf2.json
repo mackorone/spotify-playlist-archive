@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35391,
+  "num_followers": 35390,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAIZcFBrWxlMcEu6hElaQJf",
+  "snapshot_id": "aVmtgAAAAAAhkEE/1/6jYwbX49omiWum",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley Rel\u00edquia 2",
+        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Damaso",
+          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
+        },
+        {
+          "name": "Hoopex",
+          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136356,
+      "name": "Medley Rel\u00edquia 2",
+      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -751,62 +779,6 @@
       "duration_ms": 103105,
       "name": "Se o Port\u00e3o Tiver Trancado",
       "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Rel\u00edquia 2",
-        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "Damaso",
-          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
-        },
-        {
-          "name": "Hoopex",
-          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136356,
-      "name": "Medley Rel\u00edquia 2",
-      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
-        "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 137272,
-      "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
-      "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
     },
     {
       "added_at": null,
@@ -859,6 +831,34 @@
       "duration_ms": 570360,
       "name": "Homenagem Aos Rel\u00edquias 6",
       "url": "https://open.spotify.com/track/1xdsUlTfAKQA9Vxnn0toIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
+        "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 137272,
+      "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
+      "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
     },
     {
       "added_at": null,

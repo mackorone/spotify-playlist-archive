@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,782 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,806 likes - 41 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 39 | [A Tree For My Bed](https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 2:12 |
 | 40 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
 | 41 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
-| 42 | [Suo Gân](https://open.spotify.com/track/4SgQ8N7g6EYNWtVHTaLGHu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Empire Of The Sun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DodZkQz7CMjN6DOiC5Ke3) | 2:19 |
 
-Snapshot ID: `aVhcAAAAAADVNJ888CEShD97KPyi3DF5`
+Snapshot ID: `aVmtgAAAAACpqf2GMteOSKY89wbOIvKI`

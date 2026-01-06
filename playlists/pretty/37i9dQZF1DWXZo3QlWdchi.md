@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,205 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,250 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 21 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7) | 2:08 |
 | 22 | [Wind of Change \(with Morten Harket\) \- MTV Unplugged](https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 5:31 |
 | 23 | [Plush \- Live; MTV Unplugged, 11/17/93](https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:46 |
-| 24 | [Só por hoje / Tenis Roque](https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:37 |
-| 25 | [Pais E Filhos \- Ao Vivo Em São Paulo / 1999](https://open.spotify.com/track/08JSatvoYTwDDkMov7oHKA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Acústico \(Ao Vivo Em São Paulo / 1999\)](https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg) | 6:19 |
+| 24 | [Pais E Filhos \- Ao Vivo Em São Paulo / 1999](https://open.spotify.com/track/08JSatvoYTwDDkMov7oHKA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Acústico \(Ao Vivo Em São Paulo / 1999\)](https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg) | 6:19 |
+| 25 | [Só por hoje / Tenis Roque](https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:37 |
 | 26 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Live\)](https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr) | 4:16 |
 | 27 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 28 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22236,
+  "num_followers": 22237,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACJkDKOYINqyIR2IIJGGH2z",
+  "snapshot_id": "aVmtgAAAAADYaXwzdWHOsVMBM7uWb6Jx",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEART",
-        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
+        "name": "ELZA2",
+        "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
       "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 219160,
-      "name": "\u547d\u3068\u3044\u3046\u75c5",
-      "url": "https://open.spotify.com/track/2aevhxdToV6pGdFCpwRc81"
+      "duration_ms": 236093,
+      "name": "\u9769\u547d",
+      "url": "https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz"
     },
     {
       "added_at": null,
@@ -407,26 +411,6 @@
       "duration_ms": 301253,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELZA2",
-        "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "\u9769\u547d",
-      "url": "https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz"
     },
     {
       "added_at": null,
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 214013,
-      "name": "\u30b3\u30fb\u30b3\u30fb\u30ed",
-      "url": "https://open.spotify.com/track/5Cin0YCToQrQo7cECQa37X"
+      "duration_ms": 219160,
+      "name": "\u547d\u3068\u3044\u3046\u75c5",
+      "url": "https://open.spotify.com/track/2aevhxdToV6pGdFCpwRc81"
     },
     {
       "added_at": null,
@@ -499,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANIMA (Special Edition)",
-        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u96e8\u306b\u5504\u3048\u3070",
-      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEART",
-        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6",
-      "url": "https://open.spotify.com/track/7mdJuI3K1XkZXXK7t12LuF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -547,6 +499,38 @@
       "duration_ms": 217483,
       "name": "Oh UnHappy Day",
       "url": "https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "\u30b3\u30fb\u30b3\u30fb\u30ed",
+      "url": "https://open.spotify.com/track/5Cin0YCToQrQo7cECQa37X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "\u96e8\u306b\u5504\u3048\u3070",
+      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
     },
     {
       "added_at": null,
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 306533,
-      "name": "HEART",
-      "url": "https://open.spotify.com/track/6N16QWCKneTPYpmss6nmut"
+      "duration_ms": 213666,
+      "name": "\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6",
+      "url": "https://open.spotify.com/track/7mdJuI3K1XkZXXK7t12LuF"
     },
     {
       "added_at": null,
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 266440,
-      "name": "\u304b\u305f\u3063\u307d\u306e\u9774\u4e0b",
-      "url": "https://open.spotify.com/track/4nqWZMFugiaMgOHTbg1nP3"
+      "duration_ms": 306533,
+      "name": "HEART",
+      "url": "https://open.spotify.com/track/6N16QWCKneTPYpmss6nmut"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 640626,
-      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
+      "duration_ms": 266440,
+      "name": "\u304b\u305f\u3063\u307d\u306e\u9774\u4e0b",
+      "url": "https://open.spotify.com/track/4nqWZMFugiaMgOHTbg1nP3"
     },
     {
       "added_at": null,
@@ -759,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
       },
       "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 257372,
-      "name": "Dancer in the Discord",
-      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
+      "duration_ms": 640626,
+      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 262666,
       "name": "\u602a\u7269\u306e\u8a69",
       "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "Dancer in the Discord",
+      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
     },
     {
       "added_at": null,

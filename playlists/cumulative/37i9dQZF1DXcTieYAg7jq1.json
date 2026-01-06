@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "My Home Is Not In This World",
+        "url": "https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164335,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z"
+    },
+    {
+      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 205438,
       "name": "Infinite Love",
       "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"

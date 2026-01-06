@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462 likes - 33 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 33 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 3 | [Follow](https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:41 |
 | 4 | [Devotion Sickness](https://open.spotify.com/track/3avsyV7s5wju0EDounjcHv) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Half Life](https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA) | 3:26 |
 | 5 | [Hesitations](https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:37 |
-| 6 | [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 |
-| 7 | [So Easy](https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [So Easy](https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw) | 3:15 |
+| 6 | [So Easy](https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [So Easy](https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw) | 3:15 |
+| 7 | [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 |
 | 8 | [Half Life](https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Half Life](https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r) | 2:49 |
 | 9 | [Nightmare](https://open.spotify.com/track/3Li4rMcFQisVPnw7nmfX7N) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:00 |
 | 10 | [Champagne Problems](https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Champagne Problems](https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C) | 4:48 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 32 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 | 33 | [Smother](https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 2:45 |
 
-Snapshot ID: `aVhcAAAAAACHnlM33iJrXCHyYaR/SgZI`
+Snapshot ID: `aVmtgAAAAACiOl3VEXxFN0Fja/zGELhW`

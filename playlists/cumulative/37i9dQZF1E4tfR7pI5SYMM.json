@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 241223,
       "name": "A-DAY - Remaster",
       "url": "https://open.spotify.com/track/7t1MTQdvPlQdus0lAhXSx1"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 250946,
       "name": "Deus",
       "url": "https://open.spotify.com/track/5B4oYqZryLGzQsJKWSqmki"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 190494,
       "name": "Dr\u00f8m",
       "url": "https://open.spotify.com/track/48EwuOOB98epzSWijPKVEX"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 176111,
       "name": "Fire Down Below!",
       "url": "https://open.spotify.com/track/6LppRaibHI5HSWuJEsj095"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 223196,
       "name": "Flat Wearing Me Out",
       "url": "https://open.spotify.com/track/4Ao3eJ9FpEVL4vIK2bGMS0"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 296971,
       "name": "Held Breath",
       "url": "https://open.spotify.com/track/67clV2bJVh11CRLndCcSfm"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 357373,
       "name": "Hjelp",
       "url": "https://open.spotify.com/track/03fSLUp3zw4YytSCWmIsTu"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 190096,
       "name": "Honey don't you cry - Radio Edit",
       "url": "https://open.spotify.com/track/5lsAly8g0gIdwmup8n6oGn"
@@ -1758,6 +1758,24 @@
       "duration_ms": 126666,
       "name": "Hub of the World",
       "url": "https://open.spotify.com/track/3m0KAmTCmn0iINqth36iRx"
+    },
+    {
+      "album": {
+        "name": "Mythic",
+        "url": "https://open.spotify.com/album/19plFluVIuQR8JYG1eUmL7"
+      },
+      "artists": [
+        {
+          "name": "Void Droid",
+          "url": "https://open.spotify.com/artist/3vix54hbNDOLpzmtVwLCFK"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389610,
+      "name": "Hum of Taos",
+      "url": "https://open.spotify.com/track/0cOvOHjP3JunZX6qTMOGBT"
     },
     {
       "album": {
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 271226,
       "name": "Ilaanningooq",
       "url": "https://open.spotify.com/track/6JJzChNf3xDCvpnIuZTNKl"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 212819,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3eAOMeyAK4p2NmCvTNK61P"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 252004,
       "name": "Lambs",
       "url": "https://open.spotify.com/track/4OyFxaCAA0BgBWIQaeI7uE"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2nWIIAhtejQ3dr5mR7WHWg"
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 277896,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/2YwNJhQDI2xwexPaffRnBf"
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 256584,
       "name": "Light years",
       "url": "https://open.spotify.com/track/3KrIyUCo9j6sdeYOYcXbTY"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 200377,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6jIKNLyG16eIHXnCtthNoU"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 264000,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/5wgOIh2FZSMK75Rf5HvIEx"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 334325,
       "name": "Money",
       "url": "https://open.spotify.com/track/3OI81Xe3V1qJzd7NCngD6f"
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 351000,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/1DXOaD84OMVvwL2oaTuGiM"
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 193069,
       "name": "My Love Fits You Like A Glove",
       "url": "https://open.spotify.com/track/5Nq4kmJAas2txvKjXWOvun"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 230008,
       "name": "Ophelia Knows",
       "url": "https://open.spotify.com/track/0uTQ8UL3YrcpIPRv8HbUEP"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 223048,
       "name": "Skansen",
       "url": "https://open.spotify.com/track/5UZT1bdD39YBKsywFDw0Yh"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 473000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/7KFUjMCPZ8YsoZOm3j0wWs"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 250874,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/3yfUGZSLyB4yonFDR3Kldp"
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 318974,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd"
@@ -4132,7 +4150,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 283360,
       "name": "Til Verdens Ende",
       "url": "https://open.spotify.com/track/6YegC4MQx91hki4pbalHfG"
@@ -4450,7 +4468,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 284793,
       "name": "Too Long",
       "url": "https://open.spotify.com/track/2Hv2xiyS7LtCnQDDu0VWrW"
@@ -4486,7 +4504,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 306857,
       "name": "Trappen",
       "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"
@@ -4580,6 +4598,24 @@
       "duration_ms": 337623,
       "name": "T\u011blo T\u011bla",
       "url": "https://open.spotify.com/track/1NId3bqrmPDs0JnjrbcYd6"
+    },
+    {
+      "album": {
+        "name": "Ti",
+        "url": "https://open.spotify.com/album/3qmcgYDXKc9W4o5SJdVe3R"
+      },
+      "artists": [
+        {
+          "name": "Skambankt",
+          "url": "https://open.spotify.com/artist/3VCEssbb6wxzv65MHsHfdg"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Ulver",
+      "url": "https://open.spotify.com/track/3afE6K3FOhFvNsbW2SqDqi"
     },
     {
       "album": {

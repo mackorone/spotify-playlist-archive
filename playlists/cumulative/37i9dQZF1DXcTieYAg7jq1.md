@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-485 songs - 1 day 3 hr 39 min
+486 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-12 |  |
 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 | 2023-09-22 |  |
 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp) | 2:53 | 2023-09-22 | 2024-04-19 |
+| [Dance](https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 2:44 | 2026-01-05 |  |
 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 | 2021-12-03 | 2023-01-28 |
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-12-03 | 2023-01-28 |
 | [Dancing My Way](https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:04 | 2021-12-03 | 2023-01-28 |
@@ -232,7 +233,7 @@
 | [If You Need Me, Don't](https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [If You Need Me, Don't](https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA) | 3:26 | 2022-06-03 | 2023-05-06 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2023-02-16 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2024-03-16 |
-| [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN), [Grayson Lane](https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q), [Garrett Lane](https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 |  |
+| [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN), [Grayson Lane](https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q), [Garrett Lane](https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 | 2026-01-06 |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 | 2025-09-20 |
 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 | 2024-08-03 |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,741 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,789 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Escondendo o Ouro \- Ao Vivo](https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:51 |
 | 50 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 
-Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO8t0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

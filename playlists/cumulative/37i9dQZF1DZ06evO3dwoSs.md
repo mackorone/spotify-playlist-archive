@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-162 songs - 10 hr 9 min
+163 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 | 2022-05-30 |  |
 | [Death Before Dishonor](https://open.spotify.com/track/3dTVCGEQnUXiTcQugWlx39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 3:54 | 2022-05-30 | 2023-08-28 |
 | [Dot Your Eyes](https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 3:15 | 2023-09-18 | 2025-12-04 |
-| [Dot Your Eyes](https://open.spotify.com/track/6lvtWK82l7aQmIGbC1yJfY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 3:15 | 2023-08-27 |  |
+| [Dot Your Eyes](https://open.spotify.com/track/6lvtWK82l7aQmIGbC1yJfY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 3:15 | 2023-08-27 | 2026-01-06 |
+| [Dot Your Eyes](https://open.spotify.com/track/6qI0YQuno6szt5p6CycUH1) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 3:15 | 2026-01-06 |  |
 | [Dot Your Eyes](https://open.spotify.com/track/6rPwXyxKZPiGhkcX5lwhps) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 3:15 | 2022-05-30 | 2023-08-28 |
 | [Far From Home](https://open.spotify.com/track/3DjRp5TOyy29YsfKbCWK3f) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:32 | 2023-11-10 | 2025-12-04 |
 | [Far From Home](https://open.spotify.com/track/5amizkTBqCkDYqoOM9mFn6) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:32 | 2022-05-30 | 2023-08-26 |

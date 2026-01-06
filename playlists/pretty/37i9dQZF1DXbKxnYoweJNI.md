@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 雷擎 \(L8ching\) x 宋楚琳 \(Erin Song\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,042 likes - 133 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,046 likes - 133 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 35 | [當時的眼淚](https://open.spotify.com/track/19flqScM7XrZFqW4yCkt0o) | [易桀齊](https://open.spotify.com/artist/2vy0h2oTG1T57fpXDa4q3e) | [當時的眼淚](https://open.spotify.com/album/7DZMTeYVEopy3kEDiANgMU) | 3:08 |
 | 36 | [藍鳥飛歌](https://open.spotify.com/track/76uBkbKPC1HFK2B956di04) | [小占 英健朗](https://open.spotify.com/artist/0E5RJYkCmrzEjp5VBkrRTz) | [藍鳥飛歌](https://open.spotify.com/album/0XzxlGL3bN13aU3m2JLZ4P) | 3:54 |
 | 37 | [秋天](https://open.spotify.com/track/22JKiZJ7kumLfKdBYdapj3) | [Jayku](https://open.spotify.com/artist/0ZgpUJ3hW715q9o8HAZK1R) | [秋天](https://open.spotify.com/album/2vXOLnxIxz9wZh7ovipvRT) | 3:00 |
-| 38 | [捲式綜合症](https://open.spotify.com/track/4dmSH8FQiaXh94gCl83NOt) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [捲式綜合症](https://open.spotify.com/album/65W4hDLUtMkj0RcKXb6XYw) | 2:08 |
+| 38 | [卷式綜合症](https://open.spotify.com/track/4dmSH8FQiaXh94gCl83NOt) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [卷式綜合症](https://open.spotify.com/album/65W4hDLUtMkj0RcKXb6XYw) | 2:08 |
 | 39 | [FOR U](https://open.spotify.com/track/0wu5OHgAuSMgTmj39as2v4) | [林湧奕 Yung](https://open.spotify.com/artist/1ziaQ2Kfg7O4nsr1ojJOO6), [Jung Cozy](https://open.spotify.com/artist/2ktOn8IPg4yoXupnP60r7k) | [FOR U](https://open.spotify.com/album/1W8d8E9knhMA2dF8VfBSkQ) | 3:08 |
 | 40 | [我該怎麼得到你的心](https://open.spotify.com/track/13McNjemrJZdYSMlsJXyma) | [!KC鄭柏翔](https://open.spotify.com/artist/50HaGEIpeSqvbPidcQq39u) | [我該怎麼得到你的心](https://open.spotify.com/album/6TBXRHTWDdRxuK08JkNkb7) | 2:15 |
 | 41 | [白布 Succubus of Death](https://open.spotify.com/track/4M8aT1opT8csMbb1UZfMdX) | [HONEY BѦDGER](https://open.spotify.com/artist/4DBoWboxnMFCM1ZrblEWOb) | [白布 Succubus of Death](https://open.spotify.com/album/1jNqqEBzIS0dUraiqqWGY0) | 1:53 |

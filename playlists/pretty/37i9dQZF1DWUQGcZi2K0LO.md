@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Editors pick the best songs from Indie India in 2025\. Cover: Kushagra
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,868 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,902 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 6 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 7 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 8 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 |
-| 9 | [Finding Her \(Female Version\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 |
+| 9 | [Finding Her \(Female Version\) \(From "UR Debut"\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 |
 | 10 | [Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Farebi](https://open.spotify.com/album/2lLMatT2qeOr8RgY7Vq8VI) | 3:54 |
 | 11 | [Haye Ri Duniya \- Live](https://open.spotify.com/track/0S2Ya5ds1PuCnef3Hubxa6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:09 |
 | 12 | [Kashmir](https://open.spotify.com/track/2Ofatg9oLA8D6c4pD2o3nW) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Zartasha Zainab](https://open.spotify.com/artist/1S4SPvbobnVbZhIWtWv9oO) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 5:49 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 45 | [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 |
 | 46 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
 | 47 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
-| 48 | [Jaane Na Tu](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
+| 48 | [Jaane Na Tu \(From "UR Debut"\)](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved \(From "UR Debut"\)](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
 | 49 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
 | 50 | [Rehna Duur](https://open.spotify.com/track/5jm4ahNk4P0ZTHPzUIpywb) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:58 |
 

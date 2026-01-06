@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 221326,
       "name": "BIG VOID",
       "url": "https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 204000,
       "name": "dim,",
       "url": "https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 200379,
       "name": "Echoes of You",
       "url": "https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19"
@@ -10446,6 +10446,24 @@
       "duration_ms": 289466,
       "name": "Lunar phase",
       "url": "https://open.spotify.com/track/1F3pPDZkBpfxcPzcQbXjTt"
+    },
+    {
+      "album": {
+        "name": "Luv 2 Much",
+        "url": "https://open.spotify.com/album/4dEb5kgnbC07lS4H1KLnwT"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "LUV 2 MUCH",
+      "url": "https://open.spotify.com/track/67zKFae520bELVlkMGpWyv"
     },
     {
       "album": {
@@ -17439,6 +17457,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow, Promise",
+        "url": "https://open.spotify.com/album/3YAULJgi6CHVzTxLMUjAuF"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Tomorrow, Promise",
+      "url": "https://open.spotify.com/track/4jy5dG5PYnigjz3zP1XHBA"
+    },
+    {
+      "album": {
         "name": "Verse 2",
         "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
       },
@@ -20240,6 +20276,24 @@
       "duration_ms": 233052,
       "name": "\ud638\uc6b0\uc8fc\uc758\ubcf4 It's Raining",
       "url": "https://open.spotify.com/track/1xFJjh9QEVlWuOqfcp6V8K"
+    },
+    {
+      "album": {
+        "name": "Monthly MINUTE Vol. 6",
+        "url": "https://open.spotify.com/album/2UT14pkaLl3U692TE2na9O"
+      },
+      "artists": [
+        {
+          "name": "IN A MINUTE",
+          "url": "https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\ufeffCredit",
+      "url": "https://open.spotify.com/track/4DQ8otby1CE3pNRfQ7rhFv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n"

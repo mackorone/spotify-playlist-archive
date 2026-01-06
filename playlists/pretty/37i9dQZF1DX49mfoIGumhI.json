@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 265456,
+  "num_followers": 265522,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 303306,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -331,6 +299,38 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296920,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -395,6 +379,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
     },
     {
       "added_at": "2024-07-11 00:51:42",

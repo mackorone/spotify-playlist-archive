@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Jay Park(\ubc15\uc7ac\ubc94))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: JOOHONEY(\uc8fc\ud5cc))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -30681,6 +30681,24 @@
     },
     {
       "album": {
+        "name": "SONAGY",
+        "url": "https://open.spotify.com/album/5YtI5reP48dYCUb3SQThex"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "SONAGY",
+      "url": "https://open.spotify.com/track/2mwKAfgeDU3QfoEgafbX2n"
+    },
+    {
+      "album": {
         "name": "Soorak San Remix",
         "url": "https://open.spotify.com/album/7gjDdQF0S5n4o9CIvUqSJa"
       },
@@ -31356,6 +31374,24 @@
       "duration_ms": 156266,
       "name": "Still Me (Feat. Dok2, GEMINI)",
       "url": "https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81"
+    },
+    {
+      "album": {
+        "name": "\u5149 (INSANITY)",
+        "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "STING (Feat. Muhammad Ali)",
+      "url": "https://open.spotify.com/track/1nxQ4sRjDXFAmTs98b20XV"
     },
     {
       "album": {
@@ -34126,6 +34162,28 @@
       "duration_ms": 140346,
       "name": "Touch (Feat. TRADE L, The Quiett)",
       "url": "https://open.spotify.com/track/0cdUX9QuaOcbXYTEfnFS7o"
+    },
+    {
+      "album": {
+        "name": "\u5149 (INSANITY)",
+        "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Touch the sky (Feat. Tiger JK)",
+      "url": "https://open.spotify.com/track/6uN4UEhJPpggGP8nzqnRy5"
     },
     {
       "album": {

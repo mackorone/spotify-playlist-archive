@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 499248,
+  "num_followers": 499476,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,54 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
+        "name": "Me Cura",
+        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Ana Muller",
+          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Me Cura",
+      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores (feat. DJ DAVI DOGDOG & Mc Jacar\u00e9) [REMIX]",
         "url": "https://open.spotify.com/album/0c9QqWh7dvmXhoo2nObfiT"
       },
@@ -559,54 +607,6 @@
       "duration_ms": 162548,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores (REMIX) [feat. DJ DAVI DOGDOG & Mc Jacar\u00e9]",
       "url": "https://open.spotify.com/track/217YTV9qP1lX5cr5pLGq91"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
-        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
-        "name": "Me Cura",
-        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Ana Muller",
-          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Me Cura",
-      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Olhos Coloridos (Rap Singulares)",
+        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "MarVixx",
+          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
+        },
+        {
+          "name": "Simone Malafaia",
+          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Olhos Coloridos (Rap Singulares)",
+      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     },
     {
       "added_at": "2025-12-12 03:03:05",

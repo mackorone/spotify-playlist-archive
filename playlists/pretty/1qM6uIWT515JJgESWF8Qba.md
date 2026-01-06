@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 287 likes - 59 songs - 3 hr 39 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 288 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 57 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 |
 | 58 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 |
 | 59 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 |
+| 60 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 |
 
-Snapshot ID: `AAAA9bJyhcj42LVhweAFs5yC59/k8z+c`
+Snapshot ID: `AAAA9uaWTZUuCYnMtHp29+lzUfrtTv0I`

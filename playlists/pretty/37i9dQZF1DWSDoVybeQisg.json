@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1242634,
+  "num_followers": 1242739,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The Best Of Ten Years After",
         "url": "https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 145960,
       "name": "Shapes Of Things",
       "url": "https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "When You're Strange (Songs From The Motion Picture)",
-        "url": "https://open.spotify.com/album/6gXup4LBaeG6bkuJSznYCI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "Five To One",
-      "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
     }
   ],
   "unique_name": "Psychedelic Rock",

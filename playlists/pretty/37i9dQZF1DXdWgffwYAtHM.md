@@ -2,22 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6tm0VBIICzSjddzmSN7BmS">Irrisório Show</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só Pod Ser História</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,897 likes - 11 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,896 likes - 9 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salvando Vidas \#16 \- Espírito ou Depressão?](https://open.spotify.com/episode/5RczG36wQegkHop80vQZak) | [Irrisório Show](https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS) | [Irrisório Show](https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS) | 42:35 |
-| 2 | ["vc é madura pra sua idade"](https://open.spotify.com/episode/7pjgvmL7PNsGwIH4j8KP5O) | [MONÓLOGOS ♡](https://open.spotify.com/show/3Z980PbVrz8cf0StzZTFU4) | [MONÓLOGOS ♡](https://open.spotify.com/album/3Z980PbVrz8cf0StzZTFU4) | 23:59 |
-| 3 | [EU VOU MORRER SOZINHA \| Abrindo Parênteses \#012](https://open.spotify.com/episode/05XnFWAVPy1D44p3k8OzPh) | [Aquele Podcast da Beta](https://open.spotify.com/show/1w7QLlSXZcUrvF6djRawtg) | [Aquele Podcast da Beta](https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg) | 32:58 |
-| 4 | [ritualize a sua rotina ](https://open.spotify.com/episode/4Wo8bdw3AjzDLmczQvFnsr) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 25:19 |
-| 5 | [\#57 \- O que chamamos de problema pode ser solução](https://open.spotify.com/episode/68yzZEBPUhUe3jtDg59YuZ) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 11:03 |
-| 6 | [1 ANO DE ESTAVU SHOW \#45](https://open.spotify.com/episode/2vkrNK4U4f3CztY3rVgpKa) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 43:06 |
-| 7 | [FOMOS DESTRUÍDOS?! 💥🚫 – DON \#86](https://open.spotify.com/episode/05daMZZFSfFO7BsvbaXGiC) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 1:51:20 |
-| 8 | [\#83 Especial de Halloween](https://open.spotify.com/episode/07Sqv5WZW2AKBhHdHwmJZo) | [Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 27:15 |
-| 9 | [O que aprendi com mais de 70 episódios do Em Busca da Rotina Perfeita](https://open.spotify.com/episode/6WXGFANGcvpTV8IhvE2bel) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/show/4bFXTB2DcMA4dy3CC27bKu) | [Em Busca da Rotina Perfeita, com Giu Tessitore](https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu) | 18:39 |
-| 10 | [amizades na vida adulta](https://open.spotify.com/episode/1SAKNmLH847SKGVvWnwf4O) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 15:43 |
-| 11 | [\#180\. Conturbado](https://open.spotify.com/episode/1IMdhTHWEqDT3KtVpkDUSf) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 32:00 |
+| 1 | [Só Pod 40 \- As relações que não valem meu próximo ano](https://open.spotify.com/episode/1EqrBTPOPdAheGZHshSOSQ) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 17:54 |
+| 2 | [Piores do Ano](https://open.spotify.com/episode/0Jsll7DlGjf7tiMnkzP7JS) | [Irrisório Show](https://open.spotify.com/show/6tm0VBIICzSjddzmSN7BmS) | [Irrisório Show](https://open.spotify.com/album/6tm0VBIICzSjddzmSN7BmS) | 51:14 |
+| 3 | [como a música muda nossa história ](https://open.spotify.com/episode/3NqHIVLY4nAnDOYxCmYkkl) | [MONÓLOGOS ♡](https://open.spotify.com/show/3Z980PbVrz8cf0StzZTFU4) | [MONÓLOGOS ♡](https://open.spotify.com/album/3Z980PbVrz8cf0StzZTFU4) | 55:08 |
+| 4 | [você precisa mudar de tipo](https://open.spotify.com/episode/7lO7dhMyQJKrMIaLLMhwWE) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 11:35 |
+| 5 | [\#64 \- a vida nao atrasa \- ela espera voce estar pronto](https://open.spotify.com/episode/3HrmItbZuyNlQbsDxIfImk) | [Para que Não Percais os Miolos](https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv) | [Para que Não Percais os Miolos](https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv) | 12:51 |
+| 6 | [RETROSPECTIVA AMOROSA DE 2025 \(bônus\)](https://open.spotify.com/episode/5YXxmOw5r4mQ6dUVikghGJ) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 11:18 |
+| 7 | [DON SUPER ESPECIAL! 1 ANO E 100 EPISÓDIOS! 🎉🥳 – DON \#100](https://open.spotify.com/episode/7FLwciUBfekjAjEyEV7JPa) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 2:49:04 |
+| 8 | [quero ser mais presente ](https://open.spotify.com/episode/7BkCS0XmuuvMemFBxXlj7l) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 18:09 |
+| 9 | [\#195\. Comemorações póstumas](https://open.spotify.com/episode/4ll5X1d6E6ItyVftPzbt9k) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 1:16:44 |
 
-Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`
+Snapshot ID: `AAAAAOs4icyR4Ot+HJ8uatjiXMEPd955`

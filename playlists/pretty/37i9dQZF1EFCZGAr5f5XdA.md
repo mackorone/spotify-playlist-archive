@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,595 likes - 217 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,597 likes - 217 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 153 | [Superman, The Gift And The Curse](https://open.spotify.com/track/0NaL5rj4VAuEYEuQsk7thM) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:05 |
 | 154 | [shelter](https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:51 |
 | 155 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
-| 156 | [Family Business](https://open.spotify.com/track/1jB06JAOZXqQaOyGC9XlWR) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:18 |
-| 157 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 156 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 157 | [Family Business](https://open.spotify.com/track/1jB06JAOZXqQaOyGC9XlWR) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:18 |
 | 158 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
 | 159 | [Timeless](https://open.spotify.com/track/7ftFKr5YodntV2NlzbUgIy) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:29 |
 | 160 | [23](https://open.spotify.com/track/2ClGcOH7LgeOw0N1jMsTq5) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:09 |
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 197 | [Circle Back](https://open.spotify.com/track/2UfidIZRZf62QBicKieWYE) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:56 |
 | 198 | [VINNY'S ARTICHOKES](https://open.spotify.com/track/2uYlzce9SCMEpwxo69gZV3) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 0:31 |
 | 199 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |
-| 200 | [Trippy](https://open.spotify.com/track/7J4FAKrqQ6N52pAd6t6ec4) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
-| 201 | [Funeral](https://open.spotify.com/track/520gzuJQhkYX57KiLB73ne) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:34 |
+| 200 | [Funeral](https://open.spotify.com/track/520gzuJQhkYX57KiLB73ne) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:34 |
+| 201 | [Trippy](https://open.spotify.com/track/7J4FAKrqQ6N52pAd6t6ec4) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 |
 | 202 | [Hey Rudy \(with The Roots\)](https://open.spotify.com/track/0rsfw5XRfjlwLBAetmJjBr) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 2:40 |
 | 203 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
 | 204 | [Conflict Resolution](https://open.spotify.com/track/5dN8ikaS2aRLlm0iJZOYkk) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Lee Lawrence](https://open.spotify.com/artist/4McBXklVLtwztAzFyRnKnS) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:28 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 216 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 217 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcGFOgAAAADA9gApJwZQkoiux7w/pQjp`
+Snapshot ID: `AcGKngAAAAB4+SGO04dR3Sr/miOwo874`

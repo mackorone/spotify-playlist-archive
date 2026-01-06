@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 358485,
+  "num_followers": 358546,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Chose Wrong",
         "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 172000,
       "name": "I Chose Wrong",
       "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "#TRUE FUTURE",
         "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sidechain My Heart",
-        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Love & Affection",
-      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "Sidechain My Heart",
+        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 185806,
+      "name": "Love & Affection",
+      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 456393,
       "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
       "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DRENCH3D",
-        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
       "artists": [
         {
-          "name": "3D BLAST",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
         }
       ],
-      "duration_ms": 141873,
-      "name": "DRENCH3D",
-      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+        "name": "DRENCH3D",
+        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
       "artists": [
         {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+          "name": "3D BLAST",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+      "duration_ms": 141873,
+      "name": "DRENCH3D",
+      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "NeoGeo FM",
+        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
+      },
+      "artists": [
+        {
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+        }
+      ],
+      "duration_ms": 170952,
+      "name": "Nostalgic Love",
+      "url": "https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Galetus",
         "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 207138,
       "name": "Galetus",
       "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "NeoGeo FM",
-        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
-      },
-      "artists": [
-        {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
-        }
-      ],
-      "duration_ms": 170952,
-      "name": "Nostalgic Love",
-      "url": "https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd"
     },
     {
       "added_at": "2023-07-18 02:21:29",

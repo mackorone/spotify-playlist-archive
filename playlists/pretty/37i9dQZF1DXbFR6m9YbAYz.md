@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,349 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,359 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [Last Cigarette](https://open.spotify.com/track/1B2NvOSBaQi5C2Lh1zLyVP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 2:49 |
 | 75 | [One Night Left](https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Night Left](https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4) | 3:27 |
 
-Snapshot ID: `AAAAAH2I9wF+JjavGsdNRsbPk1O0F3N+`
+Snapshot ID: `AAAAADj7RnF6jalai2Nt6F4bGRbhHmk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,517 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,520 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 44 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
 | 45 | [Champagne Year](https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 |
 | 46 | [Regret](https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:21 |
-| 47 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
-| 48 | [All My Stars Aligned](https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Marry Me](https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF) | 3:47 |
+| 47 | [All My Stars Aligned](https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Marry Me](https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF) | 3:47 |
+| 48 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
 | 49 | [Carrie Voicemail](https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Nowhere Inn](https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d) | 0:33 |
-| 50 | [Uneventful Days \- St\. Vincent Remix](https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hyperspace \(2020\)](https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0) | 2:59 |
+| 50 | [The Strangers](https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:04 |
 
-Snapshot ID: `aVhcAAAAAADvXo/SHUDGx3GPpYjlsic+`
+Snapshot ID: `aVmtgAAAAABsFD1xc40Msb1HEFhcgYjp`

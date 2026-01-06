@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,581 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,706 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Sorry](https://open.spotify.com/track/0e9DuoeA41HOatmsPdQChK) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [In the Works](https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh) | 3:40 |
 | 2 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
 | 3 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 |
-| 4 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
-| 5 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
-| 6 | [Herbs & Wine](https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Velvet Seas](https://open.spotify.com/album/0MZqGkVl2NJpjEkoPUD8cQ) | 4:05 |
-| 7 | [Thrilled by the Lie](https://open.spotify.com/track/5dTEEWQAWBPQc7byleI3pF) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Thrilled by the Lie](https://open.spotify.com/album/3R4bgZAmVNHucy8tVlybn9) | 4:05 |
+| 4 | [Thrilled by the Lie](https://open.spotify.com/track/5dTEEWQAWBPQc7byleI3pF) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Thrilled by the Lie](https://open.spotify.com/album/3R4bgZAmVNHucy8tVlybn9) | 4:05 |
+| 5 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
+| 6 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
+| 7 | [Herbs & Wine](https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Velvet Seas](https://open.spotify.com/album/0MZqGkVl2NJpjEkoPUD8cQ) | 4:05 |
 | 8 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 9 | [In Orbit](https://open.spotify.com/track/2kIf597NUWIpU5oDUpl0Rl) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [In Orbit](https://open.spotify.com/album/5leolC7OvoQGbX1Hn1UxYe) | 2:40 |
 | 10 | [Rising to the Top](https://open.spotify.com/track/1u59v3OY0AnVdaPnZKBNd7) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Cook](https://open.spotify.com/album/1bGcpp3non4H8EM2eq1YJz) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 |
 | 100 | [If I Go](https://open.spotify.com/track/714cmvN51nNzhgNbuUagIh) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/3OjaVtDPuXV05JoBYGdffT) | 3:20 |
 
-Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`
+Snapshot ID: `AAAAAAr2Gzn5QAmPqjLBSuEk/7TAV7/m`

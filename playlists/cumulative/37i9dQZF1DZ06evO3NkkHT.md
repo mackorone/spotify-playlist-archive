@@ -4,7 +4,7 @@
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-62 songs - 2 hr 38 min
+63 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 | 2025-09-04 |  |
 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 | 2025-11-03 |  |
 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 | 2025-09-04 | 2025-11-03 |
-| [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 | 2025-09-04 |  |
+| [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 3:05 | 2026-01-06 |  |
+| [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 | 2025-09-04 | 2026-01-06 |
 | [Leave Me Alone](https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:23 | 2025-09-04 |  |
 | [Left Eye](https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:02 | 2025-09-04 |  |
 | [Levels](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:37 | 2025-09-04 |  |

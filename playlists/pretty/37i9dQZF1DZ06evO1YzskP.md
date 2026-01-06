@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,844 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,868 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 13 | [Máquina del tiempo](https://open.spotify.com/track/0yzVvnRgFhY6L9tLuOwTGC) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Máquina del tiempo](https://open.spotify.com/album/5tVx4LaB6lu9sMCpcwNBda) | 2:32 |
 | 14 | [LO LOGRAMOS](https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [LO LOGRAMOS](https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22) | 3:25 |
 | 15 | [Prometiste](https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:29 |
-| 16 | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3) | 2:51 |
-| 17 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
-| 18 | [Venecia](https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Venecia](https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol) | 2:35 |
+| 16 | [Venecia](https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Venecia](https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol) | 2:35 |
+| 17 | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3) | 2:51 |
+| 18 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
 | 19 | [La Receta](https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta](https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX) | 2:16 |
 | 20 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
 | 21 | [Tus Red flags](https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Tiempos De Guerra](https://open.spotify.com/track/6FU9EaAAUBVhC1xwMPiKQ9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:45 |
 | 50 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
 
-Snapshot ID: `aVhcAAAAAAD7wXQTEF+7a1nEMsjVTTTm`
+Snapshot ID: `aVmtgAAAAADPcPvwQkcx0qwnfH2jhJWZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,620 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,661 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 8 | [Deusa](https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 4:34 |
 | 9 | [24hrs é pouco](https://open.spotify.com/track/1nETWyUnqPjEhwC8Mo2LQB) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [24hrs é pouco](https://open.spotify.com/album/1FiY45EL8LBlrXtf7i1BoM) | 2:53 |
 | 10 | [Ausência](https://open.spotify.com/track/5rpw3BgEGRVFB8CvCJdeuT) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:11 |
-| 11 | [Amar é correr risco](https://open.spotify.com/track/6ecyYj7V2qkUcifdJv8HBW) | [Rodd](https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT), [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Amar é correr risco](https://open.spotify.com/album/6wx4mXbxvEXqTkONTifpT1) | 3:33 |
+| 11 | [Amar é Correr Risco](https://open.spotify.com/track/6ecyYj7V2qkUcifdJv8HBW) | [Rodd](https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT), [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Amar é Correr Risco](https://open.spotify.com/album/6wx4mXbxvEXqTkONTifpT1) | 3:33 |
 | 12 | [CARTA DE DESPEDIDA 2](https://open.spotify.com/track/4S2SythDc2Qev6FXEOAJCO) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Limaxl](https://open.spotify.com/artist/19azeoFGgNBBniJGmnlvvu) | [CARTA DE DESPEDIDA 2](https://open.spotify.com/album/5Ei93gK6JszIX7yIh6tGlI) | 3:47 |
 | 13 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 14 | [MÍNIMO](https://open.spotify.com/track/2ooiizTx0ijOSDmi7RZgPE) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 2:28 |

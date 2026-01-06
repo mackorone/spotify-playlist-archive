@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,993 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,996 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
 | 50 | [Desde un barrial](https://open.spotify.com/track/33D9BtmWwgZbgGy9MPoTVQ) | [Daniel Muñoz y Los Marujos](https://open.spotify.com/artist/2zdf3UcWTcVW6hHqAm100D), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [También es Cueca](https://open.spotify.com/album/72RxJeScj7hMsGKl8OP9Wu) | 5:41 |
 
-Snapshot ID: `aVhcAAAAAAAj5KHJjTqJRDtUfs3VB4zl`
+Snapshot ID: `aVmtgAAAAABCmTj/6TEJV5+rzQWW7pVv`

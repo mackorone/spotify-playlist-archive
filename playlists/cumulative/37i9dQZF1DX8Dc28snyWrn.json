@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Good Things Happen",
+        "url": "https://open.spotify.com/album/2O3NBUzy7RTLuxMAOwI7VE"
+      },
+      "artists": [
+        {
+          "name": "Layup",
+          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "Good Things Happen",
+      "url": "https://open.spotify.com/track/3mvz61tOzslkOYL0Z0HyqM"
+    },
+    {
+      "album": {
         "name": "Good To Be",
         "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"

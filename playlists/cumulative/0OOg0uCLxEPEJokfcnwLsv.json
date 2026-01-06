@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207238,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO"
+    },
+    {
+      "album": {
         "name": "Songs For The Eternity.",
         "url": "https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY"
       },
@@ -1346,6 +1364,24 @@
       "duration_ms": 144347,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5"
+    },
+    {
+      "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Get Off Of My Cloud",
+      "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
     },
     {
       "album": {

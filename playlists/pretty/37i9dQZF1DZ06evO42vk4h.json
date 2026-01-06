@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAD/dvcRN+zru8xRhhUMjhz9",
+  "snapshot_id": "aVmtgAAAAACUTzfWJLa/XWvRsYdIEaq3",
   "tracks": [
     {
       "added_at": null,
@@ -35,30 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big UP!",
-        "url": "https://open.spotify.com/album/13dRKy0ynV7oWt1nq4obzB"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Big Up - Radio Edit",
-      "url": "https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhliziyo",
         "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
       },
@@ -79,6 +55,30 @@
       "duration_ms": 377617,
       "name": "Inhliziyo - Club Mix",
       "url": "https://open.spotify.com/track/74FK6QRjxt4ZaesW9N6pS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big UP!",
+        "url": "https://open.spotify.com/album/13dRKy0ynV7oWt1nq4obzB"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Big Up - Radio Edit",
+      "url": "https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP"
     },
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Izandla",
-        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 225535,
-      "name": "Izandla - Radio Edit",
-      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legend Live",
         "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 493006,
       "name": "Ntwana Yam - Club Mix",
       "url": "https://open.spotify.com/track/4bhbuPmtszmRzj2E0nxma2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Izandla",
+        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 225535,
+      "name": "Izandla - Radio Edit",
+      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
     },
     {
       "added_at": null,
@@ -1139,30 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlala Ngami (feat. Oskido)",
-        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
-      },
-      "artists": [
-        {
-          "name": "PRVIS3",
-          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
-        },
-        {
-          "name": "Ntwana_R",
-          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Dlala Ngami (feat. Oskido)",
-      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Second Move",
         "url": "https://open.spotify.com/album/2Yy7bczz0jJqurp23L9uAm"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 446014,
       "name": "Khuluma",
       "url": "https://open.spotify.com/track/25BU09LS5BPmxbk7s3sBA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dlala Ngami (feat. Oskido)",
+        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
+      },
+      "artists": [
+        {
+          "name": "PRVIS3",
+          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
+        },
+        {
+          "name": "Ntwana_R",
+          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Dlala Ngami (feat. Oskido)",
+      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
     },
     {
       "added_at": null,
@@ -1243,34 +1243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uzobuya",
-        "url": "https://open.spotify.com/album/0F7r7hwDnx4ui5WTXiLlaf"
-      },
-      "artists": [
-        {
-          "name": "LilyFaith",
-          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Lowsheen",
-          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 289057,
-      "name": "Uzobuya",
-      "url": "https://open.spotify.com/track/6dfmPhjcqGM2EDGmcwwyTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Heart Of Piano Side B",
         "url": "https://open.spotify.com/album/0mbRJeboWEDhYfscTQ5ZRj"
       },
@@ -1299,8 +1271,36 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church Grooves (10th Commandment)",
-        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
+        "name": "Uzobuya",
+        "url": "https://open.spotify.com/album/0F7r7hwDnx4ui5WTXiLlaf"
+      },
+      "artists": [
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 289057,
+      "name": "Uzobuya",
+      "url": "https://open.spotify.com/track/6dfmPhjcqGM2EDGmcwwyTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Date Night (feat. King Talkzin)",
+        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
       },
       "artists": [
         {
@@ -1308,17 +1308,21 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Jah Rich",
-          "url": "https://open.spotify.com/artist/6iEl7OZs3rpnbCNaPf00DK"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Banane Mavoko",
-      "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
+      "duration_ms": 378459,
+      "name": "Date Night (feat. King Talkzin) - Club Edit",
+      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
     }
   ],
   "unique_name": "This Is OSKIDO",

@@ -2,9 +2,9 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren at the VMAs
+> Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren
 
-191 songs - 10 hr 38 min
+192 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [superglue](https://open.spotify.com/track/6OJ4kuBYKCdlLwCAELUFVe) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [superglue](https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao) | 4:05 | 2023-04-24 | 2023-07-26 |
 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 | 2023-02-10 | 2023-11-16 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-27 |  |
-| [Take It Slow](https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take It Slow](https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR) | 3:15 | 2025-02-21 |  |
+| [Take It Slow](https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take It Slow](https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR) | 3:15 | 2025-02-21 | 2026-01-06 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2023-01-04 |  |
 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-22 | 2024-04-19 |
 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-05-12 | 2023-09-29 |
@@ -166,6 +166,7 @@
 | [THANKFUL](https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THANKFUL](https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C) | 2:16 | 2025-12-26 |  |
 | [The Constant](https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Constant](https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd) | 4:06 | 2025-10-03 |  |
 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 | 2025-05-27 |  |
+| [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 | 2026-01-05 |  |
 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 | 2023-07-25 |  |
 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 | 2023-09-22 | 2024-02-10 |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-12 | 2023-09-29 |

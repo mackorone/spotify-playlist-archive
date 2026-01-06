@@ -18087,6 +18087,32 @@
     },
     {
       "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/0Sb9ZEVHSZWYO3n8W1dxJL"
+      },
+      "artists": [
+        {
+          "name": "Boostereo",
+          "url": "https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC"
+        },
+        {
+          "name": "Stayer",
+          "url": "https://open.spotify.com/artist/7KXfoxgAP15O5tcBY79E86"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/563A3t7OsmDi7ltml4HwSv"
+    },
+    {
+      "album": {
         "name": "Ngizula \u2013 Spiritual Journey",
         "url": "https://open.spotify.com/album/3MLMWdxbvWjrXU8krXwKeT"
       },

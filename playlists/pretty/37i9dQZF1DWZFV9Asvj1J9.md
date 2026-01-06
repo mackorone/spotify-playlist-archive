@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFV9Asvj1J9.md) - [plain]
 
 > Our editorial picks for best hip\-hop songs of the year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,362 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,432 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

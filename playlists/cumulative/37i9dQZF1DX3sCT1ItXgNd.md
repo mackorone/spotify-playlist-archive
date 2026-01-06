@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Ozuna, Beéle
 
-851 songs - 1 day 18 hr 44 min
+852 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 | 2024-01-18 | 2024-06-22 |
 | [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 | 2023-03-21 | 2023-11-22 |
 | [Todo Me Da Igual](https://open.spotify.com/track/4STFCa5m6flKfj8fIZYUkc) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Todo Me Da Igual](https://open.spotify.com/album/5rrBSCZsX8XEoMxW1MVtn4) | 3:12 | 2023-05-09 | 2023-07-18 |
+| [Todos Estamos Bailando La Misma Canción](https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Todos Estamos Bailando La Misma Canción](https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir) | 4:08 | 2026-01-05 |  |
 | [TONTA](https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [TONTA](https://open.spotify.com/album/2XMjjytI813j8uJ65UQYBG) | 3:23 | 2023-04-25 | 2023-05-20 |
 | [Tonteando](https://open.spotify.com/track/5p8CAMM5OUirt3MGIKbzEy) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Noctalgia \(Deluxe\)](https://open.spotify.com/album/3OQLqSo6gMnBRyvZCZmNRY) | 2:52 | 2024-05-24 | 2024-06-04 |
 | [Tonto por ti](https://open.spotify.com/track/1t1bKKW0yj0k4McaXhuEMs) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Tonto por ti](https://open.spotify.com/album/6r8RAZGoPEQb9KtjHUzy4H) | 2:40 | 2025-09-22 |  |
@@ -802,7 +803,7 @@
 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 | 2024-02-01 | 2024-05-21 |
 | [Una bala](https://open.spotify.com/track/2TVuktKJq3rUXjSkcGGNM3) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [Una bala](https://open.spotify.com/album/0Wd2FEfFs4JHA8h9RxznO4) | 2:15 | 2025-06-09 | 2025-06-18 |
 | [Una boda en Las Vegas](https://open.spotify.com/track/58UqX83GYOHQFbDsmpayXc) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Una boda en Las Vegas](https://open.spotify.com/album/7GPoKpYUloKF1rXiwx60km) | 3:14 | 2025-04-14 | 2025-10-15 |
-| [UNA CARTA PA´ SANTA](https://open.spotify.com/track/3u6zS3bgx87Etp9UO8tpcc) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [UNA CARTA PA´ SANTA](https://open.spotify.com/album/5jz84CypbRd3ZU4TIGy1tj) | 3:36 | 2025-12-19 |  |
+| [UNA CARTA PA´ SANTA](https://open.spotify.com/track/3u6zS3bgx87Etp9UO8tpcc) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [UNA CARTA PA´ SANTA](https://open.spotify.com/album/5jz84CypbRd3ZU4TIGy1tj) | 3:36 | 2025-12-19 | 2026-01-06 |
 | [una noche](https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:57 | 2025-01-07 | 2025-07-01 |
 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 | 2025-10-14 |  |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2023-12-18 | 2024-01-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Beat Boy y Victor Mendivil en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,490 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,474 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 35 | [Bella](https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Los Galácticos](https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3) | 2:21 |
 | 36 | [Comernos](https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Comernos](https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY) | 3:41 |
 | 37 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
-| 38 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 38 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 39 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
 | 40 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 |
 | 41 | [Mami Tú \(Remix\)](https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Mami Tú \(Remix\)](https://open.spotify.com/album/189TkvvDE5eIIqUnjDrIcH) | 4:17 |

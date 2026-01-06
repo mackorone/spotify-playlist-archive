@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,715 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,720 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 33 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
 | 34 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
 | 35 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 36 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
-| 37 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
+| 36 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
+| 37 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 38 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
 | 39 | [Aso](https://open.spotify.com/track/0g1VSk3zf99q1ku5LLUaws) | [Reggie Zippy](https://open.spotify.com/artist/42pJWNBJ7CtAGFjmuPksEp), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ghana Old Skuul Mix](https://open.spotify.com/album/1XFPqApmPThTt8LEddI55m) | 5:49 |
 | 40 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |

@@ -2,9 +2,9 @@
 
 ### [J\-Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXdbRLJPSmnyq)
 
-> All the J\-Pop tunes you love in one playlist\. Cover: ATARASHII GAKKO!
+> All the J\-Pop tunes you love in one playlist\. Cover: Vaundy
 
-413 songs - 1 day 1 hr 55 min
+414 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [勘冴えて悔しいわ](https://open.spotify.com/track/2pfu1oCILxjP2ijdX6PDuJ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [勘冴えて悔しいわ](https://open.spotify.com/album/2Q43NB9rKjF0oOC2esI1Gf) | 3:56 | 2023-06-19 | 2024-01-14 |
 | [十戒（1984）](https://open.spotify.com/track/5dBtTJDNBmOYRjfsJ7i2E9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [十戒（1984）](https://open.spotify.com/album/1ixOKUZP0M5CrRlb57Y2cX) | 3:34 | 2025-05-08 | 2025-06-14 |
 | [名前のない日々](https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [名前のない日々](https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1) | 4:14 | 2025-04-17 |  |
+| [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 | 2026-01-06 |  |
 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-07-25 | 2025-08-08 |
 | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-05-17 |  |
 | [地球儀](https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [地球儀](https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA) | 3:52 | 2023-06-19 | 2024-02-13 |

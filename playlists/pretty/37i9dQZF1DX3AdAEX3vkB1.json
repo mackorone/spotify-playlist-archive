@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 322465,
+  "num_followers": 322574,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "A's, B's & EP's",
-        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "No Milk Today - Mono Version",
-      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "No Milk Today - Mono Version",
+      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Groovin' with Manfred Mann",
         "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 143400,
       "name": "Do Wah Diddy Diddy",
       "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",

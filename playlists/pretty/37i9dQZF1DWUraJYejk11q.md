@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,488 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,481 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 19 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
 | 20 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
 | 21 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
-| 22 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
-| 23 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
+| 22 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
+| 23 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 24 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
-| 25 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
-| 26 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
+| 25 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
+| 26 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
 | 27 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 28 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
 | 29 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 39 | [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 |
 | 40 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
 | 41 | [Bakteria](https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Bakteria](https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu) | 3:44 |
-| 42 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 |
-| 43 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
+| 42 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
+| 43 | [Yesterday Faded \- Edit](https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf) | 4:02 |
 | 44 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 45 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 46 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
 | 47 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer) | 3:26 |
-| 48 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 |
-| 49 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
+| 48 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
+| 49 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 |
 | 50 | [Bliss](https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4) | 3:20 |
 
 Snapshot ID: `AAAAAM+Fbx8SdcY0q9kbRv680nAnF6wl`

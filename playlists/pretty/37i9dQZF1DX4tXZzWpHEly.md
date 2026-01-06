@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,932 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,938 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 66 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
 | 67 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
 | 68 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
-| 69 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
-| 70 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
+| 69 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
+| 70 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
 | 71 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
 | 72 | [Home](https://open.spotify.com/track/0uVGDMlCO2I9UZQHr8GfHG) | [Mae Valley](https://open.spotify.com/artist/5vRoP692tghSyI7wFV0gLB) | [Mae Valley](https://open.spotify.com/album/1F2w7aXInM21WMXzy2dtrm) | 2:57 |
 | 73 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 74 | [Monkey On A Wire](https://open.spotify.com/track/6gnTDFX9qLva4Em1sufXus) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:06 |
 | 75 | [Cuttin' Up B&S Style](https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Long Five Days](https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0) | 3:40 |
-| 76 | [Thank God I'm A Country Boy](https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wired](https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy) | 2:53 |
-| 77 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
+| 76 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
+| 77 | [Thank God I'm A Country Boy](https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wired](https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy) | 2:53 |
 | 78 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
-| 79 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
+| 79 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 80 | [A Little More Country](https://open.spotify.com/track/492kDhn2lpOQw5zWJ3aWuX) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Against the Grain](https://open.spotify.com/album/4jSskwRuBUEcGxYosdmds5) | 3:43 |
 
 Snapshot ID: `AAAAADv4hfVYkiNxMobq3UPG6tf0FlpV`

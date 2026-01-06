@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > 2025 Detty December anthems selected by Spotify editors\. <br/>Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,700 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 6 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 |
 | 7 | [Laho](https://open.spotify.com/track/0lhLSwvRKGHfIcVEz3uQK6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/65SUCKOvwWityHzXuDGWTl) | 2:24 |
 | 8 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
-| 9 | [Bengicela](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Bengicela](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
+| 9 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 10 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
 | 11 | [Kese \(Dance\)](https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 12 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |

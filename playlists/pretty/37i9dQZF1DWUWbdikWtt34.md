@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,394 likes - 98 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,406 likes - 98 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

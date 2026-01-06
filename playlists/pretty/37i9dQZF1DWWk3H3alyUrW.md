@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,287 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,288 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 27 | [Unutulmuş Ne Varsa](https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C) | [Turgut Özüfler](https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs), [Yıldıran Güz](https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK), [Çorlulu Savaş](https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH), [İsmail Nar](https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K), [Şener Yolal](https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3) | [Alaturka İstanbul, Vol\. 2](https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN) | 2:40 |
 | 28 | [Sultaniyegah Saz Seması](https://open.spotify.com/track/2UI4Zjg6Ws1ZR8cS9OMibu) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:31 |
 | 29 | [Hüseyni Peşrev](https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 1:39 |
-| 30 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
+| 30 | [Suzidilara Peşrev](https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm) | [III\. Selim](https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx) | [Sultan Bestekarlar](https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd) | 3:50 |
 | 31 | [Buselik Beste 'Her Gördüğü Periye Gönül Müptela Olur'](https://open.spotify.com/track/4Hwx1AaqcuwDjramuaGqXj) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 4:53 |
-| 32 | [Suzidilara Peşrev](https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm) | [III\. Selim](https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx) | [Sultan Bestekarlar](https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd) | 3:50 |
+| 32 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
 | 33 | [Sultaniyegah Taksim](https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 1:31 |
 | 34 | [Hicaz Peşrev](https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:33 |
 | 35 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |

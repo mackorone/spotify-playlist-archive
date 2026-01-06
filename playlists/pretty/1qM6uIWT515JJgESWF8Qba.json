@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 287,
+  "num_followers": 288,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA9bJyhcj42LVhweAFs5yC59/k8z+c",
+  "snapshot_id": "AAAA9uaWTZUuCYnMtHp29+lzUfrtTv0I",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -959,6 +959,22 @@
       "duration_ms": 170080,
       "name": "7 De Octubre",
       "url": "https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs"
+    },
+    {
+      "added_at": "2026-01-05 13:12:00",
+      "album": {
+        "name": "What's Wrong With You?",
+        "url": "https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "What's Wrong With You?",
+      "url": "https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,620 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,673 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 39 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 40 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
 | 41 | [Cada um tem o seu Deus](https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Cada um tem o seu Deus](https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl) | 3:44 |
-| 42 | [Alucina](https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e) | [AREIATERRA](https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD), [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly), [Planeta Gru](https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL) | [Alucina](https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8) | 3:00 |
-| 43 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
+| 42 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
+| 43 | [Alucina](https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e) | [AREIATERRA](https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD), [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly), [Planeta Gru](https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL) | [Alucina](https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8) | 3:00 |
 | 44 | [Bem ou Mal](https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [SalDoce](https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3) | 3:01 |
 | 45 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
 | 46 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |

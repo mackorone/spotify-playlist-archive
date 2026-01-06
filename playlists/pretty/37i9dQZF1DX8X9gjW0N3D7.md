@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Arpin Lépine
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,268 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,263 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Au fond des bois](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
+| 1 | [Au fond des bois \(feat\. Rymz\)](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
 | 2 | [Chance](https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Chance](https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl) | 2:46 |
 | 3 | [Your Music](https://open.spotify.com/track/59bznsm4D5jlntVHw2rUsN) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Spaceman Dela](https://open.spotify.com/artist/1lhjuAx6fS3snCj8mX5Xxr) | [Your Music](https://open.spotify.com/album/3cDM9ERAT3hjJmN4nxUDIz) | 3:44 |
 | 4 | [Jeans t\-shirt](https://open.spotify.com/track/512uvLkvueZs41nvJTJ5f7) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Jeans t\-shirt](https://open.spotify.com/album/3sYY3y9tfrhyMZfOfebiNH) | 3:18 |

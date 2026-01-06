@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Apologies to the Queen Mary",
+        "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Parade",
+          "url": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "I'll Believe in Anything",
+      "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
@@ -1567,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
+    },
+    {
+      "album": {
         "name": "Race",
         "url": "https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ"
       },
@@ -1888,7 +1942,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 277973,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6qgiSeYw2abTYHrk98mn5h"
@@ -1946,6 +2000,24 @@
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
+    },
+    {
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
       "album": {
@@ -2022,7 +2094,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 209835,
       "name": "Static",
       "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
@@ -2040,7 +2112,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
@@ -2217,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "The Trooper (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
+    },
+    {
+      "album": {
         "name": "This fffire",
         "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
       },
@@ -2358,7 +2448,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 215275,
       "name": "Usurper",
       "url": "https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j"

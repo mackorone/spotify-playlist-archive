@@ -4,7 +4,7 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-126 songs - 8 hr 41 min
+127 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Gerimis Mengundang](https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy) | [Slam](https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf) | [Rindiani](https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu) | 5:24 | 2024-11-29 |  |
 | [Gila Kuasa](https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw) | [Pop Shuvit](https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [GILA KUASA](https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI) | 3:40 | 2024-08-15 | 2024-08-24 |
 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 | 2024-08-15 |  |
-| [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 | 2024-06-21 |  |
+| [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 | 2024-06-21 | 2026-01-06 |
 | [Hapus Aku](https://open.spotify.com/track/3AW4o4KQs25P18jlFhgks6) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/36l5n8elwO3DvbrIdMxndi) | 4:12 | 2024-06-27 | 2024-07-06 |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2024-01-12 | 2024-04-19 |
 | [Harapan Palsu](https://open.spotify.com/track/1ZrUWlwivPUmn1IrSDUifl) | [Awis Spin](https://open.spotify.com/artist/0lqvzymczzx49g54YxLZaA) | [Harapan Palsu](https://open.spotify.com/album/0isB7iOFPXnjMIiuK9HmLR) | 3:36 | 2024-10-17 | 2024-11-01 |
@@ -116,6 +116,7 @@
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2024-01-12 | 2024-04-19 |
 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 | 2024-01-12 | 2024-04-19 |
 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-01-12 |  |
+| [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Identiti](https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI) | 4:40 | 2024-11-29 |  |
 | [Seribu Tahun](https://open.spotify.com/track/5dao4fg11b8udWiLFiXJFx) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Dengan Secara Kebetulan](https://open.spotify.com/album/7aXCIaTMFIXHBKJw66RGIH) | 3:53 | 2024-11-29 | 2025-05-13 |
 | [Setia2u](https://open.spotify.com/track/1eca4fNdl0LJiYu5HdU79w) | [Candy](https://open.spotify.com/artist/5YKtQxW27hc10L9zoUts00) | [Setia2u](https://open.spotify.com/album/35kGA8zxW141ye4p4J4Kji) | 3:50 | 2024-09-27 | 2024-10-18 |
 | [Situasi](https://open.spotify.com/track/5Y1p00AX1pF7jP9irUf50A) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Phobia Phoney](https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl) | 3:57 | 2024-06-21 | 2024-07-06 |

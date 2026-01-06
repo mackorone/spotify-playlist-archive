@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,141 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,153 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 20 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
 | 21 | [Un Día Después](https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 5:26 |
 | 22 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 |
-| 23 | [Cosas Bonitas](https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:13 |
+| 23 | [Mi Pueblo Natal](https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:20 |
 | 24 | [Duele Más](https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:38 |
-| 25 | [Mi Pueblo Natal](https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:20 |
+| 25 | [Cosas Bonitas](https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:13 |
 | 26 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
 | 27 | [Debiera Olvidarla](https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:24 |
 | 28 | [Mi Mundo Al Revés](https://open.spotify.com/track/5eL3CUuqkOycNKjRUJban8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mi Mundo Al Revés](https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK) | 3:29 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 36 | [Un Alto En El Camino](https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Un Alto En El Camino](https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5) | 4:50 |
 | 37 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
 | 38 | [El Amor Vendrá](https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 4:51 |
-| 39 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
-| 40 | [Rupelto Mena](https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:47 |
+| 39 | [Rupelto Mena](https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:47 |
+| 40 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
 | 41 | [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 |
 | 42 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 4:10 |
-| 43 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
-| 44 | [Falto un Pañuelo](https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:49 |
+| 43 | [Falto un Pañuelo](https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:49 |
+| 44 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
 | 45 | [Han Cogido la Cosa](https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Golpe de Folklore](https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi) | 4:42 |
 | 46 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
 | 47 | [Digo Yo](https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 49 | [Es Mejor No Despertar](https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Huellas Del Pasado](https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy) | 5:06 |
 | 50 | [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 |
 
-Snapshot ID: `aVhcAAAAAABmufK9DPjH4dvgbhUnxngm`
+Snapshot ID: `aVmtgAAAAAAd5QV0p4ng2lpkMDZeXeCf`

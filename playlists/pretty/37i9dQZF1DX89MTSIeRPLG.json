@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23699,
+  "num_followers": 23703,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 155036,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
     },
     {
       "added_at": "2022-10-01 20:31:11",

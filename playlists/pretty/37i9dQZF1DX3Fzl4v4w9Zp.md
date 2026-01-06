@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Lukas Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,755 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,743 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 213550,
+  "num_followers": 213551,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADJumA8q+7AzGqZTBe3ETjp",
+  "snapshot_id": "aVmtgAAAAAC7NjXqkC/n1Wr+htSNpmi3",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 143822,
-      "name": "LA TROKA",
-      "url": "https://open.spotify.com/track/0R23grfg7MaNE9TUpNNQUU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 143822,
+      "name": "LA TROKA",
+      "url": "https://open.spotify.com/track/0R23grfg7MaNE9TUpNNQUU"
     },
     {
       "added_at": null,

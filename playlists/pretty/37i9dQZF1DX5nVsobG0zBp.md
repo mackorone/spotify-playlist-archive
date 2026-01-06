@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Deejay Telio, Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,183 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,215 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 18 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
 | 19 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 20 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
-| 21 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
+| 21 | [0044](https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [LONDON LP](https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf) | 2:36 |
 | 22 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
-| 23 | [0044](https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [LONDON LP](https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf) | 2:36 |
+| 23 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 24 | [DIAS](https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:49 |
 | 25 | [Estrada \(feat\. Slow J & ProfJam\)](https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:57 |
 | 26 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 54 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 55 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
 | 56 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
-| 57 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
-| 58 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
+| 57 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
+| 58 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
 | 59 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
 | 60 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 61 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |

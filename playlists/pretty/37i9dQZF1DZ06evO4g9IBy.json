@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171950,
+  "num_followers": 171961,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABRT/YZbCB2Frr8BhU+IJse",
+  "snapshot_id": "aVmtgAAAAABXJ3pNe54L2nPGl8b4idGV",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 275840,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 263813,
       "name": "Blue Denim",
       "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
     },
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 130950,
       "name": "Without a Leg to Stand On",
       "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 301293,
+      "name": "Nightbird - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 133630,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 301293,
-      "name": "Nightbird - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "If Anyone Falls - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 435793,
       "name": "Frozen Love",
       "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "If Anyone Falls - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "Sable on Blond - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 229923,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "Sable on Blond - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 291595,
       "name": "Long Distance Winner",
       "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,

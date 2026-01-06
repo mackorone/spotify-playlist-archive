@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 69 songs - 3 hr 48 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 67 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 |
 | 68 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 |
 | 69 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 |
+| 70 | [Stay at Home](https://open.spotify.com/track/2rH6auma4kzIccJqLL4CgZ) | [Eli Orion](https://open.spotify.com/artist/6NLvoDEJwXQj6k8nxniIit), [BUSTER](https://open.spotify.com/artist/5j4912Niko0ozSGWJThvkg) | [Morning After, Again](https://open.spotify.com/album/7r7wkB4ldSeXV3Y7RPZJ01) | 3:43 |
+| 71 | [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 |
 
-Snapshot ID: `AAAMoIp4aF9bjTts/sU+Rb0tk/WGwE+W`
+Snapshot ID: `AAAMovWycvKyDF8KXpV4DVAb2B23+PiH`

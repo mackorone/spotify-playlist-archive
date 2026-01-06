@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 132514,
+  "num_followers": 132498,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210850,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 220909,
       "name": "Ma\u00e7ka Yollar\u0131",
       "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210850,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+        "name": "Lo/Hi",
+        "url": "https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+      "duration_ms": 177002,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Lo/Hi",
-        "url": "https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 177002,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Huesos Viejos",
+        "url": "https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ"
+      },
+      "artists": [
+        {
+          "name": "Davila 666",
+          "url": "https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH"
+        }
+      ],
+      "duration_ms": 198530,
+      "name": "Huesos Viejos",
+      "url": "https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Huesos Viejos",
-        "url": "https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ"
-      },
-      "artists": [
-        {
-          "name": "Davila 666",
-          "url": "https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH"
-        }
-      ],
-      "duration_ms": 198530,
-      "name": "Huesos Viejos",
-      "url": "https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Un Poco M\u00e1s de Luz",
         "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 344145,
       "name": "Fukushima",
       "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036"
     },
     {
       "added_at": "2024-07-12 23:20:36",

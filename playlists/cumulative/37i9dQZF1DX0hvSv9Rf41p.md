@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with GRiZ
 
-1,620 songs - 3 day 16 hr 36 min
+1,621 songs - 3 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2021-12-17 | 2022-03-12 |
 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 | 2025-07-18 | 2025-11-15 |
 | [Cobra Kai](https://open.spotify.com/track/0zch7NlCU5Jej5CO7QlovI) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [1000volts](https://open.spotify.com/artist/6MiWYUZOD7VJbJNSx8nUNW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Cobra Kai](https://open.spotify.com/album/4eFypJ2teJpv9r5TdyUL3r) | 2:24 | 2022-07-15 | 2023-02-19 |
+| [Cocaine Inside My Blunts \(Tape B Remix\)](https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Cocaine Inside My Blunts \(Tape B Remix\)](https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L) | 2:51 | 2026-01-05 |  |
 | [COLLECT](https://open.spotify.com/track/5gWjK4UcP5DSh8DzoPFZZs) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [COLLECT](https://open.spotify.com/album/10xBovg2xLGcsw3gEPLdSG) | 2:30 | 2025-09-05 | 2025-11-29 |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-04 | 2022-10-29 |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2021-12-17 | 2022-03-12 |
@@ -1327,7 +1328,7 @@
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-31 | 2025-03-15 |
 | [SONG SIX](https://open.spotify.com/track/1bYscy2XwW0fKJoNrALWP7) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [SPLIT // PERSONALITY](https://open.spotify.com/album/6ndnEYMopLIxV3Bn3pAKDl) | 4:50 | 2021-12-17 | 2022-02-19 |
 | [Soul](https://open.spotify.com/track/31ZejK305AO2AkBW1vCjNK) | [Neddie](https://open.spotify.com/artist/2RMZ8H29R6pconMzF89At5) | [Soul](https://open.spotify.com/album/4HoZesnWMlkvnnbWTSFRq1) | 3:13 | 2025-01-04 | 2025-01-18 |
-| [Space Boat](https://open.spotify.com/track/28SMM57b3k5KsvufKnik9H) | [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Space Boat](https://open.spotify.com/album/7l1mr54pa1O7nVLptYvIfT) | 4:01 | 2025-11-21 |  |
+| [Space Boat](https://open.spotify.com/track/28SMM57b3k5KsvufKnik9H) | [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Space Boat](https://open.spotify.com/album/7l1mr54pa1O7nVLptYvIfT) | 4:01 | 2025-11-21 | 2026-01-06 |
 | [Space Candy](https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Space Candy](https://open.spotify.com/album/5jyYwSo8nUp0WaTZwOl69l) | 2:52 | 2022-09-16 | 2023-07-29 |
 | [Space Invaderz](https://open.spotify.com/track/4RxSuFPvkE7k4nOVQoXTJo) | [WonkyWilla](https://open.spotify.com/artist/2Aa5prvbqcjMJTHURdKyOO), [SARGE](https://open.spotify.com/artist/1c1FyA1z7jqNoS06u8X7Fm) | [Space Invaderz](https://open.spotify.com/album/49tN8oLgHLxWe7vG8aKzgF) | 2:16 | 2025-06-27 | 2025-09-07 |
 | [Space Whip](https://open.spotify.com/track/3ImEoNEyJXzpqkAwITnXCh) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Space Whip](https://open.spotify.com/album/4pil9OvSbry2tBPvhkmG4W) | 2:50 | 2025-07-11 | 2025-09-07 |

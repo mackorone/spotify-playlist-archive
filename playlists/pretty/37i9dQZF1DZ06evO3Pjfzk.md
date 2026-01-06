@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,927 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,956 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Feather In My Hat \(feat\. Lainey Wilson\)](https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Eagle Feather](https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI) | 3:21 |
 | 50 | [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 |
 
-Snapshot ID: `aVhcAAAAAAAW46LQRrAblgzvQnPCbA26`
+Snapshot ID: `aVmtgAAAAAB9tynoDaL4gvTAdpkqNZ0M`

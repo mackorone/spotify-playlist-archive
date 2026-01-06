@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111236,
+  "num_followers": 111243,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -308,6 +308,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
       },
       "artists": [
@@ -323,22 +339,6 @@
       "duration_ms": 235264,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark (Spotify Singles)",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 178461,
       "name": "Convincing - Spotify Singles",
       "url": "https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 225366,
+      "name": "Dance In The Dark (Spotify Singles)",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1392,17 +1392,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
+      "duration_ms": 194313,
+      "name": "Be Sweet - Spotify Singles",
+      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1424,6 +1424,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
       },
       "artists": [
@@ -1435,22 +1451,6 @@
       "duration_ms": 192522,
       "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 194313,
-      "name": "Be Sweet - Spotify Singles",
-      "url": "https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1504,22 +1504,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 252048,
-      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
@@ -1536,6 +1520,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 252048,
+      "name": "(What's So Funny Bout) Peace, Love and Understanding? - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
       },
       "artists": [
@@ -1547,22 +1547,6 @@
       "duration_ms": 168043,
       "name": "White Noise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1600,22 +1584,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -1627,6 +1595,38 @@
       "duration_ms": 155797,
       "name": "Go Away - Spotify Singles",
       "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1664,6 +1664,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 198119,
+      "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
       },
       "artists": [
@@ -1680,17 +1696,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv"
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 198119,
-      "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
+      "duration_ms": 212449,
+      "name": "Softly - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1723,22 +1739,6 @@
       "duration_ms": 192870,
       "name": "La Tirana - Spotify Singles",
       "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 212449,
-      "name": "Softly - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1828,22 +1828,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 316108,
-      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
@@ -1871,6 +1855,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 316108,
+      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
     },
     {
       "added_at": "2023-01-11 22:54:33",

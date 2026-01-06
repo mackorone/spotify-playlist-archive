@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,948 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,965 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [Toulouse](https://open.spotify.com/track/4Ose68cyLGiTCCsJ6iLp2z) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Toulouse 1965\-1968](https://open.spotify.com/album/13Cr79G98YMqz6n7msaJhX) | 4:21 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `AAAAAEOaQE3C3H8WeGBRg4d4yYGjw6vM`
+Snapshot ID: `AAAAAOKRBiSRrcL74rOEtH+5YOosIOuo`

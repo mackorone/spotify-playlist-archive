@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 438 songs - 1 day 1 hr 55 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 439 songs - 1 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -446,5 +446,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 436 | [Stress Off The Chest](https://open.spotify.com/track/3rknRtghzrvPvc175inFq3) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:01 |
 | 437 | [Gold Watch](https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:12 |
 | 438 | [The Narrow Path](https://open.spotify.com/track/522EzHJ8ZblG3iLawNQ6S2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below The Heavens](https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd) | 5:11 |
+| 439 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 
-Snapshot ID: `AAAff10mE+ECMterCk80/ffHNS7aItrX`
+Snapshot ID: `AAAfgLBEFdtbyARvotPh8pA47TTUFYMf`

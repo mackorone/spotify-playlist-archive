@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: SAY MY NAME \(세이마이네임\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Apink \(에이핑크\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-519 songs - 1 day 4 hr 17 min
+520 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bad Dracula](https://open.spotify.com/track/4z5aqQOYYsvjXuXjjhKVJ2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:08 | 2022-03-29 | 2022-04-20 |
 | [Banana allergy monkey](https://open.spotify.com/track/2OKDrqLglUNqv1TveF5WGx) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [BANANA ALLERGY MONKEY](https://open.spotify.com/album/3dGBubYrajwhcnMubZ3H8F) | 3:43 | 2022-04-04 | 2022-05-24 |
 | [BANANA CHACHA](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [BANANA CHACHA](https://open.spotify.com/album/7ddX2r1TPT08eiSMUlCx8H) | 2:14 | 2022-03-29 | 2022-04-21 |
-| [BANG BANG!](https://open.spotify.com/track/3slGM2bvDw2tNpsbxOZLPR) | [KIIRAS](https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ) | [BANG BANG!](https://open.spotify.com/album/5oxBBS9ddmGGjoCgg1gBbN) | 3:12 | 2025-11-14 |  |
+| [BANG BANG!](https://open.spotify.com/track/3slGM2bvDw2tNpsbxOZLPR) | [KIIRAS](https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ) | [BANG BANG!](https://open.spotify.com/album/5oxBBS9ddmGGjoCgg1gBbN) | 3:12 | 2025-11-14 | 2026-01-06 |
 | [BAZOOKA!](https://open.spotify.com/track/5UDDTTQ5cUrH3FYubQ34Y9) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [the Keys](https://open.spotify.com/album/3M9snahHug38BoaY7kDIFu) | 3:15 | 2022-03-29 | 2022-04-20 |
 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 | 2022-03-29 |  |
 | [Be With You](https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:50 | 2021-11-29 | 2022-07-26 |
@@ -260,6 +260,7 @@
 | [LOVE is](https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:27 | 2021-11-29 | 2022-07-29 |
 | [LOVE LINE \(운명선\)](https://open.spotify.com/track/2RkJaS3fdYQqoME4O57Yoh) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [LOVE LINE](https://open.spotify.com/album/66VrF6SkgX7cj4mcilaQtJ) | 3:11 | 2025-03-31 | 2025-06-19 |
 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 | 2023-10-11 |  |
+| [Love Me More](https://open.spotify.com/track/4Byc2Hr86k9zFxaTfDlZvm) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [RE : LOVE](https://open.spotify.com/album/0ILAggqgXT6X1DCOhVuPNJ) | 3:14 | 2026-01-05 |  |
 | [Love Me Out Loud](https://open.spotify.com/track/1zFT6Z2zT4Z4kUFnerd9lE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:24 | 2022-07-12 | 2022-08-02 |
 | [Love O'clock](https://open.spotify.com/track/5KVKiMVV9OlJzc22DzGEEr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:56 | 2021-11-29 | 2022-07-19 |
 | [LOVE WHISPER](https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 3:31 | 2021-11-29 | 2022-07-06 |

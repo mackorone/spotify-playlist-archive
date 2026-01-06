@@ -1,12 +1,12 @@
 {
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
-  "num_followers": 481,
+  "num_followers": 482,
   "original_name": "This Is Marco Polo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAK91vtuVwUwceBf6s5Le/K",
+  "snapshot_id": "aVmtgAAAAACK4XejzSUTlsJ0v6DJgLpu",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
-      },
-      "artists": [
-        {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/2Y8Px6d8XUQWKkdae7dvCx"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 282509,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0V3qefVBv8sEgd28502ctw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+      },
+      "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
     },
     {
       "added_at": null,
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Pav Bundy",
-          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         }
       ],
-      "duration_ms": 236220,
-      "name": "Sunken Place (feat. Pav Bundy)",
-      "url": "https://open.spotify.com/track/4KCpVAr5zgySacClx6lkpo"
+      "duration_ms": 227624,
+      "name": "The Fight Song (feat. Pharoahe Monch)",
+      "url": "https://open.spotify.com/track/7lbwEOoHStDkvZEMQbKgv7"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "War",
-      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 169505,
       "name": "Watch the Sky Fall (feat. Royce da 5'9)",
       "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
+      "duration_ms": 150786,
+      "name": "What Is The Question",
+      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
     },
     {
       "added_at": null,
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 150786,
-      "name": "What Is The Question",
-      "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Barrel",
-        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
+        "name": "Per la mia gente / For my people",
+        "url": "https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD"
       },
       "artists": [
         {
@@ -964,13 +964,17 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
         }
       ],
-      "duration_ms": 180506,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
+      "duration_ms": 208733,
+      "name": "Meglio che chiedi a qualcuno",
+      "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
     },
     {
       "added_at": null,
@@ -1015,8 +1019,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Per la mia gente / For my people",
-        "url": "https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD"
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
       },
       "artists": [
         {
@@ -1024,17 +1028,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Meglio che chiedi a qualcuno",
-      "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
+      "duration_ms": 180506,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
     },
     {
       "added_at": null,
@@ -1075,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
-      },
-      "artists": [
-        {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 187288,
-      "name": "Nightmare on Fro Street",
-      "url": "https://open.spotify.com/track/3rUC43tk61HOOsSeZrPYjE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Universe",
         "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 160954,
       "name": "Strange Universe (Marco Polo Remix)",
       "url": "https://open.spotify.com/track/5tuI2aNbzHNtW48rLbLqT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A-F-R-O Polo",
+        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 187288,
+      "name": "Nightmare on Fro Street",
+      "url": "https://open.spotify.com/track/3rUC43tk61HOOsSeZrPYjE"
     },
     {
       "added_at": null,

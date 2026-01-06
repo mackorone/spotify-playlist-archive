@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain](/playlists/plain/37i9dQZF1DX7VikJCuOpfO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7VikJCuOpfO)
 
-### [Mariachi 2025](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
+### [Mariachi 2026](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: El Fastasma 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,511 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,516 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 21 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
 | 22 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 23 | [Nadie Se Va Como Llegó](https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR) | 2:33 |
-| 24 | [Enamorado Y Feliz](https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Eterno](https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe) | 3:00 |
+| 24 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
 | 25 | [La Despedida](https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:30 |
 | 26 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
-| 27 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
+| 27 | [Enamorado Y Feliz](https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Eterno](https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe) | 3:00 |
 | 28 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |
 | 29 | [Bien, ¿y tú?](https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Bien, ¿y tú?](https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg) | 3:00 |
 | 30 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 85 | [Juro Que Nunca Volveré](https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Juro Que Nunca Volveré](https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP) | 2:38 |
 | 86 | [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 |
 | 87 | [Carita de Cielo](https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Carita de Cielo](https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX) | 3:05 |
-| 88 | [Chiquitita](https://open.spotify.com/track/7ysVmGcKGac1HJyVfThJWM) | [Grijalba](https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed) | [Chiquitita](https://open.spotify.com/album/2SlZ9wQQMpi2J4AL2lMpLr) | 2:20 |
-| 89 | [La Gata Bajo La Lluvia](https://open.spotify.com/track/4w1jKE1NhrfkEct3sWCABv) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [SEÑORA HITS](https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F) | 3:16 |
+| 88 | [La Gata Bajo La Lluvia](https://open.spotify.com/track/4w1jKE1NhrfkEct3sWCABv) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [SEÑORA HITS](https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F) | 3:16 |
+| 89 | [Chiquitita](https://open.spotify.com/track/7ysVmGcKGac1HJyVfThJWM) | [Grijalba](https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed) | [Chiquitita](https://open.spotify.com/album/2SlZ9wQQMpi2J4AL2lMpLr) | 2:20 |
 | 90 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
 | 91 | [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 |
 | 92 | [hasta ser viejitos](https://open.spotify.com/track/4GbBqCjhsc2NmWkzfqi0RX) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [\#RANCHICAN](https://open.spotify.com/album/7yUCGDx0gG1T0kOH1Po7R0) | 2:33 |
-| 93 | [No Vuelvo A Enamorarme](https://open.spotify.com/track/29DTBWazMyHbdh3d4iT8nj) | [Grijalba](https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed) | [No Vuelvo A Enamorarme](https://open.spotify.com/album/6Bfg2NgnpQCfoeYyPeU2yP) | 3:07 |
-| 94 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 |
+| 93 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 |
+| 94 | [No Vuelvo A Enamorarme](https://open.spotify.com/track/29DTBWazMyHbdh3d4iT8nj) | [Grijalba](https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed) | [No Vuelvo A Enamorarme](https://open.spotify.com/album/6Bfg2NgnpQCfoeYyPeU2yP) | 3:07 |
 | 95 | [Cuando Un Amor Se Va](https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Pal Barrio](https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0) | 3:05 |
 | 96 | [Dulcesito De Chamoy](https://open.spotify.com/track/3FsUMWJZOlRzQIOf05PVtr) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Dulcesito De Chamoy](https://open.spotify.com/album/7J3zMhP1YP1sdiisRT8FfC) | 3:14 |
 | 97 | [Así Fue \- En Vivo](https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Así Fue \(En Vivo\)](https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8) | 5:36 |
-| 98 | [No Puedo Dormir Sin Ti](https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [No Puedo Dormir Sin Ti](https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN) | 3:00 |
-| 99 | [Ayúdame A Creer](https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Ayúdame A Creer](https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH) | 3:34 |
+| 98 | [Ayúdame A Creer](https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Ayúdame A Creer](https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH) | 3:34 |
+| 99 | [No Puedo Dormir Sin Ti](https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [No Puedo Dormir Sin Ti](https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN) | 3:00 |
 | 100 | [Diferentes](https://open.spotify.com/track/7vOEFTu4kIzLAJpK9EOIyD) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Diferentes](https://open.spotify.com/album/70KakLAZ82chHwTzdHU020) | 3:24 |
 
-Snapshot ID: `AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d`
+Snapshot ID: `AAAAAIFRjApW/PzrT6HxJVEnjfEv8QMG`

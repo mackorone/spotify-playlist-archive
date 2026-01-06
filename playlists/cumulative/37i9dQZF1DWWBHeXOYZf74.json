@@ -45331,6 +45331,24 @@
     },
     {
       "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },

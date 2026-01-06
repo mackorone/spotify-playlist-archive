@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-167 songs - 9 hr 39 min
+168 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [ポラリス](https://open.spotify.com/track/5DIY6cRGACUAe8Wr92NSZr) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ポラリス \(Special Edition\)](https://open.spotify.com/album/7JXGnUaJFF1DvGPfEpE6yY) | 3:44 | 2022-10-11 | 2022-11-13 |
 | [ポラリス](https://open.spotify.com/track/6drUY5MlA6NpZcpotC7aQP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ポラリス \(Special Edition\)](https://open.spotify.com/album/3DDZz3ervHrqqw5cIb71eF) | 3:44 | 2023-03-14 |  |
 | [マルカネ百貨店のうた](https://open.spotify.com/track/5kDKh8yFSyrgdw0HrAz2NW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [マルカネキッズ](https://open.spotify.com/artist/1KuRBxi1hTfuWnbx6I0NpL) | [マルカネ百貨店のうた](https://open.spotify.com/album/2wHkMOVhhbwgJDfQhBv8qu) | 0:47 | 2025-06-13 |  |
+| [ミス・ユー](https://open.spotify.com/track/3LW6M3h8HYoqb0jZEmFuJV) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [ミス・ユー](https://open.spotify.com/album/5w8p6TNNeM2YOY1uDVrFAT) | 3:43 | 2026-01-05 |  |
 | [ロングホープ・フィリア](https://open.spotify.com/track/40QhoIYHZ68NH787hSrIgH) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [Long Hope Philia](https://open.spotify.com/album/5qaSxvu2mB0lkuvQmeDJdw) | 4:56 | 2022-10-11 | 2022-11-13 |
 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 | 2022-10-01 | 2024-04-19 |
 | [ロングホープ・フィリア](https://open.spotify.com/track/0jBXv6ShqwNjHWLxMyqs0G) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ロングホープ・フィリア](https://open.spotify.com/album/3MWlMWzg5ghUam6mxdmSv3) | 4:56 | 2023-03-14 |  |

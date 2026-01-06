@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Emilia",
+        "url": "https://open.spotify.com/album/5iszovLBfF91UIfyuZqbUM"
+      },
+      "artists": [
+        {
+          "name": "Nat & Alex Wolff",
+          "url": "https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204096,
+      "name": "Emilia",
+      "url": "https://open.spotify.com/track/1jb0xbHbJElGMicSY53iSf"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
       },
@@ -8168,7 +8186,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 253584,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"

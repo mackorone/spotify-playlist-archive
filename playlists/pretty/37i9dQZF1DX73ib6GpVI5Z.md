@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,891 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,898 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 40 | [ふたつの心](https://open.spotify.com/track/4DkK7RihfIRT9Hm7rcSvaQ) | [冨永みーな\(ロールパンナ\)](https://open.spotify.com/artist/610OyclMMz923pkFNm4F9r) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 4:48 |
 | 41 | [すすめ！アンパンマン号](https://open.spotify.com/track/05rS7yCJG7G9vnMb6rnWAR) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 3:40 |
 | 42 | [ナガネギフラメンコ](https://open.spotify.com/track/5zaYEraNmOE5hPqCjNceGL) | [大塚明夫 \(ナガネギマン\)](https://open.spotify.com/artist/24zSbaZ80y7dHaE2coIWcl), [フレーベル少年合唱団](https://open.spotify.com/artist/2lHzM4bhPvwChOiflSEtn9) | [それいけ！アンパンマン ベストヒット'17](https://open.spotify.com/album/6yVfybmx2U5AqBUSe2NVVa) | 3:31 |
-| 43 | [どんぶりまんトリオ うきうき歌](https://open.spotify.com/track/29EsQIFpDNIYDBHyvi4hJh) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:59 |
-| 44 | [おなじみしょくぱんまん](https://open.spotify.com/track/6QBK3qn0SWzsBxVwXrmvtx) | [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:28 |
-| 45 | [怪傑アンパンマン](https://open.spotify.com/track/4TnlM0ABkEnIRT1l8yLgTD) | [Bonny Jacks](https://open.spotify.com/artist/3JjKFO9SLShHsIvTNos5Ag) | [それいけ！アンパンマン げんき100ばいソングス アンパンマン](https://open.spotify.com/album/0L8uCqjSeQyNfZCDihnNu7) | 3:28 |
+| 43 | [怪傑アンパンマン](https://open.spotify.com/track/4TnlM0ABkEnIRT1l8yLgTD) | [Bonny Jacks](https://open.spotify.com/artist/3JjKFO9SLShHsIvTNos5Ag) | [それいけ！アンパンマン げんき100ばいソングス アンパンマン](https://open.spotify.com/album/0L8uCqjSeQyNfZCDihnNu7) | 3:28 |
+| 44 | [どんぶりまんトリオ うきうき歌](https://open.spotify.com/track/29EsQIFpDNIYDBHyvi4hJh) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:59 |
+| 45 | [おなじみしょくぱんまん](https://open.spotify.com/track/6QBK3qn0SWzsBxVwXrmvtx) | [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:28 |
 | 46 | [パラコさんのパラパララップ](https://open.spotify.com/track/4vzcXIXlcoOpWmZ1jHAkhV) | [宮川美保 \(パラコさん\)](https://open.spotify.com/artist/0y4Fm56QghO7C6edZO5Ijt) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:45 |
 | 47 | [ゆき](https://open.spotify.com/track/0fMtIuVL4LHpkUdixcwcA1) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン アンパンマンといっしょにクリスマス](https://open.spotify.com/album/1jRylg86J2D3rQVWtszRvv) | 1:08 |
 | 48 | [勇気りんりん ～クラシックバージョン～](https://open.spotify.com/track/4n9S0GumHoglG8w8eY0bGO) | [Czech Philharmonic Chamber Orchestra](https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M) | [それいけ！アンパンマン アンパンマンといっしょにクリスマス](https://open.spotify.com/album/1jRylg86J2D3rQVWtszRvv) | 3:31 |

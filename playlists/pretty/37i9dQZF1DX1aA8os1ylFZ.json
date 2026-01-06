@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295733,
+  "num_followers": 295717,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-12-18 23:00:18",
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 205160,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve"
-    },
-    {
-      "added_at": "2025-12-18 23:00:18",
-      "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
     },
     {
       "added_at": "2025-12-18 23:00:18",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Empath",
-      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2025-12-18 23:00:18",
-      "album": {
-        "name": "Never Return",
-        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 172410,
-      "name": "Never Return",
-      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
-    },
-    {
-      "added_at": "2025-12-18 23:00:18",
-      "album": {
         "name": "It Starts With Us",
         "url": "https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 180923,
       "name": "It Starts With Us",
       "url": "https://open.spotify.com/track/09cmUCzXeTMxU7xVfOFfMO"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Never Return",
+        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 172410,
+      "name": "Never Return",
+      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
     },
     {
       "added_at": "2025-12-18 23:00:18",

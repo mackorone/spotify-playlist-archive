@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "A Transante",
+        "url": "https://open.spotify.com/album/5BbjUIYIv5ehIHDRP8EjfS"
+      },
+      "artists": [
+        {
+          "name": "Gildean Marques",
+          "url": "https://open.spotify.com/artist/636uD37CrEPFsBf7CJiy29"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183473,
+      "name": "A Transante",
+      "url": "https://open.spotify.com/track/0wZM8rw8SREWHpFsaiOKJT"
+    },
+    {
+      "album": {
         "name": "Emendando Cacha\u00e7a, Vol.01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4OVaYGDSwhdYAHjcQjwfIl"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 179164,
       "name": "A Transante - Ao Vivo",
       "url": "https://open.spotify.com/track/2cPXvGMGXYfWKjWrYoofst"

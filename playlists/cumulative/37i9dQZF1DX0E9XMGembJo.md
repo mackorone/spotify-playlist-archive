@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-742 songs - 1 day 16 hr 29 min
+743 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-04-01 | 2022-04-16 |
 | [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2022-07-26 |
 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 | 2022-03-28 | 2022-04-17 |
-| [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-22 |  |
+| [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-22 | 2026-01-06 |
 | [dancing in the kitchen](https://open.spotify.com/track/7yw1S0euAJViNQ6cEUXuEh) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [dancing in the kitchen](https://open.spotify.com/album/7Ge6ILkZgdQoNavqhPU0Wa) | 2:57 | 2022-04-14 | 2022-06-20 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2022-03-25 | 2024-05-04 |
 | [dancing with myself](https://open.spotify.com/track/0iC3l0m3AnzB8d1hErqklB) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:09 | 2025-08-29 | 2025-09-27 |
@@ -474,6 +474,7 @@
 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 | 2022-03-25 | 2022-04-18 |
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-11 | 2023-08-19 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2025-04-04 |  |
+| [My Home Is Not In This World](https://open.spotify.com/track/37xTLJJuchzGGjAPUnli2I) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 3:13 | 2026-01-05 |  |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-06-13 | 2025-06-28 |
 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-24 | 2025-12-18 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-04-01 | 2024-08-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 257932,
+  "num_followers": 258015,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADHlGFS6UAc/kKe/U2rETca",
+  "snapshot_id": "aVmtgAAAAAAZL96mLH8nUqChoXoCbgVa",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+        "name": "Professor X",
+        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+      "duration_ms": 217704,
+      "name": "Professor X",
+      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
       "duration_ms": 181050,
       "name": "Marvellous",
       "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Professor X",
-        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 217704,
-      "name": "Professor X",
-      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 182285,
+      "name": "Verdansk",
+      "url": "https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 182285,
-      "name": "Verdansk",
-      "url": "https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q"
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
       "added_at": null,
@@ -530,11 +530,15 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
         }
       ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+      "duration_ms": 210904,
+      "name": "No Words",
+      "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
     },
     {
       "added_at": null,
@@ -560,7 +564,7 @@
       "added_at": null,
       "album": {
         "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
       },
       "artists": [
         {
@@ -570,7 +574,7 @@
       ],
       "duration_ms": 205720,
       "name": "Streatham",
-      "url": "https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4"
+      "url": "https://open.spotify.com/track/02E0dT8YgueiXzJBpOijOs"
     },
     {
       "added_at": null,
@@ -602,15 +606,11 @@
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "MoStack",
-          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
         }
       ],
-      "duration_ms": 210904,
-      "name": "No Words",
-      "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
     },
     {
       "added_at": null,
@@ -631,6 +631,38 @@
       "duration_ms": 199019,
       "name": "Wanna Know Remix (feat. Drake)",
       "url": "https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 201345,
+      "name": "Twenty To One",
+      "url": "https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk"
     },
     {
       "added_at": null,
@@ -695,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 280005,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/22agj1ppHejR41cUyf7k6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Environment",
-      "url": "https://open.spotify.com/track/7l1P6WtVtq1zQMq6qazNA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Environment",
+      "url": "https://open.spotify.com/track/7l1P6WtVtq1zQMq6qazNA4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wamp 2 Dem",
         "url": "https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o"
       },
@@ -787,26 +803,6 @@
       "duration_ms": 260083,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 240160,
-      "name": "Disaster (feat. J Hus)",
-      "url": "https://open.spotify.com/track/3rqmxZNh2BRgJ3BiCPFTSG"
     },
     {
       "added_at": null,
@@ -851,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 240160,
+      "name": "Disaster (feat. J Hus)",
+      "url": "https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 538279,
       "name": "My 19th Birthday",
       "url": "https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC"
     },
     {
       "added_at": null,

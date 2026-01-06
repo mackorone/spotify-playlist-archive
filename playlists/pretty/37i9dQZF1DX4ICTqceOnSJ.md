@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,952 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,970 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 68 | [Tatuaje](https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 3:58 |
 | 69 | [Te debo una canción](https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Te debo una canción](https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz) | 3:31 |
 | 70 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
-| 71 | [Copacabana](https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN) | [IZAL](https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3) | [Copacabana](https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH) | 3:36 |
-| 72 | [Reina Japonesa](https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Por su Atención, Gracias](https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS) | 3:37 |
+| 71 | [Reina Japonesa](https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Por su Atención, Gracias](https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS) | 3:37 |
+| 72 | [Copacabana](https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN) | [IZAL](https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3) | [Copacabana](https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH) | 3:36 |
 | 73 | [Tormenta](https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 5:25 |
 | 74 | [Qué Vida Tan Dura](https://open.spotify.com/track/6G64bXQenyGECXByr6V0jC) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Qué Vida Tan Dura](https://open.spotify.com/album/0ypPJ3XxslrGMZE6qX1AQG) | 3:23 |
 | 75 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 |
-| 76 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 77 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
+| 76 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
+| 77 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
 | 78 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
 | 79 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 |
 | 80 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 85 | [Muchacha](https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Muchacha](https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH) | 3:00 |
 | 86 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
 | 87 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 |
-| 88 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
+| 88 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 89 | [Enterrarte](https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sexo Con Modelos](https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx) | 3:27 |
-| 90 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
+| 90 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
 | 91 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
 | 92 | [Qué Bien](https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3) | [IZAL](https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3) | [Magia & Efectos Especiales](https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271) | 4:33 |
 | 93 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |

@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
@@ -4556,6 +4556,24 @@
       "duration_ms": 212613,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/5gVCEqLQrHkZPQzLw8pTXC"
+    },
+    {
+      "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/35q9Eth2ikm0zRNTgtvkKN"
+      },
+      "artists": [
+        {
+          "name": "SLAY",
+          "url": "https://open.spotify.com/artist/0mKLeAOe2gIPTqqOdSC0UJ"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228591,
+      "name": "Breakup Serenade",
+      "url": "https://open.spotify.com/track/4FEbCIhWHombwQq1sM4ZzT"
     },
     {
       "album": {
@@ -18294,7 +18312,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 254000,
       "name": "Left in the Rain",
       "url": "https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY"
@@ -24378,6 +24396,24 @@
       "duration_ms": 240800,
       "name": "One Snowy Day (Feat. SOLE)",
       "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+    },
+    {
+      "album": {
+        "name": "One Taste",
+        "url": "https://open.spotify.com/album/2cpXPoqACzmJaZrWWXXCCo"
+      },
+      "artists": [
+        {
+          "name": "Hara",
+          "url": "https://open.spotify.com/artist/6sRRuP3DKpu7EeJ6hL04Bn"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164300,
+      "name": "One Taste",
+      "url": "https://open.spotify.com/track/4mU5V6IiIsSQnVvGJrH0OS"
     },
     {
       "album": {
@@ -34278,7 +34314,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 235000,
       "name": "Unread Message",
       "url": "https://open.spotify.com/track/4CRhJHHbH9Awx7z7xRAdPP"
@@ -36172,7 +36208,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 255000,
       "name": "Wild flower",
       "url": "https://open.spotify.com/track/0CWk3LG8MXMA3TE61y5zPB"

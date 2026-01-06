@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-300 songs - 15 hr 4 min
+301 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-20 | 2025-01-25 |
 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 | 2024-11-08 | 2025-01-25 |
 | [Jenga](https://open.spotify.com/track/4vIK2tyE73DXgvpJzdcMfI) | [Sophie Coal](https://open.spotify.com/artist/0caffJ4V83KuZaLoO4dpnp) | [Jenga](https://open.spotify.com/album/4BEoYXbfJ1EKtLWBi7Kxs2) | 4:03 | 2025-01-17 | 2025-01-25 |
-| [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 | 2025-10-03 |  |
+| [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 | 2025-10-03 | 2026-01-06 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-26 | 2024-09-07 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-04 |  |
 | [KEEP IT UP](https://open.spotify.com/track/6x5GkDddrOaBTmX55yU12Y) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [KEEP IT UP](https://open.spotify.com/album/05WGAVWDAoG8uoyCSee8IQ) | 2:46 | 2024-06-28 | 2024-09-21 |
@@ -214,6 +214,7 @@
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-19 |  |
 | [Prince Charming](https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Prince Charming](https://open.spotify.com/album/5yfDkEZAj11yWvFmJi6gu6) | 2:33 | 2024-12-09 | 2025-01-18 |
 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 | 2025-10-03 |  |
+| [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 | 2025-12-19 |  |
 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 | 2024-11-29 | 2025-05-20 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-06-28 | 2024-09-21 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-15 | 2025-10-04 |

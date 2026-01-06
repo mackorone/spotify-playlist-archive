@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,469,296 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,469,712 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 27 | [Midnight Dreams and Lights](https://open.spotify.com/track/6JFLZSRd7EXNWPFWbf7fMX) | [Haku\-San](https://open.spotify.com/artist/0dGpPnF1fbxs3Bhz2bO8UA) | [Midnight Dreams and Lights](https://open.spotify.com/album/5XrXaXVAkfldZAbibuMR1q) | 2:25 |
 | 28 | [Cocoon](https://open.spotify.com/track/2fFAQ6KkYmTmLYGoYO5Vm2) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Cocoon](https://open.spotify.com/album/2RxCJoJ6Igm0WQdX5u0ROZ) | 2:15 |
 | 29 | [Rain on Wires](https://open.spotify.com/track/1ABUO5tcWMTGmM2TH9cF1o) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Rain on Wires](https://open.spotify.com/album/5GGLsmtFCaILMdRtt0CtUv) | 2:05 |
-| 30 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
+| 30 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
 | 31 | [Moonlit Amble](https://open.spotify.com/track/3outpCyCXNCdvLd77QrOZr) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Moonlit Amble](https://open.spotify.com/album/5nE535uLbfyapfrSEqDIst) | 2:15 |
 | 32 | [off grid](https://open.spotify.com/track/2tT9LVtsqcNkeJYIfEItHA) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [off grid](https://open.spotify.com/album/4T5i6Lb5AaM4MeJpWiXwlg) | 1:49 |
 | 33 | [Echoes of Nebula](https://open.spotify.com/track/0IqqApIcSzFZMNE7w0pmwe) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [Echoes of Nebula](https://open.spotify.com/album/11qis6z8sjWd5cNqnvs9SZ) | 2:16 |

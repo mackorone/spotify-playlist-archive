@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAD7Z4A3NGKgg7p/oyYX1Oz0",
+  "snapshot_id": "aVmtgAAAAAD7FnkgwMspIyDXfKNrreUA",
   "tracks": [
     {
       "added_at": null,
@@ -402,15 +402,11 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -486,11 +482,15 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "added_at": null,
@@ -803,6 +803,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
+        "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204707,
+      "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
+      "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -835,34 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
-        "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204707,
-      "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
-      "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 149760,
       "name": "BI",
       "url": "https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
     },
     {
       "added_at": null,

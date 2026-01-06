@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1224710,
+  "num_followers": 1224747,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAD33XpicohD61q30W34IY5J",
+  "snapshot_id": "aVmtgAAAAAC1BkZ1uJ2stN9TCVGLO4Nu",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 234666,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
+      "duration_ms": 136400,
+      "name": "I've Got A Crush On You - Remastered",
+      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 155440,
       "name": "Drinking Water (Aqua de Beber)",
       "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "I've Got A Crush On You - Remastered",
-      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,

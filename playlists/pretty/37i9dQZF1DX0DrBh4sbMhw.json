@@ -1,6 +1,6 @@
 {
   "description": "ang lalim",
-  "num_followers": 460232,
+  "num_followers": 460241,
   "original_name": "magmuni-muni",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-08 07:06:03",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
-      "added_at": "2025-12-08 07:06:03",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "added_at": "2025-12-08 07:06:03",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2025-12-08 07:06:03",
@@ -811,18 +811,26 @@
     {
       "added_at": "2025-12-08 07:06:03",
       "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+        "name": "unfortunately yours,",
+        "url": "https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "GenriX",
+          "url": "https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx"
+        },
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+      "duration_ms": 195605,
+      "name": "novocaine",
+      "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
     }
   ],
   "unique_name": "magmuni-muni",

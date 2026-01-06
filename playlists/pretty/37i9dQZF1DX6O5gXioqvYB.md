@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il primo singolo di Fausto Lama + tutte le altre uscite indie
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,446 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,451 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

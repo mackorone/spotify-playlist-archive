@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,103 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,100 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 58 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
 | 59 | [For Matt](https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D) | [Slash Fiction](https://open.spotify.com/artist/51lcK4r9QlqmtGQxLedO9M) | [For Matt](https://open.spotify.com/album/1l2zfAh6tsE6FfYZVxF3cE) | 5:44 |
 | 60 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 |
-| 61 | [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 |
-| 62 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 |
-| 63 | [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 |
+| 61 | [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 |
+| 62 | [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 |
+| 63 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 |
 | 64 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
 | 65 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
 | 66 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 69 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
 | 70 | [Wet](https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 2:50 |
 | 71 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
-| 72 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
-| 73 | [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 |
-| 74 | [Things Still Left to Say](https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Pity Boy](https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2) | 2:31 |
-| 75 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 72 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 73 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
+| 74 | [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 |
+| 75 | [Things Still Left to Say](https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Pity Boy](https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2) | 2:31 |
 | 76 | [I Hate the Weekend](https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT) | 2:05 |
 | 77 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |
 | 78 | [They / Them / Theirs](https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr) | 2:18 |

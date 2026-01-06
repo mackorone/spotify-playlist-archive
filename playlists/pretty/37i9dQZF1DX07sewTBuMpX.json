@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140475,
+  "num_followers": 140465,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1VUmcEihv7XuiEnWW2b8ap"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 145986,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1osIOdkR2nn1NUTBne4e6D"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Tyar\u2019 En Waka",
+        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "Tyar\u2019 En Waka",
+      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Tiptop",
         "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 153554,
       "name": "Tiptop",
       "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Tyar\u2019 En Waka",
-        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Tyar\u2019 En Waka",
-      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
       "added_at": "2025-12-10 23:00:04",

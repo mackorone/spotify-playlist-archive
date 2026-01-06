@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 102400,
+  "num_followers": 102434,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACuJaCx19PmYlb3YaeDazMr",
+  "snapshot_id": "aVmtgAAAAAAGgrNKDpp27zcvG23Kvoxq",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+        "name": "MPH",
+        "url": "https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q"
       },
       "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 198461,
-      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
-      "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
+      "duration_ms": 119910,
+      "name": "MPH",
+      "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPH",
-        "url": "https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q"
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
       "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 119910,
-      "name": "MPH",
-      "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
+      "duration_ms": 198461,
+      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 275526,
-      "name": "Yucky Blucky Fruitcake",
-      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
+      "duration_ms": 220472,
+      "name": "Black Girl Memoir",
+      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 220472,
-      "name": "Black Girl Memoir",
-      "url": "https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z"
+      "duration_ms": 275526,
+      "name": "Yucky Blucky Fruitcake",
+      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Swamp Anthem",
-        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Universal Swamp Anthem",
-      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "she / her / black bitch",
         "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 101040,
       "name": "This Bitch Matters",
       "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Swamp Anthem",
+        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Universal Swamp Anthem",
+      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
     },
     {
       "added_at": null,

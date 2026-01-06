@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Frayle
 
-216 songs - 15 hr 9 min
+217 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 | 2022-05-25 |  |
 | [Civil War](https://open.spotify.com/track/7aaZoyuVxcKZSWIY1PeuBv) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Civil War](https://open.spotify.com/album/2dE9FvXmxlQmp1fyHXpVkA) | 7:11 | 2025-07-18 |  |
 | [Come Together](https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN) | 3:46 | 2023-08-23 | 2024-04-19 |
-| [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 | 2024-04-01 |  |
+| [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 | 2024-04-01 | 2026-01-06 |
 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2023-02-19 | 2023-06-23 |
 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 | 2022-05-25 | 2023-02-20 |
 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 | 2022-05-25 | 2022-11-28 |
@@ -114,6 +114,7 @@
 | [Like a Hurricane](https://open.spotify.com/track/4m9ogLz7APakQ8MibwIzHD) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [DIANNE](https://open.spotify.com/artist/3HwonmQtZrIXOXO6ghZcJG) | [Like a Hurricane](https://open.spotify.com/album/44T5LlXWNrE3gkURvj5PFe) | 4:17 | 2025-06-27 | 2025-08-20 |
 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 | 2022-05-25 | 2023-02-20 |
 | [Lonely Nights](https://open.spotify.com/track/1aqBMkIKxCp481UfL3FWcx) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Lonely Nights](https://open.spotify.com/album/1TwHNQDT1hOPnA0ejik8RS) | 3:48 | 2022-05-25 | 2022-07-28 |
+| [Look What You Made Me Do](https://open.spotify.com/track/4lQIt7rKo9t0AN2fp5ujTh) | [SCATTERBRAIN](https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ) | [Look What You Made Me Do](https://open.spotify.com/album/52GEc13un8rILYo5ly9wtS) | 3:24 | 2026-01-05 |  |
 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 | 2022-05-25 | 2022-11-13 |
 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 | 2022-05-25 | 2024-09-15 |
 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2023-02-19 | 2025-07-19 |

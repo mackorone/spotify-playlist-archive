@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419321,
+  "num_followers": 419324,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -375,42 +375,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/1nhqhp0kxaKZvVLECcyH9X"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/3ZTZiH8eOtaUPrEW4KxtOB"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -427,6 +391,22 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/1nhqhp0kxaKZvVLECcyH9X"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/3ZTZiH8eOtaUPrEW4KxtOB"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -463,6 +443,26 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 217130,
       "name": "Teeth Marks",
       "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "On the Outside",
+        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "duration_ms": 189215,
+      "name": "On the Outside",
+      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 238667,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "On the Outside",
-        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "duration_ms": 189215,
-      "name": "On the Outside",
-      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Green to Gold",
-        "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
-      },
-      "artists": [
-        {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
-        }
-      ],
-      "duration_ms": 237985,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Bummer Year",
         "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 271120,
       "name": "Bummer Year",
       "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Green to Gold",
+        "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 237985,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 266961,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Was Always You",
         "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 196575,
       "name": "Was Always You",
       "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "duration_ms": 266961,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Better Than Any Drug",
+        "url": "https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 206228,
+      "name": "Better Than Any Drug",
+      "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
         "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Better Than Any Drug",
-        "url": "https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 206228,
-      "name": "Better Than Any Drug",
-      "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
     },
     {
       "added_at": "2025-02-07 05:00:36",

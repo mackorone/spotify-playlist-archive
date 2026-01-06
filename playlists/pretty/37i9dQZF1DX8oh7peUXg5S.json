@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
-  "num_followers": 347282,
+  "num_followers": 347311,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         }
       ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 278920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2025-12-18 23:00:15",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-18 23:00:15",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2025-12-18 23:00:15",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2025-12-18 23:00:15",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2025-12-18 23:00:15",

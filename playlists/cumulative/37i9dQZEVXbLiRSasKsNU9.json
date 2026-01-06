@@ -9566,7 +9566,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 215172,
       "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
       "url": "https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO"
@@ -30460,7 +30460,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -30490,7 +30490,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -66190,6 +66190,24 @@
       "duration_ms": 187997,
       "name": "Pure Imagination (from \"Wonka\")",
       "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
       "album": {

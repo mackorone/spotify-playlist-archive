@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,716 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,731 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Se Va La Vida](https://open.spotify.com/track/2zqdWJxskydGmP0IeCxhsD) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Éxitos De Rodolfo Aicardi, Vol\. 4](https://open.spotify.com/album/1kwvxuaNe1g48e6U7IPTad) | 3:39 |
 | 50 | [40 DE DICIEMBRE \(feat\. GeezyDee, CARABIN3\)](https://open.spotify.com/track/2hScMilrNzlbD9VD88t7jD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EXTRADITABLESSD](https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7) | 4:41 |
 
-Snapshot ID: `MO3hAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MO8t0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

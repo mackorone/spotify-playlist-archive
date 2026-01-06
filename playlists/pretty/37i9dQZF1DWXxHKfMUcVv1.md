@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,891 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,906 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 32 | [Aguije](https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4) | [Aguije](https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh) | 3:11 |
 | 33 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
 | 34 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
-| 35 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
-| 36 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
+| 35 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
+| 36 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
 | 37 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |
 | 38 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
 | 39 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 43 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
 | 44 | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH) | 2:54 |
 | 45 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
-| 46 | [Dónde está el amor?](https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu) | [Jose Viera](https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR), [Jazmín del Paraguay](https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV) | [Dónde está el amor?](https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE) | 3:14 |
-| 47 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 |
+| 46 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 |
+| 47 | [Dónde está el amor?](https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu) | [Jose Viera](https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR), [Jazmín del Paraguay](https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV) | [Dónde está el amor?](https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE) | 3:14 |
 | 48 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
-| 49 | [Estación Lunar](https://open.spotify.com/track/2enrZW8F0pWuC5oNvIyQ0L) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM) | [Estación Lunar](https://open.spotify.com/album/4Ub0A1BZ6b4wGetZC8KrbI) | 3:16 |
-| 50 | [Che Sy](https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Che Sy](https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U) | 2:50 |
+| 49 | [Che Sy](https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Che Sy](https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U) | 2:50 |
+| 50 | [Estación Lunar](https://open.spotify.com/track/2enrZW8F0pWuC5oNvIyQ0L) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM) | [Estación Lunar](https://open.spotify.com/album/4Ub0A1BZ6b4wGetZC8KrbI) | 3:16 |
 
 Snapshot ID: `AAAAAOGNLgadf1RFYhS1Psm444jkrjCR`

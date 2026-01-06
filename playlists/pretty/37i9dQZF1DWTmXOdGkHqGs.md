@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,698 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,776 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 56 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 57 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
 | 58 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI), [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 |
-| 59 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 |
-| 60 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
+| 59 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
+| 60 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 |
 | 61 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
 | 62 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
 | 63 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |

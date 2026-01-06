@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10631,
+  "num_followers": 10629,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -91,30 +91,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "ERA47",
-        "url": "https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu"
-      },
-      "artists": [
-        {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "ILE LAT?",
-      "url": "https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "Ona M\u00f3wi",
         "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
       },
@@ -135,6 +111,30 @@
       "duration_ms": 152470,
       "name": "Ona M\u00f3wi",
       "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "ERA47",
+        "url": "https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "ILE LAT?",
+      "url": "https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg"
     },
     {
       "added_at": "2025-04-24 21:35:46",

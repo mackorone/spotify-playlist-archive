@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,455 likes - 59 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,446 likes - 59 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

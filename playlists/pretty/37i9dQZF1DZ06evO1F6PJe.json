@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109300,
+  "num_followers": 109301,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADPEMkoFx14V08djSnBJkZg",
+  "snapshot_id": "aVmtgAAAAABbn86EYwhG8g5TsvfPgh9O",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 418120,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 408466,
       "name": "Stop!",
       "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 418120,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paying The Cost To Be The Boss",
         "url": "https://open.spotify.com/album/7x9Z9O2HcWNbKSbMkvNMHk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 193893,
       "name": "Paying The Cost To Be The Boss",
       "url": "https://open.spotify.com/track/53ScRDZJ2h6p8gK7cdtyoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 279226,
       "name": "Different Shades of Blue",
       "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "I'll Take The Blame",
-      "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+      "duration_ms": 214640,
+      "name": "I'll Take The Blame",
+      "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 246306,
       "name": "When Will I Let Her Go",
       "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
       "added_at": null,

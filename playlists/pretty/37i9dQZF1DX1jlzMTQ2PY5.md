@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,943 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,982 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 20 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
 | 21 | [Never Tell](https://open.spotify.com/track/4e2b9PcrsZD8z87sBJYXXO) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [Never Tell](https://open.spotify.com/album/602ztxO2d7gdwZKTKkqV9e) | 3:16 |
 | 22 | [Rolling With Fabio](https://open.spotify.com/track/7kMKRx0asqUV31x3fckSlj) | [Mantra](https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy) | [Shades Of Rave, Vol\. 1](https://open.spotify.com/album/378kzYI6up2OySAM8IFhKn) | 5:02 |
-| 23 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 |
-| 24 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 |
+| 23 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 |
+| 24 | [Closer](https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Closer](https://open.spotify.com/album/0aOPrsRJgYeTYse9crHB1J) | 4:40 |
 | 25 | [Quiet Storm](https://open.spotify.com/track/0Dojurrtsx8ehnfD3TkU8z) | [T.R.A.C.](https://open.spotify.com/artist/2EygWXS2PONQf9X130LWtU), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Quiet Storm](https://open.spotify.com/album/2HyKSKXPogPmwkbBpDhnXt) | 3:45 |
 | 26 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 |
 | 27 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
 | 48 | [Broken Record](https://open.spotify.com/track/2UwuJuCR6uql3oR2Lfb0qU) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Broken Record](https://open.spotify.com/album/7DhJAYwKLHi00Zb5YDx2wE) | 3:21 |
 | 49 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
-| 50 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
+| 50 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

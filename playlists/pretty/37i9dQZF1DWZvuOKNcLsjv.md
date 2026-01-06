@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,362 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,364 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 49 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 50 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
 | 51 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 |
-| 52 | [雨酔い](https://open.spotify.com/track/5XMKwkduEhcYTqdWFP1NmP) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [雨酔い](https://open.spotify.com/album/4Gpc6VgBXsSCgR07A76cEu) | 4:53 |
+| 52 | [雨酔い \- Usui](https://open.spotify.com/track/5XMKwkduEhcYTqdWFP1NmP) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [雨酔い \- Usui](https://open.spotify.com/album/4Gpc6VgBXsSCgR07A76cEu) | 4:53 |
 | 53 | [スノーサプライズ](https://open.spotify.com/track/72qunBPdbUqFptpgGyRAKM) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [スノーサプライズ](https://open.spotify.com/album/6LwbdG6PgFVjvdt6IzEMkc) | 3:11 |
 | 54 | [The IIIRD Eye](https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FYOP](https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on) | 4:14 |
 | 55 | [Mona Lisa](https://open.spotify.com/track/4BQ9g4SnpKM0YatlXyQaxI) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Mona Lisa](https://open.spotify.com/album/3TGHslUXlvQx3UCeIoM1L9) | 2:55 |

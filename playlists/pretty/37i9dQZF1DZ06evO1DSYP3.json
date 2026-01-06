@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADVJ9AbB9y+vSsqFbTS1mWB",
+  "snapshot_id": "aVmtgAAAAAB6nJBWspKdG1raea9fg5oD",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Off",
-        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Going Off",
-      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELE",
         "url": "https://open.spotify.com/album/55GX3rem3cG6AvragfUwTK"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 156831,
       "name": "HELE",
       "url": "https://open.spotify.com/track/0mPOWNkYxl2eA5CwjGl9sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Off",
+        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 123810,
+      "name": "Going Off",
+      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,

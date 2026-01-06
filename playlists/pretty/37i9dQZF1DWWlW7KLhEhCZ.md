@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,221 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,212 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [Joia Rara](https://open.spotify.com/track/3hkff7gNNKs5AfqnVNxlmq) | [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE) | [Joia Rara](https://open.spotify.com/album/2ilUfNQvtW1tKCYXqdRksB) | 2:13 |
 | 14 | [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 |
 | 15 | [ela eh do job!](https://open.spotify.com/track/2ipxweqtXeNgMDrKDJFgNp) | [costabilekidd](https://open.spotify.com/artist/4aF4nfq8Pm1Hf6lR5yXqis), [purp](https://open.spotify.com/artist/1sYDvEyPno3G1M4Cnqa8cJ) | [ela eh do job!](https://open.spotify.com/album/2lzW2B08AZUE4fgxlV7F4A) | 2:32 |
-| 16 | [VELOCIRAPTOR / 15 NO BANGALÔ](https://open.spotify.com/track/7ILmiD2CXgYW6kHYu40AB3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Marte](https://open.spotify.com/album/0dA5eUUP9U3fRQxMtPtpNp) | 4:00 |
+| 16 | [VELOCIRAPTOR / 15 NO BANGALÔ](https://open.spotify.com/track/7ILmiD2CXgYW6kHYu40AB3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Baby](https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [jaykay](https://open.spotify.com/artist/2LiubholhUTdG6vySC5oBS) | [Marte](https://open.spotify.com/album/0dA5eUUP9U3fRQxMtPtpNp) | 4:00 |
 | 17 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
 | 18 | [Caminho$ \(feat\. Frajadx\)](https://open.spotify.com/track/378XtJcF7ZmvOpsrXQzUJh) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Harley Mc](https://open.spotify.com/artist/21HIA1rFEITRi6JHKoXAJF), [Novato Mc](https://open.spotify.com/artist/2uVEAh3RP4CqkRM9ropLxu), [Guimacê](https://open.spotify.com/artist/6aOyDUxUbS01s0rLrl4fhk), [Frajadx](https://open.spotify.com/artist/4NxS5jNLcOyPrIFlTJumfK) | [Ouro do Bairro, Vol\. 4](https://open.spotify.com/album/00tDKjn27JO98DTiINSZZs) | 3:19 |
 | 19 | [CHAMPAGNE & BAUNILHA](https://open.spotify.com/track/1bxzOedscREbvW1fluFp1w) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [ISSO É AREN!](https://open.spotify.com/album/0piJA5RMDtb6hP527gOYRK) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,871 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,080 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 76 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
 | 77 | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [LonelyBrothers](https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f), [Kush Rust](https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1) | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj) | 2:52 |
 | 78 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
-| 79 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
-| 80 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
+| 79 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
+| 80 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 81 | [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 |
 | 82 | [Somebody To Love](https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Somebody To Love](https://open.spotify.com/album/09slJUG8d40lineidFdYCN) | 1:53 |
 | 83 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 |

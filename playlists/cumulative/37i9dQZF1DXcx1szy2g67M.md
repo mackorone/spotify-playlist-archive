@@ -4,7 +4,7 @@
 
 > Zó klinkt de winter van 2026! ❄️🧣⛄️
 
-814 songs - 1 day 17 hr 6 min
+815 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-07-18 | 2025-03-08 |
 | [Onweer In M'n Hoofd](https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Onweer In M'n Hoofd](https://open.spotify.com/album/7DP9NG2p1qW5hgO2S87BT3) | 2:54 | 2024-10-17 | 2025-04-25 |
 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 | 2025-01-09 | 2025-06-28 |
+| [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2026-01-05 |  |
 | [Options](https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Options](https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04) | 2:49 | 2025-03-20 | 2025-06-28 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-27 |  |
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-16 | 2024-06-21 |
@@ -712,7 +713,7 @@
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-09-20 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-04-01 | 2025-10-05 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-04-07 | 2023-11-11 |
-| [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-07 |  |
+| [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-07 | 2026-01-06 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-02-23 | 2023-05-31 |
 | [The Ones We Seek](https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Ones We Seek](https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc) | 4:34 | 2024-10-09 | 2025-02-21 |
 | [The Other Side](https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH) | 2:44 | 2024-01-04 | 2024-01-19 |

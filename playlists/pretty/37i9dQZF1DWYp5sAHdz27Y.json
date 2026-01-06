@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
-  "num_followers": 1091130,
+  "num_followers": 1091463,
   "original_name": "Gym 2025",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 201240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -699,6 +699,26 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "capaz (merengueton)",
-        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217824,
-      "name": "Don't Stop Me Now - ...Revisited",
-      "url": "https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Latinamerica (feat. Vika)",
         "url": "https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 124830,
       "name": "Latinamerica (feat. Vika)",
       "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217824,
+      "name": "Don't Stop Me Now - ...Revisited",
+      "url": "https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "Beto's Horns",
-        "url": "https://open.spotify.com/album/2TRLrNiG7UR2CjnGs2GI8T"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 226222,
-      "name": "Beto\u2019s Horns - fred remix",
-      "url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "Beto's Horns",
+        "url": "https://open.spotify.com/album/2TRLrNiG7UR2CjnGs2GI8T"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 226222,
+      "name": "Beto\u2019s Horns - fred remix",
+      "url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
     },
     {
       "added_at": "2025-12-02 11:44:48",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2025-12-02 11:44:48",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "RUMBAT\u00d3N",
-      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
-    },
-    {
-      "added_at": "2025-12-02 11:44:48",
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
+    {
+      "added_at": "2025-12-02 11:44:48",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
     },
     {
       "added_at": "2025-12-02 11:44:48",

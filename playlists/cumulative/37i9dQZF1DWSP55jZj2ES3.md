@@ -4,7 +4,7 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-321 songs - 18 hr 25 min
+322 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 | 2021-10-26 |  |
 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2023-09-16 | 2024-04-19 |
 | [Miami](https://open.spotify.com/track/0PLJTdttgoW06mVYt1HQlW) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:31 | 2022-06-30 | 2022-09-10 |
-| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-04-22 |  |
+| [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2024-09-06 |  |
+| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-04-22 | 2026-01-06 |
 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 | 2024-04-22 |  |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-03-17 | 2022-07-29 |
 | [Mood](https://open.spotify.com/track/21PaOSZdsh7DToHW6d5B38) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Pool](https://open.spotify.com/album/7kNB1l6WPFlZxH5MtgtW3j) | 2:28 | 2022-06-30 | 2024-04-23 |

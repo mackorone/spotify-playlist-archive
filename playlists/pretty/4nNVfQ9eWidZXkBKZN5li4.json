@@ -1,12 +1,12 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 228364,
+  "num_followers": 228417,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYLBNFAHAdHGYGhNxhWm9SjBBoWgEa",
+  "snapshot_id": "AAAYNymRUhf1l9MRy89lC4i5qRLcR8BX",
   "tracks": [
     {
       "added_at": "2025-12-08 05:58:30",
@@ -105,20 +105,32 @@
       "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
     },
     {
-      "added_at": "2025-12-15 05:51:39",
+      "added_at": "2026-01-05 06:30:23",
       "album": {
-        "name": "\u0641\u0635\u0644\u0629",
-        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/0np0jHF7hJJmvAwMF6YSIK"
       },
       "artists": [
         {
-          "name": "Flipperachi",
-          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
         }
       ],
-      "duration_ms": 105271,
-      "name": "FA9LA",
-      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
+      "duration_ms": 362400,
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv"
     },
     {
       "added_at": "2025-12-01 09:19:51",
@@ -139,30 +151,6 @@
       "duration_ms": 162031,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
-    },
-    {
-      "added_at": "2025-10-06 05:14:47",
-      "album": {
-        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 268445,
-      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
       "added_at": "2025-10-29 06:12:19",
@@ -257,6 +245,98 @@
       "url": "https://open.spotify.com/track/3BDhT4z4gy8rukyJpuWM59"
     },
     {
+      "added_at": "2025-10-06 05:14:47",
+      "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 268445,
+      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
+    },
+    {
+      "added_at": "2021-12-08 05:40:44",
+      "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "duration_ms": 408133,
+      "name": "Bole Chudiyan",
+      "url": "https://open.spotify.com/track/1uzkWkIaWaxzHJgJ4Fy5rO"
+    },
+    {
+      "added_at": "2025-12-01 09:20:01",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
+      },
+      "artists": [
+        {
+          "name": "Jind Universe",
+          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
+        }
+      ],
+      "duration_ms": 140250,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
+    },
+    {
+      "added_at": "2025-12-15 05:51:39",
+      "album": {
+        "name": "\u0641\u0635\u0644\u0629",
+        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+      },
+      "artists": [
+        {
+          "name": "Flipperachi",
+          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+        }
+      ],
+      "duration_ms": 105271,
+      "name": "FA9LA",
+      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
+    },
+    {
       "added_at": "2025-10-29 06:12:41",
       "album": {
         "name": "Badlapur (Original Motion Picture Soundtrack)",
@@ -275,22 +355,6 @@
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/5lKE040hUfDAKOR8HLG92p"
-    },
-    {
-      "added_at": "2025-12-01 09:20:01",
-      "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
-      },
-      "artists": [
-        {
-          "name": "Jind Universe",
-          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
-        }
-      ],
-      "duration_ms": 140250,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
     },
     {
       "added_at": "2025-10-29 06:12:52",
@@ -1567,42 +1631,6 @@
       "duration_ms": 178604,
       "name": "Proper Patola",
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
-    },
-    {
-      "added_at": "2021-12-08 05:40:44",
-      "album": {
-        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Amit Kumar",
-          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Kavita Krishnamurthy",
-          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
-        }
-      ],
-      "duration_ms": 408133,
-      "name": "Bole Chudiyan",
-      "url": "https://open.spotify.com/track/1uzkWkIaWaxzHJgJ4Fy5rO"
     },
     {
       "added_at": "2023-03-20 10:46:41",

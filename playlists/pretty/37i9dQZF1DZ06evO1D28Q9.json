@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABt6YNzyjT8RfixXGcz4D5c",
+  "snapshot_id": "aVmtgAAAAABzguuzk3BNNdw9X46ITMX4",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muita Calma",
-        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Muita Calma",
-      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 172676,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muita Calma",
+        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        }
+      ],
+      "duration_ms": 210982,
+      "name": "Muita Calma",
+      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
     },
     {
       "added_at": null,
@@ -475,6 +475,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 366409,
+      "name": "Pelo Meus Amores",
+      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Em Nome do Vento",
         "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
       },
@@ -503,34 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -540,41 +540,25 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Rodrigo Ogi",
-          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+          "name": "Cris SNJ",
+          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Nega Gizza",
+          "url": "https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy"
+        },
+        {
+          "name": "DJ Negrito",
+          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
         }
       ],
-      "duration_ms": 222861,
-      "name": "POR UM FIO",
-      "url": "https://open.spotify.com/track/2N86zDyttkJVK5wJ4J7P7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
-      },
-      "artists": [
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
+      "duration_ms": 264274,
+      "name": "OUTRA REALIDADE",
+      "url": "https://open.spotify.com/track/2acjJMaGOLV4auvYNQzVxf"
     },
     {
       "added_at": null,
@@ -628,13 +612,41 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 366409,
-      "name": "Pelo Meus Amores",
-      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -655,6 +667,30 @@
       "duration_ms": 298412,
       "name": "Quem \u00c9 Voc\u00ea?",
       "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-De-D\u00e1-Em-Doido 20 Anos",
+        "url": "https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 226806,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy"
     },
     {
       "added_at": null,
@@ -699,30 +735,6 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pau-De-D\u00e1-Em-Doido 20 Anos",
-        "url": "https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "En\u00e9zimo",
-          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 226806,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy"
     },
     {
       "added_at": null,
@@ -911,46 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluindo Atrav\u00e9s dos Tempos",
-        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
-      },
-      "artists": [
-        {
-          "name": "Cris SNJ",
-          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Bota pra Andar",
-      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DCazz",
-          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Atividade (feat. IZA)",
         "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
       },
@@ -971,6 +943,42 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chato",
+        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 187634,
+      "name": "Chato",
+      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evoluindo Atrav\u00e9s dos Tempos",
+        "url": "https://open.spotify.com/album/4UUN1sAsRcBJZrphd1c8jZ"
+      },
+      "artists": [
+        {
+          "name": "Cris SNJ",
+          "url": "https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Bota pra Andar",
+      "url": "https://open.spotify.com/track/35MAJN9iJrYvNATaa9bzp5"
     },
     {
       "added_at": null,
@@ -1019,18 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chato",
-        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
       },
       "artists": [
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DCazz",
+          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
         }
       ],
-      "duration_ms": 187634,
-      "name": "Chato",
-      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+      "duration_ms": 219753,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
     },
     {
       "added_at": null,

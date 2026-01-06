@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,017 songs - 2 day 19 hr 2 min
+1,018 songs - 2 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,7 +797,7 @@
 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 | 2025-08-17 |  |
 | [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 | 2025-06-18 |  |
 | [Solar Pilgrim](https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 5:20 | 2024-03-11 |  |
-| [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 | 2025-12-29 |  |
+| [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 | 2025-12-29 | 2026-01-06 |
 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 | 2025-06-27 |
 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 | 2024-02-15 |  |
 | [Sorrow Tears and Blood](https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Sorrow Tears and Blood](https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx) | 10:15 | 2023-06-14 | 2023-06-17 |
@@ -890,6 +890,7 @@
 | [The Medium](https://open.spotify.com/track/2evdiqJddtt5vfocPme5l7) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:14 | 2023-06-03 |  |
 | [The Nights of Wine and Roses](https://open.spotify.com/track/3uS4xj4hCZfEKYJxZyw0r7) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:02 | 2023-11-04 |  |
 | [The Only Picture](https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Garbology](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz) | 0:45 | 2024-01-03 | 2025-01-19 |
+| [The Opening Title Sequence](https://open.spotify.com/track/71o1EHEs0MLBK8PlkOcp9I) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Mixtape About Nothing](https://open.spotify.com/album/5vsqzCBriQGiXMxlLFe1Za) | 2:42 | 2026-01-06 |  |
 | [The Overwhelming Event](https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:17 | 2022-01-22 | 2023-08-20 |
 | [The Place In The Sky](https://open.spotify.com/track/1aIhJYjuC8U65NyLt84eV2) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Florilegium](https://open.spotify.com/album/5FlWrzLZNGA1KQm8BGydFX) | 3:14 | 2025-04-28 |  |
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 | 2025-10-28 |
@@ -967,7 +968,7 @@
 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 | 2024-03-24 |  |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 | 2024-10-24 |
 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 | 2024-04-02 |  |
-| [Watch My Hands](https://open.spotify.com/track/7q2sBotZw4bVLg8Hvkmbnb) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go) | 1:45 | 2025-07-18 |  |
+| [Watch My Hands](https://open.spotify.com/track/7q2sBotZw4bVLg8Hvkmbnb) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go) | 1:45 | 2025-07-18 | 2026-01-06 |
 | [Wayside/Back in Time](https://open.spotify.com/track/7kBgZQP85cQBKKDTmjcDf3) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 3:28 | 2024-02-07 |  |
 | [We Got It For Cheap \(Intro\)](https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2022-04-29 | 2025-07-23 |
 | [Weird Part Of The Night](https://open.spotify.com/track/5Q9r5uZtc1bHTS0Wd6uS0i) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 4:20 | 2024-01-15 |  |

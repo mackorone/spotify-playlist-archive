@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,691 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,719 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 43 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 44 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 45 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
-| 46 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
-| 47 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
+| 46 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
+| 47 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
 | 48 | [Jaat Flex](https://open.spotify.com/track/65aIf0BmkmnSbC0g7n3vfh) | [Sukh Deswal](https://open.spotify.com/artist/45YUQZr5AoXTOlVLBX07NF), [Samvee](https://open.spotify.com/artist/6RazaIkItMMHgNvl1s6TMj), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4) | [Jaat Flex](https://open.spotify.com/album/58sI7XUY0I9l0bSaeOfF7W) | 2:04 |
 | 49 | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/track/2PnmxUT3UT8EIChBeWR9RG) | [Branded Fouji](https://open.spotify.com/artist/6sbBZPIY51iHNT9Ydt7IMs), [Dopevibe](https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr), [Neeraj Goyat](https://open.spotify.com/artist/23EVnGZSG0LzdeEXJvefda), [Raja Yadav](https://open.spotify.com/artist/1jdSs5vlSStODzBAi30Z6V) | [Dead Lift \(feat\. Neeraj Goyat & Raja Yadav\)](https://open.spotify.com/album/0em397h6R74n2y5v5JhJyc) | 3:23 |
 | 50 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |

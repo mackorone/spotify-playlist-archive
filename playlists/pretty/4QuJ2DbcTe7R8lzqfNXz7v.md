@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,065 likes - 110 songs - 6 hr 55 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,048 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 109 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 110 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 |
 
-Snapshot ID: `AAAVNrX1t5F0ChpS8k4+pijn6tFWQpMK`
+Snapshot ID: `AAAVOJF4HIKVO//4I8yabWDr1UnzIzs7`

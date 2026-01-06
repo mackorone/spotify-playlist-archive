@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,491 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,493 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 44 | [Doesn't He](https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Doesn't He](https://open.spotify.com/album/2bGNVHr3YSVvj3rUGowO3b) | 4:15 |
 | 45 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 |
 | 46 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 |
-| 47 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 |
-| 48 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
+| 47 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
+| 48 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 |
 | 49 | [Power \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:13 |
 | 50 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
 
-Snapshot ID: `aVhcAAAAAAC0BmKu3XdEEBIRiVblhLmk`
+Snapshot ID: `aVmtgAAAAAAju+khd7xHHaZ7vXiRbH1F`

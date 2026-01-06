@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,515 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,517 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
 | 14 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 |
 | 15 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
-| 16 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
-| 17 | [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 |
+| 16 | [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 |
+| 17 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
 | 18 | [The Surface](https://open.spotify.com/track/0LKuAI2Vo2s2vOEHRfBd9w) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 3:55 |
 | 19 | [OTRA HORA](https://open.spotify.com/track/2XvVxWrSYnlzjrL5Nt5Rw8) | [CLOUDY](https://open.spotify.com/artist/6T9GuyLe3Wkw5KRhhXUMC1) | [OTRA HORA](https://open.spotify.com/album/2TjiYJWLkZNZPNxNaM4Hh7) | 5:00 |
 | 20 | [Heiß für mich](https://open.spotify.com/track/6X7nt1o6fH3oJ7UtH5t5g7) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Verliebst du dich, oder andersrum?](https://open.spotify.com/album/6FvTWLTSVN9AC3azVaVkZq) | 2:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
 | 35 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
 | 36 | [Regen](https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:29 |
-| 37 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
-| 38 | [Rodeo](https://open.spotify.com/track/5Bgk9ITyjRD0N5eduuH2iN) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Squeeze Me](https://open.spotify.com/album/5H6PBRl3GI28k17RLalNR1) | 3:48 |
+| 37 | [Rodeo](https://open.spotify.com/track/5Bgk9ITyjRD0N5eduuH2iN) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Squeeze Me](https://open.spotify.com/album/5H6PBRl3GI28k17RLalNR1) | 3:48 |
+| 38 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 39 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
 | 40 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |
 | 41 | [Beef mit Cheese](https://open.spotify.com/track/1tKXOrv0ZjYMQyoNxmqAzx) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Magazin](https://open.spotify.com/album/4Fn2M3fRqA3QD4GL3Vqot6) | 2:30 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
 | 50 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
 | 51 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
-| 52 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
-| 53 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
+| 52 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
+| 53 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 54 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 55 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
 | 56 | [i love you don't worry xx](https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 3:05 |

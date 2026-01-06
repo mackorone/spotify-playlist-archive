@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-446 songs - 1 day 2 hr 54 min
+450 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Freeze the Moment](https://open.spotify.com/track/2Gcq7ptfslL7JZWQb80kxo) | [NuSkript](https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg) | [Freeze the Moment](https://open.spotify.com/album/5RjMIjmE7E6rPyPi9RNwpZ) | 4:45 | 2025-12-16 |  |
 | [Fumble](https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Fumble](https://open.spotify.com/album/6ucAkjjQKfWa3n83odFH7P) | 4:02 | 2025-12-15 |  |
 | [Ger\-ru](https://open.spotify.com/track/6NhjyDPvfIbR72a0aPwgpI) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb) | [Sicilian Connection](https://open.spotify.com/album/4LRnpkrPSzdcd9RY5DzeVD) | 3:31 | 2025-06-21 | 2025-12-21 |
+| [Giammatteo](https://open.spotify.com/track/7rqiD3ucbslzxgY7MV8z8Q) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Giammatteo](https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd) | 3:35 | 2026-01-05 |  |
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
 | [Gods of Sicily](https://open.spotify.com/track/6X0Tm9vCzFUHRynEDr4Q9G) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:02 | 2023-04-20 | 2025-11-29 |
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
@@ -225,6 +226,7 @@
 | [Madame B.](https://open.spotify.com/track/71fmi6YVjIPGSlEBhLOu93) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Madame B.](https://open.spotify.com/album/6mZWPwDeAzKlKuixUjrVXO) | 2:36 | 2023-09-21 | 2025-11-29 |
 | [Madame Oculus \- Remastered 2023](https://open.spotify.com/track/13RfunYLxstaIPa1XvJWFH) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Mateusz Nawrot](https://open.spotify.com/artist/61HeW3P7VjwuSOY80WO5ym), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 6:39 | 2023-11-16 | 2025-11-29 |
 | [Mahmud Le Fakir \(Alt\. Vers\)](https://open.spotify.com/track/1W6QbynVJXB9oAFofmtpc5) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:25 | 2023-04-20 | 2025-11-29 |
+| [Mainline](https://open.spotify.com/track/0CAkW9JOscGbMBpbPshIuc) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 3:18 | 2026-01-05 |  |
 | [Mais Alto Com Cristo \- Acoustic](https://open.spotify.com/track/4AY6D9mDxjVZXOXchspd8W) | [Virgilio alc](https://open.spotify.com/artist/2yKbDLuTiE1kKT2AiBY1Tl) | [Tempo de vitória \(Acoustic\)](https://open.spotify.com/album/1XWYl2rrAwoR0cDIJQjtpP) | 3:08 | 2025-12-09 | 2026-01-05 |
 | [Make Believe](https://open.spotify.com/track/2RBYsVnwR6QKhv6BONCggI) | [Motom Beats](https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Fight My Demons](https://open.spotify.com/album/4IyPCqRvou8VDSMWIzRMSD) | 2:56 | 2025-08-23 | 2025-11-29 |
 | [Malata sugnu](https://open.spotify.com/track/13KEOCQaMFTMovesr7Hmlo) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:26 | 2023-04-20 | 2025-11-29 |
@@ -309,6 +311,7 @@
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2025-09-29 | 2025-11-29 |
 | [Remember My Name](https://open.spotify.com/track/31rGnAQ0alrv4NxeGwsBwl) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO) | [Remember My Name](https://open.spotify.com/album/0lOse5KKDimfExTph5fhLX) | 6:44 | 2025-09-25 |  |
 | [Rest In Me](https://open.spotify.com/track/5p1E3w1CRRyMoCSmA7vC9N) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Rest In Me](https://open.spotify.com/album/1uZFqbuf6bwd2No55cGprC) | 4:09 | 2025-12-27 |  |
+| [Rewind](https://open.spotify.com/track/5SoFyOYhxezOJUihbnccUl) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:29 | 2026-01-05 |  |
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 |  |
@@ -400,6 +403,7 @@
 | [Thoughts](https://open.spotify.com/track/5GqkfBgYOw8PlmwFIzEvyb) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Thoughts](https://open.spotify.com/album/6ZROzn85yQKVuHrmvKKbSy) | 5:19 | 2025-12-29 |  |
 | [Three Hundred](https://open.spotify.com/track/0OvWtheHmtoxUfbKQQwMLr) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred](https://open.spotify.com/album/2d9nf9fWDVT7cc5ew9aKzK) | 4:11 | 2026-01-02 |  |
 | [Three Hundred \- Slowed Down + Reverbed](https://open.spotify.com/track/4Yud8mlM573dunsyLWUPeO) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Slowed Down + Reverbed\)](https://open.spotify.com/album/6S2dESE9edCXEGVukeQzCw) | 4:40 | 2026-01-02 |  |
+| [Three Hundred \- Sped Up + Reverbed](https://open.spotify.com/track/2dofgWgFXmYPXhPLai8WQh) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Three Hundred \(Sped Up + Reverbed\)](https://open.spotify.com/album/7IB5wBe0uLtuuxrFwYl30F) | 3:40 | 2026-01-05 |  |
 | [Ti aspetterò per anni \- Demo](https://open.spotify.com/track/67FrejNz20wZwatCbcnSwa) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Ti aspetterò per anni \(Demo\)](https://open.spotify.com/album/5FTqGok8ZgiualuvwjjfrF) | 3:21 | 2025-12-29 |  |
 | [Ticket To The Moon](https://open.spotify.com/track/6j5upLhN41mzpAwK3NWFrv) | [Earth Zep Tepi](https://open.spotify.com/artist/5rrEyXFSwau2wwN0JcrRLh), [420 Sir$mokealot](https://open.spotify.com/artist/4K1wW4mswgXDZUks88Up8O) | [Ticket To The Moon](https://open.spotify.com/album/1VpdLVkm6TIixsUtU68qnp) | 2:57 | 2025-11-14 | 2025-12-21 |
 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 | 2025-12-09 | 2026-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,052 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,085 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 42 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
 | 43 | [Time After Time](https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ) | 7:41 |
 | 44 | [I See Your Face Before Me \- RVG Remaster](https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Settin' The Pace \[RVG Edition\]](https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ) | 9:56 |
-| 45 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
-| 46 | [Village Blues](https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 5:24 |
-| 47 | [How Deep Is The Ocean?](https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Tenor Conclave](https://open.spotify.com/album/6jiJtqQZ1fKpxf7IhQ9ZGK) | 15:04 |
+| 45 | [How Deep Is The Ocean?](https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Tenor Conclave](https://open.spotify.com/album/6jiJtqQZ1fKpxf7IhQ9ZGK) | 15:04 |
+| 46 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
+| 47 | [Village Blues](https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 5:24 |
 | 48 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
-| 49 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
-| 50 | [Cousin Mary \- Mono](https://open.spotify.com/track/6I1pxB8X2Fu4HFjo5Bgwor) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 5:50 |
+| 49 | [Cousin Mary \- Mono](https://open.spotify.com/track/6I1pxB8X2Fu4HFjo5Bgwor) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 5:50 |
+| 50 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
 
-Snapshot ID: `aVhcAAAAAAAC6Su9wGBfbShtdCRFCyo2`
+Snapshot ID: `aVmtgAAAAADD3W7ttISUgjVFN0OekL++`

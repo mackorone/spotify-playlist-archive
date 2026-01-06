@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 53045,
+  "num_followers": 53053,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACvE/y/AprAxoIt6e3FohEG",
+  "snapshot_id": "aVmtgAAAAADHcksw7ag9QlO9pLRISNVe",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": null,
@@ -311,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
+      "duration_ms": 278253,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 278253,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
@@ -400,13 +400,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 369280,
-      "name": "Samba De Uma Nota So",
-      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
+      "duration_ms": 201093,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/2js8wl7HG1i8jZNAyqFu8g"
     },
     {
       "added_at": null,
@@ -431,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
@@ -440,17 +444,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/2js8wl7HG1i8jZNAyqFu8g"
+      "duration_ms": 369280,
+      "name": "Samba De Uma Nota So",
+      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
     },
     {
       "added_at": null,
@@ -799,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251137,
+      "name": "Chega De Saudade",
+      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
@@ -839,38 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251137,
-      "name": "Chega De Saudade",
-      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 429026,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Manha De Carnaval",
-      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -939,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/6UYhs851X9P9wUGagL2k32"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 405853,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
+      "duration_ms": 163640,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/671ldGME9jjEANX5bvCSFn"
     }
   ],
   "unique_name": "This Is Stan Getz",

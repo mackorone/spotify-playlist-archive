@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/4aIE8FauGoNqGCigfExEIG"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Katja Schuurman",
+          "url": "https://open.spotify.com/artist/0w5pt6lTphDQFLfiPeGzlt"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154051,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/0I4Fl88OA6fEKvht1AGqXK"
+    },
+    {
+      "album": {
         "name": "2007",
         "url": "https://open.spotify.com/album/3G2KQP6expATleHvaHvWJT"
       },
@@ -6931,6 +6953,28 @@
     },
     {
       "album": {
+        "name": "Gevonden Door Jou",
+        "url": "https://open.spotify.com/album/0x2xJohDxE0eH7jNSaLwip"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195366,
+      "name": "Gevonden Door Jou",
+      "url": "https://open.spotify.com/track/5vGy3LRBbJljTBqe6S8vcq"
+    },
+    {
+      "album": {
         "name": "Gewoon",
         "url": "https://open.spotify.com/album/0n92DDS6QU5acQJ08ztYRP"
       },
@@ -7684,6 +7728,24 @@
       "duration_ms": 154815,
       "name": "Heel De Nacht Alleen",
       "url": "https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH"
+    },
+    {
+      "album": {
+        "name": "Heel Mijn Hart",
+        "url": "https://open.spotify.com/album/24TlMU3JMSemcUomVrFOFu"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162785,
+      "name": "Heel Mijn Hart",
+      "url": "https://open.spotify.com/track/6uSd26D2cZ1YM4cEQExaA0"
     },
     {
       "album": {
@@ -16060,7 +16122,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 174785,
       "name": "Radiostilte",
       "url": "https://open.spotify.com/track/0cQo1sW0zleJYXwoJWIbKR"
@@ -18710,7 +18772,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 127448,
       "name": "Tunnelvisie",
       "url": "https://open.spotify.com/track/6EZUyj7rCBL7hfaUTl2io2"
@@ -21368,7 +21430,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 153894,
       "name": "Zeg maar niets",
       "url": "https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib"

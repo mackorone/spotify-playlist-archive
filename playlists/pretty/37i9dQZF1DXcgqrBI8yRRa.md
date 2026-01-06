@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > As heard on the FYP\. Cover: Moliy & Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,681 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,744 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 22 | [Ngishutheni](https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV) | [Goon Flavour](https://open.spotify.com/artist/5Uc6XVglgR7fb3Q5FSy0zW), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Ngishutheni](https://open.spotify.com/album/0Bh02aEI0DPVw0Jik91EkY) | 5:17 |
 | 23 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 | 24 | [eko](https://open.spotify.com/track/5oS7MonetNV6SLUyP0t5Xb) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:54 |
-| 25 | [Bengicela](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Bengicela](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
+| 25 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 26 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 |
 | 27 | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ) | 4:45 |
 | 28 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |

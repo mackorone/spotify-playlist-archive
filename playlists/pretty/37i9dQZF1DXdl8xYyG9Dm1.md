@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,564 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,604 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 65 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 |
 | 66 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 |
 | 67 | [Arrival](https://open.spotify.com/track/47y8h6yklO7E9GWpGLJ3OG) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Kdagreat](https://open.spotify.com/artist/0kiieM6XFDR0RF03GK2ilO) | [Never Meet Your Heroes](https://open.spotify.com/album/2S5ygDdE6zit6rNeGvMafb) | 3:11 |
-| 68 | [Who's Really Rapping](https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Who's Really Rapping](https://open.spotify.com/album/31rjI4OFkFfhrnkZjBUUZ0) | 2:58 |
-| 69 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
+| 68 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
+| 69 | [Who's Really Rapping](https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Who's Really Rapping](https://open.spotify.com/album/31rjI4OFkFfhrnkZjBUUZ0) | 2:58 |
 | 70 | [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 |
 
 Snapshot ID: `AAAAAL2s8U9kT//0Vdr043KtvQzu7K/l`

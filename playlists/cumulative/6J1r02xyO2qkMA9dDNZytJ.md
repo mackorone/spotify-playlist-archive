@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/6J1r02xyO2qkMA9dDNZytJ.md) - cumulative - [plain](/playlists/plain/6J1r02xyO2qkMA9dDNZytJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6J1r02xyO2qkMA9dDNZytJ)
 
-### [Toolroom House 2025](https://open.spotify.com/playlist/6J1r02xyO2qkMA9dDNZytJ)
+### [Toolroom House 2026](https://open.spotify.com/playlist/6J1r02xyO2qkMA9dDNZytJ)
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-167 songs - 8 hr 27 min
+168 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-27 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2025-03-28 | 2025-11-26 |
 | [Deep Down](https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [UNCHANED VOL.1](https://open.spotify.com/album/2JyDHxShDVPQnlLFCXcN8o) | 3:26 | 2025-12-05 |  |
+| [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 | 2026-01-05 |  |
 | [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 | 2025-10-10 |  |
 | [Dior \(with Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(with Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-07-08 |  |
 | [Dizzy](https://open.spotify.com/track/0xgH8vk0HiygTzNuSFNRr6) | [Deep Fiktion](https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le) | [Dizzy](https://open.spotify.com/album/646tI8P5WuQwUGErJKUuEe) | 3:31 | 2025-10-31 |  |

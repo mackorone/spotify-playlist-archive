@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,131 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,121 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 38 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
 | 39 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 |
 | 40 | [How to Save a Life \- Live in Nashville, TN \- December 2006](https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Acoustic In Nashville \- Bootleg No\. 2](https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp) | 4:29 |
-| 41 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 |
-| 42 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 |
+| 41 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 |
+| 42 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 |
 | 43 | [Eu Tive um Sonho \- Ao Vivo](https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Planta e Raiz 2022, Show Completo \(Ao Vivo\)](https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5) | 3:41 |
 | 44 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
 | 45 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 66 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
 | 67 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
 | 68 | [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 |
-| 69 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
-| 70 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
+| 69 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
+| 70 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
 | 71 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 |
 | 72 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 |
 | 73 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 |

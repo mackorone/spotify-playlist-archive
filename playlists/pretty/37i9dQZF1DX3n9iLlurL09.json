@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 108081,
+  "num_followers": 108105,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "The Lumineers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/7x46YkKAwp3yZpaa72n5Mu"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
       },
@@ -1348,57 +1316,9 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Summer's Gone",
-        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "How Did I Get Here",
-      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Celebration Rock",
-        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
-      },
-      "artists": [
-        {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
-        }
-      ],
-      "duration_ms": 289150,
-      "name": "The House That Heaven Built",
-      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1419,6 +1339,54 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Summer's Gone",
+        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "How Did I Get Here",
+      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
       },
@@ -1428,9 +1396,41 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "The Lumineers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/7x46YkKAwp3yZpaa72n5Mu"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 233817,
+      "name": "Ode to Viceroy",
+      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 233817,
-      "name": "Ode to Viceroy",
-      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
     },
     {
       "added_at": "2025-03-14 12:16:12",

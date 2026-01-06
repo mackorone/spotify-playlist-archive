@@ -1,13 +1,29 @@
 {
   "description": "Genre-less. Quality first always. Cover: Samara Cyn",
-  "num_followers": 1330003,
+  "num_followers": 1329942,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5gP0uHRfkByhjSD9ftnDGLHkTz",
+  "snapshot_id": "AAAAAB/MiYXLo8DXg7Pl3AjLrQdFQzGn",
   "tracks": [
+    {
+      "added_at": "2026-01-05 21:11:38",
+      "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
     {
       "added_at": "2025-11-14 00:00:24",
       "album": {

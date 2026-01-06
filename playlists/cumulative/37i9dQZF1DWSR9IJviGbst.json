@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Gentle Scottish Stream",
+        "url": "https://open.spotify.com/album/3WzdhG6WOZOXmDmXQFT82N"
+      },
+      "artists": [
+        {
+          "name": "Natural Symphony",
+          "url": "https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Gentle Scottish Stream",
+      "url": "https://open.spotify.com/track/0dKGsQxWNrUElbR46vHoJz"
+    },
+    {
+      "album": {
         "name": "Streaming Waters",
         "url": "https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 246000,
       "name": "Soothing Water Streams",
       "url": "https://open.spotify.com/track/5IUIk8PJ1gN7LMTIs1DtAp"

@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 8869,
+  "num_followers": 8878,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "First Bridge",
-        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "\uc18c\ucc2c\ud718",
-          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 236893,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -379,6 +383,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "First Bridge",
+        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
+      },
+      "artists": [
+        {
+          "name": "\uc18c\ucc2c\ud718",
+          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "To Heaven",
         "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 250409,
       "name": "To Heaven",
       "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "1\uc9d1-\uc815",
-        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "\uc815",
-      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ub178.\ub77c.\ubcf4.\uc138.",
         "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 212306,
       "name": "Phone Number",
       "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "1\uc9d1-\uc815",
+        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "\uc815",
+      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 265116,
       "name": "\uc120\ubb3c",
       "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Fine Killing Liberty : Blue Rain",
         "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 238466,
       "name": "To My Boyfriend",
       "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 237706,
       "name": "Hunch",
       "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Jaurim, The Wonder Land",
-        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Magic carpet ride",
-      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 232160,
       "name": "Com` Back",
       "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Jaurim, The Wonder Land",
+        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Magic carpet ride",
+      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
     },
     {
       "added_at": "2024-04-04 20:06:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,246 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,823,976 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 88 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
 | 89 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 |
 | 90 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
-| 91 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 |
-| 92 | [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 |
-| 93 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
-| 94 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
+| 91 | [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 |
+| 92 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 |
+| 93 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
+| 94 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
 | 95 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
 | 96 | [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 |
 | 97 | [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 |
-| 98 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
-| 99 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 |
+| 98 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 |
+| 99 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
 | 100 | [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 |
 
 Snapshot ID: `AAAAALLksQNQnDNuqelb9cyFe/ecOUgO`

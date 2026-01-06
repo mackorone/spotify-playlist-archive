@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Parvaaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,071 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,121 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 10 | [Tum Se](https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Tum Se](https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD) | 3:52 |
 | 11 | [Raatein Guzaari](https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raatein Guzaari](https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6) | 2:57 |
 | 12 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 |
-| 13 | [Jaane Na Tu](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
+| 13 | [Jaane Na Tu \(From "UR Debut"\)](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved \(From "UR Debut"\)](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
 | 14 | [Sajna](https://open.spotify.com/track/5vzPyTGOFaQ0g225aWoR1A) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Sajna](https://open.spotify.com/album/2orPTOnSyTuUHEl0yXMnlJ) | 2:37 |
 | 15 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 |
 | 16 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 |

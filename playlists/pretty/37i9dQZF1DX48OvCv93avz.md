@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 
 > Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,239 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,560 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era! The biggest hits wrapped in one playlist, with Sabrina Carpenter,  Taylor Swift, Billie Eilish, Chappell Roan and more
 
-136 songs - 7 hr 22 min
+137 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [I'm your first](https://open.spotify.com/track/613aB25cZoMzE04ayGRStb) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I'm your first](https://open.spotify.com/album/5p7As4T13Kvq8odFWp09sO) | 2:54 | 2025-09-05 |  |
 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 | 2025-10-24 | 2025-12-12 |
 | [Inner Peace](https://open.spotify.com/track/2C6hJnWrBUHyJjvR9TAIv7) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 | 2025-07-17 | 2025-09-27 |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-05 |  |
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-07-17 |  |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2025-07-17 | 2025-09-27 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-07-17 | 2025-09-06 |

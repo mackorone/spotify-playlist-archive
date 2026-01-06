@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente... Olivia Wald en portada.",
-  "num_followers": 553946,
+  "num_followers": 554005,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -539,18 +539,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
+      "duration_ms": 192760,
+      "name": "Eres para M\u00ed",
+      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -639,42 +643,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 192760,
-      "name": "Eres para M\u00ed",
-      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Conmigo Sin Ti",
-        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Conmigo Sin Ti",
-      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -715,6 +695,26 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Conmigo Sin Ti",
+        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Conmigo Sin Ti",
+      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 308389,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 194386,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 308389,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -955,18 +955,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Lo Que Ten\u00edas Conmigo",
-        "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 233813,
-      "name": "Lo Que Ten\u00edas Conmigo",
-      "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -987,22 +991,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+        "name": "Lo Que Ten\u00edas Conmigo",
+        "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
         }
       ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+      "duration_ms": 233813,
+      "name": "Lo Que Ten\u00edas Conmigo",
+      "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Aunque Sea Un Momento",
-      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Aunque Sea Un Momento",
+      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Los D\u00fao (Deluxe)",
-        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
+        "name": "Sirope",
+        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+      "duration_ms": 311177,
+      "name": "A Que No Me Dejas",
+      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1503,18 +1499,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Sirope",
-        "url": "https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc"
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 311177,
-      "name": "A Que No Me Dejas",
-      "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+        "name": "Los D\u00fao (Deluxe)",
+        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "El tiempo",
-        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
-      },
-      "artists": [
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "El tiempo",
+        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU"
     },
     {
       "added_at": "2025-12-19 06:00:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,019 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,028 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 28 | [Beers Ago](https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:26 |
 | 29 | [Weed With Willie \- Live](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
 | 30 | [Okie From Muskogee \- Live](https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP), [Ben Haggard](https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc), [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Okie From Muskogee \(Live\)](https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6) | 1:35 |
-| 31 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
-| 32 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 31 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 32 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
 | 33 | [The Taliban Song \- Live](https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:58 |
 | 34 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 |
 | 35 | [Rum Is the Reason](https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Big Blue Note](https://open.spotify.com/track/1aF6yVzmxhTyVChoLMD2JI) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 2:57 |
 | 50 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
 
-Snapshot ID: `aVhcAAAAAABYdmOXCCUhB3Xq1NDqnkP8`
+Snapshot ID: `aVmtgAAAAAC8iv9X1B+dTL+hl5MSRIxz`

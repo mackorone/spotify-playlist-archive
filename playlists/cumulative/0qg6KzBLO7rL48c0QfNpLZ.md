@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,340 songs - 2 day 11 hr 9 min
+1,341 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [New Dawn](https://open.spotify.com/track/7gxVoExA6DhISkfkHd8TqG) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb) | [New Dawn](https://open.spotify.com/album/0cRDZHASnLSN5iaGIzAhOX) | 2:54 | 2025-11-07 | 2026-01-03 |
 | [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2025-03-28 | 2025-05-03 |
 | [New Heights](https://open.spotify.com/track/3iwhCk6ABggpagI97tRh9S) | [AndyBear](https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [New Heights](https://open.spotify.com/album/0wJmCAJhOgdAdOeU8Em6LM) | 2:19 | 2025-04-26 | 2025-05-03 |
+| [New Me](https://open.spotify.com/track/563A3t7OsmDi7ltml4HwSv) | [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [Stayer](https://open.spotify.com/artist/7KXfoxgAP15O5tcBY79E86), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [New Me](https://open.spotify.com/album/0Sb9ZEVHSZWYO3n8W1dxJL) | 2:43 | 2026-01-05 |  |
 | [Ngizula – Spiritual Journey](https://open.spotify.com/track/3NXjIM9Jaf4Qp6oUPZEGxO) | [Absintheminded](https://open.spotify.com/artist/4iSvYDaOQy8BwojPxf8P6V) | [Ngizula – Spiritual Journey](https://open.spotify.com/album/3MLMWdxbvWjrXU8krXwKeT) | 2:56 | 2025-10-03 | 2025-11-04 |
 | [Nice To Meet You](https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Nice To Meet You \(Mistletoe Version\)](https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic) | 2:56 | 2025-03-13 | 2025-03-21 |
 | [Nights Like This](https://open.spotify.com/track/5CkBf0VwcR2cqfmoJuPAUE) | [TIANBO](https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv), [Lind](https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K) | [Nights Like This](https://open.spotify.com/album/1dCh75iEZxUHLrXH5TH8D5) | 2:44 | 2024-10-04 | 2024-11-21 |

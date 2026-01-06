@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Hey Nene",
+        "url": "https://open.spotify.com/album/0eqtgJE49B3tDsrf7WNKqf"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160140,
+      "name": "Hey Nene",
+      "url": "https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb"
+    },
+    {
+      "album": {
         "name": "Hi Laila",
         "url": "https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m"
       },
@@ -8518,7 +8536,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 241071,
       "name": "Teliyadhe",
       "url": "https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W"

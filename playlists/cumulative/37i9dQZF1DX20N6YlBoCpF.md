@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Die Heuwels Fantasties, MOEGOE, SKUINS NA TWEE, Olly Vans, Jaakie en meer!
 
-2,330 songs - 5 day 9 hr 36 min
+2,331 songs - 5 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,7 +1159,7 @@
 | [Laaste Dans](https://open.spotify.com/track/3ZF1uG7UDRM63WQux3geSe) | [Jean Henry](https://open.spotify.com/artist/0l8DgVhvrJ5eV2QrzPwjO3) | [Laaste Dans](https://open.spotify.com/album/1c8ylWcUhvGtQRt6F8uAvX) | 3:32 | 2023-08-24 | 2023-09-08 |
 | [Laaste Liefde](https://open.spotify.com/track/4ZI0ff8Zh72SDhMkGiRTe8) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Ontdekking](https://open.spotify.com/album/0nUGaOlp2pVhxbTlfKVcLq) | 2:45 | 2024-06-13 | 2024-08-16 |
 | [Laaste Sigaret](https://open.spotify.com/track/5gSordoFX5gjscFFdiqKVS) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Vir Megan](https://open.spotify.com/album/0ecdOYIs8uIBf8qCTBaoZj) | 3:28 | 2022-12-27 | 2023-01-02 |
-| [Laaste Song](https://open.spotify.com/track/4FKvNzyNQxOYMAFkTBApv7) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [DWAAS](https://open.spotify.com/album/1SjWm3EKVlIQcQfE28wKed) | 3:33 | 2025-11-06 |  |
+| [Laaste Song](https://open.spotify.com/track/4FKvNzyNQxOYMAFkTBApv7) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [DWAAS](https://open.spotify.com/album/1SjWm3EKVlIQcQfE28wKed) | 3:33 | 2025-11-06 | 2026-01-06 |
 | [Laaste Wens](https://open.spotify.com/track/0rPYMVXg9IHuJRzBoEIMmD) | [Brandon Miles](https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z), [Annelie](https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw) | [Laaste Wens](https://open.spotify.com/album/611A9JxY8YSDSQqjn70UJM) | 4:25 | 2025-12-18 |  |
 | [Laat Aand Lied](https://open.spotify.com/track/34t8G01hYE4LoMexVq5h8o) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Laat Aand Lied](https://open.spotify.com/album/2FiFhyMnTfEZScWWeKZZBE) | 3:16 | 2024-05-30 | 2024-06-07 |
 | [Laat Aande](https://open.spotify.com/track/04epLcGEzpvih5CWy6zkEl) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Laat Aande](https://open.spotify.com/album/7eqqSmqa6ZA0bcfJ3YJx7v) | 0:54 | 2025-06-26 | 2025-07-04 |
@@ -1939,6 +1939,7 @@
 | [Stockholm Sindroom](https://open.spotify.com/track/3rSBfEao6GYdf9UwzY4bPX) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Stockholm Sindroom](https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7) | 3:46 | 2023-07-20 | 2023-09-08 |
 | [Stoetbul](https://open.spotify.com/track/1JWVFO9zKZnCsUi4dOtI7H) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Stoetbul](https://open.spotify.com/album/7tr2H4LaJQjNrDQSIMw7vz) | 3:33 | 2025-04-10 | 2025-07-18 |
 | [Stoetbul \- REMIX 2025](https://open.spotify.com/track/2ORlAsSG18RKQcjo5vnBtN) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO), [DJ Fran](https://open.spotify.com/artist/4ayrh66iKmdoytDCP2Xtxd) | [Stoetbul \(Remix 2025\)](https://open.spotify.com/album/5gfyKZ2h1oYJftE7Cl2mqN) | 3:16 | 2025-07-03 | 2025-08-29 |
+| [Stof](https://open.spotify.com/track/6yoPxJOE4WrlLkzy0qaaIw) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN) | [Stof](https://open.spotify.com/album/2Az9QYYArOxVKPux5HmG8Q) | 3:46 | 2026-01-05 |  |
 | [Stof Skop](https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Stof Skop](https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx) | 3:15 | 2025-01-16 | 2025-05-23 |
 | [Stofpad](https://open.spotify.com/track/21viTIS8qGc75SnMeD1ZKS) | [Eldon Flare](https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW) | [Herfs Na Lente](https://open.spotify.com/album/6VMEaySekY8OhZVxB88JX7) | 2:23 | 2024-08-01 | 2024-08-30 |
 | [Stofpad](https://open.spotify.com/track/0QRhzlTzPVRpyKDuvcdmPS) | [HOOGWATER](https://open.spotify.com/artist/5HBqUpVcl2ip0lwrZMAVsH) | [Stofpad](https://open.spotify.com/album/1kmevh2wTFnuF4MIZXzntm) | 3:33 | 2024-11-28 | 2024-12-13 |

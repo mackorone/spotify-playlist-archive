@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,822 songs - 8 day 11 hr 4 min
+3,824 songs - 8 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [a thousand times again](https://open.spotify.com/track/0jpXkgSepTCCBjrJTTxVvH) | [Danny Ritz](https://open.spotify.com/artist/1D0aNZ7A0lxBAbu6FRzywE) | [a thousand times again](https://open.spotify.com/album/5zs8tTk94JxIuEnQbW3oIc) | 2:29 | 2025-12-04 |  |
 | [A trapped secret](https://open.spotify.com/track/2MaY6ri6jNI7sPJeXvMNMj) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [A trapped secret](https://open.spotify.com/album/3eEQV47OvuDSuuzKZ0HZa0) | 4:37 | 2025-06-04 |  |
 | [A un passo dal nulla](https://open.spotify.com/track/0cCGtjMcOjj29hWv33nzBo) | [Onda33](https://open.spotify.com/artist/6Vh07sG4eoO82XhSUp1fJ2) | [Il punto zero](https://open.spotify.com/album/20Q4rDygIJonZE4Nssp8xi) | 3:55 | 2025-06-01 |  |
+| [A Viagem do Dia a Dia](https://open.spotify.com/track/7esTTsykoaWgSmMWg0oc5H) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:57 | 2026-01-05 |  |
 | [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 | 2025-04-09 |  |
 | [A.H.](https://open.spotify.com/track/49bXoanUD0uc3yF5hzNrHu) | [Barry e i Karamazov](https://open.spotify.com/artist/3hkhNa83beEx0H2lCugIsz) | [A.H.](https://open.spotify.com/album/61xgn8lmlFYm2NJV0laJ8x) | 3:03 | 2025-07-16 |  |
 | [Ababulali](https://open.spotify.com/track/4qmTY8yaMYQpZW1byhywWV) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:13 | 2025-05-16 |  |
@@ -1172,7 +1173,7 @@
 | [Estamos de Passagem \- playback](https://open.spotify.com/track/4uVdcqi6UXZy8g6P65VxZP) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:17 | 2025-07-15 |  |
 | [Estate Mediterranea](https://open.spotify.com/track/5L4vDCUWLvMWZRGLy5eksH) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Estate Mediterranea](https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI) | 3:30 | 2025-06-24 |  |
 | [Estate Senza Fine](https://open.spotify.com/track/5PoRCTVy71ZktLKIfELZ57) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:49 | 2025-09-12 |  |
-| [Estranged](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 | 2025-05-20 |  |
+| [Estranged \- Demo](https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM) | [Blissen](https://open.spotify.com/artist/1L2cL2b8Q3dOYhqOiFISYi) | [Estranged \(Demo\)](https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI) | 3:33 | 2025-05-20 |  |
 | [Eternal Fever](https://open.spotify.com/track/4DPj9E7QNoh0TLj48fCyE1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:02 | 2025-09-16 |  |
 | [Eternal Glow](https://open.spotify.com/track/4RbKd0s1UaIlS3AoIvxq6M) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:07 | 2025-09-17 |  |
 | [Eternal Glow \(another\)](https://open.spotify.com/track/5uh4dlghtfkt3m28pj6vOa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:49 | 2025-09-17 |  |
@@ -1368,6 +1369,7 @@
 | [Geek](https://open.spotify.com/track/3sIKgS05lsszua6zt0rgf2) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Geek](https://open.spotify.com/album/15Gao0gftur4ZQWlDyIKSL) | 1:16 | 2025-07-28 |  |
 | [Gen Z](https://open.spotify.com/track/1GRfpSMCs5diA5kzri51R0) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Gen Z](https://open.spotify.com/album/0D8bQi3QsqOOwaJ9kjcIme) | 3:24 | 2025-06-04 |  |
 | [General movie](https://open.spotify.com/track/6zp8CmPRlhYhUIFeUR4ggK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 4:33 | 2025-08-28 |  |
+| [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-01-05 |  |
 | [Ghost Addiction](https://open.spotify.com/track/07jH4LK6Xhj9pFVa11MwXq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:33 | 2025-09-15 |  |
 | [Ghost in the Night](https://open.spotify.com/track/4gkvsdSDr80wmpkrwzoWZj) | [Ariana D'oro](https://open.spotify.com/artist/3XM73ioBcWDO16RTYCL7G5) | [Ghost in the Night](https://open.spotify.com/album/0mg9rU1sEzf9vvVfEtlpJz) | 4:23 | 2025-03-16 |  |
 | [Ghost of Our Love](https://open.spotify.com/track/1juwQwCDxVgc4N8rAMu2OC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:14 | 2025-09-19 |  |
@@ -3581,7 +3583,7 @@
 | [Voglio Ballare \(another\)](https://open.spotify.com/track/7kOdbu6pz6ek6Njy2LZVsa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Music in Italiano](https://open.spotify.com/album/1uRDJZMPls64pJttY6wvvM) | 2:47 | 2025-09-18 |  |
 | [Voi tempio del suo amore](https://open.spotify.com/track/6duHfI87CM4gpmtWsWojDP) | [Edoardo Tincani](https://open.spotify.com/artist/76cMAkIwyKyBUx8GbW3qXF) | [AEDO](https://open.spotify.com/album/4eVrnvJtuYhXH9dT9mC2nH) | 3:39 | 2025-06-29 |  |
 | [Void](https://open.spotify.com/track/63lJnunhG6aZznnGSwIwFY) | [Atopics](https://open.spotify.com/artist/4zrFaxH2qgffuRDxgna5wI) | [Void](https://open.spotify.com/album/0Bxhc1ozn3sFXfBVEztfni) | 3:33 | 2025-06-11 |  |
-| [Void](https://open.spotify.com/track/7sMgyUSWdvH9XMOh4R21lh) | [YZL](https://open.spotify.com/artist/5lfDtmxDp9WGk7NSWs6Nyr) | [Love is Rage](https://open.spotify.com/album/1cbpcAcUfHMbjA2eV60tAn) | 2:10 | 2025-05-28 |  |
+| [Void](https://open.spotify.com/track/7sMgyUSWdvH9XMOh4R21lh) | [Sireno](https://open.spotify.com/artist/0XPMrfe6A6QuoovKqDQklh) | [Love is Rage](https://open.spotify.com/album/1cbpcAcUfHMbjA2eV60tAn) | 2:10 | 2025-05-28 |  |
 | [Void Universe](https://open.spotify.com/track/6G0oEwBz3LBTTlooZd0BMW) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [Void Universe](https://open.spotify.com/album/5M58cr7ds1CDZKiNvSmFxq) | 1:56 | 2025-07-03 |  |
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volerò](https://open.spotify.com/track/6Dx4XY1g4Zez7HFaPznUiV) | [Luca Caperna](https://open.spotify.com/artist/3Qv0BzsqKNH5yUtu0EXM1X) | [Volerò](https://open.spotify.com/album/3iVLPyv5X1BfCXEbQh8TNo) | 3:38 | 2025-07-07 |  |

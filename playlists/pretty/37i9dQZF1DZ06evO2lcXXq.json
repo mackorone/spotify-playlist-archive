@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367596,
+  "num_followers": 367604,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAtC5bXio6YEg6Pe/mR7OT2",
+  "snapshot_id": "aVmtgAAAAACVpxtRDJpu584c6UcpRAkI",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 248386,
-      "name": "Still Rolling Stones",
-      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Look Up Child",
-      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Wordless - Bonus Track",
+      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Wordless - Bonus Track",
-      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
     },
     {
       "added_at": null,

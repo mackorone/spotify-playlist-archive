@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,601 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,637 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 83 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
 | 84 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
 | 85 | [Dancing in the Dark](https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [Dancing in the Dark](https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro) | 3:18 |
-| 86 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
+| 86 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 87 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
-| 88 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
-| 89 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
-| 90 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
+| 88 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
+| 89 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
+| 90 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
 | 91 | [colors](https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:01 |
 | 92 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
 | 93 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |

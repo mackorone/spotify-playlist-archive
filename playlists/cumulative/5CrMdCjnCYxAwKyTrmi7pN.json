@@ -3975,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "times of my life",
+        "url": "https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168719,
+      "name": "times of my life",
+      "url": "https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv"
+    },
+    {
+      "album": {
         "name": "TN's",
         "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
       },

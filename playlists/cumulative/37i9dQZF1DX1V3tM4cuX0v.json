@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Irina Rimes & Jerry Heil",
+  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Drevo",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
+        "url": "https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq"
+      },
+      "artists": [
+        {
+          "name": "Drevo",
+          "url": "https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178421,
+      "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
+      "url": "https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB"
+    },
+    {
+      "album": {
         "name": "\u0416\u0438\u0432\u0438\u0439",
         "url": "https://open.spotify.com/album/67jdkyzs56Pq6qx9XJhu9f"
       },
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 164543,
       "name": "\u0427\u041e\u041c\u0423",
       "url": "https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3"

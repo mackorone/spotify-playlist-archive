@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,521 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,548 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 10 | [Viola](https://open.spotify.com/track/7d0D66qnkwokI5cGH3QIba) | [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Viola](https://open.spotify.com/album/7m90AKkRlL7e7XOKNteeJp) | 2:17 |
 | 11 | [cold blue](https://open.spotify.com/track/5rt8MEeh45RIWFNMI18I0e) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc), [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [cold blue](https://open.spotify.com/album/5zjdEKXngK6TTPuAKdlS3R) | 1:53 |
 | 12 | [Drifted](https://open.spotify.com/track/7kupYE9bCyygIXH4bcnnfF) | [Koalres](https://open.spotify.com/artist/1yraXwXFQ7TWljCiHGsA3s) | [Drifted](https://open.spotify.com/album/2CwBK3xznMS88b9LdxYKg1) | 1:50 |
-| 13 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
+| 13 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
 | 14 | [Loom](https://open.spotify.com/track/3ub6fJTpAlhNiZNVR6Uyrb) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Loom](https://open.spotify.com/album/1439GFqOXW9Hk3BqGRowbt) | 1:54 |
 | 15 | [new start](https://open.spotify.com/track/6yKSziUfTDwcJNbqEAnGOs) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [new start](https://open.spotify.com/album/7kuQqdzD12ZsRY9TK9Xjmb) | 2:21 |
 | 16 | [Marigold](https://open.spotify.com/track/4jmy83rM8j9ld8yU2kcIEe) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [rabson beats](https://open.spotify.com/artist/3VzEgExSrnP1wtVR9i841V) | [Marigold](https://open.spotify.com/album/5s9HWjsgAuuSvhE4em6409) | 1:46 |

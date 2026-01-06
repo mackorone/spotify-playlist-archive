@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 184302,
+  "num_followers": 184444,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "In The Blue Of The Evening",
+      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "In The Blue Of The Evening",
-      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 209012,
       "name": "I Waited For You - Remastered 1998",
       "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -219,18 +203,18 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+      "duration_ms": 216626,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -247,6 +231,22 @@
       "duration_ms": 319626,
       "name": "Velvet Moon",
       "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 246506,
       "name": "I Was Doing All Right",
       "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Dexter Blows Hot & Cool",
-        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 222763,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 237800,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Dexter Blows Hot & Cool",
+        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 222763,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
-      },
-      "artists": [
-        {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "The Wonderful World Of Jazz",
         "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
@@ -851,34 +835,18 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -899,18 +867,34 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
         }
       ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -935,22 +919,18 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -983,6 +963,26 @@
       "duration_ms": 330800,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Steppin'Out: Astaire Sings",
-        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Steppin'Out: Astaire Sings",
+        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
     },
     {
       "added_at": "2025-12-02 13:50:54",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-12-02 13:50:54",
       "album": {
-        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
-        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Your Love Has Faded",
-      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
-    },
-    {
-      "added_at": "2025-12-02 13:50:54",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 434666,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
+    },
+    {
+      "added_at": "2025-12-02 13:50:54",
+      "album": {
+        "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
+        "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Your Love Has Faded",
+      "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
     },
     {
       "added_at": "2025-12-02 13:50:54",

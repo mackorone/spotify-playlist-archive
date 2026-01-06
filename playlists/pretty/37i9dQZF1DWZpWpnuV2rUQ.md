@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Lo más pegado, lo más random, lo más 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,370 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,371 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 10 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
 | 11 | [FRIKI](https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:32 |
 | 12 | [Yo no soy esa Julieta](https://open.spotify.com/track/43nbhltYvSgh05Mfq26BuE) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Yo no soy esa Julieta](https://open.spotify.com/album/1Wb79wBSKsALyMtgFOYCZp) | 3:16 |
-| 13 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 13 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 14 | [No me quiero ver](https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [No me quiero ver](https://open.spotify.com/album/4GZA9S2CSDq0i0yCS6vc2a) | 1:51 |
 | 15 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
 | 16 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |

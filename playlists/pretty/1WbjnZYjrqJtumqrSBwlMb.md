@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,195 songs - 3 day 1 hr 28 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,196 songs - 3 day 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1203,5 +1203,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1193 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 |
 | 1194 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 1195 | [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 |
+| 1196 | [Roses](https://open.spotify.com/track/51w2uhHVvzmqCd3leyDIY2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 4:05 |
 
-Snapshot ID: `AAAJm07uHEJZooihUsiHKg3zFwSjotHm`
+Snapshot ID: `AAAJnKQ3dZp9qG3U8EsZNxWToadWpROs`

@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 331475,
+  "num_followers": 331525,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 259039,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Home (Remixes)",
-        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 334867,
-      "name": "Holy - Frank Wiedemann Remix",
-      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Secret Places (Club Version)",
         "url": "https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 417453,
       "name": "Secret Places - Club Version",
       "url": "https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 334867,
+      "name": "Holy - Frank Wiedemann Remix",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

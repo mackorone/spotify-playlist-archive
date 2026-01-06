@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra den gjengen i Hver gang vi møtes!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,179 likes - 89 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,175 likes - 89 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

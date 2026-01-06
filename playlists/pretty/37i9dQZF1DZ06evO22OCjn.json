@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 332247,
+  "num_followers": 332289,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABRmAi71jcSYQNcZ5zF4fBR",
+  "snapshot_id": "aVmtgAAAAADFLQopC9gvfVG7RCgZov+1",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/6KFWubocLBhrLs31RpEdR9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 159373,
-      "name": "No Panic",
-      "url": "https://open.spotify.com/track/679lDJUvGZrhtocsB26ON4"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32"
     },
     {
       "added_at": null,

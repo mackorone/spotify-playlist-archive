@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,498 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,511 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 46 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
 | 47 | [She Like \(feat\. Blanco\)](https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [She Like \(feat\. Blanco\)](https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ) | 2:54 |
 | 48 | [L.O.V.E\. Me](https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:39 |
-| 49 | [Girl Crush](https://open.spotify.com/track/6T3QToHkDxXdIQGLjkgK9t) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 4:04 |
-| 50 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
+| 49 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
+| 50 | [Girl Crush](https://open.spotify.com/track/6T3QToHkDxXdIQGLjkgK9t) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 4:04 |
 
 Snapshot ID: `AAAAAHYaGzpu9Q2kXo5GK144wcU2VV/G`

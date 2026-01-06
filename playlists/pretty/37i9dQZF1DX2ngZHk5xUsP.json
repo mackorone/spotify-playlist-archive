@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21449,
+  "num_followers": 21455,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 214567,
+      "name": "Monokrom",
+      "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
         "name": "Puting Beliung",
         "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 246153,
       "name": "Bintang 5",
       "url": "https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 214567,
-      "name": "Monokrom",
-      "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
     },
     {
       "added_at": "2025-09-26 10:27:40",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Jalaran Sadrah",
-        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
-      },
-      "artists": [
-        {
-          "name": "Barasuara",
-          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Terbuang Dalam Waktu",
-      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 242000,
       "name": "Hati-Hati di Jalan",
       "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
+        "name": "Jalaran Sadrah",
+        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Terbuang Dalam Waktu",
+      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
     },
     {
       "added_at": "2025-09-26 09:30:14",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Tutur Batin",
-        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 218735,
-      "name": "Dunia Tipu-Tipu",
-      "url": "https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 254600,
       "name": "Tujuh Belas",
       "url": "https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 218735,
+      "name": "Dunia Tipu-Tipu",
+      "url": "https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF"
     },
     {
       "added_at": "2025-09-26 09:30:14",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG"
     },
     {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Tutur Batin",
-        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 215591,
-      "name": "Tutur Batin",
-      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
-    },
-    {
       "added_at": "2025-10-03 00:47:22",
       "album": {
         "name": "Manusia",
@@ -343,6 +327,22 @@
       "duration_ms": 224500,
       "name": "Satu Kali",
       "url": "https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 215591,
+      "name": "Tutur Batin",
+      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
     },
     {
       "added_at": "2025-09-26 09:30:14",

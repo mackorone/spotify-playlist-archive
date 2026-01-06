@@ -4,7 +4,7 @@
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-470 songs - 1 day 0 hr 26 min
+471 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alegre y Positivo](https://open.spotify.com/track/4TFkCeHW7vZO6fI2Dvn97S) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Alegre y Positivo](https://open.spotify.com/album/6334KAMxGu0Xz1QPIn1MkX) | 3:28 | 2023-04-18 | 2024-02-13 |
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-05-11 | 2022-07-03 |
 | [All I See](https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [TOLEDØ](https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms) | [All I See](https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka) | 3:09 | 2025-05-30 |  |
+| [Altamar](https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV) | [Cross MX](https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [CATARSIS](https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP) | 2:29 | 2025-10-03 |  |
 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 | 2025-04-23 |  |
 | [AMBARADA](https://open.spotify.com/track/1xuolICb6ZyNdwHxvX093W) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [AMBARADA](https://open.spotify.com/album/70ilT0Vk61pnyqDka9Pex2) | 1:38 | 2022-05-13 | 2022-07-16 |
 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2021-10-01 | 2022-05-08 |
@@ -89,7 +90,7 @@
 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 | 2025-05-09 |  |
 | [Cocodrilos](https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B) | [Oveja](https://open.spotify.com/artist/3XhLzBXSvRtyTI1scZa2mX) | [Cocodrilos](https://open.spotify.com/album/5K55oM6XujNajJ1NPlvOSA) | 2:46 | 2025-06-10 | 2025-09-11 |
 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 | 2021-10-01 | 2022-05-11 |
-| [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 | 2025-04-23 |  |
+| [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 | 2025-04-23 | 2026-01-06 |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-05-11 | 2022-07-24 |
 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 | 2023-04-18 | 2023-07-02 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-08-01 | 2023-04-19 |

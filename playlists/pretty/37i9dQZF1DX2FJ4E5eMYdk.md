@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,454 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,463 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 47 | [250 Miles](https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO) | 4:52 |
 | 48 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
 | 49 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
-| 50 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
-| 51 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 |
-| 52 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
-| 53 | [Loading Zones](https://open.spotify.com/track/69o00fGvsei250jH7bF781) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 3:23 |
-| 54 | [Rock Bottom](https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Rock Bottom](https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD) | 2:44 |
-| 55 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 |
-| 56 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
-| 57 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 58 | [Kingfisher](https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/7hL5azg6n7pSKu5sumueBL) | 6:58 |
-| 59 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
-| 60 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
+| 50 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
+| 51 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
+| 52 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
+| 53 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 |
+| 54 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
+| 55 | [Loading Zones](https://open.spotify.com/track/69o00fGvsei250jH7bF781) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 3:23 |
+| 56 | [Rock Bottom](https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Rock Bottom](https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD) | 2:44 |
+| 57 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 |
+| 58 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 59 | [Kingfisher](https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/7hL5azg6n7pSKu5sumueBL) | 6:58 |
+| 60 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 
 Snapshot ID: `AAAAAMIzA81XqaUJ7bH8rKur5qvJxkza`

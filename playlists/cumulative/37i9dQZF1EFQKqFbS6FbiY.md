@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-726 songs - 1 day 11 hr 21 min
+727 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [A Guardar](https://open.spotify.com/track/1J4x1ItmfKaAmJ9at6gstK) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Cinco Monitos: Canciones para Aprender](https://open.spotify.com/album/4A8J1zii3xh59Uzxah42OG) | 2:17 | 2023-12-30 | 2025-06-28 |
 | [A Melhor de Cama \(Ao Vivo\)](https://open.spotify.com/track/69yKDnOmcoRGvYwAHkMSqE) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [A Gente Acertou \(Ao Vivo\)](https://open.spotify.com/album/7f9lP1wSft6PMoya01QmDn) | 3:15 | 2023-12-30 | 2025-06-28 |
 | [A Promessa \(Mitos e Contos\) \- Ao Vivo](https://open.spotify.com/track/6elyizem9HA9mGNCaV9UJo) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo em São Paulo](https://open.spotify.com/album/4W9hStkV2XU2CZLdMeDG0T) | 3:24 | 2023-12-30 | 2025-06-28 |
+| [A Transante](https://open.spotify.com/track/0wZM8rw8SREWHpFsaiOKJT) | [Gildean Marques](https://open.spotify.com/artist/636uD37CrEPFsBf7CJiy29) | [A Transante](https://open.spotify.com/album/5BbjUIYIv5ehIHDRP8EjfS) | 3:03 | 2026-01-05 |  |
 | [A Transante \- Ao Vivo](https://open.spotify.com/track/1WWG3hJR52hRmpDvqGPDto) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/4OVaYGDSwhdYAHjcQjwfIl) | 2:59 | 2024-03-26 | 2025-11-14 |
-| [A Transante \- Ao Vivo](https://open.spotify.com/track/2cPXvGMGXYfWKjWrYoofst) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:59 | 2025-11-13 |  |
+| [A Transante \- Ao Vivo](https://open.spotify.com/track/2cPXvGMGXYfWKjWrYoofst) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:59 | 2025-11-13 | 2026-01-06 |
 | [A Vontade Era Pisar](https://open.spotify.com/track/7mIEtL7Xl5V8DMs1ZKGq6i) | [Gabi Luthai](https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV) | [A Vontade Era Pisar](https://open.spotify.com/album/3yqXIkE3baIFdI9MEaXtdI) | 2:32 | 2023-12-30 |  |
 | [Abertura](https://open.spotify.com/track/5v3erkrT7uIk5uHp7b6ae5) | [Cid Moreira](https://open.spotify.com/artist/0RWMnnkGE62cqu6RrQk1P0) | [Passagens Bíblicas: Vol: 1, Gênesis \(1º Parte\)](https://open.spotify.com/album/4ndRTecyQJPcxYuVoqi2m4) | 1:42 | 2025-01-09 | 2025-04-12 |
 | [Acabou a Liga](https://open.spotify.com/track/0HUbByQzcQA8PbEBP4rGXP) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Acabou a Liga](https://open.spotify.com/album/3Ndj9pUiE477kySnSOSt0T) | 3:00 | 2023-12-30 |  |

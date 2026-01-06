@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-634 songs - 1 day 8 hr 12 min
+635 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-08-04 | 2024-05-25 |
 | [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-21 | 2025-06-21 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2022-03-25 | 2022-04-15 |
+| [Damn I Love Miami](https://open.spotify.com/track/7t1SuBddByBghdAD47acYa) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Damn I Love Miami](https://open.spotify.com/album/2WzCFW3ywduzHLbPNMrzji) | 2:41 | 2026-01-05 |  |
 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 | 2022-03-25 | 2022-04-19 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-07-28 | 2024-04-19 |
 | [Dance Monkey](https://open.spotify.com/track/421leiR6jKlH5KDdwLYrOs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/5i6CS5XcLZGLgaNCKlJvc2) | 3:29 | 2022-03-25 |  |
@@ -511,7 +512,7 @@
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-08-09 | 2025-01-04 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 | 2024-02-17 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-03-21 | 2025-12-30 |
-| [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-12-29 |  |
+| [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-12-29 | 2026-01-06 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-10-07 | 2025-06-21 |
 | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1xU2QZ40MY4Ex2pfczZa9U) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3R4bm24vpp2UiKr567EtAD) | 2:46 | 2022-03-25 | 2022-04-21 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2022-03-25 | 2022-04-16 |

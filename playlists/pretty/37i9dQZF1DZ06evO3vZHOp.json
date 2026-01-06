@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 373396,
+  "num_followers": 373427,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAD3RMLtmQ/IREyM/vyIYCJg",
+  "snapshot_id": "aVmtgAAAAACp+0g0Ozq+5c2jqF8Sa1mi",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Traviesa (feat. Eladio Carrion)",
-      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Traviesa (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Flores en An\u00f3nimo",
+      "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "$extape",
         "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 244894,
       "name": "$extape",
       "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Flores en An\u00f3nimo",
-      "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 195712,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/4MfDHmbJQNpeBp83uSlsSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "No Te Deseo el Mal",
-      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "No Te Deseo el Mal",
+      "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
       "added_at": null,

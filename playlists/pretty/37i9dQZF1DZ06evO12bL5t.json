@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 140591,
+  "num_followers": 140597,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAyfVcVT5fK6bfqtpWHofS0",
+  "snapshot_id": "aVmtgAAAAADiuIrAZFwpQoXap7kMtnOm",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 253196,
-      "name": "Versos del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
+      "duration_ms": 199200,
+      "name": "Piloto Filoso",
+      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+        "name": "Versos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Piloto Filoso",
-      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
+      "duration_ms": 253196,
+      "name": "Versos del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/2WbeOf9bo82FZG0OMGYRAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -451,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Ultimos Son Los Primeros",
         "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
@@ -483,6 +447,22 @@
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,
@@ -507,6 +487,26 @@
       "duration_ms": 191250,
       "name": "Francotirador",
       "url": "https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
     },
     {
       "added_at": null,

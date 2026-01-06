@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,062 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,063 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 68 | [Alive](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 |
 | 69 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
 | 70 | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP) | 3:18 |
-| 71 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
-| 72 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
+| 71 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
+| 72 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
 | 73 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
 | 74 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 |
 | 75 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |

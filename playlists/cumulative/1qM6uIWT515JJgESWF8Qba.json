@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "What's Wrong With You?",
+        "url": "https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260127,
+      "name": "What's Wrong With You?",
+      "url": "https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS"
+    },
+    {
+      "album": {
         "name": "A Carnival of Reveries",
         "url": "https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G"
       },

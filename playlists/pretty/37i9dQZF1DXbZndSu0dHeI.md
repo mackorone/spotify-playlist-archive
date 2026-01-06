@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,252 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,258 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 46 | [What Are We Doing?](https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [What Are We Doing?](https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC) | 3:13 |
 | 47 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 48 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
-| 49 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
-| 50 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
+| 49 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
+| 50 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
 | 51 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
 | 52 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 |
 | 53 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 80 | [Don’t Worry Baby](https://open.spotify.com/track/7rVlBTbthZ4k2kr423Mxhn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Don’t Worry Baby](https://open.spotify.com/album/6rgMgx4hIKvIuJHgxGgVfP) | 3:23 |
 | 81 | [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 |
-| 82 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 |
-| 83 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
-| 84 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
+| 82 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
+| 83 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 |
+| 84 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
 | 85 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 |
 | 86 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
 | 87 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 |

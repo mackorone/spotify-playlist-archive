@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,350 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,336 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 79 | [プラットフォーム](https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12) | 3:30 |
 | 80 | [シェイプシフター](https://open.spotify.com/track/6EVVciBwPE9AUDmAHIWyt6) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [シェイプシフター](https://open.spotify.com/album/0LGgsmlcCxC7PAcif3bk0x) | 3:31 |
 
-Snapshot ID: `AAAAAKt3YwI+QQhcgft54K9bHEhGdGlz`
+Snapshot ID: `AAAAANOOw/I5bZxB6BmpJtsgEmjJE47+`

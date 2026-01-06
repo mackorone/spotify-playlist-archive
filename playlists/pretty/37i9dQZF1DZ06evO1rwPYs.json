@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106719,
+  "num_followers": 106716,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABZwLAk8o1/oUWnSj/YOM2o",
+  "snapshot_id": "aVmtgAAAAABbAAF1SLklUy8f+XtBEJb/",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "Por Si Acaso No Regreso",
+      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Pilanderas",
         "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 199666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "Por Si Acaso No Regreso",
-      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Trio! (Remastered 2024)",
-        "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
@@ -852,17 +852,13 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 346144,
-      "name": "Nadie Se Salva de la Rumba - Remastered 2024",
-      "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
+      "duration_ms": 331244,
+      "name": "Canto a la Habana - Remastered 2024",
+      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
     },
     {
       "added_at": null,
@@ -887,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
+        "name": "Tremendo Trio! (Remastered 2024)",
+        "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
       },
       "artists": [
         {
@@ -896,13 +892,17 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
         }
       ],
-      "duration_ms": 331244,
-      "name": "Canto a la Habana - Remastered 2024",
-      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
+      "duration_ms": 346144,
+      "name": "Nadie Se Salva de la Rumba - Remastered 2024",
+      "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "No Encuentro Palabras",
-      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Espa\u00f1a",
         "url": "https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 217478,
       "name": "Sabor Gitano",
       "url": "https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "No Encuentro Palabras",
+      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
     }
   ],
   "unique_name": "This Is Celia Cruz",

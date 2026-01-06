@@ -16601,6 +16601,24 @@
     },
     {
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245840,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/51w2uhHVvzmqCd3leyDIY2"
+    },
+    {
+      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },

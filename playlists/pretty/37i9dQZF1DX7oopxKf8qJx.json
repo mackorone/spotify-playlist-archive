@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 131563,
+  "num_followers": 131602,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Marylin",
+      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "A Warm Shade of Ivory",
         "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Marylin",
-      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The Many Moods Of Murry Wilson",
         "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 176240,
       "name": "Islands In The Sky",
       "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Market Day",
-      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -459,18 +443,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Paris When It Sizzles",
-        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+      "duration_ms": 150440,
+      "name": "Market Day",
+      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -487,6 +471,22 @@
       "duration_ms": 148106,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Paris When It Sizzles",
+        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 216960,
       "name": "Autumn in New York",
       "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "And Awaaay We Go! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 196666,
       "name": "Melancholy Serenade",
       "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -699,38 +715,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music From Hollywood",
         "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 351559,
       "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
       "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -779,6 +747,38 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/5spJDNuS07TiEXZhYcuneJ"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 197653,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -855,6 +839,22 @@
       "duration_ms": 168573,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Pops Stoppers",
-        "url": "https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9"
-      },
-      "artists": [
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Liebestraum",
-      "url": "https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "My Parade of Golden Favorites",
         "url": "https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Pops Stoppers",
+        "url": "https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9"
+      },
+      "artists": [
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Liebestraum",
+      "url": "https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ"
     },
     {
       "added_at": "2024-07-17 14:53:29",

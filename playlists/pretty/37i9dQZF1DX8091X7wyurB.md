@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,367 likes - 80 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,709 likes - 80 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 37 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
 | 38 | [What A Beautiful Name \- Live](https://open.spotify.com/track/4EiKZxDgW0sbT8BZ9Gl6dC) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [let there be light.](https://open.spotify.com/album/5afUmwQPcIv6g6Yi5DW7VB) | 5:43 |
 | 39 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
-| 40 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
-| 41 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 |
+| 40 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 |
+| 41 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
 | 42 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 43 | [I Surrender \- Live](https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW) | 5:46 |
 | 44 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 |

@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 92 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
 | 93 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
 | 94 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
-| 95 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
-| 96 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
+| 95 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
+| 96 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 97 | [I Love You Now Change \(Acoustic\)](https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy \(Acoustic\)](https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF) | 3:40 |
 | 98 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
 | 99 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 126 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 127 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcGFOgAAAADSJApfGRGb8CSrsULt9Jx5`
+Snapshot ID: `AcGKngAAAAAO++2oQ5jj0otXRV/WOZRN`

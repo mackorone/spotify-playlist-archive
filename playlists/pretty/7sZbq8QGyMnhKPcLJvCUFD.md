@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 719,368 likes - 254 songs - 12 hr 7 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 719,328 likes - 254 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 3 | [Don't Wake Me Up](https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Don't Wake Me Up](https://open.spotify.com/album/3BG9PweBEnI1wE8Vvtvo4L) | 2:31 |
 | 4 | [See The Sun](https://open.spotify.com/track/5nzFl5zQwNpT3NQFuJUqEx) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [weloveyouspydee](https://open.spotify.com/artist/3xoGYBTUZ0yA2kQEHoTYtn) | [See The Sun](https://open.spotify.com/album/5ixWPQmnNuFUomTUbHdFps) | 3:04 |
 | 5 | [Superhero](https://open.spotify.com/track/3F01egp8emkhIfDZ61CxV5) | [Alex Hagen](https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW) | [Superhero](https://open.spotify.com/album/12weYcq5Cz3NbSPITZJ5v9) | 2:58 |
-| 6 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Southby](https://open.spotify.com/artist/4VmXTR5qZMpVBKPszYvoMK) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 |
+| 6 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 |
 | 7 | [HYPNOTIZED!](https://open.spotify.com/track/7MMxOrBVWEwOOwCfoNbISt) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag) | [HYPNOTIZED!](https://open.spotify.com/album/6oPFiptQy6LxKWj8JTC3MI) | 2:22 |
 | 8 | [SCREAM OUT LOUD](https://open.spotify.com/track/1w3qBi32Ae84aKZgUvba5c) | [REKZ!](https://open.spotify.com/artist/4lQFgl0hhPyYY5NPVJAZQp), [freddz808](https://open.spotify.com/artist/67JUH5exAyfnDIndvNwiU5) | [SCREAM OUT LOUD](https://open.spotify.com/album/1jzCm524xGidICYKVs4mHU) | 2:58 |
 | 9 | [Where We Are](https://open.spotify.com/track/3GYqn2Vl2JMTqi129cML3z) | [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Triangle](https://open.spotify.com/artist/5VIY8D1hZVFHP9AUWR4iRo), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Where We Are](https://open.spotify.com/album/4zSBd7jkLGjl1fkBSrcfef) | 2:06 |

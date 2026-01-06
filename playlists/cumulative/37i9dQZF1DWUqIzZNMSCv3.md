@@ -2,7 +2,7 @@
 
 ### [Classical Piano](https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3)
 
-> The world's most iconic and relaxing classical piano.
+> Relaxing classical piano.
 
 161 songs - 10 hr 33 min
 

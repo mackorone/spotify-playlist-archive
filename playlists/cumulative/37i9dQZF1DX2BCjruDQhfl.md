@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Dior & kans
 
-205 songs - 9 hr 23 min
+206 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Geen Optie](https://open.spotify.com/track/1paoqM4S9a6X39SfZ9dK9R) | [Romeo Donk](https://open.spotify.com/artist/1sYqtLf2UW19ZjKhmdPAY0) | [Geen Optie](https://open.spotify.com/album/00ztR0v3r8Kw6d00mOyM9X) | 1:53 | 2025-12-04 |  |
 | [GEVAARLIJK](https://open.spotify.com/track/3ogMU4L0IEnBKFOt43b57M) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [GEVAARLIJK](https://open.spotify.com/album/1w2i8BKXT4NLZ58sluSaku) | 2:37 | 2025-11-07 | 2025-12-19 |
 | [Gewond geraakt](https://open.spotify.com/track/4t1c62awOwIpsMLOfmbUR0) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Gewond geraakt](https://open.spotify.com/album/6uKWwGIrPrKybBoK1t1w4S) | 2:42 | 2025-07-17 | 2025-09-19 |
+| [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-05 |  |
 | [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 | 2025-11-20 |  |
 | [Goud Van Binnen](https://open.spotify.com/track/14kL0dqJkB6Xzn1R6UxFc7) | [Jordan Knows](https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId), [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Goud Van Binnen](https://open.spotify.com/album/5RMoL7ZnYJKDE96wHxGJfD) | 2:30 | 2025-07-17 | 2025-09-12 |
 | [Green Flags](https://open.spotify.com/track/44sRZttowhlCIYjpSqG1px) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Green Flags](https://open.spotify.com/album/7pvabLAmCchfK2RGG1xjEo) | 2:21 | 2025-07-17 | 2025-08-05 |

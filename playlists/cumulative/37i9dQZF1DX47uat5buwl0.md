@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-124 songs - 5 hr 27 min
+125 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Eatin' Good](https://open.spotify.com/track/1NIxmZsepizxk5Nv7oxVhP) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/2IsPyuqc8MBTSygIdYibZE) | 3:41 | 2025-07-17 | 2025-09-17 |
 | [Echo van de Nacht](https://open.spotify.com/track/6PQNVtaWphnTqYmWY9TbWU) | [TIJE](https://open.spotify.com/artist/55gYZdYxonabF6ptsbSm7C), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu), [KlikKlak](https://open.spotify.com/artist/000TJhsWOqbyNbTqCU26cW) | [Echo van de Nacht](https://open.spotify.com/album/6ri5kmnWT8i5WzbxZpdUus) | 2:22 | 2025-07-17 | 2025-12-07 |
 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 | 2025-11-27 |  |
+| [Farmcore](https://open.spotify.com/track/6eWWXpjkeF62wUEkW41cLC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Kleinkunst](https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe) | 3:27 | 2026-01-05 |  |
 | [FHM 500](https://open.spotify.com/track/7LwqG6rc5bbSv4ohKRfEHH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [FHM 500](https://open.spotify.com/album/0MHhhzjPzZ8OcRgThJ5zk7) | 2:45 | 2025-07-17 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-17 | 2025-09-26 |
 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 | 2025-07-17 | 2025-12-12 |
@@ -93,7 +94,7 @@
 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 | 2025-10-17 |  |
 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 | 2025-12-11 |  |
 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 | 2025-07-17 |  |
-| [Op Zoek Naar Jou](https://open.spotify.com/track/42Z1xSYU3naHsv2UmprqUT) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [An Ming Hauptmeijer](https://open.spotify.com/artist/6q2zZvgo9fpEyCsBf75Jzw), [Cas Moerdijk](https://open.spotify.com/artist/5ZlS27qbkEokBSp8ShheP0) | [ANNO ONS](https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf) | 2:25 | 2025-12-05 |  |
+| [Op Zoek Naar Jou](https://open.spotify.com/track/42Z1xSYU3naHsv2UmprqUT) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [An Ming Hauptmeijer](https://open.spotify.com/artist/6q2zZvgo9fpEyCsBf75Jzw), [Cas Moerdijk](https://open.spotify.com/artist/5ZlS27qbkEokBSp8ShheP0) | [ANNO ONS](https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf) | 2:25 | 2025-12-05 | 2026-01-06 |
 | [Ordinair](https://open.spotify.com/track/033bjiKl7ytbU1W9XRvZD8) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Ordinair](https://open.spotify.com/album/4ZlMuABcza8aefzN5yxfL4) | 2:34 | 2025-11-06 | 2025-11-25 |
 | [Play Hard \(feat\. Ne\-Yo & Akon\) \- New Edit](https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Play Hard \(feat\. Ne\-Yo & Akon\) \[New Edit\]](https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7) | 3:28 | 2025-12-05 |  |
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-12-15 |  |

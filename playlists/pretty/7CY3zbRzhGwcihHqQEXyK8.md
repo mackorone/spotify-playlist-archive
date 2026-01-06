@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 724 songs - 1 day 12 hr 40 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 746 songs - 1 day 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -732,5 +732,27 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 722 | [1DK](https://open.spotify.com/track/57p3UI48zf91OWcJEyFPAn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:00 |
 | 723 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 |
 | 724 | [A Finale](https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:32 |
+| 725 | [Glitterpop Likes Em Younger!](https://open.spotify.com/track/59E8DgWxU3Ls9jZel06e4i) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 1:53 |
+| 726 | [To Know](https://open.spotify.com/track/5jTjhSlzuGsfgLiKpiHKXD) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 1:20 |
+| 727 | [Paradise](https://open.spotify.com/track/4jFFK61bnT8fS99ps26tSG) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:08 |
+| 728 | [Furry Rave Party](https://open.spotify.com/track/2owuxpKi2lJ3g9RGD7EfFs) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:28 |
+| 729 | [King Kong](https://open.spotify.com/track/6MZRZjHMrZV7XGuOzMjJGl) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:02 |
+| 730 | [On My Side \(Interlude\)](https://open.spotify.com/track/6gy6dseudCPUtcxN55LTiO) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 1:23 |
+| 731 | [Waited 2 Long](https://open.spotify.com/track/4ajkMLhrbXoK1pkpUBFIiv) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:50 |
+| 732 | [AP On My Wrist](https://open.spotify.com/track/572MINgIPGnLKQDI8B8OAc) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:03 |
+| 733 | [Motion](https://open.spotify.com/track/1clTLb5XI3PRoQL2UOhDb8) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:48 |
+| 734 | [Club](https://open.spotify.com/track/4OR0Kjh0eMPg0q0renw1jW) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:13 |
+| 735 | [Endless](https://open.spotify.com/track/1sGhdjSLx3mbN7m52qzqvc) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 2:03 |
+| 736 | [Jazzy Night](https://open.spotify.com/track/6vr8LMzwKsx43Zs551LL1G) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [Waited 2 Long](https://open.spotify.com/album/3U7Hz93p4mcBVt2EAsYz2r) | 1:13 |
+| 737 | [All Night](https://open.spotify.com/track/0vJegrOz7MFR96WNyjCpYH) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 3:11 |
+| 738 | [Goodbye](https://open.spotify.com/track/4a260DovngHqYh0MnVvI1y) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:39 |
+| 739 | [Spirits](https://open.spotify.com/track/05QDf81lTbt1uSsDxi3fVA) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF), [brown4k](https://open.spotify.com/artist/18TAPqyN8BX7f1UeZkhdcz) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:46 |
+| 740 | [Fed Up](https://open.spotify.com/track/2OudbF3z2KkhAMpWTAjvDy) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 3:02 |
+| 741 | [Confession](https://open.spotify.com/track/0zHPdFG8xrNIajrd62djMR) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:50 |
+| 742 | [Kiss U Again](https://open.spotify.com/track/17iKxzQyNhbsaAqg9Ike7y) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 3:11 |
+| 743 | [Yiff](https://open.spotify.com/track/5CEkkugiDLpaskVaibqnnN) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:01 |
+| 744 | [Tryna Do](https://open.spotify.com/track/2DQ63DEphAwNF8Bti0DkHg) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:36 |
+| 745 | [Baddie](https://open.spotify.com/track/3mdvRHoij9c39IUYGmqLXc) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:09 |
+| 746 | [Furry Princess](https://open.spotify.com/track/7H0jX1NIimAGyKBpbSxr4Z) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:34 |
 
-Snapshot ID: `AAABsny6/zEJS/0Pt6ukDCfDXAQ0mKuH`
+Snapshot ID: `AAABtNQt/iYl5RRyYs+jx5UVCuiU79pe`

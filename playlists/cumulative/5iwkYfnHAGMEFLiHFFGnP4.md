@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/5iwkYfnHAGMEFLiHFFGnP4.md) - cumulative - [plain](/playlists/plain/5iwkYfnHAGMEFLiHFFGnP4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5iwkYfnHAGMEFLiHFFGnP4)
 
-### [HITS 2025 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
+### [HITS 2026 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
 
-> HITS 2025 / 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Sombr
+> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Sombr
 
 60 songs - 3 hr 14 min
 

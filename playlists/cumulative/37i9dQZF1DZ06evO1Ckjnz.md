@@ -4,7 +4,7 @@
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 5 min
+72 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,12 +46,13 @@
 | [ON THE LOW](https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:16 | 2025-07-08 |  |
 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 | 2025-06-11 | 2025-10-02 |
 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 | 2025-06-11 | 2025-07-12 |
+| [PEARLS](https://open.spotify.com/track/0iuvopqKk5DK1R31UiBSkE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:24 | 2026-01-06 |  |
 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 | 2025-11-23 |  |
 | [PINK](https://open.spotify.com/track/1prAwbVHrDors266OwiTCy) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:24 | 2025-12-18 |  |
 | [PINK](https://open.spotify.com/track/6xh4sFZDwALtYx8VJ2eUPp) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:24 | 2025-06-11 | 2025-06-15 |
 | [Pop \(feat\. Rico Nasty\)](https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:16 | 2025-06-11 |  |
 | [Poppin](https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 2:47 | 2025-06-11 |  |
-| [PRETEA](https://open.spotify.com/track/0FGmiYt607UXBrInNFXtpU) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:37 | 2025-12-14 |  |
+| [PRETEA](https://open.spotify.com/track/0FGmiYt607UXBrInNFXtpU) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:37 | 2025-12-14 | 2026-01-06 |
 | [Pussy Poppin \(I Don't Really Talk Like This\)](https://open.spotify.com/track/5Y5pnYbPnZzUhv3KEa6qbd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 1:56 | 2025-06-11 |  |
 | [Rage](https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:20 | 2025-06-11 |  |
 | [Relative](https://open.spotify.com/track/2uQkZcC3640TUy5TivEgXT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 1:20 | 2025-10-20 | 2025-11-01 |

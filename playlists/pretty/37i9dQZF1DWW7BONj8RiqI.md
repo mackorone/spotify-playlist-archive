@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,142 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,196 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 76 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 |
 | 77 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |
 | 78 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 |
-| 79 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
-| 80 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
+| 79 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
+| 80 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
 | 81 | [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 |
 | 82 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
 | 83 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 86 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
 | 87 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 88 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
-| 89 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
-| 90 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
+| 89 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
+| 90 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
 | 91 | [Erupt](https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Fireman Hooper](https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T) | [Erupt](https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx) | 3:18 |
 | 92 | [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 |
 | 93 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 95 | [Vitamin D](https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Vitamin D](https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK) | 2:50 |
 | 96 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
 | 97 | [Position](https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Position](https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX) | 2:46 |
-| 98 | [PORTAL](https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9) | [BENJI BEATZ](https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ), [DASH](https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG), [WATER DADDIES](https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo) | [BISON RIDDIM](https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo) | 2:26 |
-| 99 | [Lose Weight](https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46) | [Sackie](https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh), [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20) | [Lose Weight](https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF) | 2:47 |
-| 100 | [Mechanic](https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Rocket Fuel Riddim](https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz) | 2:57 |
+| 98 | [Mechanic](https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Rocket Fuel Riddim](https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz) | 2:57 |
+| 99 | [PORTAL](https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9) | [BENJI BEATZ](https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ), [DASH](https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG), [WATER DADDIES](https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo) | [BISON RIDDIM](https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo) | 2:26 |
+| 100 | [Lose Weight](https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46) | [Sackie](https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh), [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20) | [Lose Weight](https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF) | 2:47 |
 
 Snapshot ID: `AAAAAHkPPndI570nG19y2rFTIoBzET4F`

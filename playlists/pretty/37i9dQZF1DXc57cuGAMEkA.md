@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Sabrina Carpenter  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,558 likes - 82 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,549 likes - 82 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

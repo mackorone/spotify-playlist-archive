@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,509 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,508 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 9 | [Broken Clouds](https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 5:24 |
 | 10 | [Monsoon Reason](https://open.spotify.com/track/2PNp9hDOWFcRoycplbawIz) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 4:23 |
 | 11 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
-| 12 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
-| 13 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 12 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 13 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 |
 | 14 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 15 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
 | 16 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 57 | [Sky Time](https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS) | [YAI](https://open.spotify.com/artist/6CV1eZ3xM0Sfpfd6gkufrJ), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Sky Time](https://open.spotify.com/album/6a3obHasxduXehtFxlS7CX) | 3:02 |
 | 58 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
 | 59 | [We Borrowed Feathers](https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Antiphony of the Trees](https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD) | 3:32 |
-| 60 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
-| 61 | [Tide Pool Portals to Another World](https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq) | [Signal Quest](https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Mitch Stahlmann](https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe) | [Hypermyth](https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF) | 5:57 |
+| 60 | [Tide Pool Portals to Another World](https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq) | [Signal Quest](https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Mitch Stahlmann](https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe) | [Hypermyth](https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF) | 5:57 |
+| 61 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
 | 62 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 |
 | 63 | [DLY](https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85) | [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [DLY](https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r) | 4:59 |
 | 64 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 66 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 | 67 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 | 68 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
-| 69 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
-| 70 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
+| 69 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
+| 70 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
 
 Snapshot ID: `AAAAAJMdooFw3VVX6Mc5kaLmcQ+UCja8`

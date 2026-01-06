@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7F3PFXbOm.md) - [plain]
 
 > what colour are you feeling right now?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,987 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7F3PFXbOm.md) - [plain]
 | 84 | [Favourite Kind Of Girl](https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Flikka](https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc) | [Favourite Kind Of Girl](https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo) | 4:37 |
 | 85 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 
-Snapshot ID: `AAAAALKgBlAEi6bu5T5r+fw1VNf6ol29`
+Snapshot ID: `AAAAAFfk78pIk+RAtwVhEcenIB5liBkp`

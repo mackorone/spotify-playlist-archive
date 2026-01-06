@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Zar feat. No Te Va Gustar",
-  "num_followers": 167610,
+  "num_followers": 167648,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "Fulanos de Nadie",
+      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 211119,
       "name": "LA NIEBLA",
       "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "Fulanos de Nadie",
-      "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
     },
     {
       "added_at": "2025-09-08 17:16:31",
@@ -875,6 +875,22 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2025-09-08 17:16:31",
@@ -967,22 +983,6 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 320946,
       "name": "Otro Jueves Cobarde",
       "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2025-09-08 17:16:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
-        "name": "CORRENTADA",
-        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 214952,
-      "name": "Fuego de Febrero",
-      "url": "https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
         "name": "Zoe Exitos",
         "url": "https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 318560,
       "name": "Miel",
       "url": "https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 214952,
+      "name": "Fuego de Febrero",
+      "url": "https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc"
     },
     {
       "added_at": "2025-09-08 17:16:31",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
-        "name": "Garc\u00eda, el M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218499,
       "name": "Certezas de Cart\u00f3n",
       "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
+        "name": "Garc\u00eda, el M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
     },
     {
       "added_at": "2025-09-08 17:16:31",

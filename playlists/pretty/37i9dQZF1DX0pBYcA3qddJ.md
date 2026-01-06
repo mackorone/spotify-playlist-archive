@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,704 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,705 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 31 | [ピアノ・ソナタ ロ短調 S.178 Lento assai \- Allegro energico](https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [古海行子](https://open.spotify.com/artist/3BCjmEq3Xyrf7EUk0ER0IY) | [リスト: ピアノ・ソナタ](https://open.spotify.com/album/4r4ElrIYKSbUrSJOVfQACQ) | 12:01 |
 | 32 | [キューバ](https://open.spotify.com/track/6I1kiP1gSmJsHvrw2PPVV7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 |
 | 33 | [ギター独奏のための6つのシューベルト歌曲（メルツ編）より: セレナーデ](https://open.spotify.com/track/2V8SRNNYEBl97imI7DXvBX) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Ami Inoi](https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd) | [ムーンライト](https://open.spotify.com/album/4hOR560L2Klp5NHBmCulsS) | 4:09 |
-| 34 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
+| 34 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 35 | [街角](https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [街角](https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk) | 4:41 |
-| 36 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
+| 36 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 37 | [Boys Lost in Acid](https://open.spotify.com/track/6qoxfJ0Ej0hGJ6sO1yERlJ) | [Takuma Matsunaga](https://open.spotify.com/artist/6ZR7CDwmcCZQRtQneW0wr4) | [Epoch](https://open.spotify.com/album/3ddFIrlMrDhhv0G8sw8ibH) | 5:25 |
 | 38 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 39 | [Moon River](https://open.spotify.com/track/1RpDvXdCChjwRFF7hXINcQ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Moon River](https://open.spotify.com/album/41q9qpBZckfeDMtMAMpzUT) | 2:44 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
 | 62 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 63 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
-| 64 | [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 |
+| 64 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 66 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
+| 66 | [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |
 | 68 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 69 | [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 |

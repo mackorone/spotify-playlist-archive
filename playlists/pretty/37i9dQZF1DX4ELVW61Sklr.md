@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,026 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,991 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 86 | [Deck the Halls](https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Your Favorite Christmas Songs](https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2) | 2:40 |
 | 87 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 |
 | 88 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
-| 89 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
-| 90 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
-| 91 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
-| 92 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
+| 89 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
+| 90 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
+| 91 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
+| 92 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
 | 93 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
 | 94 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 95 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 |

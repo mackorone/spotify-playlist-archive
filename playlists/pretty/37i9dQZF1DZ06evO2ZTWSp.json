@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 479458,
+  "num_followers": 479443,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAD9kQpnNmfOebGGHSZs9mN1",
+  "snapshot_id": "aVmtgAAAAADs/FG8fIcnB3mKvHtHOjsf",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 153653,
-      "name": "JUST 4 FUN",
-      "url": "https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN"
+      "duration_ms": 197000,
+      "name": "NEW MISTAKES",
+      "url": "https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA"
     },
     {
       "added_at": null,
@@ -739,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE STILL HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 183372,
-      "name": "IDGAS",
-      "url": "https://open.spotify.com/track/3bjz4Axh9eUaZ6WGQl4aKi"
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     },
     {
       "added_at": null,
@@ -771,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juice (Breakbot Mix)",
-        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+        "name": "MY FACE STILL HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 172453,
-      "name": "Juice - Breakbot Mix",
-      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+      "duration_ms": 183372,
+      "name": "IDGAS",
+      "url": "https://open.spotify.com/track/3bjz4Axh9eUaZ6WGQl4aKi"
     },
     {
       "added_at": null,

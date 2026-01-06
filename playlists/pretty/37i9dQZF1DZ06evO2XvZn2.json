@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABrdtTTTOQmRMjMRz86IAe2",
+  "snapshot_id": "aVmtgAAAAAAkxjo3uPnAlNVJpBnVwNht",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 191080,
       "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
       "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
     },
     {
       "added_at": null,

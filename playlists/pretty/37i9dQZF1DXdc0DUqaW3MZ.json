@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 373280,
+  "num_followers": 373286,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -903,30 +903,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "This World Of Mine",
-        "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
-      },
-      "artists": [
-        {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
-        },
-        {
-          "name": "Confz",
-          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 186691,
-      "name": "This World Of Mine",
-      "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "This World Of Mine",
+        "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 186691,
+      "name": "This World Of Mine",
+      "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1363,22 +1347,38 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5ezRbSSkgAJbxGZ4gxMZVV"
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 232346,
-      "name": "True",
-      "url": "https://open.spotify.com/track/6KqUN9PFvVJE6IifF0DM4a"
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     },
     {
       "added_at": "2025-12-12 00:00:12",

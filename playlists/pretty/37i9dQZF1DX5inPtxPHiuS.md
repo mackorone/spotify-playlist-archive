@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,728 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,730 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 57 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |
 | 58 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 |
 | 59 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
-| 60 | [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 |
+| 60 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
 
 Snapshot ID: `AAAAAL3SDFaZMou+roasCW3xbHUS9M/c`

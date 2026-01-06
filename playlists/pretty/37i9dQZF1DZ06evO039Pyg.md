@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,757 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,831 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 28 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WCAb7rGU70hyx3m9joKCx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 3:02 |
 | 29 | [Open \(Passionate\)](https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:05 |
 | 30 | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX) | 2:58 |
-| 31 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 |
-| 32 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
+| 31 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
+| 32 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 |
 | 33 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 34 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/75ganPv831RMYXCwQlWzsN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:39 |
 | 35 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
 | 50 | [Playinwitme \(feat\. Kehlani\)](https://open.spotify.com/track/4F1yvJfQ7gJkrcgFJQDjOr) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Light of Mine](https://open.spotify.com/album/2c1ipXPsfn6ylm6PrQNuDU) | 3:11 |
 
-Snapshot ID: `aVhcAAAAAACU6oTJOGjsF9z+k1+IrZdX`
+Snapshot ID: `aVmtgAAAAADdBXjMI+pcEZ4yKpnDncIV`

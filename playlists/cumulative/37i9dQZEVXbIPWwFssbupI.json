@@ -8956,7 +8956,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 173520,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/3kKAbmfo52VNiNKF4oDAeY"
@@ -9628,7 +9628,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -13936,7 +13936,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 178401,
       "name": "Dolce Camara",
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
@@ -17328,6 +17328,24 @@
     {
       "album": {
         "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138005,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
         "url": "https://open.spotify.com/album/7vtaQfR00fo4AiMAXJbEUT"
       },
       "artists": [
@@ -17338,7 +17356,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 138005,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/5udVfN1uloVjvyZ2ODOqbO"
@@ -40192,6 +40210,24 @@
     {
       "album": {
         "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
@@ -42874,7 +42910,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"
@@ -47470,7 +47506,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
@@ -50612,7 +50648,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -50634,7 +50670,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7zTD7ELYa6WCbaza3VhViM"

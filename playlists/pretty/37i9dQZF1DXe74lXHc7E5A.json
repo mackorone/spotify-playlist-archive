@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: 21 Savage",
-  "num_followers": 42304,
+  "num_followers": 42320,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "FLAKO",
+        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "FLAKO",
+      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "FLAKO",
-        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "FLAKO",
-      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
     },
     {
       "added_at": "2025-12-12 00:01:28",

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Taylor Swift",
-  "num_followers": 4036082,
+  "num_followers": 4035796,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Barbie Girl (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Barbie Girl - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 208375,
       "name": "like JENNIE - Peggy Gou Remix",
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2025-09-05 13:32:53",

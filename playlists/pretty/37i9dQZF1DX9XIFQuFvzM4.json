@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3620147,
+  "num_followers": 3620033,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Texas Moon",
@@ -543,22 +559,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Story Of Cornelius Brothers & Sister Rose",
         "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 198693,
       "name": "Too Late To Turn Back Now",
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "Cry To Me-The Best Of Freddie Scott",
@@ -1231,6 +1215,22 @@
       "duration_ms": 179333,
       "name": "(You) Got What I Need",
       "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
         "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 150600,
       "name": "Ain't That A Shame? - Remastered 2002",
       "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -2307,6 +2307,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
@@ -2335,6 +2367,22 @@
       "duration_ms": 303533,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
+        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2371,54 +2419,6 @@
       "duration_ms": 149293,
       "name": "Soul Connection",
       "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
-        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 165080,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
       "added_at": "2021-10-19 21:36:21",

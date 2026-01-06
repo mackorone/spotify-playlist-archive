@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,227 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,239 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 44 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
 | 45 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
 | 46 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
-| 47 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 |
-| 48 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
+| 47 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
+| 48 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 |
 | 49 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
 | 50 | [For You](https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Friends In Love](https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK) | 4:58 |
 | 51 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 |

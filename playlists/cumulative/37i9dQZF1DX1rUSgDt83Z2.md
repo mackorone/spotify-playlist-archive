@@ -4,13 +4,14 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-194 songs - 10 hr 5 min
+195 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 | 2024-06-27 |  |
+| [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 | 2026-01-05 |  |
 | [Abracadabra](https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:32 | 2025-01-16 | 2025-02-21 |
-| [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 | 2025-05-22 | 2025-07-10 |
+| [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 | 2025-05-22 |  |
 | [Adem In Adem Uit](https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6) | 4:17 | 2024-11-07 | 2025-05-08 |
 | [All We Need](https://open.spotify.com/track/6M7IyHyAWnRIVIjqcnjhAO) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [All We Need](https://open.spotify.com/album/1cxwHJeUhCpJP7MLDY1Pw3) | 3:03 | 2024-06-24 | 2024-09-20 |
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-27 | 2024-09-20 |
@@ -68,7 +69,7 @@
 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 | 2024-08-29 | 2025-03-14 |
 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-07-09 |  |
 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 | 2025-11-21 |
-| [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 |  |
+| [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 | 2026-01-06 |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 | 2024-12-13 |
 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 | 2025-11-21 |  |
 | [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 | 2024-10-04 |
@@ -100,7 +101,7 @@
 | [Kan Ik Iets Voor Je Doen?](https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Kan Ik Iets Voor Je Doen?](https://open.spotify.com/album/2G5idixK1zfPctvTeRtCfU) | 2:49 | 2024-09-19 | 2025-01-25 |
 | [Klaar Voor Wat Er Komt](https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Klaar Voor Wat Er Komt](https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7) | 3:26 | 2024-12-02 | 2025-03-23 |
 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 | 2024-12-12 | 2025-03-02 |
-| [Kom Je Me Halen](https://open.spotify.com/track/1PPrrxWinAzb60gdMRSqbq) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Kom Je Me Halen](https://open.spotify.com/album/2je6JBBO4BeGNLjFDh7h4y) | 3:11 | 2025-11-26 |  |
+| [Kom Je Me Halen](https://open.spotify.com/track/1PPrrxWinAzb60gdMRSqbq) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Kom Je Me Halen](https://open.spotify.com/album/2je6JBBO4BeGNLjFDh7h4y) | 3:11 | 2025-11-26 | 2026-01-06 |
 | [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 | 2025-06-12 | 2025-11-27 |
 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 | 2024-07-25 | 2024-11-16 |
 | [Kwattaweg](https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5) | [We Zijn Hier](https://open.spotify.com/album/1rsOJSZNmEwcqoHIBcjmMg) | 2:39 | 2024-09-05 | 2025-01-21 |

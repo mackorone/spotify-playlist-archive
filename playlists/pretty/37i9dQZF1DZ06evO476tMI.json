@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 636938,
+  "num_followers": 636961,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAB+S4rwtFRVHRN/zvmkxzTf",
+  "snapshot_id": "aVmtgAAAAACOgJV8xM10aNDc2d0atc8o",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "I Believe In You And Me - Film Version",
-      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Whitney",
         "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "I Believe In You And Me - Film Version",
+      "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 341875,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 266786,
       "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 296373,
-      "name": "I Love The Lord (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Call You Tonight",
+      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Call You Tonight",
-      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 260293,
-      "name": "You'll Never Stand Alone",
-      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 229644,
       "name": "Like I Never Left (feat. Akon)",
       "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 260293,
+      "name": "You'll Never Stand Alone",
+      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
     },
     {
       "added_at": null,

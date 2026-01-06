@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: 21 Savage",
-  "num_followers": 272265,
+  "num_followers": 272257,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-12-12 00:00:14",
       "album": {
-        "name": "Noid",
-        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
-    },
-    {
-      "added_at": "2025-12-12 00:00:14",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225456,
       "name": "Late Checkout (feat. Hunxho)",
       "url": "https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn"
+    },
+    {
+      "added_at": "2025-12-12 00:00:14",
+      "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
       "added_at": "2025-12-12 00:00:14",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-12-12 00:00:14",
       "album": {
-        "name": "Tartan",
-        "url": "https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig"
-      },
-      "artists": [
-        {
-          "name": "Fimiguerrero",
-          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
-        },
-        {
-          "name": "Reekz MB",
-          "url": "https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza"
-        }
-      ],
-      "duration_ms": 109774,
-      "name": "Tartan",
-      "url": "https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S"
-    },
-    {
-      "added_at": "2025-12-12 00:00:14",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 167396,
       "name": "They Want To Be You (feat. Future)",
       "url": "https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx"
+    },
+    {
+      "added_at": "2025-12-12 00:00:14",
+      "album": {
+        "name": "Tartan",
+        "url": "https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        },
+        {
+          "name": "Reekz MB",
+          "url": "https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza"
+        }
+      ],
+      "duration_ms": 109774,
+      "name": "Tartan",
+      "url": "https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S"
     },
     {
       "added_at": "2025-12-12 00:00:14",

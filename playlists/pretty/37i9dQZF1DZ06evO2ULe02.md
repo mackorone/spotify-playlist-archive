@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 28 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 2 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 |
 | 3 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 | 4 | [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 |
-| 5 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
-| 6 | [ricochet](https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:07 |
+| 5 | [ricochet](https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:07 |
+| 6 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
 | 7 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
 | 8 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 |
 | 9 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 27 | [my funeral](https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:40 |
 | 28 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 
-Snapshot ID: `aVhcAAAAAABUrgfEsi/fkyIuvXtC0mDC`
+Snapshot ID: `aVmtgAAAAAA9kvXQOVl4Xgd5wmhbN6Dl`

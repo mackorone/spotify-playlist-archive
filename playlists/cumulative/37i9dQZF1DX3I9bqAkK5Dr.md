@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Smita
 
-447 songs - 1 day 2 hr 45 min
+448 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hello Madam Sridevi](https://open.spotify.com/track/0mkjF6AQ6QZomWsfb4fjIT) | [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Hello Madam Sridevi](https://open.spotify.com/album/1zwSc8LpI4KuBuww9trZKF) | 4:36 | 2025-02-13 | 2025-11-07 |
 | [hello master!](https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Stanley Sajeev](https://open.spotify.com/artist/01hzMpU7t0rLILKgBo0Sau) | [hello master!](https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx) | 2:54 | 2024-05-10 | 2024-08-14 |
 | [Hero](https://open.spotify.com/track/0Tqag8vdsXMoYccjjKQVHz) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Hero](https://open.spotify.com/album/7i0rOrVET95OnXR1toHjPQ) | 4:04 | 2024-04-25 | 2024-07-17 |
+| [Hey Nene](https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Hey Nene](https://open.spotify.com/album/0eqtgJE49B3tDsrf7WNKqf) | 2:40 | 2026-01-05 |  |
 | [Hi Laila](https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Hi Laila](https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m) | 3:43 | 2024-12-13 |  |
 | [Idega Prema](https://open.spotify.com/track/064ixsMnRni9dj13BoOXvT) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu) | [Idega Prema](https://open.spotify.com/album/2OdQtTapi5rAT2shgxiyd1) | 5:12 | 2024-01-18 | 2024-04-26 |
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 | 2025-08-15 |
@@ -407,7 +408,7 @@
 | [Tapana](https://open.spotify.com/track/3kTxWyA0nqDHgwTbVRvp9Q) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/5Hd9xSaq9KuM0QNAlVX3Ge) | 2:50 | 2023-10-16 | 2024-02-10 |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
 | [Teliyadhe](https://open.spotify.com/track/4Q1MEYpfcuC2NulVRnDP97) | [Durga Prasad Mittireddi](https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o), [Jagarlapudi Vinuthna](https://open.spotify.com/artist/460uFwLf9WeneUi0r2r5iO) | [Teliyadhe](https://open.spotify.com/album/7MvesWRvqc18WmkmCM7Irj) | 4:39 | 2025-01-17 | 2025-02-15 |
-| [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 | 2024-01-18 |  |
+| [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 | 2024-01-18 | 2026-01-06 |
 | [Telugodi Beat](https://open.spotify.com/track/5mQKKShZT8OuPLtZeEN5eq) | [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Telugodi Beat](https://open.spotify.com/album/3sxdDrmnrBgCQv8fZT30xV) | 3:51 | 2024-12-20 | 2025-09-06 |
 | [Telugu Bhasha](https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [Telugu Bhasha](https://open.spotify.com/album/70P4Be7U3B8ANL5tYjdHjg) | 3:02 | 2024-02-02 | 2024-03-06 |
 | [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 | 2023-07-11 |

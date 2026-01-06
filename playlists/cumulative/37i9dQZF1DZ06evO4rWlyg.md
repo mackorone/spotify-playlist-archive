@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-158 songs - 11 hr 17 min
+159 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 | 2023-11-10 | 2024-03-10 |
 | [Sun In My Mouth](https://open.spotify.com/track/4mhuw0kAHPdZeidq1UIAQP) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 2:40 | 2024-03-26 | 2024-03-28 |
 | [The Gate](https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 6:33 | 2023-11-10 | 2024-03-19 |
-| [The Gate \- Live](https://open.spotify.com/track/6e7xCrlGPNWWqCmVozr0f8) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 4:50 | 2025-10-29 |  |
+| [The Gate \- Live](https://open.spotify.com/track/6e7xCrlGPNWWqCmVozr0f8) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 4:50 | 2025-10-29 | 2026-01-06 |
 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 | 2024-04-09 | 2024-04-12 |
 | [Triumph Of A Heart](https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:04 | 2023-11-10 | 2024-03-16 |
 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 | 2024-03-16 |  |
@@ -159,6 +159,7 @@
 | [Venus As A Boy](https://open.spotify.com/track/0NNgY2gc1TUwBQoVp98Fxw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:42 | 2023-11-10 | 2024-03-12 |
 | [Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:42 | 2024-03-24 |  |
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2024-03-11 | 2024-03-25 |
+| [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 | 2026-01-06 |  |
 | [Vokuro](https://open.spotify.com/track/6Es2GbFbYM4u7sJQW2wyte) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:14 | 2024-08-15 | 2024-08-27 |
 | [Wave Invocation \- MWO I Inverness Demo](https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 1:16 | 2023-12-15 | 2024-03-18 |
 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 | 2023-11-10 | 2024-04-04 |

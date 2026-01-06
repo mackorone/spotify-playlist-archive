@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 15059,
+  "num_followers": 15061,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACCTLvNrmL76Tt3Qa2k6WtR",
+  "snapshot_id": "aVmtgAAAAACmTwCajTck0I0gu3sg914L",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 206722,
+      "name": "Newt Says Goodbye to Tina / Jacob's Bakery",
+      "url": "https://open.spotify.com/track/20LsXSYrH1M3mk1COyPVrg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 302533,
       "name": "Like a Dog Chasing Cars",
       "url": "https://open.spotify.com/track/3j9WvPrVhZuH8AmTeVakfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 206722,
-      "name": "Newt Says Goodbye to Tina / Jacob's Bakery",
-      "url": "https://open.spotify.com/track/20LsXSYrH1M3mk1COyPVrg"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maleficent (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "Aurora in Faerieland",
-      "url": "https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Village",
         "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 271480,
       "name": "The Gravel Road - Score",
       "url": "https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maleficent (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "Aurora in Faerieland",
+      "url": "https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Village",
-        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 155386,
-      "name": "Noah Visits - Score",
-      "url": "https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 87306,
       "name": "The Train",
       "url": "https://open.spotify.com/track/2yQckSZWBjONzoskXMdE5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Village",
+        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 155386,
+      "name": "Noah Visits - Score",
+      "url": "https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
       },
@@ -767,22 +751,6 @@
       "duration_ms": 118413,
       "name": "The Countdown",
       "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Leta's Flashback",
-      "url": "https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur"
     },
     {
       "added_at": null,
@@ -803,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
       "artists": [
         {
@@ -812,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 237960,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
+      "duration_ms": 280213,
+      "name": "Leta's Flashback",
+      "url": "https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur"
     },
     {
       "added_at": null,
@@ -835,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
       },
       "artists": [
         {
@@ -844,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 97200,
-      "name": "Fantastic Beasts Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
+      "duration_ms": 145506,
+      "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
     },
     {
       "added_at": null,
@@ -863,6 +831,38 @@
       "duration_ms": 361520,
       "name": "What Are You Asking Me? - Score",
       "url": "https://open.spotify.com/track/7uwfXNvdJjqUVt8oMDF181"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Fantastic Beasts Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
     },
     {
       "added_at": null,

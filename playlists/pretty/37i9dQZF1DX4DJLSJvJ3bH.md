@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,272 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,217 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 44 | [Embraced by White](https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4) | [Smooth Heisters](https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf) | [Embraced by White](https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp) | 2:25 |
 | 45 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
 | 46 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:15 |
-| 47 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 |
-| 48 | [O Holy Night](https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [O Holy Night](https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B) | 4:17 |
+| 47 | [O Holy Night](https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [O Holy Night](https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B) | 4:17 |
+| 48 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 |
 | 49 | [The Night Before Christmas](https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad) | [Greenwich Quartet](https://open.spotify.com/artist/0WfKXLxFT8BbognJ98vMlh) | [The Night Before Christmas](https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7) | 3:38 |
 | 50 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 |
 | 51 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |

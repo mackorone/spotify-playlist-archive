@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "\u5931\u6200\u7121\u7f6a",
+        "url": "https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246693,
+      "name": "\u5931\u6200\u7121\u7f6a",
+      "url": "https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX"
+    },
+    {
+      "album": {
         "name": "\u8a8d\u4e86\u5427",
         "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 263400,
       "name": "\u5fc3\u8df3",
       "url": "https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp"

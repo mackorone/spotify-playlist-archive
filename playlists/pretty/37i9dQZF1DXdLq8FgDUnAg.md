@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLq8FgDUnAg.md) - [plain]
 
 > New Dutch podcasters on the horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 5 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 5 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

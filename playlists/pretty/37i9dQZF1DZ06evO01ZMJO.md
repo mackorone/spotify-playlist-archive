@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,723 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,715 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 12 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
 | 13 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
 | 14 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
-| 15 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
-| 16 | [1 Team](https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk) | 3:18 |
+| 15 | [1 Team](https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk) | 3:18 |
+| 16 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
 | 17 | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS) | 3:34 |
 | 18 | [Huisje Op Wielen \- Outsiders Remix](https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen \(Outsiders Remix\)](https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz) | 3:59 |
 | 19 | [Kali \- Outsiders Remix](https://open.spotify.com/track/4MK2iIz8chhPMWORvUfzzF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/7B4JAdcj0x4RxJyGdY9pUp) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Me Emborrachare \- Hardstyle Original Remix](https://open.spotify.com/track/5mO5l8aCXDEw7qFNcPUtf4) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Me Emborrachare \(Hardstyle Original Remix\)](https://open.spotify.com/album/0iSyYIPSg9ov8R5bgxFu0t) | 4:11 |
 | 50 | [I'm Sorry](https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [I'm Sorry](https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc) | 3:24 |
 
-Snapshot ID: `aVhcAAAAAAAuPsiqwys3UHKGLehXZW2i`
+Snapshot ID: `aVmtgAAAAADPcfKPh2RSvPlZuuftndpK`

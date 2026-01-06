@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124552,
+  "num_followers": 124543,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU81Nz7frqob1wP7Ski+wwgcYubZoa",
+  "snapshot_id": "AAAU9JlNwz2aMyK9T5wnH2a86TQSMQX3",
   "tracks": [
+    {
+      "added_at": "2026-01-05 17:16:45",
+      "album": {
+        "name": "Monstercat Uncaged Selections 01",
+        "url": "https://open.spotify.com/album/3LOpxnvItG4xX5ZhyjCw5z"
+      },
+      "artists": [
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Own It",
+      "url": "https://open.spotify.com/track/0GIfm3CTQKVTMkQYnXcqbA"
+    },
     {
       "added_at": "2025-12-18 15:02:21",
       "album": {

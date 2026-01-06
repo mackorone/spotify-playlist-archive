@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,202 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,210 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 5 | [ALONE](https://open.spotify.com/track/60FZjk8zhWcIMSUoZYVXFm) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [ALONE](https://open.spotify.com/album/1WVgT4Beq7KWJcdVdR9x1W) | 3:38 |
 | 6 | [Beautiful People](https://open.spotify.com/track/6S37ilrmjAKT7hq63NSylw) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautiful People](https://open.spotify.com/album/7EM1qXOu2NDtulvgtDHfRR) | 3:47 |
 | 7 | [wto](https://open.spotify.com/track/2plETOOc7WEIb4BBLy4oEE) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [TeeRowdy](https://open.spotify.com/artist/3eoXjqgj0qDqNqG581rKpg), [Slim Bizzle](https://open.spotify.com/artist/6B2HSue5iZ1ep7g5s50K0D) | [OOAK Vol\. 2](https://open.spotify.com/album/3PoeFoI05yrgf80C53ynoX) | 2:16 |
-| 8 | [Muma Dis Come](https://open.spotify.com/track/5Jnb6BPkKZr4HVgDLJny1n) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Muma Dis Come](https://open.spotify.com/album/0xNr5k4Luo5JDHtIPUkXzs) | 3:47 |
+| 8 | [Muma Dis Come](https://open.spotify.com/track/5Jnb6BPkKZr4HVgDLJny1n) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB), [King Jammy](https://open.spotify.com/artist/0xvTSLJBdLWHwUoQhGNbCe) | [Muma Dis Come](https://open.spotify.com/album/0xNr5k4Luo5JDHtIPUkXzs) | 3:47 |
 | 9 | [idea of you](https://open.spotify.com/track/2OL5weimgJp3Lhq20IDv25) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [idea of you](https://open.spotify.com/album/65nmwni51lSY4hpWrmbmtq) | 3:19 |
 | 10 | [SO DIFFERENT](https://open.spotify.com/track/6ufzqKn7jDiJ7N28azmS8f) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj) | [IBRAHIM](https://open.spotify.com/album/7cbM0KhouAkTu96uvTrxdS) | 3:22 |
 | 11 | [Influence](https://open.spotify.com/track/7w4ht68WyfQKSuQIONKmZR) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [Influence](https://open.spotify.com/album/1eua1y87DvzTZZWsU8wiD4) | 2:43 |

@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Alles In Huis",
+        "url": "https://open.spotify.com/album/57Hzw4Wuu4cb7NbzGS1WYO"
+      },
+      "artists": [
+        {
+          "name": "Noud Noutze",
+          "url": "https://open.spotify.com/artist/7MtugczetdH9KOFFSNnix1"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156130,
+      "name": "Alles In Huis",
+      "url": "https://open.spotify.com/track/2PCc6tQJWIhQSczPKDXsgW"
+    },
+    {
+      "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
       },
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 169040,
       "name": "Kroegtijger",
       "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
@@ -6577,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "Op m'n ziel getrapt",
+        "url": "https://open.spotify.com/album/1qEBrFF13Hwg6OZLiyIM1m"
+      },
+      "artists": [
+        {
+          "name": "Henk Bernard",
+          "url": "https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161662,
+      "name": "Op m'n ziel getrapt",
+      "url": "https://open.spotify.com/track/5ltzcGOJCuP7wV7J2WpbXL"
+    },
+    {
+      "album": {
         "name": "Oranje",
         "url": "https://open.spotify.com/album/09BgrhBaYhai0jATldhb36"
       },
@@ -7032,7 +7068,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 212631,
       "name": "Santa Maria",
       "url": "https://open.spotify.com/track/5TQt2HLYJxru0kNHQKU0ED"
@@ -8655,6 +8691,32 @@
     },
     {
       "album": {
+        "name": "We zijn er bijna",
+        "url": "https://open.spotify.com/album/4GdGw6bjGeQRmgECPm2dhT"
+      },
+      "artists": [
+        {
+          "name": "De Bevers",
+          "url": "https://open.spotify.com/artist/7p6MzD0DqpI2zjlV1UYffS"
+        },
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        },
+        {
+          "name": "Kees de Bever",
+          "url": "https://open.spotify.com/artist/3i2hBhyBz78fASjXPfViIm"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174768,
+      "name": "We zijn er bijna",
+      "url": "https://open.spotify.com/track/71YXtvQV4lZxzlOcP6uhIR"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6akzqr1k4c3REl3SyZ0P84"
       },
@@ -8738,7 +8800,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 174373,
       "name": "Weet jij nog hoe het was",
       "url": "https://open.spotify.com/track/3qQsJqa5pEgTYqB1q1bXQz"

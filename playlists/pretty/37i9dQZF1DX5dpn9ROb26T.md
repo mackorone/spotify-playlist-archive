@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 
 > Our editors' top picks for the best pop songs of the year\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,252 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,475 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

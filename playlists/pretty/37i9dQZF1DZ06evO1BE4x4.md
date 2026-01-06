@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,781 likes - 33 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,780 likes - 33 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 15 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
 | 16 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 |
 | 17 | [In The Aisle](https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:41 |
-| 18 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 |
+| 18 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 |
 | 19 | [Narrow Ways](https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:36 |
 | 20 | [Canada](https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:29 |
 | 21 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 |
-| 22 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 |
+| 22 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 |
 | 23 | [Eat Your Parents](https://open.spotify.com/track/5Z0GVyH0RjhgjVcLYwf1cH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:02 |
 | 24 | [Vacation Forever](https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 4:28 |
 | 25 | [Son Of Sam](https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 32 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 | 33 | [Follow Me Here \- Demo](https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:44 |
 
-Snapshot ID: `aVhcAAAAAAB7YXcyJpp/fsfBF9NatEFN`
+Snapshot ID: `aVmtgAAAAABj27OhFeuQE47IEUFQVrZU`

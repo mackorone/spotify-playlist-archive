@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-278 songs - 16 hr 46 min
+279 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 | 2024-03-19 |  |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 | 2023-12-27 |
 | [僕らまた](https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [僕らまた](https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE) | 3:17 | 2024-03-19 |  |
-| [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2024-06-23 |  |
+| [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2024-06-23 | 2026-01-06 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-03-19 | 2025-04-09 |
 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-07-22 |  |
 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 |  |
@@ -276,6 +276,7 @@
 | [芥](https://open.spotify.com/track/4XpBYFvZdgNTI9WhZ64VUJ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 5:14 | 2025-10-14 | 2025-11-19 |
 | [花一匁](https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [TOYS](https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4) | 4:36 | 2024-11-19 | 2025-03-12 |
 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 | 2024-01-30 | 2024-08-10 |
+| [蟲](https://open.spotify.com/track/6B6eCDW47Js0weGjB9XQfD) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [蟲](https://open.spotify.com/album/0vuOsyCckYH8Ibw1O2kx4g) | 3:20 | 2025-12-16 |  |
 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-08-09 | 2024-10-09 |
 | [誰かを救ってやる暇などないけど](https://open.spotify.com/track/0caxXD68RA2qYvZBUvTtYJ) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 3:42 | 2024-10-08 | 2024-10-23 |
 | [誰もが死にたがる夜に](https://open.spotify.com/track/3xgZ4xrHhC3BgbdWQWxsl8) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [誰もが死にたがる夜に](https://open.spotify.com/album/3EgWzD4xSYfUTcXY7K3K2k) | 4:13 | 2024-12-17 | 2025-01-15 |

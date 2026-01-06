@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Bocho & Riola
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,559 likes - 106 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,548 likes - 106 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

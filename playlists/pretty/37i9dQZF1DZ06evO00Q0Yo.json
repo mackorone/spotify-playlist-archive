@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19849,
+  "num_followers": 19861,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADjU62yenL/J6o6xKdp4NML",
+  "snapshot_id": "aVmtgAAAAABiD41m+FsWgo/K49fYa9cV",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Person (feat. coop)",
-        "url": "https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "coop",
-          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Perfect Person (feat. coop)",
-      "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 207000,
       "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
       "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Person (feat. coop)",
+        "url": "https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Perfect Person (feat. coop)",
+      "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fruit Loop",
-        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137263,
-      "name": "Fruit Loop",
-      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate Rain",
         "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 162000,
       "name": "Chocolate Rain",
       "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fruit Loop",
+        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137263,
+      "name": "Fruit Loop",
+      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 265,
+  "num_followers": 267,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGqe7DkkBZwYTB9IoL3K5utZOHxMXu",
+  "snapshot_id": "AAAGq+S83dMCoxkhXNxrPpoWocTPPO43",
   "tracks": [
     {
       "added_at": "2026-01-04 16:44:45",
@@ -10951,7 +10951,7 @@
     {
       "added_at": "2025-05-20 20:14:46",
       "album": {
-        "name": "Estranged",
+        "name": "Estranged (Demo)",
         "url": "https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI"
       },
       "artists": [
@@ -10961,7 +10961,7 @@
         }
       ],
       "duration_ms": 213508,
-      "name": "Estranged",
+      "name": "Estranged - Demo",
       "url": "https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM"
     },
     {
@@ -13076,8 +13076,8 @@
       },
       "artists": [
         {
-          "name": "YZL",
-          "url": "https://open.spotify.com/artist/5lfDtmxDp9WGk7NSWs6Nyr"
+          "name": "Sireno",
+          "url": "https://open.spotify.com/artist/0XPMrfe6A6QuoovKqDQklh"
         }
       ],
       "duration_ms": 130054,
@@ -63111,6 +63111,38 @@
       "duration_ms": 205767,
       "name": "Hole in Half",
       "url": "https://open.spotify.com/track/5uDzeJozN3o6y7TN5avkVV"
+    },
+    {
+      "added_at": "2026-01-05 14:40:58",
+      "album": {
+        "name": "Adriano Mar",
+        "url": "https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox"
+      },
+      "artists": [
+        {
+          "name": "Adriano Mar",
+          "url": "https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY"
+        }
+      ],
+      "duration_ms": 417847,
+      "name": "A Viagem do Dia a Dia",
+      "url": "https://open.spotify.com/track/7esTTsykoaWgSmMWg0oc5H"
+    },
+    {
+      "added_at": "2026-01-05 23:50:31",
+      "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "duration_ms": 198191,
+      "name": "Get Off Of My Cloud",
+      "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
     }
   ],
   "unique_name": "playlist spotify free",

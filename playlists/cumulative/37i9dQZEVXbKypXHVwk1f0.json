@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 166601,
       "name": "Como Paso",
       "url": "https://open.spotify.com/track/4HTRk3Q7qWRJJUj2zcuiXD"
@@ -19841,6 +19841,28 @@
     },
     {
       "album": {
+        "name": "Me La Juego",
+        "url": "https://open.spotify.com/album/2dEi4vTQO1L6p6QQyyHDpi"
+      },
+      "artists": [
+        {
+          "name": "Tony Jhay",
+          "url": "https://open.spotify.com/artist/109M7f2vSlG3rs2Qm3Wio0"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181740,
+      "name": "Me La Juego",
+      "url": "https://open.spotify.com/track/4ZBK7XdUzdGtbHaS1RNtJe"
+    },
+    {
+      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -27390,7 +27412,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -27604,7 +27626,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 184492,
       "name": "RAKATAKA",
       "url": "https://open.spotify.com/track/0XRVd8CFpjIg4yCUUuHhbu"

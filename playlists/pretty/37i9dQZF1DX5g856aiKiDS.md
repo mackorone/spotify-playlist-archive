@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,350 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,392 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 22 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
 | 23 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Can I Love?](https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y) | 3:49 |
 | 24 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 25 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 26 | [Pink cheeks](https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Pink cheeks](https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV) | 3:03 |
+| 25 | [Pink cheeks](https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Pink cheeks](https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV) | 3:03 |
+| 26 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 27 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 | 28 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
 | 29 | [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 |

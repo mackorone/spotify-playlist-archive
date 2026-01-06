@@ -203,22 +203,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 242608,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "My\u015bli Rozdarte",
-        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 156815,
-      "name": "Te\u017c Tak Masz",
-      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Firdyga\u0142ki",
         "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 233636,
       "name": "Firdyga\u0142ki",
       "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "My\u015bli Rozdarte",
+        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Te\u017c Tak Masz",
+      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
-        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 161129,
-      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
-      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Biegn\u0119",
         "url": "https://open.spotify.com/album/2rmVfVOvDGqJJKz0MKtuKv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 166333,
       "name": "BOJ\u0118 SI\u0118",
       "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "morze dalej zimne",
+        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "morze dalej zimne",
+      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Czerwiec",
         "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 317013,
       "name": "Czerwiec",
       "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "morze dalej zimne",
-        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "morze dalej zimne",
-      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Nikt nie kocha tak jak my",
+        "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
+      },
+      "artists": [
+        {
+          "name": "Felivers",
+          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+        }
+      ],
+      "duration_ms": 181401,
+      "name": "Nikt nie kocha tak jak my",
+      "url": "https://open.spotify.com/track/57u3Of5EWepGyW3RoQLYUh"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "szczerze, mega mocne",
         "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Nikt nie kocha tak jak my",
-        "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
-      },
-      "artists": [
-        {
-          "name": "Felivers",
-          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
-        }
-      ],
-      "duration_ms": 181401,
-      "name": "Nikt nie kocha tak jak my",
-      "url": "https://open.spotify.com/track/57u3Of5EWepGyW3RoQLYUh"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 232733,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "A\u0142\u0142tobus",
-        "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
-      },
-      "artists": [
-        {
-          "name": "Mateusz G\u0119dek",
-          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
-        },
-        {
-          "name": "mop",
-          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
-        }
-      ],
-      "duration_ms": 184390,
-      "name": "A\u0142\u0142tobus",
-      "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1091,22 +1071,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Nedospane No\u010de",
-        "url": "https://open.spotify.com/album/2OYQW9zMfJSsExgHaWG5dl"
+        "name": "A\u0142\u0142tobus",
+        "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
       },
       "artists": [
         {
-          "name": "Sw@da",
-          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+          "name": "Mateusz G\u0119dek",
+          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
         },
         {
-          "name": "Niczos",
-          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+          "name": "mop",
+          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Nedospane No\u010de",
-      "url": "https://open.spotify.com/track/7cpiRNXghkaToeZhjMBEoB"
+      "duration_ms": 184390,
+      "name": "A\u0142\u0142tobus",
+      "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1123,6 +1103,26 @@
       "duration_ms": 141000,
       "name": "Sedno",
       "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Nedospane No\u010de",
+        "url": "https://open.spotify.com/album/2OYQW9zMfJSsExgHaWG5dl"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Nedospane No\u010de",
+      "url": "https://open.spotify.com/track/7cpiRNXghkaToeZhjMBEoB"
     },
     {
       "added_at": "2025-12-18 23:00:23",

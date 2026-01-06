@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,612 likes - 62 songs - 3 hr 19 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,611 likes - 62 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 61 | [Memories and Ghosts](https://open.spotify.com/track/77z3Z6bEf017UZiTgCo5Mu) | [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Swimmer](https://open.spotify.com/album/1mAwtq83TXihLdVhNc0XMZ) | 3:01 |
 | 62 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 
-Snapshot ID: `AAAHuKINMyPJHx/Kjm1LlNtpCIee972q`
+Snapshot ID: `AAAHuupPEZYD8iTzH66zk2KaqgbIf7Ce`

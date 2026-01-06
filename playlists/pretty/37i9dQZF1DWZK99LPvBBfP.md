@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,168 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,246 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 28 | [Greece 2000](https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:54 |
 | 29 | [Infinity](https://open.spotify.com/track/78fTO9KOXmWLkm1r6Ko2Uq) | [Guru Josh](https://open.spotify.com/artist/0GWezHEUuBQvQM31OaWlS7) | [Infinity](https://open.spotify.com/album/0PuT9tt0GtnAYA8CaZ5RMW) | 4:01 |
 | 30 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
-| 31 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 32 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
+| 31 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
+| 32 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 33 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
 | 34 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Julie McKnight](https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
 | 35 | [Offshore](https://open.spotify.com/track/1ULtIyg1f3ju3llYxZBWKc) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowd](https://open.spotify.com/album/7spCTSbVqE37Ohj4DwFCrw) | 6:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
 | 41 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
 | 42 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
-| 43 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
-| 44 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
+| 43 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
+| 44 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 45 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 | 46 | [Yeke Yeke](https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Akwaba Beach](https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3) | 3:58 |
 | 47 | [State of Independence](https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer](https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW) | 5:51 |

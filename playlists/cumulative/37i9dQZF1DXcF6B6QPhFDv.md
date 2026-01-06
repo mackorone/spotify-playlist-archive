@@ -4,7 +4,7 @@
 
 > Rock never dies\. Cover: Deftones
 
-1,125 songs - 2 day 14 hr 42 min
+1,126 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1130,7 +1130,8 @@
 | [Yucky's Song](https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Vice City Magic](https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS) | 2:11 | 2025-07-25 | 2025-09-13 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-22 | 2022-05-28 |
 | [ZOMBIE](https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [ZOMBIE](https://open.spotify.com/album/6FJ3tswJyG8KFyKcILyy99) | 1:58 | 2024-09-13 | 2024-11-02 |
-| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-30 |  |
+| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-30 | 2026-01-06 |
+| [Zombie](https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Zombie](https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8) | 3:59 | 2026-01-05 |  |
 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 | 2024-05-17 | 2024-09-14 |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 | 2022-06-25 |
 

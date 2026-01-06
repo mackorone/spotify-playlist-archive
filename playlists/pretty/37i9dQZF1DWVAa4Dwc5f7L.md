@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,076 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,060 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 45 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 46 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 47 | [El Cantinero](https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 5:18 |
-| 48 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
-| 49 | [Vamos A Ser Feliz](https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Así Yo Soy](https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh) | 2:46 |
+| 48 | [Vamos A Ser Feliz](https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Así Yo Soy](https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh) | 2:46 |
+| 49 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
 | 50 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 51 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
 | 52 | [BIZUM \(Qué tienen tus ojos\)](https://open.spotify.com/track/6lowoKt4hZs7L3oc8iDUO4) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [BIZUM \(Qué tienen tus ojos\)](https://open.spotify.com/album/7m1OVmMBat3C7VO0cUf6Po) | 2:16 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 54 | [Cutibili Pacha](https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:40 |
 | 55 | [El Moreno Esta](https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 4:32 |
 | 56 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
-| 57 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
-| 58 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
+| 57 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
+| 58 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
 | 59 | [No Te Hagas](https://open.spotify.com/track/4f1PmMKVxCr8vIXikhXwEn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [No Te Hagas](https://open.spotify.com/album/0INLo9d20pUVNHOX1x2X4Q) | 2:08 |
 | 60 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 |
 | 61 | [Es Mentiroso](https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 86 | [El Hombre Divertido](https://open.spotify.com/track/5YJA3zbeKSvMhnqvvCNP4L) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Hombre Divertido](https://open.spotify.com/album/0F92RzCPf0ERu9Y4nxiqCf) | 3:25 |
 | 87 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
 | 88 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
-| 89 | [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 |
-| 90 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
+| 89 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
+| 90 | [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 |
 | 91 | [Luquillo](https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ) | [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Luquillo](https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn) | 2:31 |
 | 92 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 | 93 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 96 | [VEN BÁILALO](https://open.spotify.com/track/0gdKOAU9XYruhOndmI1ThO) | [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [VEN BÁILALO](https://open.spotify.com/album/4QXttgkD5d2BoBY6P1RmPo) | 3:36 |
 | 97 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
 | 98 | [Me Miras Y Te Miro](https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Re\-Haciendo La Historia\-Los Exitos!](https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a) | 4:57 |
-| 99 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
-| 100 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
+| 99 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
+| 100 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
 
 Snapshot ID: `AAAAACd3vLAaIFfCrWRTG/2LIoLHEZh1`

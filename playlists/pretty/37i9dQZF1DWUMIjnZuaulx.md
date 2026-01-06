@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Ricky Dillard & Ron Carter
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,031 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,040 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 55 | [Constant \- Live](https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Live at Maverick City](https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt) | 4:55 |
 | 56 | [The Name of Jesus](https://open.spotify.com/track/1A0iZtldObmskSY1G1FZwW) | [Warehouse Worship](https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Name of Jesus](https://open.spotify.com/album/4HNFtdNDZrRPfAs9pW4K3L) | 6:53 |
 | 57 | [Ways](https://open.spotify.com/track/06PdBblXoDirhxiXXMnZAv) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Ways](https://open.spotify.com/album/4ynqPMUYF8FGVvgN7kU0Sj) | 3:21 |
-| 58 | [God Will Prevail](https://open.spotify.com/track/4hjTx4hNMRzTutCoXg9LnB) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Jonni Mae](https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt), [Alina Oliver](https://open.spotify.com/artist/5VlM3xWEDffmsJCp33eWOM), [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ) | [God Will Prevail](https://open.spotify.com/album/7MDKajnB17r6ZA5CKeY10H) | 4:24 |
+| 58 | [God Will Prevail](https://open.spotify.com/track/4hjTx4hNMRzTutCoXg9LnB) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Jonni Mae](https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt), [Alina Oliver](https://open.spotify.com/artist/5VlM3xWEDffmsJCp33eWOM) | [God Will Prevail](https://open.spotify.com/album/7MDKajnB17r6ZA5CKeY10H) | 4:24 |
 | 59 | [Lead Me On \- Live](https://open.spotify.com/track/1BqBJvGZn8G7buagrQfmJP) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 7:41 |
 | 60 | [It's Whatever You Say](https://open.spotify.com/track/1xRIBHf45IrVdSKD2UQq22) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [It's Whatever You Say](https://open.spotify.com/album/2lhovzXQ1rs5MalGJnKndl) | 4:36 |
 | 61 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 |

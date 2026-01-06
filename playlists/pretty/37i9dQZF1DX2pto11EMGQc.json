@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 98601,
+  "num_followers": 98630,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Turn Down for What",
-        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Turn Down for What",
-      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Turn Down for What",
+        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Turn Down for What",
+      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "added_at": "2022-05-11 15:37:27",

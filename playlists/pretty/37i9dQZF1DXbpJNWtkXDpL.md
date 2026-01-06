@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,210 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,206 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 59 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 60 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |
 | 61 | [rompopito](https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k) | [gatitaartistica](https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH) | [rompopito](https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc) | 1:59 |
-| 62 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 |
-| 63 | [luego](https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC) | [luego luego](https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R) | [inconformidable](https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5) | 2:01 |
+| 62 | [luego](https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC) | [luego luego](https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R) | [inconformidable](https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5) | 2:01 |
+| 63 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 |
 | 64 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
 | 65 | [DESAYUNO CONTINENTAL](https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [DESAYUNO CONTINENTAL](https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE) | 2:49 |
 | 66 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 68 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 |
 | 69 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |
 | 70 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
-| 71 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
-| 72 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 71 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 72 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
 | 73 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
 | 74 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
-| 75 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
+| 75 | [Altamar](https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV) | [Cross MX](https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [CATARSIS](https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP) | 2:29 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

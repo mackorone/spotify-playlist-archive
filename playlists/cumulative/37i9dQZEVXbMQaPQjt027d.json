@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Crying Laughing Loving Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Cannock Chase",
+      "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
+    },
+    {
+      "album": {
         "name": "Cant Go Broke (Remix)",
         "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
       },
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 219007,
       "name": "Dreaming in Motion",
       "url": "https://open.spotify.com/track/5ZKqm8BPJbzjfoACCLRyuO"
@@ -6294,7 +6312,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 188079,
       "name": "It's La Vida Loca",
       "url": "https://open.spotify.com/track/0ZcitQC78lqMjm8T6XQEvw"

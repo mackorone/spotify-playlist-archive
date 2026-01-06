@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439,614 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,669 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 |
 | 2 | [ordinary](https://open.spotify.com/track/2ledumGXyZb4RRangI0wQ0) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [ordinary](https://open.spotify.com/album/48moNiJIib1hKuK7YQ6o1m) | 3:30 |
-| 3 | [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 |
-| 4 | [By Your Side](https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc) | [J\. Seasons](https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP) | [By Your Side](https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia) | 2:37 |
+| 3 | [By Your Side](https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc) | [J\. Seasons](https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP) | [By Your Side](https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia) | 2:37 |
+| 4 | [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 |
 | 5 | [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 |
 | 6 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
 | 7 | [Die with A Smile](https://open.spotify.com/track/0WsTGH8uDMHneoTbnluW87) | [little fictions](https://open.spotify.com/artist/6KYtoDiXQBtuF3cO2sj0EO) | [Die with A Smile](https://open.spotify.com/album/3U2ym9CkgHLImVUUkAXZ7d) | 3:49 |
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 10 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
 | 11 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 12 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
-| 13 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
-| 14 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 |
-| 15 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
-| 16 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
+| 13 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 |
+| 14 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
+| 15 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
+| 16 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
 | 17 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
 | 18 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
 | 19 | [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 64 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
 | 65 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
 | 66 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
-| 67 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
-| 68 | [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 |
+| 67 | [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 |
+| 68 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
 | 69 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
 | 70 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 71 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 87 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
 | 88 | [I'm Good \(Blue\)](https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I'm Good \(Blue\)](https://open.spotify.com/album/27wqComza4OEQnzS4AniQe) | 2:55 |
 | 89 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 |
-| 90 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
-| 91 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
+| 90 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
+| 91 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
 | 92 | [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 |
 | 93 | [SOS](https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [SOS](https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6) | 2:42 |
 | 94 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 |

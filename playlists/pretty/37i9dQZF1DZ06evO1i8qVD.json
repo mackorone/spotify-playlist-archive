@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37844,
+  "num_followers": 37846,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADZx6cMxwgvqULwnlNlC9Ex",
+  "snapshot_id": "aVmtgAAAAACRN6AESiFnINkpV61gNgFG",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin Deep",
-        "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         },
         {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 268906,
-      "name": "Skin Deep (feat. Derek Trucks)",
-      "url": "https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg"
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Skin Deep",
+        "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+      "duration_ms": 268906,
+      "name": "Skin Deep (feat. Derek Trucks)",
+      "url": "https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 242274,
-      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 275680,
       "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 242274,
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Good Morning Schoolgirl",
+      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somebody (feat. Buddy Guy & Roosevelt Collier)",
         "url": "https://open.spotify.com/album/5icLCOWWIZiFzHEN5RDavE"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 239160,
       "name": "Somebody (feat. Buddy Guy and Roosevelt Collier)",
       "url": "https://open.spotify.com/track/2qgRPwjxR6PYVr23fwEqTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Good Morning Schoolgirl",
-      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
     },
     {
       "added_at": null,

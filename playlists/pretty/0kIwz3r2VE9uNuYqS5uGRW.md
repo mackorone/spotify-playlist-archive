@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 133 songs - 6 hr 58 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 131 | [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 |
 | 132 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 |
 | 133 | [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 |
+| 134 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 |
 
-Snapshot ID: `AAAVixV+DhXHmFt6EvLtrBcui66wrQjd`
+Snapshot ID: `AAAVjApGEQyvwUYUvl+dh03XyDkRYp4I`

@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 14090,
+  "num_followers": 14127,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,38 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 251637,
+      "name": "Nausica\u00e4 (Love Will Be Revealed)",
+      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -279,38 +311,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/02f69ZvOxhR4Uo6xXsicfT"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
-      },
-      "artists": [
-        {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
-        }
-      ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        }
-      ],
-      "duration_ms": 251637,
-      "name": "Nausica\u00e4 (Love Will Be Revealed)",
-      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "you're such a good girl?",
+        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "you're such a good girl?",
+      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Nkosi's Fantasia: Chapter One",
         "url": "https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 256500,
       "name": "Nkosi's Fantasia",
       "url": "https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "you're such a good girl?",
-        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        }
-      ],
-      "duration_ms": 167153,
-      "name": "you're such a good girl?",
-      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "The Thing",
-        "url": "https://open.spotify.com/album/5EHA5GSkhMn8abc7TQTQbi"
-      },
-      "artists": [
-        {
-          "name": "The Thing",
-          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "Dave's TV",
-      "url": "https://open.spotify.com/track/4Y5g3iXxuyiZYDw69wPRsL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Open Up Your Senses",
         "url": "https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "halfwaythru",
-        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/5EHA5GSkhMn8abc7TQTQbi"
       },
       "artists": [
         {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
         }
       ],
-      "duration_ms": 193627,
-      "name": "halfwaythru",
-      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
+      "duration_ms": 227423,
+      "name": "Dave's TV",
+      "url": "https://open.spotify.com/track/4Y5g3iXxuyiZYDw69wPRsL"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1259,6 +1243,22 @@
       "duration_ms": 171732,
       "name": "Sibeeria",
       "url": "https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "halfwaythru",
+        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193627,
+      "name": "halfwaythru",
+      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2025",

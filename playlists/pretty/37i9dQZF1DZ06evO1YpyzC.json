@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266009,
+  "num_followers": 266011,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABXuDmb3eFHkLj/RvBhXP9x",
+  "snapshot_id": "aVmtgAAAAACuRal7K4N3qvSGR3C3Whfh",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 166506,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "What's Mine Is Yours",
-      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
     },
     {
       "added_at": null,

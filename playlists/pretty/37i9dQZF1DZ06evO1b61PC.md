@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,338 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,337 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 17 | [Heaven Is Calling \(SHAKING Dub\)](https://open.spotify.com/track/1rZcOvYX5w9RytcyGmkufC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [Heaven Is Calling \(SHAKING Dub\)](https://open.spotify.com/album/2Hkn1CAxLihCszfmJ8DeFO) | 3:19 |
 | 18 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
 | 19 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
-| 20 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
-| 21 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
+| 20 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
+| 21 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
 | 22 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
 | 23 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
 | 24 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 40 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 41 | [My Tears Could Fill A Well](https://open.spotify.com/track/0zUZgHAxB1CK1wiwvokVZu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 6:06 |
 
-Snapshot ID: `aVhcAAAAAABAcwUOrAw6B15gCremkmI7`
+Snapshot ID: `aVmtgAAAAAAg6Yy9x+lj9cjAFHW5+B3q`

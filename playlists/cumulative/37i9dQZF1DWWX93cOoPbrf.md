@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWX93cOoPbrf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWX93cOoPbrf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWX93cOoPbrf)
 
-### [Corridos 2025](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
+### [Corridos 2026](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
 > Lo más fresco de los corridones\. Saul Villareal en portada.
 

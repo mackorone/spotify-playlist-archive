@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-219 songs - 12 hr 28 min
+220 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-07-18 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2025-07-18 |  |
 | [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 | 2025-07-18 | 2025-07-26 |
+| [HOLD ME AGAIN](https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [HOLD ME AGAIN](https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm) | 2:28 | 2026-01-05 |  |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-07-18 |  |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2025-07-18 |  |
 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2025-07-18 | 2025-08-12 |

@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-81 songs - 4 hr 23 min
+82 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,5 +89,6 @@
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2025-10-16 |  |
 | [Wede](https://open.spotify.com/track/6TVPm2pOmKJJv3itNTTnuz) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Wede](https://open.spotify.com/album/2OQM0fnPNh7IbVvDDd0NO5) | 2:03 | 2025-10-16 |  |
 | [When the Clouds Cleared](https://open.spotify.com/track/7qT955sFHf4eBtQnHeqdGf) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [When the Clouds Cleared](https://open.spotify.com/album/6NPWuzRUhlzxL7RMyz2b1Q) | 2:34 | 2025-10-16 |  |
+| [Winter](https://open.spotify.com/track/5zxn1q7gU6w1cHAT4CS4yI) | [Michael Yanis](https://open.spotify.com/artist/26C2Hol62mIYi7hrk4GwON) | [Winter](https://open.spotify.com/album/3kh6hRKrCBckyo7e7KTya8) | 1:41 | 2026-01-05 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

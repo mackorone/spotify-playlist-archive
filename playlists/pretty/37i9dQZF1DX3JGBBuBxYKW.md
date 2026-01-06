@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,777 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,786 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 40 | [Nadie Me Verá Llorar](https://open.spotify.com/track/701OVMWIDtZl8dOOPFIxxR) | [Deborah Chauque](https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle) | [Nadie Me Verá Llorar](https://open.spotify.com/album/3KlayH2RAAqKRB0s3gYrXS) | 3:10 |
 | 41 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 |
 | 42 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
-| 43 | [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 |
+| 43 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 44 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
-| 45 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
+| 45 | [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 |
 | 46 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 |
 | 47 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
 | 48 | [Dr\. Psiquiatra](https://open.spotify.com/track/28N9f5LPtZOWnWPeX02WXv) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Dr\. Psiquiatra](https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ) | 2:48 |

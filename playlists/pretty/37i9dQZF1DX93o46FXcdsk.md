@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,342 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,346 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloed, Zweet En Tranen](https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Strijdlustig](https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX) | 4:01 |
-| 2 | [Als De Morgen Is Gekomen](https://open.spotify.com/track/7HPkvsnyQqQ6PmpLk7D7IR) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Op Weg Naar Geluk](https://open.spotify.com/album/08e5Pb6jMctjgqDckEgDOf) | 2:56 |
-| 3 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 |
+| 2 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 |
+| 3 | [Als De Morgen Is Gekomen](https://open.spotify.com/track/7HPkvsnyQqQ6PmpLk7D7IR) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Op Weg Naar Geluk](https://open.spotify.com/album/08e5Pb6jMctjgqDckEgDOf) | 2:56 |
 | 4 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
 | 5 | [Jij Bent Zo](https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:31 |
 | 6 | [Zij Gelooft In Mij](https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:49 |

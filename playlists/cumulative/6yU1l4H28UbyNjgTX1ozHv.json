@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 204175,
       "name": "Halo - Acoustic",
       "url": "https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq"
@@ -4385,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4jQcSVIcWcvWnTAPQ7w2eG"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176313,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6VSMMUfqorGCI5Glap5KSr"
+    },
+    {
+      "album": {
         "name": "Teenage Dirtbag (Acoustic)",
         "url": "https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP"
       },
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 184815,
       "name": "Time After Time - Acoustic",
       "url": "https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB"

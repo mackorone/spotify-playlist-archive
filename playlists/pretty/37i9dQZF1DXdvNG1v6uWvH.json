@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Alan Walker, Ouse og m\u00f6rgum fleiri!",
-  "num_followers": 9591,
+  "num_followers": 9589,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "All My Songs",
+        "url": "https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "All My Songs",
+      "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/226aOhk9jyENGfi7KdakZb"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "All My Songs",
-        "url": "https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/1jV5lfD2JGaKQ3kUafwhSd"
       },
       "artists": [
         {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
         }
       ],
-      "duration_ms": 208226,
-      "name": "All My Songs",
-      "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+      "duration_ms": 195499,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/15FRLDirCitAQFOZ8SdTwp"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -271,22 +287,6 @@
       "duration_ms": 178181,
       "name": "Lights Go Red",
       "url": "https://open.spotify.com/track/4eA2rvAsXcpVyZBsOf5eNc"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/1jV5lfD2JGaKQ3kUafwhSd"
-      },
-      "artists": [
-        {
-          "name": "Ella Red",
-          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
-        }
-      ],
-      "duration_ms": 195499,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/15FRLDirCitAQFOZ8SdTwp"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
-      },
-      "artists": [
-        {
-          "name": "Jordan Frye",
-          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
-        }
-      ],
-      "duration_ms": 176797,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Fear Me",
         "url": "https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/5Q18GtyAco5jhxjhftppGh"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
       },
       "artists": [
         {
-          "name": "Max Allais",
-          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+          "name": "Jordan Frye",
+          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
         }
       ],
-      "duration_ms": 183735,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/6h2z1Vf57755mPHQ98w68i"
+      "duration_ms": 176797,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -387,6 +371,22 @@
       "duration_ms": 193942,
       "name": "Safe Ground",
       "url": "https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/5Q18GtyAco5jhxjhftppGh"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "duration_ms": 183735,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/6h2z1Vf57755mPHQ98w68i"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/1ltlSFsr7iH3FGaprzeTCQ"
-      },
-      "artists": [
-        {
-          "name": "Dualities",
-          "url": "https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt"
-        },
-        {
-          "name": "NOVA",
-          "url": "https://open.spotify.com/artist/3bh0ZBZMAOLQ6I1jPjagEa"
-        }
-      ],
-      "duration_ms": 125873,
-      "name": "RAW",
-      "url": "https://open.spotify.com/track/0eIcnlzIfroCKZUcZesOwO"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Can't Let Him Win",
         "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
       },
@@ -479,6 +459,26 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/1ltlSFsr7iH3FGaprzeTCQ"
+      },
+      "artists": [
+        {
+          "name": "Dualities",
+          "url": "https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt"
+        },
+        {
+          "name": "NOVA",
+          "url": "https://open.spotify.com/artist/3bh0ZBZMAOLQ6I1jPjagEa"
+        }
+      ],
+      "duration_ms": 125873,
+      "name": "RAW",
+      "url": "https://open.spotify.com/track/0eIcnlzIfroCKZUcZesOwO"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "Grassroots",
         "url": "https://open.spotify.com/album/4RoW0TltjWe83GOP6IJwfG"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 201785,
       "name": "Grassroots",
       "url": "https://open.spotify.com/track/00MIWezmVK88gZgrLm17Qk"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "Almost Did",
+        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Almost Did",
+      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -515,22 +531,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Almost Did",
-        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Almost Did",
-      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "affirmations",
         "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "ROCKET",
-        "url": "https://open.spotify.com/album/5YQN5EAhACAQGIqw1qoFvQ"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "ROCKET",
-      "url": "https://open.spotify.com/track/44nf203RTn9yoHlVbTIjxZ"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "hold me",
         "url": "https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 201206,
       "name": "hold me",
       "url": "https://open.spotify.com/track/2G1y9hz3obiCa7XuoC1CNV"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/5YQN5EAhACAQGIqw1qoFvQ"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/44nf203RTn9yoHlVbTIjxZ"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "Really Over?",
+        "url": "https://open.spotify.com/album/40YPJjNAugMPO6sI0bsKRA"
+      },
+      "artists": [
+        {
+          "name": "Logan Levi",
+          "url": "https://open.spotify.com/artist/1udkGGVlVlqXfBVkfNnG8v"
+        }
+      ],
+      "duration_ms": 129655,
+      "name": "Really Over?",
+      "url": "https://open.spotify.com/track/5KpFntfKbHGs0QcO1CIWLy"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/0rsaFGCNThDDc84FbxsMGX"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 157200,
       "name": "Gameshow",
       "url": "https://open.spotify.com/track/3qkQBrGVxEojhMZcWSYUIx"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "Really Over?",
-        "url": "https://open.spotify.com/album/40YPJjNAugMPO6sI0bsKRA"
-      },
-      "artists": [
-        {
-          "name": "Logan Levi",
-          "url": "https://open.spotify.com/artist/1udkGGVlVlqXfBVkfNnG8v"
-        }
-      ],
-      "duration_ms": 129655,
-      "name": "Really Over?",
-      "url": "https://open.spotify.com/track/5KpFntfKbHGs0QcO1CIWLy"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
+        "name": "MAMA MIA",
+        "url": "https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi"
+      },
+      "artists": [
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        },
+        {
+          "name": "Aggrxssor",
+          "url": "https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa"
+        }
+      ],
+      "duration_ms": 100788,
+      "name": "MAMA MIA",
+      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
         "name": "Dark Side of the Moon",
         "url": "https://open.spotify.com/album/7D3R5CCCnZUxmBgsIvOa9z"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 158307,
       "name": "ORCHIDS",
       "url": "https://open.spotify.com/track/35bo9XlJKgp6MLhR73MFFK"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
-        "name": "MAMA MIA",
-        "url": "https://open.spotify.com/album/3lJahYcreqEkcUGSsfJiCi"
-      },
-      "artists": [
-        {
-          "name": "Nulteex",
-          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
-        },
-        {
-          "name": "Aggrxssor",
-          "url": "https://open.spotify.com/artist/70zqjQXS6R70XoIUOnX5wa"
-        }
-      ],
-      "duration_ms": 100788,
-      "name": "MAMA MIA",
-      "url": "https://open.spotify.com/track/6Dl9Q9SBBzMR6ajmFqq9uM"
     },
     {
       "added_at": "2026-01-02 00:00:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-02 00:00:14",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/2VKzCUFHHrdyx6iySt2O2R"
-      },
-      "artists": [
-        {
-          "name": "Torfi Olafsson",
-          "url": "https://open.spotify.com/artist/3pxxBHXiuykakJSsdvOXrN"
-        }
-      ],
-      "duration_ms": 209366,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/0I1EBwad8ZhBjpQC0Mf5SB"
-    },
-    {
-      "added_at": "2026-01-02 00:00:14",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/6hIpEL5QqGGZVDFisXZQCS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 311117,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/0dBn2tpDumc3sNWopTLpLx"
+    },
+    {
+      "added_at": "2026-01-02 00:00:14",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/2VKzCUFHHrdyx6iySt2O2R"
+      },
+      "artists": [
+        {
+          "name": "Torfi Olafsson",
+          "url": "https://open.spotify.com/artist/3pxxBHXiuykakJSsdvOXrN"
+        }
+      ],
+      "duration_ms": 209366,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/0I1EBwad8ZhBjpQC0Mf5SB"
     },
     {
       "added_at": "2026-01-02 00:00:14",

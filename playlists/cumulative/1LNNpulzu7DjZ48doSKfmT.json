@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Am I Ok",
+        "url": "https://open.spotify.com/album/2KW6DeJj7DO2x7YQeiNH5Q"
+      },
+      "artists": [
+        {
+          "name": "Neon Forest",
+          "url": "https://open.spotify.com/artist/1h45OQcuIalQRxPhNUl4Wj"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185408,
+      "name": "Am I Ok",
+      "url": "https://open.spotify.com/track/67pwaHZ1tpBVET6NbVGqtt"
+    },
+    {
+      "album": {
         "name": "Amaroamore",
         "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
       },
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "I Keep Standing Above the Clouds",
+        "url": "https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190144,
+      "name": "Grace Under Fire",
+      "url": "https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9"
+    },
+    {
+      "album": {
         "name": "GRADIN!",
         "url": "https://open.spotify.com/album/3lQmxnYv8QhFOFQkKJqBNQ"
       },
@@ -3507,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4XELXp2l8b4kVxlz6bprXg"
+      },
+      "artists": [
+        {
+          "name": "Solo el Malo",
+          "url": "https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211925,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r"
+    },
+    {
+      "album": {
         "name": "HoldUpWait",
         "url": "https://open.spotify.com/album/5RLD4eY291MLtvKHlV8TRE"
       },
@@ -3637,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE"
+      },
+      "artists": [
+        {
+          "name": "Jenine",
+          "url": "https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Hover",
+      "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
+    },
+    {
+      "album": {
         "name": "Two Sides Of A Dream",
         "url": "https://open.spotify.com/album/6NfYTmTgd7ylMee0ldhlIE"
       },
@@ -3670,6 +3742,28 @@
       "duration_ms": 129332,
       "name": "HOW TO",
       "url": "https://open.spotify.com/track/6tJxVsNXYZU1m70gxmZoY5"
+    },
+    {
+      "album": {
+        "name": "Hoy (A Tu Lado) [En Vivo]",
+        "url": "https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB"
+      },
+      "artists": [
+        {
+          "name": "JUAN HUMO",
+          "url": "https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS"
+        },
+        {
+          "name": "maui",
+          "url": "https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273447,
+      "name": "Hoy (A Tu Lado) [En Vivo]",
+      "url": "https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG"
     },
     {
       "album": {
@@ -3961,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/4IoUuqdmFsagE27W4sGSlI"
+      },
+      "artists": [
+        {
+          "name": "Haseem Estwick",
+          "url": "https://open.spotify.com/artist/3l5Oo1sJ8Z8livvnoV37tY"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287413,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/0HVIpONdqv8BOdCUGcFUdq"
+    },
+    {
+      "album": {
         "name": "A Day in LA",
         "url": "https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1"
       },
@@ -4136,6 +4248,24 @@
       "duration_ms": 211764,
       "name": "ITJIMA",
       "url": "https://open.spotify.com/track/7FEVKLe6hixv05aUDhD6Cj"
+    },
+    {
+      "album": {
+        "name": "It\u2019s You",
+        "url": "https://open.spotify.com/album/5stVefLL8jPr1KQXtYsXPU"
+      },
+      "artists": [
+        {
+          "name": "Dre RealA",
+          "url": "https://open.spotify.com/artist/3FeXC6xCSU96xRlfMECBnR"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108948,
+      "name": "It\u2019s You",
+      "url": "https://open.spotify.com/track/3gCIvzlU7D01S77CMPuVKd"
     },
     {
       "album": {
@@ -4350,6 +4480,24 @@
       "duration_ms": 182830,
       "name": "La Bruja de Alcal\u00e1",
       "url": "https://open.spotify.com/track/3Iontyw1HPTtfjxV4fD7kV"
+    },
+    {
+      "album": {
+        "name": "La Presencia de Dios",
+        "url": "https://open.spotify.com/album/6pCrPTVLOjpHhwqixjnJ2C"
+      },
+      "artists": [
+        {
+          "name": "Skeyn Moreno Lugo",
+          "url": "https://open.spotify.com/artist/1dVltXc1mAmn8ECyrhxkAY"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "La Presencia de Dios - Pop Edit",
+      "url": "https://open.spotify.com/track/6uqSVhrtBpDnuW5xvZUfpM"
     },
     {
       "album": {
@@ -5086,6 +5234,24 @@
       "duration_ms": 184888,
       "name": "Make Time",
       "url": "https://open.spotify.com/track/4nDThqsNtLip4HictdNEDj"
+    },
+    {
+      "album": {
+        "name": "make way",
+        "url": "https://open.spotify.com/album/2h0qG2eeuPbjDRWA58dWe0"
+      },
+      "artists": [
+        {
+          "name": "kvs",
+          "url": "https://open.spotify.com/artist/4JPtfsiWBuXkArAl6ykZ6k"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136022,
+      "name": "make way",
+      "url": "https://open.spotify.com/track/3Er3gMe7QOm2MOeWdMqgM7"
     },
     {
       "album": {
@@ -6423,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "Pockets On My Sleeves",
+        "url": "https://open.spotify.com/album/4M95XJRI1kNS948NTj2jWW"
+      },
+      "artists": [
+        {
+          "name": "Soma Please",
+          "url": "https://open.spotify.com/artist/5cjvGfRe1qk7NqfksQQHRQ"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193528,
+      "name": "Pockets On My Sleeves",
+      "url": "https://open.spotify.com/track/1xJYUGYCgqMUoXiqeAU5Hp"
+    },
+    {
+      "album": {
         "name": "Demo Cracia",
         "url": "https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe"
       },
@@ -7335,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Context",
+        "url": "https://open.spotify.com/album/3syzk4LtZrfyQtmBD4Y6p8"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gabriel Garcia",
+          "url": "https://open.spotify.com/artist/2NSjf7BxGj8QIzVZjcgFIc"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175085,
+      "name": "Simulacrum",
+      "url": "https://open.spotify.com/track/75ArH3SLSdntugb5QcQTh4"
+    },
+    {
+      "album": {
         "name": "Human | Sinner",
         "url": "https://open.spotify.com/album/1QDc0RTP2WWNYIswHIMMKb"
       },
@@ -7532,6 +7734,28 @@
       "duration_ms": 133170,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0zTCpfR8Q0eQ7cW2L05xk9"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/7rG1kalC7Yevx1fPF0quWD"
+      },
+      "artists": [
+        {
+          "name": "Lil Smitty",
+          "url": "https://open.spotify.com/artist/4dJdNbMIPPIAF2VkGgbRYF"
+        },
+        {
+          "name": "Cam Coyle",
+          "url": "https://open.spotify.com/artist/3OLzpxwT2A4jkmRE20MMO3"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208165,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3pgJ9q0L6Sqy31Ln58sd3H"
     },
     {
       "album": {
@@ -8016,6 +8240,24 @@
       "duration_ms": 210494,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4LvxUGM0wBXq6gkD0CALK4"
+    },
+    {
+      "album": {
+        "name": "Superhero (Acoustic)",
+        "url": "https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K"
+      },
+      "artists": [
+        {
+          "name": "26 fingerprints",
+          "url": "https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "Superhero - Acoustic",
+      "url": "https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK"
     },
     {
       "album": {
@@ -9483,6 +9725,24 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18vXi7DzcAEuZ3wJRiLPpQ"
+      },
+      "artists": [
+        {
+          "name": "DEN BAURIN",
+          "url": "https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/60Pz3OvkCnkau2CLPqSZnE"
+    },
+    {
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/5KslnH136ehJtOjIakVukB"
       },
@@ -9897,6 +10157,24 @@
     },
     {
       "album": {
+        "name": "Yugoslavia",
+        "url": "https://open.spotify.com/album/65nEphog4h7sdwIjv6WImN"
+      },
+      "artists": [
+        {
+          "name": "Ivanovski The Great",
+          "url": "https://open.spotify.com/artist/018l4d5oVLKYYTxggwEqqI"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169826,
+      "name": "Yugoslavia",
+      "url": "https://open.spotify.com/track/2L0NsIbGFysODDb1qkD105"
+    },
+    {
+      "album": {
         "name": "Yugular (intro)",
         "url": "https://open.spotify.com/album/1EtvipT1KnYJdYTWPTXDxB"
       },
@@ -9930,6 +10208,24 @@
       "duration_ms": 197284,
       "name": "\u00c4ngste",
       "url": "https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke"
+    },
+    {
+      "album": {
+        "name": "BUSHITON",
+        "url": "https://open.spotify.com/album/6909FkwVZTb9eA10svUgDQ"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/2Eo0SlzyKixwW4CLVSN13P"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110882,
+      "name": "\u0411\u0430\u0433\u0430\u0442\u043e \u0434\u0443\u043c\u043e\u043a",
+      "url": "https://open.spotify.com/track/4t4hte7husJ1Zs91dYyTaP"
     },
     {
       "album": {

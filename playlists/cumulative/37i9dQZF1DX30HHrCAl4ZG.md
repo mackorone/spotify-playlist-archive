@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Geese
 
-2,083 songs - 4 day 21 hr 52 min
+2,084 songs - 4 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,6 +1534,7 @@
 | [Sanctuary](https://open.spotify.com/track/2nHZuHgtv8HqN6lWWSlvdW) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/3PSvQ4m5n7Efv5F12KDkue) | 3:31 | 2025-01-24 | 2025-05-03 |
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-01-24 | 2025-02-01 |
 | [Sandcastle Molds](https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Sandcastle Molds](https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN) | 3:18 | 2025-03-21 | 2025-08-09 |
+| [Sandcastles 2008](https://open.spotify.com/track/0hsreXDVImxswGp7pZEwyi) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Sandcastles 2008](https://open.spotify.com/album/5UQrhwjnQX2NW0pIpBP6hb) | 3:42 | 2026-01-05 |  |
 | [Sandwich Sharer](https://open.spotify.com/track/30hqJNoQo0WAil9uFb2eDH) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Sandwich Sharer](https://open.spotify.com/album/50XtyRZnGGEgcSclzVzVL4) | 3:54 | 2022-02-11 | 2022-05-26 |
 | [Sara's Got Big Plans](https://open.spotify.com/track/5HQKMAnDtbbsDq3Vo2ZAVj) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [7.31/Sara](https://open.spotify.com/album/2a7MTFGp6Tg32VjHRlXwio) | 2:30 | 2025-03-14 | 2025-05-31 |
 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 | 2023-03-31 | 2023-08-05 |

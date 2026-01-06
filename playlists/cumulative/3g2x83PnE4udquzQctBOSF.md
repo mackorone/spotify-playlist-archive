@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-448 songs - 1 day 2 hr 46 min
+449 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Prophet](https://open.spotify.com/track/6C4TSZaIUH0emM3uiJcisg) | [Ocean Roulette](https://open.spotify.com/artist/4eP4v7Dqre2Xh5RFp4UH9U) | [Sorry About This](https://open.spotify.com/album/2SH9SlyClyS69max5GmecD) | 4:35 | 2023-09-17 | 2023-12-14 |
 | [Protect Ya Neck \- Jhojho Edit](https://open.spotify.com/track/4rp9ZFa6OhRxGjJm8hYDnd) | [MAYO \(US\)](https://open.spotify.com/artist/4d1ukhuuIDLUI7sIWrah7G), [Jhojho](https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR) | [Check Yo' Self EP](https://open.spotify.com/album/6VBnFCDKS5hYgNJRjlmgjD) | 3:37 | 2024-02-04 | 2024-03-25 |
 | [Pulp Fiction](https://open.spotify.com/track/5HzOV0JgAJXsmNr5sydLQ7) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [Pulp Fiction](https://open.spotify.com/album/3mjsm77aIP6wB8ZLU5r2Yn) | 5:44 | 2023-04-23 | 2023-05-15 |
+| [Pulse and Mirage](https://open.spotify.com/track/7q0ujJZXafvT3bgymFKWfj) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu), [Mauro Fiore](https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA) | [Pulse and Mirage](https://open.spotify.com/album/6MHq9UK7hKxsZXujXpjGO9) | 3:31 | 2026-01-05 |  |
 | [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-06-11 | 2023-07-17 |
 | [Put 'em Up](https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe) | [TECHTIC](https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt) | [Put 'em Up](https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE) | 3:49 | 2024-02-18 | 2024-04-15 |
 | [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-10 | 2024-02-19 |

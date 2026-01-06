@@ -1,13 +1,33 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2658,
+  "num_followers": 2656,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAROMBq/0Oc0wXtrmVkWrUGW/vaIDTD",
+  "snapshot_id": "AAAROQO2MrrcmxjtDVsYLMq+y2fGO3Q4",
   "tracks": [
+    {
+      "added_at": "2026-01-05 18:36:32",
+      "album": {
+        "name": "Pulse and Mirage",
+        "url": "https://open.spotify.com/album/6MHq9UK7hKxsZXujXpjGO9"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        },
+        {
+          "name": "Mauro Fiore",
+          "url": "https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA"
+        }
+      ],
+      "duration_ms": 211476,
+      "name": "Pulse and Mirage",
+      "url": "https://open.spotify.com/track/7q0ujJZXafvT3bgymFKWfj"
+    },
     {
       "added_at": "2025-01-31 14:21:39",
       "album": {

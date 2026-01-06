@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9EM98aZosoy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9EM98aZosoy)
 
-### [Silvesterparty 2025](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
+### [Party Hits \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
 
-> The party has arrived! Bye Bye 2025!
+> All killers, no fillers
 
 320 songs - 15 hr 58 min
 

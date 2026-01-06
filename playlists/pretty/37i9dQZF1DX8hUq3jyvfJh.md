@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > A escolha de nossos editores do Melhor de EQUAL Brasil 2025\. Cover: Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,500 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,508 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 34 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
 | 35 | [Quero Te Contar](https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [quero te contar](https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD) | 2:45 |
-| 36 | [MEU DOM](https://open.spotify.com/track/4pySoGOpBfGdu76Soznjfj) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv) | [MEU DOM](https://open.spotify.com/album/7DYBGUjyiRzM4V9Lk3ZFms) | 2:41 |
-| 37 | [Não Conta Pra Ninguém \- Ao Vivo](https://open.spotify.com/track/0kMtZsE3GYWW7Wioatukkp) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Ao Vivo em São José do Rio Preto](https://open.spotify.com/album/1BAZU8Od3k0mb6z0kZ3ZcV) | 3:37 |
+| 36 | [Não Conta Pra Ninguém \- Ao Vivo](https://open.spotify.com/track/0kMtZsE3GYWW7Wioatukkp) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Ao Vivo em São José do Rio Preto](https://open.spotify.com/album/1BAZU8Od3k0mb6z0kZ3ZcV) | 3:37 |
+| 37 | [MEU DOM](https://open.spotify.com/track/4pySoGOpBfGdu76Soznjfj) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv) | [MEU DOM](https://open.spotify.com/album/7DYBGUjyiRzM4V9Lk3ZFms) | 2:41 |
 | 38 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |
 | 39 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 40 | [É Sal](https://open.spotify.com/track/472LBNCGld5qZqVeO5Opfv) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [É Sal](https://open.spotify.com/album/5xMMqLnvzHYgTfc8s46lR8) | 1:58 |

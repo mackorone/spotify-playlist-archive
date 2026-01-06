@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,391 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,456 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 26 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 27 | [Sekou Oumarou](https://open.spotify.com/track/0ww5hcdJB78pFq3sH2Fucn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/0DVAsW7CZkaUg8zv0FinJI) | 3:33 |
 | 28 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
-| 29 | [Tellalt](https://open.spotify.com/track/2ghykYX3U82Iijvmw0dZVf) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Tellalt](https://open.spotify.com/album/0lTJ5slI5iXHKZFP919sxq) | 3:20 |
-| 30 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
+| 29 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
+| 30 | [Tellalt](https://open.spotify.com/track/2ghykYX3U82Iijvmw0dZVf) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Tellalt](https://open.spotify.com/album/0lTJ5slI5iXHKZFP919sxq) | 3:20 |
 | 31 | [Soixante Trois](https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Idrache \(Traces Of The Past\)](https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ) | 5:13 |
 | 32 | [Sinanon Saran \(Chant de griot\)](https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 3:43 |
 | 33 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
-| 34 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
-| 35 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
+| 34 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
+| 35 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
 | 36 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 37 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 38 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Pinguini Tattici Nucleari in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,944 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,958 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 58 | [Attacchi di panico](https://open.spotify.com/track/6kcW7rUXA5zL4RlnrwJp0P) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:32 |
 | 59 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
 
-Snapshot ID: `AAAAAAudIlXUUyQBHMopbi+6Drpevtlo`
+Snapshot ID: `AAAAACH78ahi0n3O45BRPOVMrKPYyCt1`

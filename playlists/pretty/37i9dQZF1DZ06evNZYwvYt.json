@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19558,
+  "num_followers": 19562,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADXiYt6lqPuDW2xP7Vqp3px",
+  "snapshot_id": "aVmtgAAAAABisMEQPGGhT9BqqPjttXGQ",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Domest\u00edcame",
+      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Domest\u00edcame",
-      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 262133,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5ml03YSdzAhpSW3krfO0sk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2uGP5rzyXrSlXjF9q57a4w"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2uGP5rzyXrSlXjF9q57a4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delicada Violencia",
         "url": "https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 287714,
-      "name": "Piedras de fuego",
-      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 255853,
       "name": "Cabeza de Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/480xl7fiKixUIIoKAxm8cJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 287714,
+      "name": "Piedras de fuego",
+      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 184571,
-      "name": "Cuando la vida se vuelve real",
-      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 256133,
       "name": "Esperar",
       "url": "https://open.spotify.com/track/1Wa76EGZZgRuCV2tnDJ01B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Mar de nubes",
+      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Sonido del Misterio",
         "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 240500,
       "name": "El amor es el fin",
       "url": "https://open.spotify.com/track/4TTS7BCdfcUaLKmgtBS8vF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "El espacio",
-      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "El espacio",
+      "url": "https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Sonido del Misterio",
         "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 191428,
       "name": "Las gemas",
       "url": "https://open.spotify.com/track/0QySeIANpgUoPcBwVqVS1x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Mar de nubes",
-      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 263880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
+      "duration_ms": 219240,
+      "name": "No Me Atrevo a Preguntar",
+      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 219240,
-      "name": "No Me Atrevo a Preguntar",
-      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
+      "duration_ms": 263880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
     },
     {
       "added_at": null,

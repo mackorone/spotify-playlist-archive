@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,731 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,739 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 8 | [Manuela](https://open.spotify.com/track/5wwi3PFLF74ifd5yDmNRph) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Jacques Herb](https://open.spotify.com/album/2dnBP1VFcWr4S7l6QWEOlO) | 4:59 |
 | 9 | [Ik Ben Verliefd Op John Travolta](https://open.spotify.com/track/5tC59DDuaODHeYpX4kKsRZ) | [Sandy](https://open.spotify.com/artist/5PpJnd7D504yfy2B0AjyAo) | [Sandy \(Remastered\)](https://open.spotify.com/album/2HPPNcdT5ezzRbE16asLaI) | 3:39 |
 | 10 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
-| 11 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
-| 12 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
+| 11 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
+| 12 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
 | 13 | [Als De Rook Om Je Hoofd Is Verdwenen](https://open.spotify.com/track/2jpptvSaztyVA95fvLq5O9) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 3:24 |
 | 14 | [Zing \- Vecht \- Huil \- Bid \- Lach \- Werk en Bewonder](https://open.spotify.com/track/6WSFHH1ReDQoeT7bUsufBo) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [De Top 10 Van](https://open.spotify.com/album/2Nc13S1yJXsN9xFO3XJphl) | 4:41 |
 | 15 | [Sjakie van de Hoek](https://open.spotify.com/track/1d451ROhYPaoWhVaudhHAM) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Van Dichtbij](https://open.spotify.com/album/6VZaCO9diVK5EVMJ1hTwwy) | 2:49 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 17 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
 | 18 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
 | 19 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
-| 20 | ['T Is Weer Voorbij Die Mooie Zomer](https://open.spotify.com/track/1OkDLYSHraLYrClG4Q0AQX) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:41 |
-| 21 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
+| 20 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
+| 21 | ['T Is Weer Voorbij Die Mooie Zomer](https://open.spotify.com/track/1OkDLYSHraLYrClG4Q0AQX) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:41 |
 | 22 | [Willem](https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1) | [Willem Duyn](https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c) | [Wat Maakt Dat Nou Uit](https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R) | 3:34 |
 | 23 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
 | 24 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |

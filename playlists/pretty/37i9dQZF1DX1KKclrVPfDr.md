@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,806 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,833 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 16 | [Ehi Thaiyan](https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [Ehi Thaiyan](https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ) | 5:52 |
 | 17 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 |
 | 18 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 |
-| 19 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 |
-| 20 | [MEHANDI SURKAB NA](https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F) | [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [MEHANDI SURKAB NA](https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp) | 2:55 |
-| 21 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
+| 19 | [MEHANDI SURKAB NA](https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F) | [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [MEHANDI SURKAB NA](https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp) | 2:55 |
+| 20 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
+| 21 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 |
 | 22 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |
 | 23 | [Naginiya](https://open.spotify.com/track/18zB9BCWYwjvQ0zjVBSxQQ) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Naginiya](https://open.spotify.com/album/7f7rvzCkdU309grzXMyKU4) | 3:59 |
 | 24 | [Khele Ke Milal Goti](https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh) | [Sanskriti Pandey](https://open.spotify.com/artist/7ffXIVwcucy2hFC3sABaj7) | [Khele Ke Milal Goti](https://open.spotify.com/album/4vtYQPmdNuyPBcSQlQU7kx) | 2:07 |

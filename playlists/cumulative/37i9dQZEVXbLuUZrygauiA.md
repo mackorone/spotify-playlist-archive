@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,522 songs - 7 day 23 hr 31 min
+3,523 songs - 7 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-19 | 2025-12-29 |
 | [Changes \- 2009 Remaster](https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 4:44 | 2025-07-24 | 2025-08-06 |
 | [Changes \- 2013 Remaster](https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2014 Remaster\)](https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f) | 4:42 | 2025-07-25 | 2025-08-04 |
-| [Changuito Me Apodaron](https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Street Mob Live](https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl) | 2:23 | 2025-12-30 |  |
+| [Changuito Me Apodaron](https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Street Mob Live](https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl) | 2:23 | 2025-12-30 | 2026-01-06 |
 | [Chaparrita](https://open.spotify.com/track/1OhT39hHs7Hi6sFNaIpcjJ) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Hasta Que Salga el Sol](https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH) | 2:38 | 2025-03-11 | 2025-04-22 |
 | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 | 2022-02-08 | 2022-06-22 |
 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 | 2024-06-13 | 2024-08-14 |
@@ -2786,6 +2786,7 @@
 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 | 2024-06-12 | 2024-07-24 |
 | [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 | 2024-11-05 | 2024-11-26 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-09-26 | 2023-12-06 |
+| [Si No Me Falla El Corazón](https://open.spotify.com/track/4szjYeki605qbtg5YevwN7) | [Increibles](https://open.spotify.com/artist/0VKtCPMwNM0CrNoMyBLtu5) | [Si No Me Falla El Corazón](https://open.spotify.com/album/5GZLcHNK2XKR2ZKRnFkqLf) | 3:25 | 2026-01-05 |  |
 | [Si No Quieres No](https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Si No Quieres No](https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF) | 2:27 | 2024-03-27 | 2024-07-18 |
 | [Si Supieras](https://open.spotify.com/track/7cPWQLEXd2koK204AKCd7O) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Nueva Sangre](https://open.spotify.com/album/21M3KG8dvj5x6pyCeOoRI6) | 2:26 | 2023-01-31 | 2023-02-06 |
 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 | 2022-03-23 | 2022-05-15 |

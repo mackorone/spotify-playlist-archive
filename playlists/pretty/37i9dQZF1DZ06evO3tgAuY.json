@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2375,
+  "num_followers": 2374,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAC8gGYSJc3o6uJu671tLXFL",
+  "snapshot_id": "aVmtgAAAAAAMMpuJa42v4AVBZlBPGbIQ",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DESDE MIS OJOS",
+        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "DESDE MIS OJOS",
+      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Frente",
         "url": "https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 152464,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESDE MIS OJOS",
-        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "DESDE MIS OJOS",
-      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELIKBOY",
-        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BELIKBOY",
-      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Bombastic",
         "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BELIKBOY",
+        "url": "https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BELIKBOY",
+      "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
     },
     {
       "added_at": null,

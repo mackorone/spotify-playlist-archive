@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,030 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,031 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 54 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
 | 55 | [やさしいままで](https://open.spotify.com/track/12ILanij3qGao68KxZtwR9) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [やさしいままで](https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM) | 3:44 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
-| 57 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
-| 58 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
+| 57 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
+| 58 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
 | 59 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 60 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
 | 61 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |

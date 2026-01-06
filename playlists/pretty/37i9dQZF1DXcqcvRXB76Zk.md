@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqcvRXB76Zk.md) - [plain]
 
 > 아직 끝나지 않은<a href="https://mkt.naver.com/spotify?dtm\_detail=1128&dtm\_source=brand\_main&dtm\_medium=mktatrb&dtm\_campaign=2511\-bimpact\-001&pcode=brand\_main\_1128&campaign\_id=2511\-bimpact\-001&channel\_id=brand\_main&material=1128"> NAVER × Spotify </a>  파티! 필릭스의 솔로곡과 세 아티스트의 셋리스트로 파티의 설렘과 여운을 다시 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962 likes - 22 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 22 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

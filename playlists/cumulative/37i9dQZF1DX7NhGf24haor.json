@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 189187,
       "name": "Day After Day",
       "url": "https://open.spotify.com/track/2cTdSY1RZTAi6pJCUecvmv"
@@ -7704,7 +7704,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 170250,
       "name": "Desert Of Doom",
       "url": "https://open.spotify.com/track/6jSZXkAzGpzXjovaaMPTEG"
@@ -11093,6 +11093,32 @@
     },
     {
       "album": {
+        "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
+        "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138189,
+      "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
+      "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
+    },
+    {
+      "album": {
         "name": "FEELIN' HIGH",
         "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
       },
@@ -13668,7 +13694,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 157933,
       "name": "Haters - Infliction & Vasto Remix",
       "url": "https://open.spotify.com/track/6L2PRTa671GCGp7TIeIEpp"
@@ -19208,6 +19234,24 @@
       "duration_ms": 237769,
       "name": "Lock And Load",
       "url": "https://open.spotify.com/track/2wQUSMZ9JFVF5pd48rMcCU"
+    },
+    {
+      "album": {
+        "name": "LOKKED OUTSIDE",
+        "url": "https://open.spotify.com/album/4EUkEQL0OpTNnN7emaZYya"
+      },
+      "artists": [
+        {
+          "name": "KATALYZE",
+          "url": "https://open.spotify.com/artist/0tqm177gEuN2Sc19zSEBL7"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157511,
+      "name": "LOKKED OUTSIDE",
+      "url": "https://open.spotify.com/track/377IPDQ3VsN1nq6eurQlC8"
     },
     {
       "album": {
@@ -38072,6 +38116,24 @@
       "duration_ms": 165276,
       "name": "Who Is She",
       "url": "https://open.spotify.com/track/1pkxkyFdUQ3m2K35jfz54X"
+    },
+    {
+      "album": {
+        "name": "Who Wants To Live Forever",
+        "url": "https://open.spotify.com/album/7d8TvNqFBdN36KYQclhQ5x"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "Who Wants To Live Forever",
+      "url": "https://open.spotify.com/track/03FdX85SzRWMUwMSh8bMnp"
     },
     {
       "album": {

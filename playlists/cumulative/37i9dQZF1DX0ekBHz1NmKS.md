@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,088 songs - 4 day 12 hr 12 min
+2,089 songs - 4 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Gåshud](https://open.spotify.com/track/645fENOPS8d6qMzvHvp1ZL) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Gåshud](https://open.spotify.com/album/0wwgyVOVXQtEvA30BgmX4Q) | 3:35 | 2021-12-16 | 2022-01-12 |
 | [h4msterb0y <3 Canada](https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [h4msterb0y <3 Canada](https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu) | 3:22 | 2023-10-05 | 2023-12-02 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-04-18 |
+| [Hack i häl](https://open.spotify.com/track/5M4LcdQI697sSHvxTG647W) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Hack i häl](https://open.spotify.com/album/3ljQtz5B7PtcWF0qZlL2Dk) | 3:46 | 2026-01-01 |  |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-08-22 |
 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 | 2023-02-01 | 2023-03-23 |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-16 | 2025-04-05 |
@@ -1022,7 +1023,7 @@
 | [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-09-01 | 2022-10-13 |
 | [Kostym & Sneakers](https://open.spotify.com/track/1mZaapzyBSRX5AThKRXVV6) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Kostym & Sneakers](https://open.spotify.com/album/0yFA4cwBtbrOglS425pSGe) | 2:26 | 2024-04-18 | 2024-05-24 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-19 | 2025-08-26 |
-| [Krig](https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Krig](https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4) | 2:13 | 2025-12-11 |  |
+| [Krig](https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Krig](https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4) | 2:13 | 2025-12-11 | 2026-01-06 |
 | [Krossa snällt](https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Krossa snällt](https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB) | 3:13 | 2024-02-15 | 2024-04-05 |
 | [Ktrl](https://open.spotify.com/track/326XDQRzTe8LDwDHJQtNdE) | [Diza Guava](https://open.spotify.com/artist/1JKLKkNDjTFxVMlr1lkImV) | [Ktrl](https://open.spotify.com/album/4Ib2uuSblqFz1EEeEnFcp6) | 3:36 | 2024-02-08 | 2024-02-18 |
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |

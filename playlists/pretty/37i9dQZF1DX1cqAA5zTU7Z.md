@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,850 likes - 38 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,452 likes - 38 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

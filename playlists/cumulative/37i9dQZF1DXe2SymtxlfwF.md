@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-158 songs - 10 hr 3 min
+159 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY) | 2:31 | 2022-04-01 | 2024-04-19 |
 | [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Brunch with Vivaldi](https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW) | 2:35 | 2022-04-01 | 2022-11-13 |
 | [Rosalee Theme](https://open.spotify.com/track/26biCo2zkO7KlOzrwIbSrT) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hostiles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Xp9rz5hJZg5Wyobk8UJSF) | 4:14 | 2022-04-01 |  |
+| [See things that others don’t](https://open.spotify.com/track/42znvzdFy5ls340xm8YnTq) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 1:46 | 2026-01-05 |  |
 | [She Remembers](https://open.spotify.com/track/3JggEa7I7tBPQhiOfexL6U) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg) | 3:49 | 2022-04-01 | 2024-04-19 |
 | [She Remembers](https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 3:49 | 2022-04-01 |  |
 | [Solitaries](https://open.spotify.com/track/1ZtENrjdrvGPllE7NvzS9S) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:49 | 2022-04-01 |  |

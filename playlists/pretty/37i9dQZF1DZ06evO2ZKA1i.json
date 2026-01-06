@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300650,
+  "num_followers": 300668,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACZwtfjIRVQAH6OEoJ+8ny0",
+  "snapshot_id": "aVmtgAAAAADUMxc7QuY2UwILSVXlUH1c",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now What ?!",
-        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now What ?!",
+        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "All the Time in the World",
+      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,

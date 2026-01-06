@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5867,
+  "num_followers": 5869,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAZq83A8nZBrK7OysRJ3YG3",
+  "snapshot_id": "aVmtgAAAAADpMixEy4u8XATHXlzYiXLI",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Esa No Soy Yo",
+      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 212320,
       "name": "De Lo Que Me Salv\u00e9",
       "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "El Honor",
-      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Esa No Soy Yo",
-      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+      "duration_ms": 165040,
+      "name": "El Honor",
+      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
       "duration_ms": 196440,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Ticket De Salida",
-      "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 178226,
       "name": "NI MUERTA",
       "url": "https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Ticket De Salida",
+      "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
     },
     {
       "added_at": null,

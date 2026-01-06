@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Highlights from 2025, listen to women at full volume.<br/>Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,481 likes - 49 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,492 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 5 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 6 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 |
 | 7 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6) | 4:33 |
-| 8 | [Bengicela](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Bengicela](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
+| 8 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 9 | [sankofa](https://open.spotify.com/track/4OqKJ9bfPplpC27Gv1mMWI) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:36 |
 | 10 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
 | 11 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |

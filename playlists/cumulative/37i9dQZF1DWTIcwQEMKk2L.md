@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-214 songs - 10 hr 12 min
+215 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2024-03-25 | 2026-01-04 |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2024-04-22 | 2025-07-14 |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-11-20 | 2025-09-23 |
+| [If I Were A Bell](https://open.spotify.com/track/1c1C9gGAQs6P7BuJpRjUDv) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [If I Were A Bell](https://open.spotify.com/album/1v582C03OT0ooYLzgt72UA) | 2:56 | 2025-12-29 |  |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2023-11-20 | 2024-06-27 |
 | [Improvisation 7](https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Chopin +](https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg) | 1:13 | 2023-11-20 | 2024-06-02 |
 | [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-12-25 | 2025-11-06 |
@@ -186,7 +187,7 @@
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2024-04-08 | 2025-11-23 |
 | [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2023-11-20 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2024-07-15 |  |
-| [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 | 2024-02-12 |  |
+| [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 | 2024-02-12 | 2026-01-06 |
 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 | 2025-10-20 |  |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2025-08-11 | 2025-11-26 |
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2023-11-20 |  |

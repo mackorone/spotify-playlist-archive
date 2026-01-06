@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116610,
+  "num_followers": 116603,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,22 @@
     {
       "added_at": "2025-12-31 11:49:36",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-12-31 11:49:36",
@@ -731,18 +735,18 @@
     {
       "added_at": "2025-12-31 11:49:36",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2025-12-31 11:49:36",
@@ -767,22 +771,18 @@
     {
       "added_at": "2025-12-31 11:49:36",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2025-12-31 11:49:36",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-12-31 11:49:36",
       "album": {
+        "name": "Bare for i kveld",
+        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Bare for i kveld",
+      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+    },
+    {
+      "added_at": "2025-12-31 11:49:36",
+      "album": {
         "name": "Siste Kveld",
         "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 159380,
       "name": "Siste Kveld",
       "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
-    },
-    {
-      "added_at": "2025-12-31 11:49:36",
-      "album": {
-        "name": "Bare for i kveld",
-        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Bare for i kveld",
-      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
     },
     {
       "added_at": "2025-12-31 11:49:36",

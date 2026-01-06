@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 156656,
       "name": "Activo Con Lo Bate - Remix",
       "url": "https://open.spotify.com/track/0iYdZCh1uuZinJqpEsoGJ9"
@@ -8702,7 +8702,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 148474,
       "name": "DE AQUI PA ALLA",
       "url": "https://open.spotify.com/track/7gjtEkhkBRG6vEAlEcpw3O"
@@ -31631,6 +31631,36 @@
     },
     {
       "album": {
+        "name": "Quien Dijo Miedo",
+        "url": "https://open.spotify.com/album/5Xm31rnE8IZJBLpyis5KGj"
+      },
+      "artists": [
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Cm Records",
+          "url": "https://open.spotify.com/artist/3ZKtLiRnTlZ1ooWxUYYTJ1"
+        },
+        {
+          "name": "Beear Music",
+          "url": "https://open.spotify.com/artist/4YxmXX7zg43R1MnKOASPb5"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103590,
+      "name": "Quien Dijo Miedo",
+      "url": "https://open.spotify.com/track/4CuuECokA3mkZThDkKiiqO"
+    },
+    {
+      "album": {
         "name": "Quien Es Dei V?",
         "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
       },
@@ -32544,7 +32574,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
@@ -33982,6 +34012,28 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+    },
+    {
+      "album": {
+        "name": "Santa Diabla (Remix)",
+        "url": "https://open.spotify.com/album/2jLXg66dRVe3NkKP2UdI17"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209268,
+      "name": "Santa Diabla - Remix",
+      "url": "https://open.spotify.com/track/0U4hdB14qhelRqs2saikto"
     },
     {
       "album": {
@@ -40006,7 +40058,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 137777,
       "name": "Tupac",
       "url": "https://open.spotify.com/track/1WYa4i0254cK0m9NAcBMEf"

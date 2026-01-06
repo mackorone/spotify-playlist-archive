@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,954 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,952 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 33 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 | 34 | [Blood in the Water](https://open.spotify.com/track/12pova27n3uHRQxrPnih9f) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:55 |
 | 35 | [No More Regrets](https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:05 |
-| 36 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
-| 37 | [Carry the Cross](https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
+| 36 | [Carry the Cross](https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
+| 37 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
 | 38 | [The Race](https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:15 |
 | 39 | [Stolen Life](https://open.spotify.com/track/47j6K08MLO1PiYsxv7VCVM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 2:58 |
-| 40 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
-| 41 | [Enemy Within](https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:19 |
+| 40 | [Enemy Within](https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:19 |
+| 41 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
 | 42 | [Taking Back My Soul](https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:35 |
 | 43 | [Leader of the Rats](https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:20 |
-| 44 | [Yesterday Is Dead and Gone](https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:21 |
-| 45 | [Burning Angel](https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:15 |
+| 44 | [Burning Angel](https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:15 |
+| 45 | [Yesterday Is Dead and Gone](https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:21 |
 | 46 | [Enter the Machine](https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 2:02 |
 | 47 | [Silent Wars](https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
-| 48 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 |
-| 49 | [Dead Bury Their Dead](https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 3:53 |
+| 48 | [Dead Bury Their Dead](https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 3:53 |
+| 49 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 |
 | 50 | [I Am Legend/Out for Blood](https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:58 |
 
-Snapshot ID: `aVhcAAAAAADKT0ze/qiGmaGs+XFGZ7Gh`
+Snapshot ID: `aVmtgAAAAACVsH7UN7Vr5liH5kBOwgAV`

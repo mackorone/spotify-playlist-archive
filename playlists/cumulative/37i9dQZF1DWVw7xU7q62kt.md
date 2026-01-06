@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-735 songs - 1 day 7 hr 39 min
+736 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Allure](https://open.spotify.com/track/04ooGGf7K6S82kmzceMqX3) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Allure](https://open.spotify.com/album/2WVuxyDtbBCTRqBgnuah9g) | 2:24 | 2025-09-26 | 2025-11-29 |
 | [Altered Sine](https://open.spotify.com/track/60f6EbhrEope346BnF3G6J) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Altered Sine](https://open.spotify.com/album/4ZlHTbQtEDzz72oLt4jVlg) | 2:57 | 2024-09-13 | 2025-11-15 |
 | [Always Late](https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Together Tomorrow](https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0) | 2:17 | 2024-11-22 | 2025-05-03 |
-| [amber](https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [amber](https://open.spotify.com/album/3ZXyc2p19TsdtGowioTvBY) | 2:32 | 2025-12-05 |  |
+| [amber](https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [amber](https://open.spotify.com/album/3ZXyc2p19TsdtGowioTvBY) | 2:32 | 2025-12-05 | 2026-01-06 |
 | [Amber Interior](https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Colt](https://open.spotify.com/artist/7aT9MkRQS4iaMF4CRUpm5c) | [Empty Pool](https://open.spotify.com/album/1cp1dwciYyhXThpHOQfJ9s) | 3:05 | 2024-08-23 | 2025-05-17 |
 | [Amor De Otoño](https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Amor De Otoño](https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2) | 2:08 | 2023-08-22 | 2025-04-12 |
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2023-08-22 | 2024-04-19 |
@@ -423,6 +423,7 @@
 | [Neon & Nicotine](https://open.spotify.com/track/5U8qv7VE4sXjksvPCUi0ku) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Neon & Nicotine](https://open.spotify.com/album/5nQcJWJUJmnADnAZqGnjtR) | 1:51 | 2025-07-18 | 2025-09-27 |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 | 2025-03-21 |
+| [New Approaches](https://open.spotify.com/track/1XfpfUsHR7ELrheHZcmXRz) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [New Approaches](https://open.spotify.com/album/0cfzp4KltsyWQDp29DcmOK) | 2:04 | 2025-12-26 |  |
 | [new dawn](https://open.spotify.com/track/36RaLQ0xc6jBTUYWF7B8a3) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [new dawn](https://open.spotify.com/album/4rOzEkzTZ5Tt3BjilkQKnS) | 2:03 | 2025-10-10 |  |
 | [New Day](https://open.spotify.com/track/1BdwQ5nuLln2JAY6Jfm8EN) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Night Light, Morning Light](https://open.spotify.com/album/4KitFaXDFZ9xOt2hOwKtyn) | 2:08 | 2024-09-27 | 2025-09-13 |
 | [New Morning](https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Above the Laws](https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e) | 3:21 | 2024-11-15 | 2024-11-23 |

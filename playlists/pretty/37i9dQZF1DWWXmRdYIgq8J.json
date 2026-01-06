@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 25451,
+  "num_followers": 25464,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh",
+          "url": "https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
         "name": "DMR (Drink Meh Rum)",
         "url": "https://open.spotify.com/album/3372WUhOaaZFLza7Tzb8UE"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 138686,
       "name": "DMR (Drink Meh Rum)",
       "url": "https://open.spotify.com/track/4vQXm47LMMUaBeqdLU3zdK"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ"
-      },
-      "artists": [
-        {
-          "name": "Savita Singh",
-          "url": "https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe"
     },
     {
       "added_at": "2025-07-17 09:06:39",

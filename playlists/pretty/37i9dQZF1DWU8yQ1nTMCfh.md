@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Zoé
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,239 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,194 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 35 | [¿Quién Te Hizo Tanto Daño?](https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [WIPLASH](https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf) | 3:06 |
 | 36 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
 | 37 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 |
-| 38 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
-| 39 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 38 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 39 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
 | 40 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
 | 41 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
 | 42 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
 | 43 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
 | 44 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
-| 45 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
-| 46 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 |
+| 45 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 |
+| 46 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 47 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
 | 48 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 49 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 62 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 63 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
 | 64 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
-| 65 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
-| 66 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
+| 65 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
+| 66 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
 | 67 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 |
 | 68 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
 | 69 | [Vuelve con Él](https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn) | [Franno](https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW) | [Historia de Amor](https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr) | 3:34 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 239272,
+  "num_followers": 239305,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABnkiKPXmlZiY3Sl5sCYyJ3",
+  "snapshot_id": "aVmtgAAAAABWiLrh8ZIgIVx+CjH3AAie",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 225053,
       "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
       "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leb\u00f3n & Co.",
-        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
-      },
-      "artists": [
-        {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuentito",
         "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leb\u00f3n & Co.",
+        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 218040,
       "name": "Abracadabras (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 92420,
+  "num_followers": 92432,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 312346,
-      "name": "Four Out Of Five",
-      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 214666,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 239010,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "we just need some time together",
         "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 239010,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
+      "duration_ms": 194023,
+      "name": "Lost in Paris",
+      "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1435,26 +1455,6 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 194023,
-      "name": "Lost in Paris",
-      "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Swimming Pool Summer",
+      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "nightmares",
         "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 189246,
       "name": "Say, Can You Hear",
       "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Swimming Pool Summer",
-      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
     },
     {
       "added_at": "2024-03-18 13:22:22",

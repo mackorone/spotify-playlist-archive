@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512740,
+  "num_followers": 1512682,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 175086,
       "name": "Pijama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixe Me Ir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "added_at": "2024-08-02 18:37:00",

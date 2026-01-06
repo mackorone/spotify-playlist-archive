@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "PEARLS",
+      "url": "https://open.spotify.com/track/0iuvopqKk5DK1R31UiBSkE"
+    },
+    {
+      "album": {
         "name": "PEPPER",
         "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 157466,
       "name": "PRETEA",
       "url": "https://open.spotify.com/track/0FGmiYt607UXBrInNFXtpU"

@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "HOLD ME AGAIN",
+        "url": "https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "HOLD ME AGAIN",
+      "url": "https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3040,
+  "num_followers": 3041,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAlw8eIawADLEOWB7rkYdEw",
+  "snapshot_id": "aVmtgAAAAABGAi9ycO7Vmpfj+xHTa0fr",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding on Tight",
-        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
-      },
-      "artists": [
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 208197,
-      "name": "Enough (with Anuhea)",
-      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/35oHGr2hJwc5vw9hKMeDoT"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 222144,
       "name": "Ain't Gonna Give Up",
       "url": "https://open.spotify.com/track/6ld1ONFLAWbgdMAiVWJ5oS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holding on Tight",
+        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
+      },
+      "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 208197,
+      "name": "Enough (with Anuhea)",
+      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+      "duration_ms": 206240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moku Soul",
-        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
       },
       "artists": [
-        {
-          "name": "Tripp Wilson",
-          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 190463,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/3M8Dda5bgZZKHtqPIitRDx"
     },
     {
       "added_at": null,
@@ -731,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
+        "name": "Moku Soul",
+        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
       },
       "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/3M8Dda5bgZZKHtqPIitRDx"
+      "duration_ms": 190463,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
     },
     {
       "added_at": null,

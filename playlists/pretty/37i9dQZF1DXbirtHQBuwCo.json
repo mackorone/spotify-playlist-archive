@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
-  "num_followers": 1093668,
+  "num_followers": 1093583,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 193413,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
+        "name": "Forever Only - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Forever Only",
+      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
-        "name": "Forever Only - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Forever Only",
-      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 206613,
       "name": "Magic (Feat. JULIE of KISS OF LIFE)",
       "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
-        "name": "jellyfish",
-        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "jellyfish",
-      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Solitary",
-        "url": "https://open.spotify.com/album/6332xxEEpdU7af0Cxv31YQ"
-      },
-      "artists": [
-        {
-          "name": "KRYSTAL",
-          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Solitary",
-      "url": "https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Chi-Ka",
         "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 203953,
       "name": "Chi-Ka",
       "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Solitary",
+        "url": "https://open.spotify.com/album/6332xxEEpdU7af0Cxv31YQ"
+      },
+      "artists": [
+        {
+          "name": "KRYSTAL",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Solitary",
+      "url": "https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE"
     }
   ],
   "unique_name": "TrenChill K-R&B",

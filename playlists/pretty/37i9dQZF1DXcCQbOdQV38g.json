@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59973,
+  "num_followers": 59975,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Doe Je Dansie",
-        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
-      },
-      "artists": [
-        {
-          "name": "Jari Hellegers",
-          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Doe Je Dansie",
-      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Honderd Keer",
         "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 196034,
       "name": "Honderd Keer",
       "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Doe Je Dansie",
+        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Doe Je Dansie",
+      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Kadootje",
-        "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
-        }
-      ],
-      "duration_ms": 143362,
-      "name": "Kadootje",
-      "url": "https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Stapje",
         "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
+        "name": "Kadootje",
+        "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "duration_ms": 143362,
+      "name": "Kadootje",
+      "url": "https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
         "name": "Blijven Slapen",
         "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 170991,
       "name": "Blijven Slapen",
       "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -779,6 +763,22 @@
       "duration_ms": 191590,
       "name": "Laat Me Lekker Leven",
       "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Se\u00f1orita, Meisje van de nacht",
         "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 176012,
       "name": "Se\u00f1orita, Meisje van de nacht",
       "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-12-26 23:00:21",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-12-26 23:00:21",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2025-12-26 23:00:21",
-      "album": {
         "name": "Lars",
         "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 181731,
       "name": "In De Schuur",
       "url": "https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o"
+    },
+    {
+      "added_at": "2025-12-26 23:00:21",
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "added_at": "2025-12-26 23:00:21",

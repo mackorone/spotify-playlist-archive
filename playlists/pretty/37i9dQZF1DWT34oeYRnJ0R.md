@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Alleh, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,416 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,376 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 47 | [JADA & PAC](https://open.spotify.com/track/2c0fbaUG3DZajnjdOiNh9L) | [G.O.K.B.](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [HYBREDS](https://open.spotify.com/album/1OxpLftVH7QS1fGGrSgzRk) | 3:25 |
 | 48 | [SiNKRONiZAMOS](https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 3:19 |
 | 49 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
-| 50 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 50 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 51 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 52 | [Dos Elegidos: Mienteme](https://open.spotify.com/track/7mPGkoZF8PduIt8wHhtblE) | [Dos Elegidos](https://open.spotify.com/artist/4lxrAPSiyuyIvitdtZm2ID), [Joel Melody](https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii), [Mark Poow](https://open.spotify.com/artist/6Y0IhGYKvjkuynhtWfFbNL) | [Dos Elegidos: Mienteme](https://open.spotify.com/album/3QBQ3yLCpqENu5GRMIJWwp) | 2:12 |
 | 53 | [$$$$](https://open.spotify.com/track/5MR2AQnIqBI1WT8LXMZfYv) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [$$$$](https://open.spotify.com/album/3dEQIcJOKfqFzPPg6UQlj2) | 3:05 |

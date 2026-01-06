@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707737,
+  "num_followers": 707728,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dreams (Lanie's Version)",
-        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
-      },
-      "artists": [
-        {
-          "name": "Lanie Gardner",
-          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Dreams - Lanie's Version",
-      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 285719,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dreams (Lanie's Version)",
+        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Dreams - Lanie's Version",
+      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 154869,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 212186,
       "name": "Home",
       "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 222600,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Covers Collection",
-        "url": "https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy"
-      },
-      "artists": [
-        {
-          "name": "POP ETC",
-          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
-        }
-      ],
-      "duration_ms": 200432,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Times They Are A-Changin\u2019 (Performance Version)",
         "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 180000,
       "name": "The Times They Are A-Changin\u2019 - Performance Version",
       "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Covers Collection",
+        "url": "https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy"
+      },
+      "artists": [
+        {
+          "name": "POP ETC",
+          "url": "https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL"
+        }
+      ],
+      "duration_ms": 200432,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
     }
   ],
   "unique_name": "Classic Covers",

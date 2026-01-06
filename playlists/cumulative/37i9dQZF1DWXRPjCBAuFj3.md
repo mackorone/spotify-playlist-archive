@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈  Shiva in cover
 
-947 songs - 2 day 1 hr 3 min
+949 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-08-22 | 2023-06-06 |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-10-17 | 2025-11-28 |
 | [Phantom](https://open.spotify.com/track/6jUtvXa9NwN1Rh0PkLJHOz) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Phantom](https://open.spotify.com/album/4KKAIvHLWvTJgGiADIHqnn) | 1:49 | 2025-11-27 |  |
+| [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 | 2026-01-05 |  |
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-04-17 | 2025-07-04 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-22 | 2022-08-06 |
 | [PICCOLO](https://open.spotify.com/track/5xab2acNjhKo4q0T9KvwfG) | [MEC DELARUE](https://open.spotify.com/artist/4cQcT80mbYJ3KPe5atyfY6) | [PICCOLO](https://open.spotify.com/album/5F2Cu1tNM5sHiIOj54FmMb) | 2:59 | 2023-09-28 | 2023-10-07 |
@@ -688,6 +689,7 @@
 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 | 2023-06-09 | 2024-02-16 |
 | [PULL UP GHOST\-CLAN \(feat\. 2 Chainz\)](https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:03 | 2024-03-15 | 2024-04-26 |
 | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR) | 2:33 | 2025-11-18 |  |
+| [Push It \(feat\. ANNA\)](https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Push It \(feat\. ANNA\)](https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5) | 2:55 | 2026-01-05 |  |
 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 | 2022-05-13 | 2022-07-29 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 | 2025-07-04 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-05-10 | 2022-07-29 |

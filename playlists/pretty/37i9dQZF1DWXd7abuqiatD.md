@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 
 > Pacific Avenue curate your next Road Trip
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,050 likes - 45 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,232 likes - 45 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

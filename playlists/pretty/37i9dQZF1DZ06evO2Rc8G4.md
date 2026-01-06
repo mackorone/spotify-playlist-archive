@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,015 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,009 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 20 | [I Believe in You](https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 3:20 |
 | 21 | [Kids](https://open.spotify.com/track/21pvCJBSp34fC17YHOtw05) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:46 |
 | 22 | [Especially for You](https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Especially for You](https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP) | 4:00 |
-| 23 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
-| 24 | [Lights Camera Action](https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 23 | [Lights Camera Action](https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 24 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
 | 25 | [On a Night Like This](https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:33 |
-| 26 | [Timebomb](https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Timebomb](https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl) | 2:56 |
-| 27 | [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 |
+| 26 | [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 |
+| 27 | [Timebomb](https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Timebomb](https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl) | 2:56 |
 | 28 | [Better the Devil You Know](https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI) | 3:53 |
 | 29 | [A Second to Midnight](https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:27 |
 | 30 | [Chocolate](https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 5:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 39 | [Red Blooded Woman](https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:20 |
 | 40 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
 | 41 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
-| 42 | [Miss a Thing](https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:56 |
-| 43 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
+| 42 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
+| 43 | [Miss a Thing](https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:56 |
 | 44 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 45 | [Taboo](https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:48 |
 | 46 | [Where the Wild Roses Grow](https://open.spotify.com/track/28lQMRZpJmEzCyVMMNTu4H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Murder Ballads](https://open.spotify.com/album/1wG6L7SUkfnE3koQ7fP9FW) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 49 | [The One](https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL) | 3:59 |
 | 50 | [Kiss Bang Bang](https://open.spotify.com/track/2Eb8ew1pvGvUWNiTPKdv0k) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:27 |
 
-Snapshot ID: `aVhcAAAAAADS0Cb4AM2a9FeYl1huiJWS`
+Snapshot ID: `aVmtgAAAAABFOBGpa9jHlI2tvbYOzkdz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,917 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,918 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 24 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 25 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
 | 26 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
-| 27 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
-| 28 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
+| 27 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
+| 28 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
 | 29 | [Haute Couture](https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Haute Couture](https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL) | 2:10 |
 | 30 | [ONE PUNCH](https://open.spotify.com/track/51Xbvv48cHKB5TiUQowktL) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [ONE PUNCH](https://open.spotify.com/album/1P4oYvbx2Km6bg5iHUvCgX) | 2:20 |
 | 31 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |

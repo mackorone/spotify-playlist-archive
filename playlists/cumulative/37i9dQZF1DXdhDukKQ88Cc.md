@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-476 songs - 20 hr 22 min
+477 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 | 2025-11-13 |  |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-09-13 |
 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 | 2025-02-28 |
+| [Bow Wow](https://open.spotify.com/track/1Na00sneOcO1jEzhAUCXa1) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Bow Wow](https://open.spotify.com/album/4OGRZIZyrGgNGIRlgFh2dZ) | 1:57 | 2026-01-05 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Brummer \(feat\. KESI\)](https://open.spotify.com/track/24OxOXIG8y2mMZgDI2lfFX) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Brummer \(feat\. KESI\)](https://open.spotify.com/album/4sn6av6beIjH5BFrQAE25V) | 2:34 | 2025-02-21 | 2025-10-03 |
 | [Brutalt](https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 3:49 | 2024-08-07 | 2025-02-28 |

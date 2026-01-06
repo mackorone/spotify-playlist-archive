@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-172 songs - 8 hr 30 min
+173 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Drop Low](https://open.spotify.com/track/3BivR4yDAuurjSnCggKtRK) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W) | [Drop Low](https://open.spotify.com/album/3UhRqv7zxE46AzU15pnryU) | 2:50 | 2025-07-18 | 2025-09-13 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [Enough To Drink \- Frank Walker Remix](https://open.spotify.com/track/7oFFgyhqW2u9x97RU4Acl8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Enough To Drink \(Remix Pack\)](https://open.spotify.com/album/4Wu0Z9YORUdekIMDMYhIl4) | 2:41 | 2025-07-18 | 2025-11-22 |
-| [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-07-18 |  |
+| [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-07-18 | 2026-01-06 |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2025-07-18 | 2025-08-09 |
 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 | 2025-07-18 |  |
 | [Feel Again](https://open.spotify.com/track/1lnqLxjlkgbR06AceNHYZw) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Feel Again](https://open.spotify.com/album/4qWqvo8kjkb6EZWbM3ExE1) | 3:24 | 2025-09-26 | 2025-12-12 |
@@ -71,6 +71,7 @@
 | [High On Life \(feat\. Bonn\)](https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [High On Life \(feat\. Bonn\)](https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim) | 3:50 | 2025-07-18 |  |
 | [Higher Love](https://open.spotify.com/track/0QUzSHpdiTTh4wrB2bPhE7) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Higher Love](https://open.spotify.com/album/1HsgziXkEaJNjAIpJArkA5) | 2:02 | 2025-09-08 |  |
 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-07-18 |  |
+| [HOLD ME AGAIN](https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [HOLD ME AGAIN](https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm) | 2:28 | 2026-01-05 |  |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2025-07-18 |  |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2025-07-18 | 2025-09-13 |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [It's Not Right But It's Okay](https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro) | 3:32 | 2025-07-18 |  |

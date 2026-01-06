@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Spotify curators pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,771 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,772 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

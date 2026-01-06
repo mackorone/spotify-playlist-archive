@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 409671,
+  "num_followers": 409711,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAA/5DedZPMCIx8onQZolWJx",
+  "snapshot_id": "aVmtgAAAAAC+PhEEaagJv7SlpDapIAtB",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Young Metro",
+      "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 162826,
       "name": "Take Me Thru Dere",
       "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Young Metro",
-      "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"
     },
     {
       "added_at": null,
@@ -663,30 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage Mode",
-        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "X (feat. Future)",
-      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 226946,
       "name": "Everyday Hustle",
       "url": "https://open.spotify.com/track/3Vg7nPYlOrCkcV1abKbRQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savage Mode",
+        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "X (feat. Future)",
+      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "We Don't Trust You",
+      "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -787,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "Savage Mode",
+        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 226213,
-      "name": "We Don't Trust You",
-      "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
+      "duration_ms": 235040,
+      "name": "No Heart",
+      "url": "https://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO"
     },
     {
       "added_at": null,
@@ -835,46 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage Mode",
-        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "No Heart",
-      "url": "https://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/3CDVMejYHnB1SkEEx0T1N4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -895,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
       "artists": [
         {
@@ -908,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 148640,
-      "name": "My Choppa Hate Niggas",
-      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
+      "duration_ms": 201856,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/3CDVMejYHnB1SkEEx0T1N4"
     },
     {
       "added_at": null,
@@ -939,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
       "artists": [
         {
@@ -952,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 185036,
-      "name": "Slidin",
-      "url": "https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ"
+      "duration_ms": 148640,
+      "name": "My Choppa Hate Niggas",
+      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
     },
     {
       "added_at": null,
@@ -979,6 +959,50 @@
       "duration_ms": 246666,
       "name": "Always Be My Fault",
       "url": "https://open.spotify.com/track/1FIwzmULOKGNmo5bOJqW0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 185036,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
       "added_at": null,
@@ -1011,26 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
       "artists": [
         {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 265480,
-      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
-      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+      "duration_ms": 184733,
+      "name": "Streets Made Me A King",
+      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
     },
     {
       "added_at": null,
@@ -1051,26 +1071,6 @@
       "duration_ms": 214192,
       "name": "RIP Luv",
       "url": "https://open.spotify.com/track/1wGnp7ejkCuXRsehXx0PNP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Streets Made Me A King",
-      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
     },
     {
       "added_at": null,

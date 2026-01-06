@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1595391,
+  "num_followers": 1595668,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
-        "name": "Assumptions (slowed down version)",
-        "url": "https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Assumptions - slowed down version",
-      "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
-    },
-    {
-      "added_at": "2025-07-15 19:04:50",
-      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 140142,
       "name": "Shootout (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
+    },
+    {
+      "added_at": "2025-07-15 19:04:50",
+      "album": {
+        "name": "Assumptions (slowed down version)",
+        "url": "https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 278474,
+      "name": "Assumptions - slowed down version",
+      "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
     },
     {
       "added_at": "2025-07-15 19:04:50",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
-        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
-        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "DJ Purpberry",
-          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "No Idea - Dj Purpberry Chopped and Screwed",
-      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
-    },
-    {
-      "added_at": "2025-07-15 19:04:50",
-      "album": {
         "name": "Living Life, In The Night (slowed)",
         "url": "https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 141290,
       "name": "Living Life, In The Night - slowed",
       "url": "https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ"
+    },
+    {
+      "added_at": "2025-07-15 19:04:50",
+      "album": {
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "DJ Purpberry",
+          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     }
   ],
   "unique_name": "slowed and reverbed",

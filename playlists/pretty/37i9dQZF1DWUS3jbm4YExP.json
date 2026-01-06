@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 858271,
+  "num_followers": 858395,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Touch Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Touch Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Alma\u2019s Cove",
         "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 234248,
       "name": "Alma's Cove",
       "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Touch Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Touch Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
-      },
-      "artists": [
-        {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
-        }
-      ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Countryman '82",
-        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 243442,
-      "name": "Countryman '82",
-      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Countryman '82",
+        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 243442,
+      "name": "Countryman '82",
+      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Waiting For The Punchline (Swallertrip)",
-        "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 203688,
-      "name": "Waiting For The Punchline (Swallertrip)",
-      "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Waiting For The Punchline (Swallertrip)",
+        "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 203688,
+      "name": "Waiting For The Punchline (Swallertrip)",
+      "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Look at My Soul: The Latin Shade of Texas Soul",
         "url": "https://open.spotify.com/album/4VGl3MuJnLbgLrHqPxArX8"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 250813,
       "name": "One Woman Man",
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Psych\u00e9",
-        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
-      },
-      "artists": [
-        {
-          "name": "Psych\u00e9",
-          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
-        }
-      ],
-      "duration_ms": 221582,
-      "name": "Cumbia Mah\u00e0re",
-      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Los Santos y Pecadores",
         "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 198767,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Psych\u00e9",
+        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
+      },
+      "artists": [
+        {
+          "name": "Psych\u00e9",
+          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
+        }
+      ],
+      "duration_ms": 221582,
+      "name": "Cumbia Mah\u00e0re",
+      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Mam Yinne Wa",
         "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
@@ -2287,22 +2271,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
-        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
       },
       "artists": [
         {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 267316,
-      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
-      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2327,6 +2307,26 @@
       "duration_ms": 304178,
       "name": "Mama - D\u00e9ni-Shain & Mister Francky Remix",
       "url": "https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
+        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+      },
+      "artists": [
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 267316,
+      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
+      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Orb II",
-        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
-      },
-      "artists": [
-        {
-          "name": "Meister Lampe",
-          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Dantokpa",
-      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Ancients / It's Starting",
         "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 309857,
       "name": "It's Starting",
       "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+        "name": "Orb II",
+        "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
         }
       ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
+      "duration_ms": 201626,
+      "name": "Dantokpa",
+      "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2591,26 +2591,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2643,6 +2623,26 @@
       "duration_ms": 322819,
       "name": "Fighting Slowly",
       "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2025-12-12 00:01:21",

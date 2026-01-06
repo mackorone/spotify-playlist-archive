@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 44 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 10 | [Guardians](https://open.spotify.com/track/2KX0OVjpyfXO8vRwxVTj2F) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [A Bridge To Far](https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU) | 3:41 |
 | 11 | [Stephanie](https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 2:19 |
 | 12 | [Break The Jaw](https://open.spotify.com/track/1s28bDyZPvFl8OPKOPgYdN) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 4:07 |
-| 13 | [Wake \(feat\. Fleet Foxes\)](https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Wake](https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m) | 4:16 |
-| 14 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 |
+| 13 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 |
+| 14 | [Life According To Raechel](https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:33 |
 | 15 | [Crying In The Night](https://open.spotify.com/track/5wyr3mSfFAzLOZF50jEcqt) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 2:36 |
 | 16 | [Take Two](https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 4:07 |
-| 17 | [Life According To Raechel](https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:33 |
+| 17 | [Wake \(feat\. Fleet Foxes\)](https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Wake](https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m) | 4:16 |
 | 18 | [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 |
 | 19 | [Without A Leg To Stand On](https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:12 |
 | 20 | [Skeletree](https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 4:58 |
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 42 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 |
 | 43 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 |
 | 44 | [Send My Regards](https://open.spotify.com/track/52RARR33qj7sGt36uCO9Xk) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [What Plans?](https://open.spotify.com/album/15QjPdc8Tazu5gXvZmuRcB) | 4:07 |
-| 45 | [The Book Of Love \(with Madison Cunningham\)](https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Golden Heart Protector](https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn) | 3:40 |
 
-Snapshot ID: `aVhcAAAAAAA6DYgUjU7MTfBXVpWxIL53`
+Snapshot ID: `aVmtgAAAAAAsW9yNLLYeNR/APwG7nLqB`

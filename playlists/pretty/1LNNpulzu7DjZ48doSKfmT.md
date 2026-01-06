@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 626 songs - 1 day 8 hr 24 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 644 songs - 1 day 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -634,5 +634,23 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 624 | [IN THE RAIN](https://open.spotify.com/track/3QRAJ2NcQxtCEHrJ6qwQMS) | [BIG REY PRODUCTION](https://open.spotify.com/artist/1rWcaXTfHPhcuZqslDRuEi) | [IN THE RAIN](https://open.spotify.com/album/4hIYRVv1pajGr0xrhH8Apn) | 3:09 |
 | 625 | [Oro y Seda](https://open.spotify.com/track/7DyMoRc9qCguT9KAwGNVLt) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [ETERNA](https://open.spotify.com/album/1udNGP2ScoMW4dQ6Yo6u4P) | 2:58 |
 | 626 | [Defeat Is Not An Option \- Spotify Release](https://open.spotify.com/track/7AXtbBJGxFR0pXxiDQWdxd) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Defeat Is Not An Option \(Spotify Release\)](https://open.spotify.com/album/6joB4Ab6h9jhfF4tqr4d49) | 5:01 |
+| 627 | [La Presencia de Dios \- Pop Edit](https://open.spotify.com/track/6uqSVhrtBpDnuW5xvZUfpM) | [Skeyn Moreno Lugo](https://open.spotify.com/artist/1dVltXc1mAmn8ECyrhxkAY) | [La Presencia de Dios](https://open.spotify.com/album/6pCrPTVLOjpHhwqixjnJ2C) | 3:51 |
+| 628 | [Sell the Smoke](https://open.spotify.com/track/7uUFtZybgcf5Pz0aZOI1Ei) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Sell the Smoke](https://open.spotify.com/album/1bVfmPw16OoNbKmmFlm0qZ) | 4:24 |
+| 629 | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS), [maui](https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG) | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB) | 4:33 |
+| 630 | [in my head](https://open.spotify.com/track/0HVIpONdqv8BOdCUGcFUdq) | [Haseem Estwick](https://open.spotify.com/artist/3l5Oo1sJ8Z8livvnoV37tY) | [in my head](https://open.spotify.com/album/4IoUuqdmFsagE27W4sGSlI) | 4:47 |
+| 631 | [It’s You](https://open.spotify.com/track/3gCIvzlU7D01S77CMPuVKd) | [Dre RealA](https://open.spotify.com/artist/3FeXC6xCSU96xRlfMECBnR) | [It’s You](https://open.spotify.com/album/5stVefLL8jPr1KQXtYsXPU) | 1:48 |
+| 632 | [So Long](https://open.spotify.com/track/3pgJ9q0L6Sqy31Ln58sd3H) | [Lil Smitty](https://open.spotify.com/artist/4dJdNbMIPPIAF2VkGgbRYF), [Cam Coyle](https://open.spotify.com/artist/3OLzpxwT2A4jkmRE20MMO3) | [So Long](https://open.spotify.com/album/7rG1kalC7Yevx1fPF0quWD) | 3:28 |
+| 633 | [Who I Am](https://open.spotify.com/track/60Pz3OvkCnkau2CLPqSZnE) | [DEN BAURIN](https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE) | [Who I Am](https://open.spotify.com/album/18vXi7DzcAEuZ3wJRiLPpQ) | 2:52 |
+| 634 | [Yugoslavia](https://open.spotify.com/track/2L0NsIbGFysODDb1qkD105) | [Ivanovski The Great](https://open.spotify.com/artist/018l4d5oVLKYYTxggwEqqI) | [Yugoslavia](https://open.spotify.com/album/65nEphog4h7sdwIjv6WImN) | 2:49 |
+| 635 | [Simulacrum](https://open.spotify.com/track/75ArH3SLSdntugb5QcQTh4) | [Leonardo Gabriel Garcia](https://open.spotify.com/artist/2NSjf7BxGj8QIzVZjcgFIc) | [Context](https://open.spotify.com/album/3syzk4LtZrfyQtmBD4Y6p8) | 2:55 |
+| 636 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 |
+| 637 | [Am I Ok](https://open.spotify.com/track/67pwaHZ1tpBVET6NbVGqtt) | [Neon Forest](https://open.spotify.com/artist/1h45OQcuIalQRxPhNUl4Wj) | [Am I Ok](https://open.spotify.com/album/2KW6DeJj7DO2x7YQeiNH5Q) | 3:05 |
+| 638 | [Tiempo perdido](https://open.spotify.com/track/1tRMQjPNOezNWwkfdyNsU1) | [Broke Chain](https://open.spotify.com/artist/6qIkQukHyKGHIw9NCjqrlj) | [Tiempo perdido](https://open.spotify.com/album/0J4VltsTRLTplPCNLiAHoP) | 2:05 |
+| 639 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 |
+| 640 | [Багато думок](https://open.spotify.com/track/4t4hte7husJ1Zs91dYyTaP) | [JUNE](https://open.spotify.com/artist/2Eo0SlzyKixwW4CLVSN13P) | [BUSHITON](https://open.spotify.com/album/6909FkwVZTb9eA10svUgDQ) | 1:50 |
+| 641 | [make way](https://open.spotify.com/track/3Er3gMe7QOm2MOeWdMqgM7) | [kvs](https://open.spotify.com/artist/4JPtfsiWBuXkArAl6ykZ6k) | [make way](https://open.spotify.com/album/2h0qG2eeuPbjDRWA58dWe0) | 2:16 |
+| 642 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 |
+| 643 | [Hold On](https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Hold On](https://open.spotify.com/album/4XELXp2l8b4kVxlz6bprXg) | 3:31 |
+| 644 | [Pockets On My Sleeves](https://open.spotify.com/track/1xJYUGYCgqMUoXiqeAU5Hp) | [Soma Please](https://open.spotify.com/artist/5cjvGfRe1qk7NqfksQQHRQ) | [Pockets On My Sleeves](https://open.spotify.com/album/4M95XJRI1kNS948NTj2jWW) | 3:13 |
 
-Snapshot ID: `AAAXk1++8rMols5IeQHoM29Z+Fq0fyQa`
+Snapshot ID: `AAAXpYHZ4aFBFpLbQuwduuF9EAAD6gF7`

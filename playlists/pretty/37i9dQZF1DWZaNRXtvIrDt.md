@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,650 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,636 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 11 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 12 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
 | 13 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
-| 14 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
-| 15 | [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 |
+| 14 | [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 |
+| 15 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
 | 16 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 17 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 18 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 37 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 38 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 39 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
-| 40 | [the floor \- skin on skin remix](https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [the floor](https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L) | 3:54 |
-| 41 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
+| 40 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
+| 41 | [the floor \- skin on skin remix](https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [the floor](https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L) | 3:54 |
 | 42 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
 | 43 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
 | 44 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |

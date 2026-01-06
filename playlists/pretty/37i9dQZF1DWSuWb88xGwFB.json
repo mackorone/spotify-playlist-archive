@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42739,
+  "num_followers": 42751,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Beautiful People (Remixes)",
+        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 546586,
+      "name": "Beautiful People - Underground Network Mix",
+      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "I Like To Move It (feat. The Mad Stuntman)",
         "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 352545,
       "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
       "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Beautiful People (Remixes)",
-        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 546586,
-      "name": "Beautiful People - Underground Network Mix",
-      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
+        "name": "Give A Little Love",
+        "url": "https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz"
       },
       "artists": [
         {
-          "name": "Motion Lotion",
-          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
         }
       ],
-      "duration_ms": 554971,
-      "name": "The Sound - The Studio 54 Mix",
-      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
+      "duration_ms": 377773,
+      "name": "Give A Little Love - Photon's Deep Vocal Mix",
+      "url": "https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Give A Little Love",
-        "url": "https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz"
+        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+          "name": "Motion Lotion",
+          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
         }
       ],
-      "duration_ms": 377773,
-      "name": "Give A Little Love - Photon's Deep Vocal Mix",
-      "url": "https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF"
+      "duration_ms": 554971,
+      "name": "The Sound - The Studio 54 Mix",
+      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 89 | [Cry In California](https://open.spotify.com/track/193noKkuF36J9oFYqTg0bM) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 3:19 |
 | 90 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
 | 91 | [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 |
-| 92 | [For the Best](https://open.spotify.com/track/3aeHpO3TkNbBOAhLObf0rr) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Born to Rule](https://open.spotify.com/album/1f9yeJSa7rfvzZaiDOjbiA) | 3:28 |
-| 93 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
+| 92 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
+| 93 | [For the Best](https://open.spotify.com/track/3aeHpO3TkNbBOAhLObf0rr) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Born to Rule](https://open.spotify.com/album/1f9yeJSa7rfvzZaiDOjbiA) | 3:28 |
 | 94 | [Don't Tell Me](https://open.spotify.com/track/5GNuzi2mSkuuOCrCjLSoWF) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/44k4i0meNs3Ug5F1iPnTcG) | 3:10 |
 | 95 | [Come Alive](https://open.spotify.com/track/7uT7BTOkJ40U3nsU2yWQST) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:11 |
 | 96 | [The Sound of Being Alone](https://open.spotify.com/track/7BtLqIGu2oP1UQMggGSoeL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:36 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `AcGFCAAAAABAhJ4k0Z+skMSHD4Q5orq8`
+Snapshot ID: `AcGKqAAAAAAQ6J+gGoxv+HIYSZIeRyAc`

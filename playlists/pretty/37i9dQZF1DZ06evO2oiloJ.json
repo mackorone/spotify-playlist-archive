@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 246740,
+  "num_followers": 246779,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADpMXw+uiHNWG7j5pY82Y76",
+  "snapshot_id": "aVmtgAAAAAAxDWm4WcxxSW/HNj6Bajrt",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 161018,
-      "name": "Gone Till November",
-      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194050,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 161018,
+      "name": "Gone Till November",
+      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
     },
     {
       "added_at": null,
@@ -647,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westside Connection",
-        "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
       "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 164129,
-      "name": "Westside Connection",
-      "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
+      "duration_ms": 197400,
+      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr"
     },
     {
       "added_at": null,
@@ -695,26 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+        "name": "Westside Connection",
+        "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 197400,
-      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr"
+      "duration_ms": 164129,
+      "name": "Westside Connection",
+      "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jupiter's Diary: 7 Day Theory",
+        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Love Overdose",
+      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voicemail (feat. Rod Wave)",
         "url": "https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 272785,
       "name": "Voicemail (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jupiter's Diary: 7 Day Theory",
-        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Love Overdose",
-      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
     }
   ],
   "unique_name": "This Is Rod Wave",

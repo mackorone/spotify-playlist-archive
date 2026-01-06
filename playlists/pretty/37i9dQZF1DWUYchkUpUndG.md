@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,874 likes - 88 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,907 likes - 88 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 34 | [Hosanna](https://open.spotify.com/track/1ZItbtBUbWodGRhZAk9K8h) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Hosanna](https://open.spotify.com/album/6XqK9XlcnRmMktnYx98LAe) | 3:00 |
 | 35 | [Phakade NeNkosi](https://open.spotify.com/track/7DVHzYbVAPiNsS6CEMxB4J) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi), [Dr Timothy Myeni](https://open.spotify.com/artist/7jxNgwuFkEfLwANCfVauW5) | [Phakade NeNkosi](https://open.spotify.com/album/34EHQHyVfTIAPuW2hvzyPE) | 6:16 |
 | 36 | [King Majesty](https://open.spotify.com/track/5jRwtt2iLzrunFUSCSFOQa) | [Kenny flames](https://open.spotify.com/artist/188SAo1j2kIOTxurxAPcz1), [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X) | [Majesty](https://open.spotify.com/album/3AQtOlcXPf9WBpyVgOc3fy) | 1:52 |
-| 37 | [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/track/1MjoOeCCAYHKsMkEw40D1L) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz) | [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/album/6qEXvwlDhA5y7eowp9p2gl) | 4:34 |
+| 37 | [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/track/1MjoOeCCAYHKsMkEw40D1L) | [MIN.ADEOLUWA](https://open.spotify.com/artist/64uDlOscS1ksKOxDqjXcRz), [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [MARY'S PRAISE II \(feat Favour Ojo\)](https://open.spotify.com/album/6qEXvwlDhA5y7eowp9p2gl) | 4:34 |
 | 38 | [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 |
 | 39 | [Hossana \- Sax Instrumental Version](https://open.spotify.com/track/4rttKcoS5trkZbvXFw7XU9) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Hossana \(Sax Instrumental Version\)](https://open.spotify.com/album/0ngnxpStl18qB6tQe4vkzu) | 10:25 |
 | 40 | [Step by Step](https://open.spotify.com/track/7jHs2HKmIXHGFvuUasf5Qq) | [Flames Angel](https://open.spotify.com/artist/0O1PsCTzESOHo3HZFcwFUH) | [Step by Step](https://open.spotify.com/album/2a66CaC5asnj23fhwbTxl1) | 2:53 |

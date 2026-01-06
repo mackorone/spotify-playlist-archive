@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7168,
+  "num_followers": 7169,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACQ/hsOQhtPcRfrxwfxrQ/o",
+  "snapshot_id": "aVmtgAAAAAA0WcGKtg3SWfmCPjp/JPLW",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 212623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,

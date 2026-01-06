@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2BZPS5jzzjcyPG7oqRXqMs.md) - cumulative - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
 
-### [Christian Soundtracks \(Movie + TV\) 2025](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
+### [Christian Soundtracks \(Movie + TV\) 2026](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> Christian Soundtracks \(Movie + TV\) 2025 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
+> Christian Soundtracks \(Movie + TV\) 2026 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
 328 songs - 21 hr 5 min
 

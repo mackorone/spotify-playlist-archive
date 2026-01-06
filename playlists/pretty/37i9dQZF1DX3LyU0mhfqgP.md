@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,051 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,018 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 28 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 |
 | 29 | [God Save The Queens](https://open.spotify.com/track/6LjiRz2t73c0vK68fC7sK9) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens \(Live from Lodge Room / 2024\)](https://open.spotify.com/album/6Jl9xg4VBu2th6BraYftyX) | 2:25 |
 | 30 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 31 | [Elton John](https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Elton John](https://open.spotify.com/album/2Beb7c7tnAQY8hDQ1Ci1gm) | 3:12 |
-| 32 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
-| 33 | [act right](https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 2:53 |
+| 31 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
+| 32 | [act right](https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 2:53 |
+| 33 | [Elton John](https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Elton John](https://open.spotify.com/album/2Beb7c7tnAQY8hDQ1Ci1gm) | 3:12 |
 | 34 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
 | 35 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
 | 36 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |

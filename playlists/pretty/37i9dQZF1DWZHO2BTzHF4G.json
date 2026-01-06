@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 62595,
+  "num_followers": 62612,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Everything You Want",
         "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 257066,
       "name": "Everything You Want",
       "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Mad Season",
-        "url": "https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Bent",
-      "url": "https://open.spotify.com/track/6fA7akEuTUL3dW1V0GELaZ"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Part Lies, Part Heart, Part Truth, Part Garbage: 1982-2011",
         "url": "https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 237120,
       "name": "Imitation Of Life",
       "url": "https://open.spotify.com/track/6VekqQih8fJTHOsoSL01th"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Mad Season",
+        "url": "https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6fA7akEuTUL3dW1V0GELaZ"
     },
     {
       "added_at": "2024-07-12 15:02:20",

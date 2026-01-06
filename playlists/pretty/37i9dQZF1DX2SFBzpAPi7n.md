@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,768 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,747 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sincere Lies \(Feat\. GARY\)](https://open.spotify.com/track/1NK9RWPSHo1sti3n5gSR7z) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Sincere Lies](https://open.spotify.com/album/0RSOcggFx99ZgUGlTT5UfO) | 3:33 |
 | 2 | [Still, a Flower](https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Still, a Flower](https://open.spotify.com/album/3N5X7dF6350QVWQUYWX4SV) | 3:43 |
-| 3 | [LOVERS](https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Blue Heart](https://open.spotify.com/album/2x9kpvzZeiIpStGqulfA50) | 3:13 |
-| 4 | [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 |
-| 5 | [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
-| 6 | [Echoes of You](https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [IDOL I Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0) | 3:20 |
+| 3 | [﻿Credit](https://open.spotify.com/track/4DQ8otby1CE3pNRfQ7rhFv) | [IN A MINUTE](https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq) | [Monthly MINUTE Vol\. 6](https://open.spotify.com/album/2UT14pkaLl3U692TE2na9O) | 3:20 |
+| 4 | [LOVERS](https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Blue Heart](https://open.spotify.com/album/2x9kpvzZeiIpStGqulfA50) | 3:13 |
+| 5 | [Tomorrow, Promise](https://open.spotify.com/track/4jy5dG5PYnigjz3zP1XHBA) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Tomorrow, Promise](https://open.spotify.com/album/3YAULJgi6CHVzTxLMUjAuF) | 4:26 |
+| 6 | [LUV 2 MUCH](https://open.spotify.com/track/67zKFae520bELVlkMGpWyv) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Luv 2 Much](https://open.spotify.com/album/4dEb5kgnbC07lS4H1KLnwT) | 2:39 |
 | 7 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 | 8 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 |
 | 9 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 12 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 13 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 |
 | 14 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
-| 15 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 |
-| 16 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 |
+| 15 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 |
+| 16 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 |
 | 17 | [Back To Me](https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:44 |
 | 18 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 19 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 20 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
-| 21 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
-| 22 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 21 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 22 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
 | 23 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
 | 24 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 |
 | 25 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 31 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 |
 | 32 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 33 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
-| 34 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
-| 35 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
+| 34 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
+| 35 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
 | 36 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
 | 37 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
 | 38 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
 | 50 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
 
-Snapshot ID: `AAAAAAe3FT/CShd66r5s4KBTr4e0OOXv`
+Snapshot ID: `AAAAAIU93u8few73lWXWUjUo1Gqq4WMY`

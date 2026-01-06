@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 131,621 likes - 161 songs - 8 hr 5 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 131,618 likes - 161 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Southby](https://open.spotify.com/artist/4VmXTR5qZMpVBKPszYvoMK) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 |
+| 1 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 |
 | 2 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 |
 | 3 | [SPINNING](https://open.spotify.com/track/6S2x7Yuaz0koabEMabL32E) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [SPINNING](https://open.spotify.com/album/1TY1VOy9ESMbjAC0F7LHv0) | 3:41 |
 | 4 | [Nobody Else](https://open.spotify.com/track/10u0qaODhMuvveoaaUtze2) | [Fryware](https://open.spotify.com/artist/5hvR80ZuQm5TWMu23iLqiQ), [Minnie](https://open.spotify.com/artist/2Rmz2lT1HgrTkKkeNR0kLd) | [Nobody Else](https://open.spotify.com/album/6DsCRRrTQ989S7B0vRGRUz) | 3:34 |

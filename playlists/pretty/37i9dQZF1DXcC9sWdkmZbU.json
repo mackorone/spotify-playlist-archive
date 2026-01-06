@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 145158,
+  "num_followers": 145179,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "SPARKLE. POP. RAMPAGE.",
-        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
-      },
-      "artists": [
-        {
-          "name": "Rend Co. Kids",
-          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
-        },
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Taste and See",
         "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
@@ -131,6 +111,26 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "SPARKLE. POP. RAMPAGE.",
+        "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
+      },
+      "artists": [
+        {
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/7mdA28PZsE1vI8X6i0fioF"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Capitol Kids! Hits",
         "url": "https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3"
       },
@@ -143,38 +143,6 @@
       "duration_ms": 254986,
       "name": "God's Not Dead (Like A Lion)",
       "url": "https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "God Be With You Til We Meet Again",
-        "url": "https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg"
-      },
-      "artists": [
-        {
-          "name": "Sing Hosanna",
-          "url": "https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "God Be With You Til We Meet Again",
-      "url": "https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "The Lord Is My Shepherd (Psalm 23)",
-        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 124032,
-      "name": "The Lord Is My Shepherd (Psalm 23)",
-      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -199,18 +167,34 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "I'm So Blessed (Kids Version)",
-        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
+        "name": "The Lord Is My Shepherd (Psalm 23)",
+        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
         }
       ],
-      "duration_ms": 228484,
-      "name": "I'm So Blessed (Kids Version)",
-      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
+      "duration_ms": 124032,
+      "name": "The Lord Is My Shepherd (Psalm 23)",
+      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "God Be With You Til We Meet Again",
+        "url": "https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg"
+      },
+      "artists": [
+        {
+          "name": "Sing Hosanna",
+          "url": "https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "God Be With You Til We Meet Again",
+      "url": "https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -227,6 +211,22 @@
       "duration_ms": 210586,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "I'm So Blessed (Kids Version)",
+        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "I'm So Blessed (Kids Version)",
+      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -315,26 +315,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Rise and Shine Give God the Glory",
-        "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
+        "name": "Living Color",
+        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
       "artists": [
         {
-          "name": "Sunday School Songs",
-          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
-        },
-        {
-          "name": "Give God the Glory",
-          "url": "https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1"
-        },
-        {
-          "name": "Wee Sing",
-          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Rise and Shine Give God the Glory",
-      "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
+      "duration_ms": 267042,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -355,18 +347,26 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Living Color",
-        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
+        "name": "Rise and Shine Give God the Glory",
+        "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
       },
       "artists": [
         {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+          "name": "Sunday School Songs",
+          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
+        },
+        {
+          "name": "Give God the Glory",
+          "url": "https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1"
+        },
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
         }
       ],
-      "duration_ms": 267042,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
+      "duration_ms": 138000,
+      "name": "Rise and Shine Give God the Glory",
+      "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -471,22 +471,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Hes Got the Whole World in His Hands",
-        "url": "https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS"
+        "name": "Living Color",
+        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
       "artists": [
         {
-          "name": "Sunday School Songs",
-          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
-        },
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0lDtW3w1jcZ5GUGSdgkBNJ"
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Hes Got the Whole World in His Hands",
-      "url": "https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71"
+      "duration_ms": 238624,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -511,18 +507,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Living Color",
-        "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
+        "name": "Hes Got the Whole World in His Hands",
+        "url": "https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS"
       },
       "artists": [
         {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+          "name": "Sunday School Songs",
+          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
+        },
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0lDtW3w1jcZ5GUGSdgkBNJ"
         }
       ],
-      "duration_ms": 238624,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH"
+      "duration_ms": 148000,
+      "name": "Hes Got the Whole World in His Hands",
+      "url": "https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "100 Singalong Songs For Kids",
+        "url": "https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 94466,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "100 Singalong Songs For Kids",
-        "url": "https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 94466,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Kids Worship",
         "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 292186,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "100 Songs from the Bible",
-        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 134773,
-      "name": "Books of the Bible (New Testament)",
-      "url": "https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -875,22 +859,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Top 25 Kids' Praise Songs 2012",
-        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Just as I Am",
         "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 191641,
       "name": "What a Friend We Have in Jesus",
       "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "100 Songs from the Bible",
+        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 134773,
+      "name": "Books of the Bible (New Testament)",
+      "url": "https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Top 25 Kids' Praise Songs 2012",
+        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Father Abraham",
+        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 126357,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 263187,
       "name": "Don't Forget (Psalm 103) - Live",
       "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Father Abraham",
-        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        }
-      ],
-      "duration_ms": 126357,
-      "name": "Father Abraham",
-      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Hillsong Kids Ultimate",
+        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 273613,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "100 Songs from the Bible",
         "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 115522,
       "name": "Books Of The Bible",
       "url": "https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Hillsong Kids Ultimate",
-        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 273613,
-      "name": "Trust And Obey",
-      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Jesus Is My Superhero",
+        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 164569,
+      "name": "Superhero - Reimagined",
+      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "The New Testament Song",
         "url": "https://open.spotify.com/album/1ZawOBwcYWtpKMVwVqE59Y"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Jesus Is My Superhero",
-        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 164569,
-      "name": "Superhero - Reimagined",
-      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
     },
     {
       "added_at": "2025-12-14 00:08:40",

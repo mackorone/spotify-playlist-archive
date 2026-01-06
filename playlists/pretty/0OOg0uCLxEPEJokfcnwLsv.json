@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 590,
+  "num_followers": 591,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEY+AU+qdod//xuSLQJYo4WWUU4LqV",
+  "snapshot_id": "AAAEZa5WXmQXjW+syA4oEZSqMQ9tiO/v",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1131,6 +1131,38 @@
       "duration_ms": 251040,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ"
+    },
+    {
+      "added_at": "2026-01-05 13:25:37",
+      "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "duration_ms": 207238,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO"
+    },
+    {
+      "added_at": "2026-01-05 13:25:48",
+      "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "duration_ms": 198191,
+      "name": "Get Off Of My Cloud",
+      "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
     }
   ],
   "unique_name": "Unsigned Rock",

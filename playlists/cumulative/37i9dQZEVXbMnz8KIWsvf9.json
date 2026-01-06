@@ -6072,7 +6072,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 163879,
       "name": "Hurry up!",
       "url": "https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw"
@@ -16106,7 +16106,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 235161,
       "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
       "url": "https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0"
@@ -16124,7 +16124,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 257133,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5pqAbpHRuFhcACwvVBi69V"
@@ -16534,7 +16534,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 200418,
       "name": "\u0e04\u0e19\u0e2a\u0e27\u0e22",
       "url": "https://open.spotify.com/track/4I0F3ItogIEpgH9qbjCiQz"
@@ -17702,7 +17702,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 293500,
       "name": "\u0e0b\u0e32\u0e42\u0e22\u0e19\u0e32\u0e23\u0e30",
       "url": "https://open.spotify.com/track/1MkgN3lRBf5mXbxY6CWU9s"
@@ -19924,7 +19924,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -20156,6 +20156,28 @@
       "duration_ms": 199333,
       "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
       "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
+        "url": "https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
+      "url": "https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t"
     },
     {
       "album": {
@@ -23694,6 +23716,24 @@
       "duration_ms": 293225,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU"
     },
     {
       "album": {

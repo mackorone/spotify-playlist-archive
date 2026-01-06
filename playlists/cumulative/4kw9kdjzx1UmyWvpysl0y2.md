@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,142 songs - 2 day 15 hr 56 min
+1,143 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,6 +752,7 @@
 | [Overdrive](https://open.spotify.com/track/2tImUAHJJ57AlEqcONzWFQ) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Overdrive](https://open.spotify.com/album/2oxKfXeIbwKJLraAfZfRQS) | 2:55 | 2023-09-19 | 2024-01-11 |
 | [Overstimulated](https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Overstimulated](https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT) | 3:23 | 2024-10-25 | 2025-02-07 |
 | [Overthinking](https://open.spotify.com/track/5UsmTQN4ohO09NCNoD04ux) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Overthinking](https://open.spotify.com/album/2PltPTD4z6mQAbfJpsflyc) | 3:01 | 2025-01-21 | 2025-04-15 |
+| [Own It](https://open.spotify.com/track/0GIfm3CTQKVTMkQYnXcqbA) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ) | [Monstercat Uncaged Selections 01](https://open.spotify.com/album/3LOpxnvItG4xX5ZhyjCw5z) | 2:35 | 2026-01-05 |  |
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
 | [Palm Of Your Hand](https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Palm Of Your Hand](https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio) | 3:35 | 2025-10-10 |  |
 | [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |

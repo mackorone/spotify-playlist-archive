@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,881 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,897 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 35 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
 | 36 | [El Niágra En Bicicleta \- Live \- Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 4:31 |
 | 37 | [La Faldita](https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi y Su Cocoband](https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL) | 3:50 |
-| 38 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 |
-| 39 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
+| 38 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
+| 39 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 |
 | 40 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 41 | [Latinos](https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Latinos](https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP) | 5:29 |
 | 42 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 44 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
 | 45 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
 | 46 | [Linda Eh](https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:10 |
-| 47 | [Feliz Cumbé](https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 3:13 |
-| 48 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
+| 47 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
+| 48 | [Feliz Cumbé](https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 3:13 |
 | 49 | [Sólo Te Quiero Amar](https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [No Pares de Sudar](https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh) | 4:11 |
 | 50 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 

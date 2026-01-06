@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 340726,
+  "num_followers": 340754,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-11-10 18:38:29",
       "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+    },
+    {
+      "added_at": "2025-11-10 18:38:29",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 246266,
       "name": "Peaceful Life",
       "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
-    },
-    {
-      "added_at": "2025-11-10 18:38:29",
-      "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2025-11-10 18:38:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-10 18:38:29",
       "album": {
-        "name": "Tetra",
-        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
-      },
-      "artists": [
-        {
-          "name": "C2C",
-          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Down The Road",
-      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
-    },
-    {
-      "added_at": "2025-11-10 18:38:29",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2025-11-10 18:38:29",
+      "album": {
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+      },
+      "artists": [
+        {
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     }
   ],
   "unique_name": "Soir\u00e9e",

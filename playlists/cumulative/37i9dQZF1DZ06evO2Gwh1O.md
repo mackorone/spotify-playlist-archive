@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 24 min
+117 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Grand Central Station](https://open.spotify.com/track/5AD7EUrQoEpcd7PAoiCGpF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:56 | 2022-10-25 | 2025-06-28 |
 | [Grey](https://open.spotify.com/track/4UXNJyUDof0BJynGz2ANpa) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:13 | 2024-10-03 | 2024-10-11 |
 | [Hidden Track](https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:06 | 2022-10-25 | 2024-10-20 |
+| [High Castles](https://open.spotify.com/track/5hOK4urLZV6QM2z8dEsJZk) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 3:37 | 2026-01-06 |  |
 | [High Castles](https://open.spotify.com/track/6S5FOiN5SAgZVth5LWFsSt) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 3:37 | 2022-10-25 | 2024-10-09 |
 | [History](https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:09 | 2022-10-25 |  |
 | [I Am the Arsonist](https://open.spotify.com/track/1RbYI4uOtQbwzdo6XoDSQH) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Streetcar \(UK CDX\)](https://open.spotify.com/album/4dss7r2PN9gTAS84e9nh1J) | 4:48 | 2022-10-25 | 2022-12-03 |

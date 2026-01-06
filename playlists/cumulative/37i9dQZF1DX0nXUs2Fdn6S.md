@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-94 songs - 5 hr 13 min
+95 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 | 2024-02-05 |  |
 | [Noor](https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt) | 2:38 | 2023-10-20 | 2024-04-19 |
 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \(Lost Stories Remix\)](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 | 2023-10-20 |  |
+| [Omniverse Divine Frequency](https://open.spotify.com/track/4q3C8XoKxsMV3EZNtyetL5) | [R\-Mystic Beats](https://open.spotify.com/artist/3fWuWgCL4tqPkYIERC37tv) | [Omniverse Divine Frequency](https://open.spotify.com/album/0nQaegbke7kVsQFB7GBZtJ) | 4:29 | 2026-01-05 |  |
 | [Over Again](https://open.spotify.com/track/31X4uDq2h3d9eFrrNrfEfX) | [2NATURAL](https://open.spotify.com/artist/2FdAwKcNkxtdpTyA9rnmoF), [lama](https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH), [Wendy Wang](https://open.spotify.com/artist/7znQY25vppSqJD7K9OjRqv) | [Over Again](https://open.spotify.com/album/0EycAELw67SjjxcDES9NWQ) | 3:27 | 2023-10-20 | 2024-04-19 |
 | [Over Again](https://open.spotify.com/track/4Mbh15WsUfOuAOZt7a6CrW) | [2NATURAL](https://open.spotify.com/artist/2FdAwKcNkxtdpTyA9rnmoF), [lama](https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH), [Wendy Wang](https://open.spotify.com/artist/7znQY25vppSqJD7K9OjRqv) | [Over Again](https://open.spotify.com/album/55i9ltEv9tYG8Zs0OnHoJy) | 3:27 | 2024-02-05 |  |
 | [Punjabi Tadka](https://open.spotify.com/track/1D6ELTUl96uMxPaESkYYB8) | [Paranox](https://open.spotify.com/artist/6o1YVhW8DcsADkYtZwDavj), [Deelush](https://open.spotify.com/artist/6rpShJWdb8KY7Zt6bnNN07), [Srijan](https://open.spotify.com/artist/7vIDfRXA8FiC6FRXW8eNUh) | [Punjabi Tadka \- Single](https://open.spotify.com/album/5cAC9cJSyGM1tlNIcXr9Ch) | 2:52 | 2023-10-20 |  |

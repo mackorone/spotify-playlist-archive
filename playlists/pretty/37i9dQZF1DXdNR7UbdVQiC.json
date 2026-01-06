@@ -1,6 +1,6 @@
 {
   "description": "because you deserve it. ",
-  "num_followers": 107657,
+  "num_followers": 107673,
   "original_name": "duvet day",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 277676,
-      "name": "Moon Song",
-      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 277676,
+      "name": "Moon Song",
+      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Irhq0vH0TR4TodaAIXG5N"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/1vsFzbhQXTqKJ3YSWxWxmJ"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 320533,
-      "name": "Cmon",
-      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
+        "name": "Feeding Seahorses by Hand",
+        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Vanilla Baby",
+      "url": "https://open.spotify.com/track/0jsXpJsdXhnwnwnCLKjYLF"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
         "name": "Work Out",
         "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
-        "name": "Feeding Seahorses by Hand",
-        "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Vanilla Baby",
-      "url": "https://open.spotify.com/track/0jsXpJsdXhnwnwnCLKjYLF"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1543,38 +1543,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 211240,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2025-05-06 15:44:34",

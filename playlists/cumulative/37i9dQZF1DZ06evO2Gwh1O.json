@@ -798,6 +798,24 @@
     {
       "album": {
         "name": "Conduit",
+        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217057,
+      "name": "High Castles",
+      "url": "https://open.spotify.com/track/5hOK4urLZV6QM2z8dEsJZk"
+    },
+    {
+      "album": {
+        "name": "Conduit",
         "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
       },
       "artists": [

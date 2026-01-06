@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984 likes - 172 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 172 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 139 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
 | 140 | [Spiteful](https://open.spotify.com/track/7KDA5UuMXJknKT68fCNdo0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 5:35 |
 | 141 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 |
-| 142 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 |
-| 143 | [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 |
+| 142 | [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 |
+| 143 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 |
 | 144 | [Keep Calm](https://open.spotify.com/track/37AewLBJI8PXeDltljfIMs) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/1byBN7cXhocL7f10LA7E9L) | 4:44 |
 | 145 | [Best Friends](https://open.spotify.com/track/2lEjmqSFVf2glZYoBElynZ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:53 |
 | 146 | [T h e R e t r e a t](https://open.spotify.com/track/0y9o79BMNssYstBFTlM7wN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb) | 0:47 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 155 | [Brown Skin](https://open.spotify.com/track/5lNkkcArjQnPUTZ1bzmPAj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:58 |
 | 156 | [GIRL FROM OAKLAND](https://open.spotify.com/track/4boBDGtJWGiWUosp2JVEVy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:37 |
 | 157 | [DON'T DO IT FOR YOU NO MORE](https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:55 |
-| 158 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
-| 159 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
+| 158 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
+| 159 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
 | 160 | [The Right Way](https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:41 |
 | 161 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
 | 162 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 171 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 172 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `AcGFOgAAAABJPdF289O/6QC8DRuPnE4U`
+Snapshot ID: `AcGKngAAAAA9x/nXOChTiU5lrsYcvHfT`

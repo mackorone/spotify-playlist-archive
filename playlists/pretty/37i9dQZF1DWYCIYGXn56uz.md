@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Eddie Brock
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,466 likes - 106 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,431 likes - 106 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

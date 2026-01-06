@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,398 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,402 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 | 43 | [No digas nada](https://open.spotify.com/track/4wtWL0UV8tCPv9VbUMLXYP) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/6zplYYhnEG8niR8Fy3crOT) | 3:42 |
 | 44 | [ronaldinho](https://open.spotify.com/track/2eZU3uZaN5PVDfRnETEzLj) | [1111](https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN), [9ckles](https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR), [Armas](https://open.spotify.com/artist/6zG5DsamSoeRGvrRAfML8u), [Fedra](https://open.spotify.com/artist/6HQEJXnpcTf5tgnqfujaW2), [ru0001](https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu) | [la mil ciento once](https://open.spotify.com/album/4FA7bK3jB76cYBnTfvchn2) | 2:12 |
 | 45 | [CELL](https://open.spotify.com/track/52YWbcGCtHtj05rVtLelqI) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2lQimFLMOUtfewfjvsgJBM) | 2:18 |
-| 46 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 46 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 47 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/7mUGgxv8KdYSnNyCUdZaro) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:41 |
 | 48 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 |
 | 49 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 |

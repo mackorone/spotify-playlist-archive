@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-3,136 songs - 6 day 2 hr 12 min
+3,137 songs - 6 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1593,6 +1593,7 @@
 | [letzter tag](https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [lieder vom leben](https://open.spotify.com/album/6lTnRSnWUH4ROGLZWn1cOW) | 3:09 | 2024-07-26 | 2024-08-09 |
 | [Letzter Tag](https://open.spotify.com/track/0FHJba7LMdY8s34lITV3DV) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Letzter Tag](https://open.spotify.com/album/5thuLWe6FnOxGp38JnCfTf) | 2:11 | 2025-02-27 | 2025-03-28 |
 | [Letztes Liebeslied](https://open.spotify.com/track/4Btio8Og0IzYk93AD6fQLc) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [SANITO](https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Letztes Liebeslied](https://open.spotify.com/album/75dxadbFrGH1cIzEc4aUH4) | 2:54 | 2022-08-11 | 2022-08-26 |
+| [lfme](https://open.spotify.com/track/7IAbljh3tbA852xhePXkfB) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [lfme](https://open.spotify.com/album/03DyXViqu7sKlcZmtHayIg) | 2:36 | 2026-01-05 |  |
 | [Licht aus](https://open.spotify.com/track/2ICTOUkSaXWPrdJGZhJIkS) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Licht aus](https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i) | 2:15 | 2023-11-16 | 2023-11-24 |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-01-30 | 2025-05-23 |
 | [Lichter der Stadt](https://open.spotify.com/track/4Xv9vueZxlgrIATOOj6nyj) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Lichter der Stadt](https://open.spotify.com/album/0mcPNQ7MIX3NrMh8PC23FS) | 2:39 | 2024-12-05 | 2024-12-10 |
@@ -2938,7 +2939,7 @@
 | [Weihnachtslied 2022](https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2022](https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1) | 2:37 | 2022-11-28 | 2023-01-04 |
 | [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Dani](https://open.spotify.com/artist/49WxFZy9aXHc45IMLc2xyj), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 | 2023-11-23 | 2023-12-30 |
 | [Weihnachtslied 2024](https://open.spotify.com/track/56ujP3oacjM5cQ8ndqFyma) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2024](https://open.spotify.com/album/4IIQTSJcOOjzkiFdHkO2YW) | 2:45 | 2024-12-05 | 2024-12-31 |
-| [Weihnachtslied 2025](https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2025](https://open.spotify.com/album/5m5IV1KRZdXeJTj0HCLUyT) | 2:38 | 2025-12-04 |  |
+| [Weihnachtslied 2025](https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2025](https://open.spotify.com/album/5m5IV1KRZdXeJTj0HCLUyT) | 2:38 | 2025-12-04 | 2026-01-06 |
 | [Weil ich muss](https://open.spotify.com/track/1UH7AgTjLwgwPlhWTHaNBs) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Weil ich muss](https://open.spotify.com/album/4TFhExkzyu2d6TsRGSRiZW) | 3:24 | 2022-11-17 | 2022-11-25 |
 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/0vmBLdFrNG2HAUT5N5oNew) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 | 2023-10-19 | 2023-11-24 |
 | [Weinbrand](https://open.spotify.com/track/50Ap2wslYhEhIdoAp6jwQz) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Weinbrand](https://open.spotify.com/album/0eJLi050vR9nC4WpGnWiSP) | 2:21 | 2024-05-16 | 2024-08-31 |

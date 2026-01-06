@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1091468,
+  "num_followers": 1091643,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABQ+2f5TxcIg2Ij6yl+HuH9",
+  "snapshot_id": "aVmtgAAAAAA7Ai8G8FWbCmfXqdE+2Swm",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Cuesta",
-        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 174075,
-      "name": "Cu\u00e1nto Cuesta",
-      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yakifest Vol. 4 (En Vivo)",
         "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 226345,
       "name": "Dile A Tu Orgullo (En Vivo)",
       "url": "https://open.spotify.com/track/5QxL7Nv8J5gPqD6H0bKmAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Cuesta",
+        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 174075,
+      "name": "Cu\u00e1nto Cuesta",
+      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Gracias (En Vivo)",
-      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Gracias (En Vivo)",
+      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
     },
     {
       "added_at": null,

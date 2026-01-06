@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3199497,
+  "num_followers": 3199645,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAC3aCw2PqmPQUHQIQ62Hu3+",
+  "snapshot_id": "aVmtgAAAAAAXkPaomTW18YY0AkcwfDqB",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakira. (Expanded Edition) [Spanish Version]",
-        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Can't Remember to Forget You (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Can't Remember to Forget You (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "California King Bed",
-      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 216293,
       "name": "Nobody's Business",
       "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
     },
     {
       "added_at": null,

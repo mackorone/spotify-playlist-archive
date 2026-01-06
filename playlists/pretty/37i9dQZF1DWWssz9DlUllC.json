@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  TxC",
-  "num_followers": 81546,
+  "num_followers": 81592,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "ENJOYMENT",
         "url": "https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur"
       },
@@ -327,22 +311,18 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Cash Flow (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 174628,
-      "name": "Cash Flow (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -359,6 +339,26 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -511,18 +511,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -551,22 +555,18 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Escaladizzy",
-        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -591,22 +591,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
+      "duration_ms": 153523,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -631,22 +631,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 153523,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+        "name": "Forex Boys",
+        "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        },
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+      "duration_ms": 137000,
+      "name": "Forex Boys",
+      "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Forex Boys",
-        "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
       "artists": [
         {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        },
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Forex Boys",
-      "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2025-12-19 00:01:13",

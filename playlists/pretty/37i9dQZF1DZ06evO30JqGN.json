@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 137076,
+  "num_followers": 137086,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACStrNsrP6eZxXoIEclU1XX",
+  "snapshot_id": "aVmtgAAAAADkYdfHWZETLiBy1W8hWu1L",
   "tracks": [
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 109413,
-      "name": "BP",
-      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
+      "duration_ms": 166106,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP"
+      "duration_ms": 109413,
+      "name": "BP",
+      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
       "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 265888,
-      "name": "Deserve Me (with Summer Walker)",
-      "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
+      "duration_ms": 178026,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 178026,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF"
+      "duration_ms": 265888,
+      "name": "Deserve Me (with Summer Walker)",
+      "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-280 songs - 20 hr 23 min
+281 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [天空](https://open.spotify.com/track/0mBAfQuVGW2YHZvUM2NsLb) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [野蠻遊戲](https://open.spotify.com/album/1uvzQMQiA1HzViKVA3WEx2) | 4:37 | 2024-01-15 | 2025-08-19 |
 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 | 2024-02-19 |  |
 | [失去](https://open.spotify.com/track/1VXEpJWZyzMv94LN6rMEsh) | [同恩](https://open.spotify.com/artist/45YS6WTdex4FqRvjWHhDho) | [做自己](https://open.spotify.com/album/2cvrIL7JVWOmjjlswtG7Jv) | 4:59 | 2024-05-27 | 2024-08-19 |
+| [失戀無罪](https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:06 | 2025-12-29 |  |
 | [好久不見](https://open.spotify.com/track/7qtM492xyqdbh2vt5vBKaD) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5) | 4:08 | 2025-11-03 |  |
 | [好朋友](https://open.spotify.com/track/2JQcuQGEXclxphbS7XUc2j) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:03 | 2024-01-15 | 2024-01-23 |
 | [如果你也聽說](https://open.spotify.com/track/3mWZefa0yfuRz0KjeeVIBU) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:13 | 2025-02-17 | 2025-09-12 |
@@ -124,7 +125,7 @@
 | [彩虹](https://open.spotify.com/track/5IkhoLaasyG1yk43K5rePD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [就是紅光輝全記錄](https://open.spotify.com/album/00XSR2fcZe7vzyYHLIsWAB) | 4:39 | 2024-07-22 | 2024-08-19 |
 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 | 2024-02-05 |  |
 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 | 2024-06-24 |  |
-| [心跳](https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心跳](https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx) | 4:23 | 2025-04-16 |  |
+| [心跳](https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心跳](https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx) | 4:23 | 2025-04-16 | 2026-01-06 |
 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 | 2024-02-19 | 2024-03-19 |
 | [快樂崇拜](https://open.spotify.com/track/1Z7y14vSg1Vv772geRfiAN) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Wu Ha](https://open.spotify.com/album/4iTeGtAOrglcpzYxhmO9Le) | 3:25 | 2024-02-05 | 2024-09-02 |
 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 | 2025-02-17 |  |

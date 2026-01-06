@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70151,
+  "num_followers": 70154,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAAxddKZjXXSxR5fc4v1MmI",
+  "snapshot_id": "aVmtgAAAAAAIANnXzOjoxW+f4F5yM7CS",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 207073,
-      "name": "Divina",
-      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabe Bien",
         "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
       "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 175739,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
+      "duration_ms": 207073,
+      "name": "Divina",
+      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 187593,
       "name": "Sin Haber Dormido",
       "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175739,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aquila",
         "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 209833,
       "name": "Qu\u00e9 Fuimos (feat. Matisse)",
       "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 159655,
-      "name": "Esto Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 170099,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,

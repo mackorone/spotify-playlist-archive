@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 192600,
       "name": "...Baby One More Time (from Kung Fu Panda 4)",
       "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 208379,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 269556,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "CAN'T STOP THE FEELING! - Film Version",
       "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 241386,
       "name": "Don't You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 217380,
       "name": "GOOD FEELiNGS",
       "url": "https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Internet Girl",
+        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "Internet Girl",
+      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 176078,
       "name": "Just a Cloud Away",
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
@@ -1919,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
@@ -1948,8 +1984,8 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
-      "duration_ms": 201122,
+      "date_removed": null,
+      "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
@@ -2014,7 +2050,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -2122,7 +2158,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 156493,
       "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
@@ -2252,6 +2288,24 @@
       "duration_ms": 190773,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7"
+    },
+    {
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "album": {
@@ -2773,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -2784,7 +2856,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 219209,
       "name": "Shake It Off (Taylor's Version)",
       "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
@@ -2838,10 +2910,28 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"
+    },
+    {
+      "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
     },
     {
       "album": {
@@ -2932,7 +3022,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 209964,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
@@ -3008,7 +3098,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
@@ -3182,7 +3272,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
@@ -3366,6 +3456,24 @@
       "duration_ms": 211240,
       "name": "The Archer",
       "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
       "album": {
@@ -3704,7 +3812,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 231426,
       "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys"

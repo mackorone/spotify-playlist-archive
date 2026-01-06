@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,605 likes - 50 songs - 3 hr 10 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,597 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 39 | [Try Me](https://open.spotify.com/track/1jyOattakzLkXbJfiP157V) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Try Me](https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK) | 2:19 |
 | 40 | [The Magic of the World](https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH), [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [In the Earth Again](https://open.spotify.com/album/5KFvhZwejSylBaPatTFVBA) | 3:27 |
 | 41 | [The Man I'm Supposed To Be](https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [The Man I'm Supposed to Be](https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3) | 3:42 |
-| 42 | [Covet \- Edit](https://open.spotify.com/track/5sKUeYGEoLOGZfbrc0yzO4) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet \(Edit\)](https://open.spotify.com/album/4HkBkz9biK7ue7gEnNcrUV) | 3:15 |
+| 42 | [Covet](https://open.spotify.com/track/5sKUeYGEoLOGZfbrc0yzO4) | [Tanzana](https://open.spotify.com/artist/2mwOkIqXhMvuo4NIOf2vqQ) | [Covet](https://open.spotify.com/album/4HkBkz9biK7ue7gEnNcrUV) | 3:15 |
 | 43 | [Cherry Hard Candy](https://open.spotify.com/track/6L6zjdrq9tk2a3orhgTSPa) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:40 |
 | 44 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
 | 45 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 |

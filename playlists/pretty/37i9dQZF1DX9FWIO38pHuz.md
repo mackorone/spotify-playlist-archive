@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Our editors' top picks for the best Funk songs of the year\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,834 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,844 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

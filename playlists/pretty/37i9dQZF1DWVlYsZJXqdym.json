@@ -1,6 +1,6 @@
 {
   "description": "Pure joy and then some",
-  "num_followers": 1084420,
+  "num_followers": 1084392,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-10-22 17:40:31",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2025-10-22 17:40:31",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/7srqyRb5plksW5k65itXDB"
-    },
-    {
-      "added_at": "2025-10-22 17:40:31",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2025-10-22 17:40:31",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-10-22 17:40:31",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     }
   ],
   "unique_name": "Happy Pop Hits",

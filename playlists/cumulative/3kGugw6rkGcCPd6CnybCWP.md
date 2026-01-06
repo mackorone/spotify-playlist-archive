@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-99 songs - 5 hr 33 min
+101 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 |  |
+| [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 | 2026-01-05 |  |
 | [Half\-Blood](https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr) | [Laylo](https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX) | [Roots](https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C) | 2:49 | 2025-12-15 |  |
 | [Hamster Wheel](https://open.spotify.com/track/1HVZRpGwLyDY4VmNCGTaqY) | [seat](https://open.spotify.com/artist/2FrT1MucFCuKxmcnE5CZoM) | [Hamster Wheel](https://open.spotify.com/album/7srh7QnQEZGmN2dgtcn4O7) | 4:06 | 2025-11-04 |  |
 | [Hanging Out In My Head](https://open.spotify.com/track/09Kdd69AOxLmALBRbGxiqV) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/0oaZ08v4YoczsjVyRF1llG) | 2:49 | 2025-11-02 |  |
@@ -84,6 +85,7 @@
 | [Softly](https://open.spotify.com/track/3AJZARxMi3iPi6vPQxPTKN) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [INFINITY MIRROR](https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B) | 3:41 | 2025-10-26 | 2025-12-12 |
 | [stardust](https://open.spotify.com/track/3ba4KSPhMcZHHXBYBZgvoF) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [stardust](https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk) | 2:55 | 2025-11-16 |  |
 | [Stay](https://open.spotify.com/track/0tcghuttDwLWSEtV59geke) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Stay](https://open.spotify.com/album/3KPJAIFT13s3sbkQXpO0qa) | 4:05 | 2025-11-15 |  |
+| [Stay at Home](https://open.spotify.com/track/2rH6auma4kzIccJqLL4CgZ) | [Eli Orion](https://open.spotify.com/artist/6NLvoDEJwXQj6k8nxniIit), [BUSTER](https://open.spotify.com/artist/5j4912Niko0ozSGWJThvkg) | [Morning After, Again](https://open.spotify.com/album/7r7wkB4ldSeXV3Y7RPZJ01) | 3:43 | 2026-01-05 |  |
 | [Stay Wild, Have Fun](https://open.spotify.com/track/6DddkfQvmpV5HqSlUFDcKo) | [Jo LaRue](https://open.spotify.com/artist/4SSaR5cm4dnhPDkWNv1nZb) | [Stay Wild, Have Fun](https://open.spotify.com/album/59mv3Pteq8TgH1ode0UnBm) | 3:42 | 2025-11-24 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-10-24 | 2025-12-02 |
 | [Strings](https://open.spotify.com/track/54XocDSAfRkxTVqyY75Z4w) | [HUMAN NATURES](https://open.spotify.com/artist/3AUHu1wqglx7HCgUZaFXhZ) | [Strings](https://open.spotify.com/album/32bGZlCoYBexVnXtxOuyet) | 3:27 | 2025-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,262 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,249 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 78 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 79 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
 | 80 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
-| 81 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
-| 82 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
+| 81 | [Off My Back](https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot) | [Becky Warren](https://open.spotify.com/artist/3mTESq7qkYJ5k6WiEAY9Uk) | [War Surplus](https://open.spotify.com/album/6n3fXuHW9h48ZQkSCRqnfK) | 2:24 |
+| 82 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
 | 83 | [Howard Hughes Blues](https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 2:50 |
 | 84 | [Flat Top Guitar](https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:50 |
 | 85 | [May Your Kindness Remain](https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb) | 3:54 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 90 | [Kindness of Strangers](https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Kindness of Strangers](https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ) | 3:30 |
 | 91 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 |
 | 92 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 |
-| 93 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
-| 94 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 |
-| 95 | [Good Kisser](https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Kisser](https://open.spotify.com/album/6wlY5ll8yN2ZEgp7qBrgU4) | 3:38 |
-| 96 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 |
+| 93 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 |
+| 94 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
+| 95 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 |
+| 96 | [Good Kisser](https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Kisser](https://open.spotify.com/album/6wlY5ll8yN2ZEgp7qBrgU4) | 3:38 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
 | 98 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
 | 99 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |

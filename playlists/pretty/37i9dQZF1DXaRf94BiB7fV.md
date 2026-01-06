@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover \- Janisht Joshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,644 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,653 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
-| 2 | [Haasil](https://open.spotify.com/track/1D3MyKdskZiccfXNwjnBSZ) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Shantanu Karki](https://open.spotify.com/artist/0GFh83o25NZZO91fKBHNFk) | [Almost Loved](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 2:46 |
+| 2 | [Haasil \(From "UR Debut"\)](https://open.spotify.com/track/1D3MyKdskZiccfXNwjnBSZ) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Shantanu Karki](https://open.spotify.com/artist/0GFh83o25NZZO91fKBHNFk) | [Almost Loved \(From "UR Debut"\)](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 2:46 |
 | 3 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 |
 | 4 | [Tum Se](https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Tum Se](https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD) | 3:52 |
 | 5 | [Naazneena](https://open.spotify.com/track/3W8CsjDs5roVwMxujwtgR2) | [Rohit Saini](https://open.spotify.com/artist/4BAVbqy1qWTZqwYHk2wWPy) | [Naazneena](https://open.spotify.com/album/5cIDcaKViriXLkNHATwpDD) | 2:50 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 36 | [Aaya Na Woh](https://open.spotify.com/track/7lsyXdCPXICJmSTE6FPPg9) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ) | [Aaya Na Woh](https://open.spotify.com/album/2AoZTVITbaxXkBK0JoqQet) | 2:56 |
 | 37 | [Mujko Yeh Jane Kya Hua](https://open.spotify.com/track/0eAoeUpjgTrLToT5qzVZwd) | [Rangon](https://open.spotify.com/artist/2kUDFnmCVtN7dQ1lJze2Gp), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Mujko Yeh Jane Kya Hua](https://open.spotify.com/album/0i2THnHQnQGxunvLBONJB9) | 3:00 |
 | 38 | [Kahin Tu Na Miljaye](https://open.spotify.com/track/43jTl5p22uBHHcoanmSkKT) | [Aalia](https://open.spotify.com/artist/5JXRLytkmf5esR8R53rCsX), [Taushif](https://open.spotify.com/artist/4gXJ5jDOyZzgffB0mYvsTe) | [Kahin Tu Na Miljaye](https://open.spotify.com/album/7BBALn5JA31ve0aOZ3g46x) | 2:39 |
-| 39 | [Sau Baaton Ki](https://open.spotify.com/track/3A9Kc7QLypZF8jpiRKUWpL) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Sage](https://open.spotify.com/artist/2FdypzkzEtMQYVNcLFttXi), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Sau Baaton Ki](https://open.spotify.com/album/2e6X9n2Ae5YXDqr5yZqP6v) | 3:22 |
+| 39 | [Sau Baaton Ki \(From "UR Debut"\)](https://open.spotify.com/track/3A9Kc7QLypZF8jpiRKUWpL) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Sage](https://open.spotify.com/artist/2FdypzkzEtMQYVNcLFttXi), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Sau Baaton Ki \(From "UR Debut"\)](https://open.spotify.com/album/2e6X9n2Ae5YXDqr5yZqP6v) | 3:22 |
 | 40 | [Jiya Lage Na](https://open.spotify.com/track/1ZYXQUgE2RLYvJoM54MnsQ) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [lil help](https://open.spotify.com/artist/3plLTzhqKbNQZAVxxnSDOs) | [Jiya Lage Na](https://open.spotify.com/album/1Xefv3EW1m22eQJb6XGTfO) | 3:37 |
 | 41 | [Tujhse Juda](https://open.spotify.com/track/5HBPni76HJXokcrJ3dlAVJ) | [Mishthi Srivastava](https://open.spotify.com/artist/564Wiwr7NH1TV7Yyuc8C7C), [Tarang Nagi](https://open.spotify.com/artist/3m3fWzKspiutzn9xToOqe6) | [Tujhse Juda](https://open.spotify.com/album/0ArNgIDPO0geAJm6ZXbnDu) | 3:44 |
 | 42 | [Sukoon](https://open.spotify.com/track/6aLMrkZvokci8lXe2SLOpl) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Sukoon](https://open.spotify.com/album/56pqZrbhF90QlLgLJuAvUA) | 4:41 |

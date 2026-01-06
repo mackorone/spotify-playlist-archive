@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,646 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,658 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 33 | [夏のミラージュ](https://open.spotify.com/track/17QmZTdwAkTB3b9rGLNbur) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [Esquisse（エスキース）](https://open.spotify.com/album/41ka6U4rOJel17t5UI8Fvl) | 4:31 |
 | 34 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか ＜音楽篇＞](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 |
 | 35 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
-| 36 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
-| 37 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
+| 36 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
+| 37 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
 | 38 | [愛がひとりぼっち](https://open.spotify.com/track/5xAKNKw4sa77VlVDdF1dtP) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [タッチ](https://open.spotify.com/album/6gSfmXLxjFCLtYqMtMWZrp) | 3:57 |
 | 39 | [Angel Night （天使のいる場所）](https://open.spotify.com/track/0ptGT3l9KtWn9ZObisgdB8) | [PSY・S［saiz］](https://open.spotify.com/artist/3zntsh5zPf73xyMnRi91jv) | [劇場版シティーハンター <新宿プライベート・アイズ> \-VOCAL COLLECTION\-](https://open.spotify.com/album/7wUFFg8P5ctTc13EOKCBdy) | 4:28 |
 | 40 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |

@@ -1,6 +1,6 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 673853,
+  "num_followers": 673845,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-08-28 15:52:49",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 216751,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
+    },
+    {
+      "added_at": "2025-08-28 15:52:49",
+      "album": {
         "name": "Next to Nothing",
         "url": "https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 216000,
       "name": "Joyfulness",
       "url": "https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT"
-    },
-    {
-      "added_at": "2025-08-28 15:52:49",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 216751,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
     },
     {
       "added_at": "2025-08-28 15:52:49",

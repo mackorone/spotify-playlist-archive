@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,397 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,275 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 59 | [Another Sappy Xmas Love Song](https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Another Sappy Xmas Love Song](https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS) | 2:24 |
 | 60 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 |
 | 61 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
-| 62 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
-| 63 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
+| 62 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
+| 63 | [White Christmas](https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 1:35 |
 | 64 | [Deck The Halls](https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX) | 2:04 |
 | 65 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
 | 66 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |

@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-239 songs - 13 hr 1 min
+240 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [This Isn’t Really Love](https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/40PHB87OjY3asWgjaA3KOo) | 3:24 | 2025-09-22 | 2025-12-13 |
 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-10 |  |
 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 | 2025-10-10 |  |
+| [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:48 | 2026-01-05 |  |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-18 | 2025-09-23 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-07-17 | 2025-09-23 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-09-22 |  |

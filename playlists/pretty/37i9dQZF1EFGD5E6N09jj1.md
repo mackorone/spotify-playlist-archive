@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,907 likes - 200 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,908 likes - 200 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 143 | [XXXTC](https://open.spotify.com/track/0rVsYzrijvYpKcK44eIaQ3) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 3:18 |
 | 144 | [Grins](https://open.spotify.com/track/32OiPj5WrMToQV5XjNd8dF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:52 |
 | 145 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
-| 146 | [How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:37 |
-| 147 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
+| 146 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 |
+| 147 | [How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:37 |
 | 148 | [Thoughts](https://open.spotify.com/track/7A32ilnCkeWlDNM0xsBUfw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 |
 | 149 | [Lucky](https://open.spotify.com/track/4fSHrm2WrIZmtYMXQq0YwI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:35 |
 | 150 | [Selfish Girl](https://open.spotify.com/track/4qo8MT581bE5mDm7FGi5qB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 3:14 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 199 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 200 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcGFOgAAAADC19/zdgb43n8aezhg6Vt4`
+Snapshot ID: `AcGKngAAAACHEJbxyBexxRhw1PgRRaL9`

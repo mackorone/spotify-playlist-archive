@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,682 likes - 29 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,700 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 18 | [Comin' In Cold](https://open.spotify.com/track/7iynAuclLdUAG5H2XoK08K) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:00 |
 | 19 | [Trainwreck](https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:30 |
 | 20 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 |
-| 21 | [Fix'n To Break](https://open.spotify.com/track/26YvZWW29FXHaSRQzajRYv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 |
+| 21 | [Get to Gettin’ Gone](https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:02 |
 | 22 | [New To Country](https://open.spotify.com/track/0hfGnxKz1tyz0uLfiycbKQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 2:57 |
 | 23 | [House On Fire](https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:40 |
 | 24 | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\)](https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\) \[FAST X / Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6) | 2:43 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 28 | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy\) \- Sped Up](https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [FAST X \(Sped Up / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO) | 2:15 |
 | 29 | [Words from Bailey](https://open.spotify.com/track/3hKJoeP7BwIiGrD9NzDJCd) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 0:47 |
 
-Snapshot ID: `aVhcAAAAAAD+PJkS/JcckdemLBYRrkJd`
+Snapshot ID: `aVmtgAAAAAB0q1i+4eSXeqYJnGEHqUiU`

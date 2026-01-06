@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-162 songs - 9 hr 6 min
+163 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Get Me Some](https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:32 | 2023-05-02 | 2024-02-06 |
 | [Get Me Some](https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:32 | 2024-02-05 |  |
 | [Go With It](https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 4:23 | 2023-05-02 | 2024-01-12 |
-| [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 | 2024-01-12 |  |
+| [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 | 2024-01-12 | 2026-01-06 |
+| [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1PxeVXU16vI9Mf09ntfaPZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU) | 4:23 | 2026-01-06 |  |
 | [Golden Years \- TOKiMONSTA Remix](https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Golden Years \(TOKiMONSTA Remix\)](https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp) | 3:01 | 2023-05-06 | 2023-06-04 |
 | [Green](https://open.spotify.com/track/3Q5FLOPn3IhY3g3BHoHak2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:58 | 2024-03-11 | 2024-03-16 |
 | [Green](https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:58 | 2023-05-29 | 2024-01-11 |

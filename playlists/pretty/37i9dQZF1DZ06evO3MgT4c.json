@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 438059,
+  "num_followers": 438078,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACLrKZqAApv8hhZHqgk6PdF",
+  "snapshot_id": "aVmtgAAAAABPg2r8goNudAW925Z53/BE",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 262308,
       "name": "Drip (feat. Migos)",
       "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 229434,
-      "name": "How We Coming",
-      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
       "duration_ms": 274846,
       "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
       "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is You Ready (From \"Mile 22\")",
-        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 184276,
-      "name": "Is You Ready - From \"Mile 22\"",
-      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
     }
   ],
   "unique_name": "This Is Migos",

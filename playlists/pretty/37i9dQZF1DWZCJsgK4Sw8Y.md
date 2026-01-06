@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,177 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,202 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 44 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 45 | [King of the Jews](https://open.spotify.com/track/1N5xILoz2dAx8n13TCGY1e) | [David & The Giants](https://open.spotify.com/artist/6ZKubx3xXEEcwscVeMNLXA) | [Riders in the Sky](https://open.spotify.com/album/6ObISSujN0MOeuMaiCvt7h) | 4:52 |
 | 46 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 |
-| 47 | [Be My Escape](https://open.spotify.com/track/5GhYfK0jevTEtXOaqCKCxw) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/2C94K2j4f1FKWwxogAcNuX) | 4:00 |
-| 48 | [Through It All](https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0) | 3:36 |
+| 47 | [Through It All](https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0) | 3:36 |
+| 48 | [Be My Escape](https://open.spotify.com/track/5GhYfK0jevTEtXOaqCKCxw) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/2C94K2j4f1FKWwxogAcNuX) | 4:00 |
 | 49 | [Crash](https://open.spotify.com/track/1FoNbYIeraEqeN46nwNk8a) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/4Dir4ut5xEbGqJC3Pe9HsW) | 3:51 |
 | 50 | [Embers And Envelopes](https://open.spotify.com/track/4ArUnW8s0cuJLKVFmkCA2F) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/3qdzT7kFqXnAKum9hYXXOz) | 4:18 |
 

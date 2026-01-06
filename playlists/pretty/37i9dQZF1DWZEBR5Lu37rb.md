@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,334 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,425 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 45 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 |
 | 46 | [Let Me Love You Now](https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 |
 | 47 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
-| 48 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
-| 49 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
+| 48 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 |
+| 49 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
 | 50 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
-| 51 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
-| 52 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 |
+| 51 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 |
+| 52 | [Kum Nakum](https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ntumba](https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR) | 5:56 |
 | 53 | [uThando](https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Soulful G](https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [uThando](https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk) | 8:04 |
 | 54 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 | 55 | [Wenhliziyo Yami](https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [uMehlabomvu](https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm) | [Wenhliziyo Yami](https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8) | 4:21 |

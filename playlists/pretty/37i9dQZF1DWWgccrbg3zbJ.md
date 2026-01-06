@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,204 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,530 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 56 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
 | 57 | [Meu Mundo Caiu](https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG) | [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq) | [The Sound Of Love](https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC) | 3:23 |
 | 58 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 |
-| 59 | [O pato](https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Essentials](https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi) | 2:02 |
+| 59 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
 | 60 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 |
 | 61 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 |
 | 62 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 66 | [Dindi \- Live](https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 5:20 |
 | 67 | [Meditação](https://open.spotify.com/track/4XUjJAMQ0sYoyOQJZf2AS0) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:47 |
 | 68 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 |
-| 69 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
+| 69 | [O pato](https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Essentials](https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi) | 2:02 |
 | 70 | [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 |
 
 Snapshot ID: `AAAAABydkwUwO08BWUb2kJl9JITt95ud`

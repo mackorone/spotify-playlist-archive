@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Danny Félix
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,372 likes - 94 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,412 likes - 94 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

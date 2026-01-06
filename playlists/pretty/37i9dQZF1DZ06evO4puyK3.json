@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166328,
+  "num_followers": 166318,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAC38rYHXZxZ6zELnNiahdDp",
+  "snapshot_id": "aVmtgAAAAACtA0U9hgh6YqxHBUIXjV4F",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrasta",
-        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Arrasta",
-      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 145056,
       "name": "FOGO NO BARRACO",
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrasta",
+        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Arrasta",
+      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
     },
     {
       "added_at": null,

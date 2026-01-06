@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22602,
+  "num_followers": 22601,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Caos e Sal / T\u00e3o Bonito",
-        "url": "https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 200179,
-      "name": "T\u00e3o Bonito",
-      "url": "https://open.spotify.com/track/69td3hK5bXy0HklQhgrbQn"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Comme Avant",
         "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219226,
       "name": "Comme Avant",
       "url": "https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Caos e Sal / T\u00e3o Bonito",
+        "url": "https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 200179,
+      "name": "T\u00e3o Bonito",
+      "url": "https://open.spotify.com/track/69td3hK5bXy0HklQhgrbQn"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Gingado",
+        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        },
+        {
+          "name": "DIMELLABS",
+          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
+        }
+      ],
+      "duration_ms": 147125,
+      "name": "Gingado",
+      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 176647,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Gingado",
-        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        },
-        {
-          "name": "DIMELLABS",
-          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
-        }
-      ],
-      "duration_ms": 147125,
-      "name": "Gingado",
-      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "BRINDE",
         "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1347,26 +1347,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "BIG BIG",
-        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
       "artists": [
         {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
         },
         {
-          "name": "Mya Akoma",
-          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
         }
       ],
-      "duration_ms": 182500,
-      "name": "BIG BIG",
-      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1395,22 +1391,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+        "name": "BIG BIG",
+        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
       },
       "artists": [
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
         },
         {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+          "name": "Mya Akoma",
+          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+      "duration_ms": 182500,
+      "name": "BIG BIG",
+      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
     },
     {
       "added_at": "2025-12-11 16:00:17",

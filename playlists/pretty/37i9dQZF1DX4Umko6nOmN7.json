@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 614543,
+  "num_followers": 614560,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-11-06 23:00:27",
       "album": {
-        "name": "Misstro",
-        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        },
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 170162,
-      "name": "Misstro",
-      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
-    },
-    {
-      "added_at": "2025-11-06 23:00:27",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "added_at": "2025-11-06 23:00:27",
+      "album": {
+        "name": "Misstro",
+        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        },
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 170162,
+      "name": "Misstro",
+      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
     },
     {
       "added_at": "2025-11-06 23:00:27",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
-      "added_at": "2025-11-18 15:48:24",
-      "album": {
-        "name": "you chose this",
-        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "you chose this",
-      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
       "added_at": "2025-11-06 23:00:27",
       "album": {
         "name": "Better Man",
@@ -1067,6 +1051,22 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2025-11-18 15:48:24",
+      "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
       "added_at": "2025-11-06 23:00:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-11-06 23:00:27",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2025-11-06 23:00:27",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2025-11-06 23:00:27",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2025-11-06 23:00:27",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-06 23:00:27",
       "album": {
-        "name": "L\u00e5ngsamt (Piano Version)",
-        "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "L\u00e5ngsamt - Piano Version",
-      "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
-    },
-    {
-      "added_at": "2025-11-06 23:00:27",
-      "album": {
         "name": "P\u00e5 svenska",
         "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 243760,
       "name": "R\u00f6da sten",
       "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2025-11-06 23:00:27",
+      "album": {
+        "name": "L\u00e5ngsamt (Piano Version)",
+        "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "L\u00e5ngsamt - Piano Version",
+      "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
     },
     {
       "added_at": "2025-11-06 23:00:27",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
     },
     {
-      "added_at": "2025-11-06 23:00:27",
-      "album": {
-        "name": "Flytta h\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 208509,
-      "name": "Flytta h\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
-    },
-    {
       "added_at": "2025-12-09 16:08:02",
       "album": {
         "name": "Vara m\u00e4nniska",
@@ -1675,6 +1659,22 @@
       "duration_ms": 134624,
       "name": "Vara m\u00e4nniska",
       "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
+    },
+    {
+      "added_at": "2025-11-06 23:00:27",
+      "album": {
+        "name": "Flytta h\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
+      },
+      "artists": [
+        {
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
+        }
+      ],
+      "duration_ms": 208509,
+      "name": "Flytta h\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
     },
     {
       "added_at": "2025-11-06 23:00:27",

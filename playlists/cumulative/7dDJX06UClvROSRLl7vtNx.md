@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,132 songs - 2 day 1 hr 0 min
+1,133 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2024-12-06 |  |
 | [New Day](https://open.spotify.com/track/7EBjMwD8WF9309zbBPVCWU) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH) | [New Day](https://open.spotify.com/album/00AtYpOMugrzxaUfPKTXG7) | 2:38 | 2025-07-11 |  |
 | [New Light](https://open.spotify.com/track/1EEW8moUPpF7POgp6ZQTmL) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [New Light](https://open.spotify.com/album/6I1Lr576NkgZNlulnoN8dm) | 2:50 | 2025-07-06 | 2025-08-25 |
+| [New Me](https://open.spotify.com/track/563A3t7OsmDi7ltml4HwSv) | [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [Stayer](https://open.spotify.com/artist/7KXfoxgAP15O5tcBY79E86), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [New Me](https://open.spotify.com/album/0Sb9ZEVHSZWYO3n8W1dxJL) | 2:43 | 2026-01-05 |  |
 | [New York In The Rain](https://open.spotify.com/track/7HNkl6Fr1gnknlIppusVnH) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [Portugal Sunset](https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF), [Juli Mala](https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU) | [New York In The Rain](https://open.spotify.com/album/5DChsqa6A6uH7rsRfcXNHT) | 2:27 | 2025-09-04 |  |
 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 | 2024-04-05 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 | 2024-11-24 | 2025-03-31 |

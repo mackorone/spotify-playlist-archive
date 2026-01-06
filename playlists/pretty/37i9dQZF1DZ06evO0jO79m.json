@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1759688,
+  "num_followers": 1759923,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAB6Zk+PkLwR7syupvxBSNo8",
+  "snapshot_id": "aVmtgAAAAABwp+i6qthE1QfRgYlkSAGX",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 147480,
-      "name": "Addicted to You",
-      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 192866,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 147480,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": null,
@@ -1012,7 +1012,7 @@
       "added_at": null,
       "album": {
         "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2"
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 199840,
+      "duration_ms": 199853,
       "name": "Beautiful Liar",
-      "url": "https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF"
+      "url": "https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib"
     },
     {
       "added_at": null,

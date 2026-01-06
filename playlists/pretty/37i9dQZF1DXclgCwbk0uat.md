@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Germanini, Nacho G Flow & Lyon la f
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,152 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,226 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 34 | [Tu Pelo Negro](https://open.spotify.com/track/5pP5sfmqaecBT2d20aXB2i) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [Tu Pelo Negro](https://open.spotify.com/album/3QjgmpXhBrlAPAVD6JftQv) | 2:26 |
 | 35 | [MAL PORTA](https://open.spotify.com/track/0Fb8RH9cZJtUsbSE6HM01G) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [WORLDWAI](https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg) | 2:20 |
 | 36 | [COMO TÚ](https://open.spotify.com/track/3Frf311vkzSQtLUrtRFgba) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [COMO TÚ](https://open.spotify.com/album/4rV6GgBgdXu1q9r6Etr4NH) | 2:45 |
-| 37 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 37 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 38 | [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 |
 | 39 | [Incorregible](https://open.spotify.com/track/5BopAwInvbrMFbbV4Y4BHF) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Matando La Liga 2](https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe) | 2:54 |
 | 40 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |

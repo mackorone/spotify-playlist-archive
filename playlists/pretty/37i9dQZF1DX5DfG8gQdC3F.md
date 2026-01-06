@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Happy New Year! ✨ New music from Nick Jonas, Doechii & SZA, Joji, Meltt, AHI, Katie Tupper and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,748 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,731 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 38 | [Sangre Malandra](https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [THR Cru2](https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn) | [Sangre Malandra](https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S) | 6:16 |
 | 39 | [idea of you](https://open.spotify.com/track/2OL5weimgJp3Lhq20IDv25) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [idea of you](https://open.spotify.com/album/65nmwni51lSY4hpWrmbmtq) | 3:19 |
 | 40 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
-| 41 | [Au fond des bois](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
+| 41 | [Au fond des bois \(feat\. Rymz\)](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 |
 | 42 | [Can't Take My Story Away](https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Can't Take My Story Away](https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI) | 4:11 |
 | 43 | [Who Gives A Funk!?](https://open.spotify.com/track/3NLy3Qy6xWOs5blWZzEfRS) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Who Gives A Funk!?](https://open.spotify.com/album/1JhJMxl7DmUvtobHCOKPky) | 3:22 |
 | 44 | [All Your Friends Still Scare Me](https://open.spotify.com/track/0OnlZrAv0NtbtNRJlNqt8W) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Donkey Flats](https://open.spotify.com/album/3eWwqkK4B1CSvuRlfSaqCk) | 3:27 |

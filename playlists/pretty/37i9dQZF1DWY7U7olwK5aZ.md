@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist\. Cover: Chappell Roan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,956 likes - 35 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,964 likes - 35 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

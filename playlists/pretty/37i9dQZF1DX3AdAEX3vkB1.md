@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,465 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,574 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 57 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 58 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
 | 59 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
-| 60 | [No Milk Today \- Mono Version](https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:54 |
-| 61 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
+| 60 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
+| 61 | [No Milk Today \- Mono Version](https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:54 |
 | 62 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
 | 63 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 | 64 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:42 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 109 | [Foot Tapper \- 2003 Remaster](https://open.spotify.com/track/26FHHkqUgQG9AChc0oq1Ol) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Summer Holiday](https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C) | 2:26 |
 | 110 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 | 111 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
-| 112 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
-| 113 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 |
+| 112 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 |
+| 113 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
 | 114 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
 | 115 | [You Never Can Tell](https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [You Never Can Tell: His Complete Chess Recordings 1960 \-1966](https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM) | 2:41 |
 | 116 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |

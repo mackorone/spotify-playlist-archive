@@ -32955,6 +32955,24 @@
     },
     {
       "album": {
+        "name": "\u5377\u5f0f\u7d9c\u5408\u75c7",
+        "url": "https://open.spotify.com/album/65W4hDLUtMkj0RcKXb6XYw"
+      },
+      "artists": [
+        {
+          "name": "Kai Yannis",
+          "url": "https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128152,
+      "name": "\u5377\u5f0f\u7d9c\u5408\u75c7",
+      "url": "https://open.spotify.com/track/4dmSH8FQiaXh94gCl83NOt"
+    },
+    {
+      "album": {
         "name": "\u537b\u9084\u662f\u8aaa\u4e86\u518d\u898b (feat. Ace)",
         "url": "https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM"
       },
@@ -49086,24 +49104,6 @@
       "duration_ms": 223524,
       "name": "\u6368\u4e0d\u5f97\u4f60",
       "url": "https://open.spotify.com/track/79rRlj6ukamsbP9CkPySoj"
-    },
-    {
-      "album": {
-        "name": "\u6372\u5f0f\u7d9c\u5408\u75c7",
-        "url": "https://open.spotify.com/album/65W4hDLUtMkj0RcKXb6XYw"
-      },
-      "artists": [
-        {
-          "name": "Kai Yannis",
-          "url": "https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA"
-        }
-      ],
-      "date_added": "2026-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128152,
-      "name": "\u6372\u5f0f\u7d9c\u5408\u75c7",
-      "url": "https://open.spotify.com/track/4dmSH8FQiaXh94gCl83NOt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,311 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,314 likes - 55 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 49 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
 | 50 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 51 | [Seminare](https://open.spotify.com/track/5bXhx2vO2N4ZwUi0QFn4HU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán](https://open.spotify.com/album/576AZwSw776mNOkg1UZtpc) | 3:23 |
-| 52 | [Sucio y Desprolijo](https://open.spotify.com/track/3dHo3940xcnvQaci88jAgg) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 4:33 |
-| 53 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
-| 54 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
-| 55 | [Sólo le pido a dios](https://open.spotify.com/track/2oM64LzrwSZSjrZISBkJ20) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [lV \(LP\)](https://open.spotify.com/album/2NSx89yregrbYFp7WVp8TB) | 5:03 |
+| 52 | [Mañana campestre](https://open.spotify.com/track/1O15BhPK0r4giiiOSBPaZi) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/0xo8Hz2MCVk56MFnFFWbrV) | 2:50 |
+| 53 | [Sucio y Desprolijo](https://open.spotify.com/track/3dHo3940xcnvQaci88jAgg) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 4:33 |
+| 54 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
+| 55 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 
 Snapshot ID: `AAAAAF9pYPrjaLGazOH3uKKnPccVKL6z`

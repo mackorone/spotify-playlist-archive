@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> The best dance and electronic songs in the Middle East and North Africa\. Cover: Vanco
+> The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-284 songs - 18 hr 44 min
+285 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 | 2023-11-24 |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2024-01-26 | 2025-03-01 |
 | [Khabar Abyad](https://open.spotify.com/track/6vxEDjzH2OU938m3muhQ1p) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:51 | 2025-07-03 |  |
-| [Khalawto](https://open.spotify.com/track/0jVFS5HEOtonqqSkm5MGjr) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Houssain Haidar](https://open.spotify.com/artist/4Js1SrrLDWhA5DlXtlcn22) | [Khalawto](https://open.spotify.com/album/7Br2U54Rk7jGJx41KwOPQU) | 3:36 | 2025-02-28 |  |
+| [Khalawto](https://open.spotify.com/track/0jVFS5HEOtonqqSkm5MGjr) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Houssain Haidar](https://open.spotify.com/artist/4Js1SrrLDWhA5DlXtlcn22) | [Khalawto](https://open.spotify.com/album/7Br2U54Rk7jGJx41KwOPQU) | 3:36 | 2025-02-28 | 2026-01-06 |
 | [Khalouni Neich](https://open.spotify.com/track/5uFOWK3FXZvTIly8mJ8dD1) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Khalouni Neich](https://open.spotify.com/album/6zdnyNbfeUTqOxPXjk2C1K) | 3:12 | 2024-03-04 | 2025-08-08 |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 | 2022-11-26 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-23 | 2023-08-17 |
@@ -278,6 +278,7 @@
 | [Ya Wayli](https://open.spotify.com/track/2tzWc99kuwu7gDEuAaElSz) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU), [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG) | [Ya Wayli](https://open.spotify.com/album/0DSh3PZqlejjiOs1TAvZJx) | 3:49 | 2025-11-22 |  |
 | [Ya Zarif](https://open.spotify.com/track/5lBPn6PmXqe52OXIaXxnjS) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W) | [Ya Zarif](https://open.spotify.com/album/1oOf332OXrB1PoRMVco0zV) | 1:59 | 2025-05-07 |  |
 | [Yababa \- Tunisian Mix](https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Yababa \(Tunisian Mix\)](https://open.spotify.com/album/5h73R2jKggJ2O881UkV0Qf) | 5:35 | 2023-06-23 | 2025-03-07 |
+| [YAMA BY NIGHT](https://open.spotify.com/track/4sM6pKE8mhJSGlYVzvNxQz) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA BY NIGHT](https://open.spotify.com/album/3KNPIlEwgUt4yItD67akmB) | 2:22 | 2026-01-05 |  |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-18 |  |
 | [Yena'al Li](https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT) | [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn), [Sahraaoui](https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff) | [Yena'al Li](https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs) | 4:52 | 2022-10-11 | 2023-11-03 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-04-21 |  |

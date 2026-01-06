@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 781681,
+  "num_followers": 781724,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Nossa Miss\u00e3o",
+        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Quero Ser Feliz Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Nossa Miss\u00e3o",
-        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Quero Ser Feliz Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 178718,
-      "name": "Coisa Linda",
-      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 225760,
       "name": "Toda Forma de Amor",
       "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 178718,
+      "name": "Coisa Linda",
+      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Ter o cora\u00e7\u00e3o no ch\u00e3o",
-      "url": "https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Ter o cora\u00e7\u00e3o no ch\u00e3o",
+      "url": "https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
-        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
+        "name": "Melhores Momentos",
+        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 180666,
-      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
-      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
+      "duration_ms": 151306,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Melhores Momentos",
-        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
+        "name": "AMAReS\u00d3 (Ao Vivo Com Orquestra)",
+        "url": "https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
+      "duration_ms": 180666,
+      "name": "AMAReS\u00d3 - Ao Vivo Com Orquestra",
+      "url": "https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Me Chama de Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Insista Em Mim",
-      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 224590,
       "name": "Se Eu N\u00e3o Te Amasse Tanto Assim - Ac\u00fastico Em Trancoso / Ao Vivo",
       "url": "https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 202806,
-      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "added_at": "2025-11-25 18:54:59",

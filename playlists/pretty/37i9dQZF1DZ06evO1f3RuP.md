@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197 likes - 34 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 34 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 27 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
 | 28 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 |
 | 29 | [Superstar](https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Superstar](https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA) | 3:12 |
-| 30 | [Spend It](https://open.spotify.com/track/1KlJZMMGrpXMVGYadMc3wF) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Spend It](https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf) | 3:00 |
-| 31 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
+| 30 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
+| 31 | [Spend It](https://open.spotify.com/track/1KlJZMMGrpXMVGYadMc3wF) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Spend It](https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf) | 3:00 |
 | 32 | [Busy \- BAYLI Remix](https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Busy \(BAYLI Remix\)](https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe) | 2:45 |
-| 33 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
-| 34 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
+| 33 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
+| 34 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 
-Snapshot ID: `aVhcAAAAAABwuW1q6FkGS0t/hYGYUZFQ`
+Snapshot ID: `aVmtgAAAAACpCT5ce7EpbTfouKQFOEeV`

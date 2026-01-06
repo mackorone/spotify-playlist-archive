@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92210,
+  "num_followers": 92206,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "inconformidable",
+        "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
+      },
+      "artists": [
+        {
+          "name": "luego luego",
+          "url": "https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "luego",
+      "url": "https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "AYER (Remix)",
         "url": "https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 268448,
       "name": "AYER - Remix",
       "url": "https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "inconformidable",
-        "url": "https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5"
-      },
-      "artists": [
-        {
-          "name": "luego luego",
-          "url": "https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "luego",
-      "url": "https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "IL\u00d3GICO",
-        "url": "https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "IL\u00d3GICO",
-      "url": "https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Viento Feroz",
         "url": "https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 196107,
       "name": "Viento Feroz",
       "url": "https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "IL\u00d3GICO",
+        "url": "https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "IL\u00d3GICO",
+      "url": "https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI"
+        "name": "CATARSIS",
+        "url": "https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Cross MX",
+          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
         },
         {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
         }
       ],
-      "duration_ms": 194648,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa"
+      "duration_ms": 149413,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

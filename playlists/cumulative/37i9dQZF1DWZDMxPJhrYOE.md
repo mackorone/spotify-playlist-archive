@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-877 songs - 1 day 21 hr 28 min
+878 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-10 | 2025-01-25 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 | 2025-11-21 |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-12-11 |  |
-| [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 | 2025-12-04 |  |
+| [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 | 2025-12-04 | 2026-01-06 |
 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3) | 3:18 | 2024-09-12 | 2025-01-22 |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-07-31 | 2024-09-15 |
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-30 | 2025-02-02 |
@@ -626,6 +626,7 @@
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 | 2025-09-12 |
 | [Rene Hjerter](https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 2:49 | 2025-05-01 | 2025-07-25 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-01 | 2024-09-20 |
+| [Reposado Remix](https://open.spotify.com/track/52Ka7bj14YpxHfSy5fnH1F) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Reposado Remix](https://open.spotify.com/album/10aDemoWWIXpitsGIuSXXp) | 3:11 | 2026-01-05 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-05-23 |
 | [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 | 2024-09-11 | 2024-10-07 |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-24 | 2025-10-10 |

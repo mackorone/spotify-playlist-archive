@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 443419,
+  "num_followers": 443458,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACH1ah1w3jAq8RVQh0TUpPg",
+  "snapshot_id": "aVmtgAAAAACIcnPgDyr/TGZCoJ8kMYJ7",
   "tracks": [
     {
       "added_at": null,
@@ -174,19 +174,11 @@
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skooly",
-          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 202162,
-      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
-      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
+      "duration_ms": 148860,
+      "name": "Mrs. Trendsetter",
+      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
     },
     {
       "added_at": null,
@@ -250,11 +242,19 @@
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 148860,
-      "name": "Mrs. Trendsetter",
-      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+      "duration_ms": 202162,
+      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramen & OJ",
-        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218447,
-      "name": "Ramen & OJ",
-      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realer",
         "url": "https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ"
       },
@@ -875,6 +855,42 @@
       "duration_ms": 233684,
       "name": "Cross Me (feat. Lil Baby and Plies)",
       "url": "https://open.spotify.com/track/3V3JxDpiUg0RAt1Mfbn6Ht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramen & OJ",
+        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218447,
+      "name": "Ramen & OJ",
+      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": null,

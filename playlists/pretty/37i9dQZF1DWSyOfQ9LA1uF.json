@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 79351,
+  "num_followers": 79363,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Disco Shoes",
-        "url": "https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT"
-      },
-      "artists": [
-        {
-          "name": "Acid Jacks",
-          "url": "https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w"
-        }
-      ],
-      "duration_ms": 341530,
-      "name": "Disco Shoes - Electrixx Mix",
-      "url": "https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Running - Single",
         "url": "https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Disco Shoes",
+        "url": "https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT"
+      },
+      "artists": [
+        {
+          "name": "Acid Jacks",
+          "url": "https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w"
+        }
+      ],
+      "duration_ms": 341530,
+      "name": "Disco Shoes - Electrixx Mix",
+      "url": "https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
@@ -1291,38 +1291,6 @@
       "duration_ms": 465333,
       "name": "Paris (Aeroplane Remix)",
       "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Archives & Relics (2008-2012)",
-        "url": "https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp"
-      },
-      "artists": [
-        {
-          "name": "Bit Funk",
-          "url": "https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Cross",
-        "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 234959,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1343,6 +1311,38 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/4xymOOdANFwko4RpeR961e"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Cross",
+        "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 234959,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Archives & Relics (2008-2012)",
+        "url": "https://open.spotify.com/album/1HBqpqPLXCybdgETimYQTp"
+      },
+      "artists": [
+        {
+          "name": "Bit Funk",
+          "url": "https://open.spotify.com/artist/3QzHXIuwKTQzOhgA3F8mN1"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/6bM8gEfn4LqivqV2AWdbLo"
     }
   ],
   "unique_name": "Bloghouse",

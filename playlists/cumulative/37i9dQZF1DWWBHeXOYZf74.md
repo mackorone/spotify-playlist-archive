@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Samara Cyn
 
-3,270 songs - 7 day 15 hr 16 min
+3,271 songs - 7 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2297,6 +2297,7 @@
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-11 | 2022-05-07 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-02-18 |
 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 | 2022-02-18 | 2022-04-02 |
+| [Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Punk Rocky](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-05 |  |
 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:59 | 2019-07-30\* | 2019-08-09 |
 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 | 2025-03-14 | 2025-08-17 |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-06 | 2025-03-22 |

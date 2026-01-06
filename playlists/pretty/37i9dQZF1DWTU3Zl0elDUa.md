@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,626 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,899 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 13 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 14 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 15 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 16 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
-| 17 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
+| 16 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
+| 17 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 | 18 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 |
 | 19 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 20 | [Percolator \- Original Mix](https://open.spotify.com/track/5JYbPUFjUn0i8BQy1C5JTs) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Percolator \(Original Mix\)](https://open.spotify.com/album/7E5OUkUh3NKIo9rlVGcb81) | 4:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 44 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 | 45 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 |
 | 46 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 |
-| 47 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
-| 48 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
+| 47 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
+| 48 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 49 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/2VHfPcIjhqDGtynhFU3eSH) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 | 50 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 51 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |

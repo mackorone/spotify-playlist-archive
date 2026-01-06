@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Irina Rimes & Jerry Heil
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Drevo
 
-169 songs - 8 hr 26 min
+170 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2024-06-27 | 2025-02-07 |
 | [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2024-06-27 | 2024-11-05 |
 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 | 2024-10-03 | 2025-03-21 |
+| [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 | 2026-01-05 |  |
 | [Живий](https://open.spotify.com/track/1P1PLAc211cVxV1sIjcRVk) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Живий](https://open.spotify.com/album/67jdkyzs56Pq6qx9XJhu9f) | 5:04 | 2025-10-16 | 2025-11-14 |
 | [Жовті квіти](https://open.spotify.com/track/2r6cHg9JyC40mZge3JsSMP) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Інтимна лірика](https://open.spotify.com/album/1vLEmVLP1GiDm4m0uQXWfG) | 2:59 | 2025-09-15 | 2025-11-14 |
 | [З якого ти поверху неба?](https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:16 | 2025-05-13 |  |
@@ -165,7 +166,7 @@
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-06-27 | 2025-05-20 |
 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 | 2025-11-13 | 2025-12-02 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-06-27 | 2024-10-29 |
-| [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 | 2025-11-17 |  |
+| [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 | 2025-11-17 | 2026-01-06 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-12 | 2025-04-11 |
 | [ШОВКОВИЦЯ](https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs), [DAMNITSKYI](https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl) | [ШОВКОВИЦЯ](https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2) | 3:05 | 2025-06-05 |  |
 | [я не прийду](https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [я не прийду](https://open.spotify.com/album/3Yb45auFxqKwbc4qzL3Fh3) | 3:15 | 2024-10-28 | 2024-11-05 |

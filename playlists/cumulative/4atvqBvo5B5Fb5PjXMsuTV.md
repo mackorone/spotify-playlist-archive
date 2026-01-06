@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Jan 14:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Jan 09:04 UTC.
 
-5,977 songs - 13 day 20 hr 17 min
+5,978 songs - 13 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [A Plea](https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [A Plea](https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5) | 7:38 | 2025-12-03 | 2025-12-20 |
 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 | 2025-05-07 | 2025-05-17 |
 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 | 2024-05-17 | 2024-05-22 |
-| [A Pure Expression](https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [A Pure Expression](https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs) | 4:03 | 2025-12-13 |  |
+| [A Pure Expression](https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [A Pure Expression](https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs) | 4:03 | 2025-12-13 | 2026-01-06 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-18 | 2025-01-28 |
 | [A Real Man](https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [A Real Man](https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1) | 3:41 | 2024-05-24 | 2024-05-29 |
 | [A Reptile Dysfunction](https://open.spotify.com/track/79Jk7hWBcAgGrUZdAKs5A1) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [A Reptile Dysfunction](https://open.spotify.com/album/2cQBohQsJUxWd0AhBR0wQY) | 2:41 | 2025-04-28 | 2025-05-02 |
@@ -4359,6 +4359,7 @@
 | [Sagashimono](https://open.spotify.com/track/1I2LzPdES52JgTCT3wczmP) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sagashimono](https://open.spotify.com/album/0J4ujF78IkvojlRz91qsZc) | 4:49 | 2024-07-09 | 2024-07-11 |
 | [Sagrado Profano](https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Sagrado Profano](https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET) | 3:16 | 2024-05-28 | 2024-06-01 |
 | [Said & Done](https://open.spotify.com/track/6f4VtVnlQm7XT6KrP52r1N) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Said & Done](https://open.spotify.com/album/31RNAbkYLWo8QV2beoQbKJ) | 3:19 | 2024-10-24 | 2024-10-26 |
+| [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 | 2026-01-05 |  |
 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-09-11 | 2025-09-20 |
 | [Salting the Earth](https://open.spotify.com/track/0EnlIsOJ9Or1wiERcyr5AX) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Salting the Earth](https://open.spotify.com/album/44ker1gJWbfAYUvlE0yCvO) | 3:35 | 2025-10-31 | 2025-11-12 |
 | [Same](https://open.spotify.com/track/1wjVW1FgRGsaSQyF4X94L0) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Same](https://open.spotify.com/album/0mhE2IE9Y2Uwp3vdyEbQFO) | 2:25 | 2024-12-28 | 2025-01-12 |

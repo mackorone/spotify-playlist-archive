@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-599 songs - 1 day 10 hr 15 min
+601 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Jolly Jolly](https://open.spotify.com/track/6lr8AKxmDniETfPEhezrSY) | [Viraj](https://open.spotify.com/artist/50pXnrPQzX4pF1QiKXvnIK) | [Jolly Jolly](https://open.spotify.com/album/7BvprRs0Qjum74sY0QQGMH) | 3:43 | 2025-01-13 | 2025-03-20 |
 | [Jothe](https://open.spotify.com/track/0wkMvuNAN2WevvPQ6sSTCq) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [Jothe](https://open.spotify.com/album/1Z52UPtNyAaqR1RYdCNsYa) | 4:46 | 2025-11-04 |  |
 | [JUST MUSIC](https://open.spotify.com/track/6rP745yCeuwMJdd4uJAG2h) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [JUST MUSIC](https://open.spotify.com/album/2Sa4QsIx74xhupxw7Ej5Tq) | 2:05 | 2024-05-13 | 2024-11-13 |
+| [JUST US \(Kannada\)](https://open.spotify.com/track/1BqDuxYKnngiQhOCCivKhL) | [SRAVANTHI A](https://open.spotify.com/artist/2HTbQyAfQQDBtc4QSnLCCp) | [JUST US \(Kannada\)](https://open.spotify.com/album/7nfwUHoLrj235s7G6MKzzN) | 2:30 | 2026-01-05 |  |
 | [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 | 2023-09-01 | 2023-09-22 |
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 | 2024-01-30 |
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
@@ -588,6 +589,7 @@
 | [Vivekalaya](https://open.spotify.com/track/6zRJheIz77q5J6EaaZkRez) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS) | [Vivekalaya](https://open.spotify.com/album/2ldFEqS0GEIQd89LTbiCcj) | 3:00 | 2024-02-01 | 2024-06-26 |
 | [Vone Vone](https://open.spotify.com/track/0bs8ek0Ua5gjoaGc9Rkgjg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Vone Vone](https://open.spotify.com/album/7fZeTyWiRoqj4dRcUx6rwm) | 1:53 | 2024-07-18 | 2025-01-14 |
 | [We Love You Appu](https://open.spotify.com/track/4rN0TpRauE4g3cGsGmzrtm) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [We Love You Appu \- Single](https://open.spotify.com/album/2ixJIpff1eIVyy1yvqRF7L) | 3:23 | 2023-03-15 | 2023-11-30 |
+| [Welcome to Mangaluru](https://open.spotify.com/track/2EWVpodmgSvzdCM1ay1Rc3) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev) | [Mangaluru Dasara](https://open.spotify.com/album/5wmnhM0r0XH4WnIPIMaYNH) | 2:32 | 2026-01-05 |  |
 | [Yaakaluve Ele Ranga \- Kannada Lullaby](https://open.spotify.com/track/3XQY6eT4hZebumFg9s3iT8) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Yaakaluve Ele Ranga \- Kannada Lullaby](https://open.spotify.com/album/4yyJEKXPWUnNSLmJQzKSwk) | 4:45 | 2025-12-02 |  |
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 | 2024-02-01 |

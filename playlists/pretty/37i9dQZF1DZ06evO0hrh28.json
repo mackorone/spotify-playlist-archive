@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 256994,
+  "num_followers": 256999,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAABAPJxJWQXLN3MZF2A4WZV/",
+  "snapshot_id": "aVmtgAAAAABPWysABzRlI9B/5HFCaHwC",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,

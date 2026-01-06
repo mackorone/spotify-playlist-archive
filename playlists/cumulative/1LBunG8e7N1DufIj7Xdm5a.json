@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Adriano Mar",
+        "url": "https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox"
+      },
+      "artists": [
+        {
+          "name": "Adriano Mar",
+          "url": "https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417847,
+      "name": "A Viagem do Dia a Dia",
+      "url": "https://open.spotify.com/track/7esTTsykoaWgSmMWg0oc5H"
+    },
+    {
+      "album": {
         "name": "A Work of Art (feat. Shavo of System of a Down)",
         "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
       },
@@ -21301,7 +21319,7 @@
     },
     {
       "album": {
-        "name": "Estranged",
+        "name": "Estranged (Demo)",
         "url": "https://open.spotify.com/album/6UMINyoC0ZVlJZhouWHUXI"
       },
       "artists": [
@@ -21314,7 +21332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213508,
-      "name": "Estranged",
+      "name": "Estranged - Demo",
       "url": "https://open.spotify.com/track/2vzD0wKcG68wJOrhQE4BEM"
     },
     {
@@ -24878,6 +24896,24 @@
       "duration_ms": 273999,
       "name": "General movie",
       "url": "https://open.spotify.com/track/6zp8CmPRlhYhUIFeUR4ggK"
+    },
+    {
+      "album": {
+        "name": "Old, New, Borrowed II",
+        "url": "https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Get Off Of My Cloud",
+      "url": "https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui"
     },
     {
       "album": {
@@ -65460,8 +65496,8 @@
       },
       "artists": [
         {
-          "name": "YZL",
-          "url": "https://open.spotify.com/artist/5lfDtmxDp9WGk7NSWs6Nyr"
+          "name": "Sireno",
+          "url": "https://open.spotify.com/artist/0XPMrfe6A6QuoovKqDQklh"
         }
       ],
       "date_added": "2025-05-28",

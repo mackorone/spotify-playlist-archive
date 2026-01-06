@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2T7mOAPkCSmbOnJBMdOJ88.md) - [plain]
 
 > Hey, we made a playlist including some of our favourite Japan\-based artists right now which you can listen to whilst riding that sweet Bullet Train to all of our Japan Shows\. First stop Tokyo, choo choo\. Our new album, World Wide Pop, is out nooooow.
 
-[Superorganism](https://open.spotify.com/user/sprorgnsm) - 6,668 likes - 20 songs - 1 hr 25 min
+[Superorganism](https://open.spotify.com/user/sprorgnsm) - 6,669 likes - 20 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

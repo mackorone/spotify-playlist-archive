@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 7 | [Baby Blue \- From "Our Planet"](https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 4:51 |
 | 8 | [A Game of Strategy](https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:17 |
 | 9 | [Machine](https://open.spotify.com/track/0do2y0LcH11sW4DECngxcv) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:21 |
-| 10 | [Aurora Borealis](https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:43 |
+| 10 | [Aningaaq](https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 5:08 |
 | 11 | [The Importance Of This River \- From "Our Planet"](https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:40 |
 | 12 | [The Whole of Humanity](https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:27 |
 | 13 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 |
-| 14 | [Aningaaq](https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 5:08 |
+| 14 | [Aurora Borealis](https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:43 |
 | 15 | [Mayflies \- From "Our Planet"](https://open.spotify.com/track/2dDUOibqp9olH44axVCIux) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:08 |
 | 16 | [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 |
 | 17 | [I'm Scared Too](https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 43 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 |
 | 44 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
 | 45 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
-| 46 | [This Was A Beautiful Dream](https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:48 |
-| 47 | [This Game Is No Game](https://open.spotify.com/track/52IJNg7DV4ezuiKSyKpxcg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 3:52 |
-| 48 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 |
+| 46 | [Baby Girl Brown](https://open.spotify.com/track/0CDImTcLCRycAwl6Iu2K4G) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:26 |
+| 47 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 |
+| 48 | [This Game Is No Game](https://open.spotify.com/track/52IJNg7DV4ezuiKSyKpxcg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 3:52 |
 | 49 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
-| 50 | [New Life Emerging](https://open.spotify.com/track/45CJPXqDv076QqtdKiKo50) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:04 |
+| 50 | [Magdelana Bay](https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 3:17 |
 
-Snapshot ID: `aVhcAAAAAACjpE5xhj6U4QItCcB14jYQ`
+Snapshot ID: `aVmtgAAAAAC7bbsn/oIfdrhHqYPJ3mSR`

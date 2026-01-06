@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 344621,
+  "num_followers": 344618,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "La Cumbia De La Ansiedad",
+      "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -671,38 +687,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "La Cumbia De La Ansiedad",
-      "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Tierra Moj\u00e1 (Dub Mix)",
         "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 307436,
       "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 179634,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Antares",
         "url": "https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 295605,
       "name": "Antares",
       "url": "https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 179634,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
       "artists": [
         {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 152576,
-      "name": "Caruy\u00fa",
-      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
+      "duration_ms": 221298,
+      "name": "Austral",
+      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
         }
       ],
-      "duration_ms": 221298,
-      "name": "Austral",
-      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
+      "duration_ms": 152576,
+      "name": "Caruy\u00fa",
+      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

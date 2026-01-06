@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 134951,
+  "num_followers": 134977,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "I'm All For You (Ballad Songbook)",
-        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 347773,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "I'm All For You (Ballad Songbook)",
+        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 347773,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Presenting The Gerry Mulligan Sextet",
         "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 323373,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Giant Steps (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "One Flight Up (Remastered 2015)",
         "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Giant Steps (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 494026,
       "name": "Somethin' Else",
       "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Shape Of Jazz To Come",
-        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 544826,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 162805,
       "name": "Au Privave - Take 3 Master",
       "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 544826,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
         "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 178866,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Complete Savoy & Dial Master Takes",
-        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 548960,
       "name": "La Mesha",
       "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Complete Savoy & Dial Master Takes",
+        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rhythm In Mind (The Carnegie Project)",
-        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
-      },
-      "artists": [
-        {
-          "name": "Steve Coleman",
-          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
-        }
-      ],
-      "duration_ms": 549520,
-      "name": "Zec",
-      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
+      },
+      "artists": [
+        {
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
+        }
+      ],
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
+      },
+      "artists": [
+        {
+          "name": "Fly Trio",
+          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Salt And Pepper",
+      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
-      },
-      "artists": [
-        {
-          "name": "Fly Trio",
-          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Salt And Pepper",
-      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
     },
     {
       "added_at": "2024-07-17 12:24:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 32982,
+  "num_followers": 33001,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAC551IPiZxUB9VqEbkdyQHR",
+  "snapshot_id": "aVmtgAAAAADt6qBI2BHNEhgUdby/44BV",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144957,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144957,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
     },
     {
       "added_at": null,
@@ -767,26 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 164224,
-      "name": "Button (feat. Anuel AA & Tainy)",
-      "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
       "added_at": null,
@@ -811,22 +807,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunbathe",
-        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Sunbathe",
-      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
+      "duration_ms": 164224,
+      "name": "Button (feat. Anuel AA & Tainy)",
+      "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
     },
     {
       "added_at": null,

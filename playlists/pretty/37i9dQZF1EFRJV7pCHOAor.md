@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 196 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 196 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 73 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
 | 74 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
 | 75 | [BETTER MAN](https://open.spotify.com/track/26MqDvGIe4A4UZpF5J2Ame) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:49 |
-| 76 | [ZUMA HOUSE](https://open.spotify.com/track/3xytfOwki3uHqzhvMWI6HN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:23 |
-| 77 | [I DO](https://open.spotify.com/track/2arETTjDUyUqXR0x5g6E8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:43 |
+| 76 | [I DO](https://open.spotify.com/track/2arETTjDUyUqXR0x5g6E8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:43 |
+| 77 | [ZUMA HOUSE](https://open.spotify.com/track/3xytfOwki3uHqzhvMWI6HN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:23 |
 | 78 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 |
 | 79 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 80 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 |
-| 81 | [Endless Summer Symphony](https://open.spotify.com/track/1a1HHd4o3W2tGHqXOsA88T) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/6x7skQUXY1HKm5VpzcPEDV) | 3:49 |
-| 82 | [EYE CANDY](https://open.spotify.com/track/3RxlFiTnV3K7FbEWobxW73) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:57 |
+| 81 | [EYE CANDY](https://open.spotify.com/track/3RxlFiTnV3K7FbEWobxW73) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:57 |
+| 82 | [Endless Summer Symphony](https://open.spotify.com/track/1a1HHd4o3W2tGHqXOsA88T) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/6x7skQUXY1HKm5VpzcPEDV) | 3:49 |
 | 83 | [I Got You \(Always and Forever\)](https://open.spotify.com/track/5iX4fneadO1mAIQQzhvnVf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 4:41 |
 | 84 | [Let's Go On The Run](https://open.spotify.com/track/0RQfwUKAddtfA04xAWJE8M) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:41 |
 | 85 | [WITCHYA](https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:43 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 195 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 196 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcGFOgAAAAAvTxkiGSNfLakJ+iTA/qN0`
+Snapshot ID: `AcGKngAAAACqWp9K53/h3/Q7Uu6dkz+f`

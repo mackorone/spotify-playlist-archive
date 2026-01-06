@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah, Wycleff Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,638 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,639 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 32 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 |
 | 33 | [Tenta a Sorte](https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tenta a Sorte](https://open.spotify.com/album/4cKEJfLC1Ek8Y9Ae7Cmctz) | 3:15 |
 | 34 | [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 |
-| 35 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 |
-| 36 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 35 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 36 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 |
 | 37 | [Dejavu](https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Dejavu](https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz) | 3:02 |
 | 38 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 |
 | 39 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 62 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 | 63 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 64 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
-| 65 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
-| 66 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
+| 65 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
+| 66 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
 | 67 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 68 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 |
 | 69 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |

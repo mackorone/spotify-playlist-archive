@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADPJjRbYrmNZ63uRSUzjtyQ",
+  "snapshot_id": "aVmtgAAAAAApT1wpY9oH2ghf//Pi4iOl",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 554826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,

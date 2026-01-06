@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,231 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,228 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 38 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 39 | [Como da Primeira Vez](https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Como da Primeira Vez](https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4) | 3:46 |
 | 40 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 |
-| 41 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
-| 42 | [Florescer](https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Florescer](https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI) | 4:56 |
+| 41 | [Florescer](https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Florescer](https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI) | 4:56 |
+| 42 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
 | 43 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 44 | [Apenas uma Canção de Amor](https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Apenas uma Canção de Amor](https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1) | 4:28 |
-| 45 | [Canção pra Você](https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Românticos](https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8) | 3:48 |
-| 46 | [Terapia](https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q) | [Terapia](https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA) | 4:23 |
-| 47 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
+| 45 | [Terapia](https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q) | [Terapia](https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA) | 4:23 |
+| 46 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
+| 47 | [Canção pra Você](https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Românticos](https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8) | 3:48 |
 | 48 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
 | 49 | [Por Nós](https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Amar e Perdoar](https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ) | 3:50 |
-| 50 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
-| 51 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
+| 50 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
+| 51 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
 | 52 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
 | 53 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
 | 54 | [Te Amaria Outra Vez / Amar Você \- Ao Vivo](https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Te Amaria Outra Vez / Amar Você \(Ao Vivo\)](https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe) | 4:09 |

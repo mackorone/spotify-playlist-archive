@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Jerk x Jollof! Get your tickets for  the Cape Town takeover <a href="https://www.jxjcapetown.com/Tickets?utm\_source=ig&utm\_medium=social&utm\_content=link\_in\_bio&fbclid=PAdGRleAO\-5gdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeoak3qkWE8ZKJdNk8ANEjb4iJ7xd\_acYzNviHzrA20GCX3\_CWrpqK33uwvnA\_aem\_3bfxxhLSrZfaRKZDTfG\-1A">HERE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,171 likes - 27 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,157 likes - 27 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 15 | [Bo Gogo \(feat\. Tracy & Thatohatsi\)](https://open.spotify.com/track/1blpjqXA4y03pWHnDbhs9l) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Ntsako](https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU) | 8:47 |
 | 16 | [Vuma Dlozi Lami \(feat\. Ancestral Rituals\)](https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt) | [Issa sisdoh](https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI), [Ancestral Rituals](https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup) | [Vuma Dlozi Lami \(feat\. Ancestral Rituals\)](https://open.spotify.com/album/5tM3THh1UUzsUiULDPHv0k) | 6:20 |
 | 17 | [Bo Thata \(feat\. Stixx & Nvcho\)](https://open.spotify.com/track/7vOG6jMPWKpZt4nBtNj3zj) | [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC) | [Candour](https://open.spotify.com/album/62kUbGHyyVYh6Up1yQB2gw) | 9:08 |
-| 18 | [Asiyeni \(feat\. DBN Gogo\)](https://open.spotify.com/track/7okq9yB2lZj9BTPd1KVzfh) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Rethabile](https://open.spotify.com/album/6OJlelRKJsZyPDT9NRs7Lb) | 6:43 |
+| 18 | [Asiyeni \(feat\. JAZZWRLD & DBN Gogo\)](https://open.spotify.com/track/7okq9yB2lZj9BTPd1KVzfh) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Rethabile](https://open.spotify.com/album/6OJlelRKJsZyPDT9NRs7Lb) | 6:43 |
 | 19 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 20 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 21 | [Gijima](https://open.spotify.com/track/0Yn17keRIfE92ybjvCAajo) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Mthuthuzeli](https://open.spotify.com/album/56M1HGfdf472w3XP6D9wv0) | 5:45 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 26 | [SNOKONOKO](https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [SNOKONOKO](https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp) | 6:39 |
 | 27 | [EARLY](https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:47 |
 
-Snapshot ID: `AAAAAA8qm7XSvslxjeAeYs0mFH6cKsSz`
+Snapshot ID: `AAAAABIQaz7q60i3hDl00QTa3/7rDf+f`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,751 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,723 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 38 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 39 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 40 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
-| 41 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
-| 42 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
+| 41 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
+| 42 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
 | 43 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 44 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
 | 45 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |

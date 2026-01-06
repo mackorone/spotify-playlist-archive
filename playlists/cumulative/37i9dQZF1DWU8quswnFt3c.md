@@ -4,7 +4,7 @@
 
 > Highlights from EQUAL in 2025, listen to women at full volume\. Cover: Halsey
 
-2,741 songs - 6 day 8 hr 0 min
+2,742 songs - 6 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Been a Long Time](https://open.spotify.com/track/0PmO0FsV2W20X3c10O4tWz) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Been a Long Time](https://open.spotify.com/album/0VLeRZC4agTKBMryZPgPYr) | 3:49 | 2022-05-04 | 2022-06-01 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-03-01 | 2023-04-06 |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-08-02 | 2023-09-07 |
-| [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-12-03 |  |
+| [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-12-03 | 2026-01-06 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-02 | 2022-03-09 |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-08-03 | 2022-09-09 |
 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 | 2025-06-04 | 2025-07-03 |
@@ -2681,6 +2681,7 @@
 | [墮落 \(feat\. Buddha Jump 佛跳牆\)](https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [Flow](https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR) | 4:18 | 2023-11-08 | 2023-11-30 |
 | [外婆橋](https://open.spotify.com/track/1fZoJB9tee2LLp1wIa37jG) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [外婆橋](https://open.spotify.com/album/5HqV4KGoIXXvuTQMrtWKKm) | 6:05 | 2022-09-07 | 2022-10-05 |
 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 | 2023-07-05 | 2023-08-03 |
+| [如果每天都可以 happy happy 誰想要sad:\)\)](https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 4:28 | 2025-12-03 |  |
 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 | 2023-11-08 | 2023-11-30 |
 | [少年](https://open.spotify.com/track/6kY3RfueR0KIb2rTM7SRJU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:48 | 2022-06-01 | 2022-07-07 |
 | [彩虹](https://open.spotify.com/track/7IsdzMn6y2yGKuWOjpVL4l) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 4:23 | 2025-09-03 | 2025-09-18 |

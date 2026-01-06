@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 23 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Sablo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
 | 24 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
 | 25 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
-| 26 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
-| 27 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 |
+| 26 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 |
+| 27 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
 | 28 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
 | 29 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 30 | [En El Olvido](https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:26 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 35 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 36 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 37 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
-| 38 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
-| 39 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
+| 38 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
+| 39 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 40 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
 | 41 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
 | 42 | [LOSE YOURSELF.](https://open.spotify.com/track/3uwJeidmXdX89p197EV8u2) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [LOSE YOURSELF.](https://open.spotify.com/album/2yZFXPQdnKRwnuOcZkgaCo) | 2:59 |

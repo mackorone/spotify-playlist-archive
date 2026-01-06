@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,379 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,397 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 | 50 | [Telepathy \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5vY0eZdiJSgEkIJN96y4MN) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 3:11 |
 
-Snapshot ID: `aVhcAAAAAADObUpDVVz54w5PcloG9CvS`
+Snapshot ID: `aVmtgAAAAAAxUYXsiFXqV/lFYTN/WsAy`

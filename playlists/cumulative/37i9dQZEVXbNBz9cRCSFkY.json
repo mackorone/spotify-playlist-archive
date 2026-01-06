@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 197031,
       "name": "Di Nakakasawa",
       "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
@@ -4814,7 +4814,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 184864,
       "name": "Dugkat",
       "url": "https://open.spotify.com/track/6wcOORLJr0tx8mg8C5o4gm"
@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -7320,7 +7320,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Higa",
       "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
@@ -11586,7 +11586,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -13684,6 +13684,24 @@
       "duration_ms": 207314,
       "name": "Pag-Ibig ay Kanibalismo II",
       "url": "https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24"
+    },
+    {
+      "album": {
+        "name": "Himig at Pag-ibig",
+        "url": "https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280828,
+      "name": "Pag-ibig ng Ikaw at Ako",
+      "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
     },
     {
       "album": {
@@ -19062,7 +19080,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"

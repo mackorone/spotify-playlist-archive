@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 266967,
+  "num_followers": 267048,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,30 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Deza",
+          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
+        }
+      ],
+      "duration_ms": 193032,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
         "name": "Shallow Water",
         "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 173554,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Deza",
-          "url": "https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg"
-        }
-      ],
-      "duration_ms": 193032,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
     },
     {
       "added_at": "2025-10-03 08:23:35",

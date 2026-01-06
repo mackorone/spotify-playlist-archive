@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-316 songs - 18 hr 23 min
+317 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,10 +174,11 @@
 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 | 2019-07-29\* | 2022-07-29 |
 | [Location \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/3wTu31uEBJ7CFl0HstePX0) | 2:58 | 2019-07-29\* | 2022-07-03 |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2022-02-11 | 2025-10-25 |
+| [Looking For You](https://open.spotify.com/track/6ICWAK9g5dqJIFvCQBn27N) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 3:26 | 2026-01-05 |  |
 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 | 2019-07-29\* | 2020-01-24 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2019-07-29\* | 2022-07-29 |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-04-26 | 2024-06-01 |
-| [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2021-11-13 |  |
+| [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2021-11-13 | 2026-01-06 |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2019-07-29\* | 2022-07-29 |
 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-10-24 |  |
 | [Love The Hell Out Of You](https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:25 | 2024-08-12 | 2025-10-25 |

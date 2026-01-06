@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 280010,
+  "num_followers": 280104,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 244181,
       "name": "Always Returning - Remastered 2005",
       "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "Playing Robots Into Heaven",
         "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -903,6 +887,22 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "Sorry I Make You Lush",
         "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "So Far South",
-        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
-      },
-      "artists": [
-        {
-          "name": "Oscar Farrell",
-          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "So Far South",
-      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 340276,
       "name": "As Much as Possible",
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "So Far South",
+        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "So Far South",
+      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "If You Love Her (Private Agenda Remix)",
         "url": "https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 244019,
       "name": "If You Love Her - Private Agenda Remix",
       "url": "https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+        }
+      ],
+      "duration_ms": 246704,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "Ambivalence Avenue",
         "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Micachu",
-          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
-        }
-      ],
-      "duration_ms": 246704,
-      "name": "Marilyn",
-      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "Anything In Return",
         "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 285036,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1691,30 +1707,6 @@
       "duration_ms": 225207,
       "name": "People On Sunday",
       "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Small Craft On A Milk Sea",
-        "url": "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Emerald and Stone",
-      "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
     }
   ],
   "unique_name": "Electronica Romantica",

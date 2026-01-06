@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,335 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,376 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 23 | [Así Era Ella \- Primera Fila \- Live Version](https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:17 |
 | 24 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
 | 25 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
-| 26 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
-| 27 | [La chispa adecuada \(feat\. León Larregui\) \- MTV Unplugged](https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [MTV Unplugged\. El Libro De Las Mutaciones](https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h) | 4:51 |
+| 26 | [La chispa adecuada \(feat\. León Larregui\) \- MTV Unplugged](https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [MTV Unplugged\. El Libro De Las Mutaciones](https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h) | 4:51 |
+| 27 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
 | 28 | [Equivocada \- Live Version](https://open.spotify.com/track/4ToSegPTNl2894LRte8ice) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa) | 4:04 |
 | 29 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 30 | [Día De Suerte](https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Alejandra Guzmán 20 Años De Éxitos En Vivo Con Moderatto](https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn) | 3:32 |

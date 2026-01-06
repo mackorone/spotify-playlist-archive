@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,479 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,506 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 37 | [Ela Tá Beba Doida](https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM) | [Banda Xeiro De Mel](https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy) | [Banda Xeiro de Mel \(Tecnobrega \- O Ritmo Que Conquistou o Brasil\)](https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N) | 3:35 |
 | 38 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
 | 39 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
-| 40 | [Aceita Meu Tchau](https://open.spotify.com/track/7IVVrDXbD6BDKIGmw3WwMe) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Aceita Meu Tchau](https://open.spotify.com/album/6OAz7DzgWVGNdyrlWDQQkS) | 2:44 |
-| 41 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
+| 40 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
+| 41 | [Aceita Meu Tchau](https://open.spotify.com/track/7IVVrDXbD6BDKIGmw3WwMe) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Aceita Meu Tchau](https://open.spotify.com/album/6OAz7DzgWVGNdyrlWDQQkS) | 2:44 |
 | 42 | [Teu Sorriso](https://open.spotify.com/track/0ZfWvGIEbc3hhYsNMgMP2b) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [HEIKON](https://open.spotify.com/artist/6oLO9UzEcaMB61uYNVRSWw) | [Teu Sorriso](https://open.spotify.com/album/7lV4fVTPnGuoqg3mQyQGVj) | 2:22 |
 | 43 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
 | 44 | [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 47 | [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 |
 | 48 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
 | 49 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
-| 50 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
+| 50 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
 | 51 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
-| 52 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
+| 52 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
 | 53 | [Anestesiada](https://open.spotify.com/track/5VWgYJzlkSGJTjCUCEfr9t) | [KEILA](https://open.spotify.com/artist/7B6S35PjpmCWPOyqKfyHq6) | [Anestesiada](https://open.spotify.com/album/3T7vUWImGtsk2f2dy7vIqK) | 1:57 |
 | 54 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
 | 55 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 |

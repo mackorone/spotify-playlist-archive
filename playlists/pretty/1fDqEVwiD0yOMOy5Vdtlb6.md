@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1fDqEVwiD0yOMOy5Vdtlb6.md) - [plain]
 
 > We love the noughties! 80 massive hits from the decade that dared to be different.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 6,298 likes - 80 songs - 5 hr 9 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 6,299 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

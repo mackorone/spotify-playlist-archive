@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 447833,
+  "num_followers": 447869,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAk3VlvzZhQyja4P6uWB+er",
+  "snapshot_id": "aVmtgAAAAACdzVqngYZGcaLEFk5XizeX",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight Like A Girl (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/38tIdig9WXv884CFCXuyuG"
+        "name": "Evanescence (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 186068,
-      "name": "Fight Like A Girl - feat. K.Flay",
-      "url": "https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ"
+      "duration_ms": 186946,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0TVPq3QIYUYaD2LytckdPD"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
+        "name": "Fight Like A Girl (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/38tIdig9WXv884CFCXuyuG"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/0TVPq3QIYUYaD2LytckdPD"
+      "duration_ms": 186068,
+      "name": "Fight Like A Girl - feat. K.Flay",
+      "url": "https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Arkells",
-  "num_followers": 1200130,
+  "num_followers": 1200063,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEyNxfJ4Z/vb4m2qPr8GXXsfH/h",
+  "snapshot_id": "AAAAAP+/AYR9n0ucGB/my1/6TJ1nVyHn",
   "tracks": [
+    {
+      "added_at": "2026-01-05 22:31:28",
+      "album": {
+        "name": "Punk Rocky",
+        "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 235344,
+      "name": "Punk Rocky",
+      "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
     {
       "added_at": "2026-01-02 05:00:14",
       "album": {
@@ -47,6 +63,90 @@
     {
       "added_at": "2026-01-02 05:00:14",
       "album": {
+        "name": "LOVE YOU LESS",
+        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "LOVE YOU LESS",
+      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X"
       },
@@ -65,20 +165,256 @@
       "url": "https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw"
     },
     {
-      "added_at": "2026-01-02 05:00:14",
+      "added_at": "2026-01-05 22:31:28",
       "album": {
-        "name": "LOVE YOU LESS",
-        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 201186,
-      "name": "LOVE YOU LESS",
-      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 253350,
+      "name": "Let It All Out",
+      "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Memory Of A Day (Deluxe)",
+        "url": "https://open.spotify.com/album/3czzeQCe16BPhd00oDCbGE"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 248455,
+      "name": "Move In Silence",
+      "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "The Headache",
+        "url": "https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "The Headache",
+      "url": "https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "A Quiet and Harmless Living",
+        "url": "https://open.spotify.com/album/5egJ5566L6RrYEsz1JOYvd"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Cursive (feat. Manchester Orchestra)",
+      "url": "https://open.spotify.com/track/2RJnW5OLYkMUcxn9Hv8XIg"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Twin Fawn",
+        "url": "https://open.spotify.com/album/51Ztq4umiP6QfJCLFD1N9L"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Twin Fawn",
+      "url": "https://open.spotify.com/track/7mSWHpvpA2mP3McqChRv4X"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Cool Over Kind",
+        "url": "https://open.spotify.com/album/6HJVxj7OSSDtxJR0vZm50T"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        },
+        {
+          "name": "Charlie Havenick",
+          "url": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Cool Over Kind",
+      "url": "https://open.spotify.com/track/46hihrMPVp2hJhKIM77Was"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/1TN2c9yxXlTbqfT0THyB17"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "duration_ms": 201203,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/0fi2TQa8n2zeN4fV2qUK5G"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 260435,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
+    },
+    {
+      "added_at": "2026-01-02 05:00:14",
+      "album": {
+        "name": "Recognize You",
+        "url": "https://open.spotify.com/album/5jhawCgrp2Lv5E3dyMEOzs"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Recognize You",
+      "url": "https://open.spotify.com/track/7hJ0oqscjJIrGPyiKenpcx"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -103,42 +439,6 @@
       "duration_ms": 244149,
       "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
       "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "The Sofa",
-        "url": "https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 239582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -191,54 +491,6 @@
     {
       "added_at": "2026-01-02 05:00:14",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/1TN2c9yxXlTbqfT0THyB17"
-      },
-      "artists": [
-        {
-          "name": "Vienna Vienna",
-          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
-        }
-      ],
-      "duration_ms": 201203,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/0fi2TQa8n2zeN4fV2qUK5G"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9"
       },
@@ -271,70 +523,6 @@
     {
       "added_at": "2026-01-02 05:00:14",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 253350,
-      "name": "Let It All Out",
-      "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "I\u2019m Only F**king Myself",
-        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Post Sex Clarity",
-      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -347,38 +535,6 @@
       "duration_ms": 322066,
       "name": "City Walls",
       "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "The Headache",
-        "url": "https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "The Headache",
-      "url": "https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -399,58 +555,6 @@
     {
       "added_at": "2026-01-02 05:00:14",
       "album": {
-        "name": "EP #2",
-        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "To Space",
-      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Super Pedestrian (Deluxe)",
-        "url": "https://open.spotify.com/album/58aEJcSWEzDr0ElfGJBZfW"
-      },
-      "artists": [
-        {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
-        }
-      ],
-      "duration_ms": 201353,
-      "name": "Rotting Ripe",
-      "url": "https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "A Quiet and Harmless Living",
-        "url": "https://open.spotify.com/album/5egJ5566L6RrYEsz1JOYvd"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "Cursive (feat. Manchester Orchestra)",
-      "url": "https://open.spotify.com/track/2RJnW5OLYkMUcxn9Hv8XIg"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/51bbjE1UEuOOVtobgc1Nrl"
       },
@@ -463,94 +567,6 @@
       "duration_ms": 178552,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/0TZR4v6rr433jur14CKI4M"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Cool Over Kind",
-        "url": "https://open.spotify.com/album/6HJVxj7OSSDtxJR0vZm50T"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        },
-        {
-          "name": "Charlie Havenick",
-          "url": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Cool Over Kind",
-      "url": "https://open.spotify.com/track/46hihrMPVp2hJhKIM77Was"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 260435,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Memory Of A Day (Deluxe)",
-        "url": "https://open.spotify.com/album/3czzeQCe16BPhd00oDCbGE"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 248455,
-      "name": "Move In Silence",
-      "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Recognize You",
-        "url": "https://open.spotify.com/album/5jhawCgrp2Lv5E3dyMEOzs"
-      },
-      "artists": [
-        {
-          "name": "Porch Light",
-          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Recognize You",
-      "url": "https://open.spotify.com/track/7hJ0oqscjJIrGPyiKenpcx"
     },
     {
       "added_at": "2026-01-02 05:00:14",
@@ -649,20 +665,20 @@
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
     },
     {
-      "added_at": "2026-01-02 05:00:14",
+      "added_at": "2026-01-05 16:04:53",
       "album": {
-        "name": "Twin Fawn",
-        "url": "https://open.spotify.com/album/51Ztq4umiP6QfJCLFD1N9L"
+        "name": "Super Pedestrian (Deluxe)",
+        "url": "https://open.spotify.com/album/58aEJcSWEzDr0ElfGJBZfW"
       },
       "artists": [
         {
-          "name": "Witch Post",
-          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
         }
       ],
-      "duration_ms": 252100,
-      "name": "Twin Fawn",
-      "url": "https://open.spotify.com/track/7mSWHpvpA2mP3McqChRv4X"
+      "duration_ms": 190689,
+      "name": "Muck",
+      "url": "https://open.spotify.com/track/3tL7RtTgxbd9qUbQ4CqKK9"
     },
     {
       "added_at": "2026-01-02 05:00:14",

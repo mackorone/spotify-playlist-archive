@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Khrystyna Soloviy & Iryna Bilyk",
-  "num_followers": 13157,
+  "num_followers": 13164,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -819,8 +819,8 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "added_at": "2025-12-18 22:00:34",
@@ -919,8 +919,8 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 192043,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-12-18 22:00:34",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
-      },
-      "artists": [
-        {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
-    },
-    {
-      "added_at": "2025-12-18 22:00:34",
-      "album": {
         "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
         "url": "https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
+    },
+    {
+      "added_at": "2025-12-18 22:00:34",
+      "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+      },
+      "artists": [
+        {
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
     },
     {
       "added_at": "2025-12-18 22:00:34",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-255 songs - 15 hr 33 min
+256 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Something Blue](https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Something Blue](https://open.spotify.com/album/226qtJTWbK1lfWh8aE82od) | 3:39 | 2025-10-17 |  |
 | [Song of a Hooligan](https://open.spotify.com/track/3Ew5FF6YJfXre7pT2JaJZA) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Song of a Hooligan](https://open.spotify.com/album/3Z9FfksgrxLlXKPhTbobfJ) | 2:52 | 2025-10-27 | 2025-11-28 |
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 |  |
+| [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 | 2026-01-05 |  |
 | [Stoner](https://open.spotify.com/track/2dOiAm5I3PFizdsj77ywI5) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Stoner](https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB) | 3:50 | 2025-12-08 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 | 2025-12-17 |
 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2025-11-19 | 2025-12-17 |

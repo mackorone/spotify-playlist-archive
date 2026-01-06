@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-470 songs - 1 day 4 hr 38 min
+471 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Easy](https://open.spotify.com/track/72y7LZzbvrFQJcsNELTtjE) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Easy](https://open.spotify.com/album/6Fdk1QSdUhNWnLeQ64ClZj) | 2:35 | 2025-03-14 | 2025-09-19 |
 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 | 2024-04-15 | 2025-01-24 |
 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 | 2024-02-15 | 2025-09-26 |
+| [Emilia](https://open.spotify.com/track/1jb0xbHbJElGMicSY53iSf) | [Nat & Alex Wolff](https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S) | [Emilia](https://open.spotify.com/album/5iszovLBfF91UIfyuZqbUM) | 3:24 | 2026-01-01 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-27 | 2023-02-15 |
 | [Enough](https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Enough](https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat) | 2:52 | 2025-01-23 | 2025-02-15 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-12-13 | 2024-04-19 |
@@ -444,7 +445,7 @@
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2024-04-15 | 2025-01-24 |
 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-27 | 2024-04-16 |
 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 | 2024-03-27 | 2024-05-14 |
-| [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:13 | 2023-03-02 |  |
+| [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:13 | 2023-03-02 | 2026-01-06 |
 | [Vie varda](https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Panorama](https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd) | 3:54 | 2023-02-21 | 2025-05-30 |
 | [Villa d'été](https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Villa d'été](https://open.spotify.com/album/2aVPOnczxN0DHnZpLAvVSy) | 3:22 | 2025-09-18 | 2025-09-30 |
 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 | 2023-02-21 | 2023-11-21 |

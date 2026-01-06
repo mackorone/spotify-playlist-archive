@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,573 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,623 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 19 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
 | 20 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
 | 21 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
-| 22 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
-| 23 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
+| 22 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
+| 23 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
 | 24 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
 | 25 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
 | 26 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 28 | [This War Is Ours \(The Guillotine II\)](https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 4:26 |
 | 29 | [I Caught Fire](https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:25 |
 | 30 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
-| 31 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
-| 32 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
+| 31 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
+| 32 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
 | 33 | [This Could Be Anywhere in the World](https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 4:03 |
 | 34 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 35 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 78 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
 | 79 | [The Crimson](https://open.spotify.com/track/062gY8uXDt5kjtAOcSmL4z) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 4:01 |
 | 80 | [We'rewolf](https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:24 |
-| 81 | [Drown the City](https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [She Watched The Sky](https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5) | 4:43 |
-| 82 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 81 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 82 | [Drown the City](https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [She Watched The Sky](https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5) | 4:43 |
 | 83 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
 | 84 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
 | 85 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |

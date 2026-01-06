@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/2mR67MB5ty3Y0sNqTlSliQ"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
@@ -2159,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16"
+    },
+    {
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH"
       },
@@ -2632,7 +2672,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"

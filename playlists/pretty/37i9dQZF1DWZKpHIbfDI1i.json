@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Jasiel Nu\u00f1ez en portada ",
-  "num_followers": 820211,
+  "num_followers": 820269,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
         "name": "Chapayeka (En Vivo)",
         "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213500,
       "name": "Sin Fortuna (En Vivo)",
       "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-12-26 06:00:10",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-12-26 06:00:10",
       "album": {
-        "name": "Chimba",
-        "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Chimba",
-      "url": "https://open.spotify.com/track/6PczmhvRYkPBUhE1utqDRW"
-    },
-    {
-      "added_at": "2025-12-26 06:00:10",
-      "album": {
         "name": "CASI T\u00da",
         "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 157927,
       "name": "CASI T\u00da",
       "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
+    },
+    {
+      "added_at": "2025-12-26 06:00:10",
+      "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/6PczmhvRYkPBUhE1utqDRW"
     },
     {
       "added_at": "2025-12-26 06:00:10",

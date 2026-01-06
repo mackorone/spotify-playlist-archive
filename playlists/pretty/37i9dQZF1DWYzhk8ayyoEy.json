@@ -1,12 +1,12 @@
 {
-  "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren at the VMAs",
-  "num_followers": 52532,
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren ",
+  "num_followers": 52568,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPOdqdwCmK8NHqFErVgFwGSaqM/",
+  "snapshot_id": "AAAAAH7sXK0tvgiRWmiWFJdpPrXwKORK",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:27",
@@ -23,6 +23,26 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2026-01-05 15:47:04",
+      "album": {
+        "name": "The Thing I Love",
+        "url": "https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 172636,
+      "name": "The Thing I Love",
+      "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
     },
     {
       "added_at": "2025-12-26 05:00:19",
@@ -419,22 +439,6 @@
       "duration_ms": 171124,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n"
-    },
-    {
-      "added_at": "2025-02-21 05:00:16",
-      "album": {
-        "name": "Take It Slow",
-        "url": "https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH"
     },
     {
       "added_at": "2025-03-21 04:01:02",

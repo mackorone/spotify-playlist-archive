@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,114 likes - 267 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,118 likes - 267 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 45 | [Cassandra](https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:00 |
 | 46 | [Free Now](https://open.spotify.com/track/6nN8W5zHOii0P61I8eSdR3) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:34 |
 | 47 | [I Told You Things](https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 3:41 |
-| 48 | [About Today \- 2021 Remaster](https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 4:10 |
-| 49 | [Tough Love](https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:49 |
+| 48 | [Tough Love](https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:49 |
+| 49 | [About Today \- 2021 Remaster](https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Cherry Tree \(2021 Remaster\)](https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl) | 4:10 |
 | 50 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 51 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 52 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 |
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 209 | [Beautiful Head \- 2021 Remaster](https://open.spotify.com/track/5n7ZqHJo1d3ensM9ovgpF4) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 3:08 |
 | 210 | [Air Stryp](https://open.spotify.com/track/2PnrXPt6gxIzxB4Pnerk5z) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 2:03 |
 | 211 | [New Auburn](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
-| 212 | [I Hate Myself, I Want To Party](https://open.spotify.com/track/4Sn7ySAR30siowyB0jWqqX) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:54 |
-| 213 | [A War With Time](https://open.spotify.com/track/48G5XN3NP5frSDV7fle8fr) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:02 |
+| 212 | [A War With Time](https://open.spotify.com/track/48G5XN3NP5frSDV7fle8fr) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:02 |
+| 213 | [I Hate Myself, I Want To Party](https://open.spotify.com/track/4Sn7ySAR30siowyB0jWqqX) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:54 |
 | 214 | [American Mary \- 2021 Remaster](https://open.spotify.com/track/0I5erZXdbZS3uSYuftoi2d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 4:02 |
 | 215 | [Sage That She Was Burning](https://open.spotify.com/track/0p52ci6UUflXG2atbpynFR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 |
 | 216 | [Rest of Years \- Demo](https://open.spotify.com/track/3z1LGAkzFnoP1HX722Fc1J) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [A Skin, A Night + The Virginia EP](https://open.spotify.com/album/7zoPW334cQNfQyWWteTwMj) | 3:40 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 266 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 267 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcGFOgAAAAAikeqQWRY7JMx4oWJteMNe`
+Snapshot ID: `AcGKngAAAADBxmDxhKbM4+vQttex7i/3`

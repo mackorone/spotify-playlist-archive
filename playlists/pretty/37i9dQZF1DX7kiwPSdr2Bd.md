@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,674 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,688 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 71 | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/track/5glKBEULK9ouNoetw3xOhN) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/album/6Xdm2ulL3hyc32DEKOg8Cu) | 4:05 |
 | 72 | [Coração que Sangra \- Ao Vivo](https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Coração que Sangra / Vem Me Consolar \(Ao Vivo\)](https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2) | 4:18 |
 | 73 | [Fonte](https://open.spotify.com/track/6eBkjWvTO2zMXMSyQfY5Vi) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Manso E Humilde](https://open.spotify.com/album/6mQAsRSwFHCe48QvStlUDw) | 6:08 |
-| 74 | [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 |
-| 75 | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/track/4Nky8gQp0YnoakdjVlkVQL) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/album/2yOsWfVwLaGeiqpSqUWSak) | 6:25 |
+| 74 | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/track/4Nky8gQp0YnoakdjVlkVQL) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/album/2yOsWfVwLaGeiqpSqUWSak) | 6:25 |
+| 75 | [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 |
 | 76 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
 | 77 | [Não Paraliso](https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb) | [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Não Paraliso](https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk) | 3:16 |
 | 78 | [Voltemos ao Início + O Bálsamo de Gileade](https://open.spotify.com/track/4bLQAk7MqLB3tMeYm4USNe) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0) | 10:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 44 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
 | 45 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
 | 46 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 47 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
+| 47 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 48 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
-| 49 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
+| 49 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
 | 50 | [Absent](https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Absent](https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn) | 3:09 |
 
 Snapshot ID: `AAAAABoOHRO7nOuAB1228vBnSVqkY4Mk`

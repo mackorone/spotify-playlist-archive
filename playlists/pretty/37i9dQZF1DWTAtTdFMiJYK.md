@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Editors pick the best songs from RADAR India in 2025\. Cover: W.i.S.H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,223 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,216 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 13 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
 | 14 | [Chor](https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/1wBSOR9eFqfkDFyJtwPm7V) | 3:28 |
 | 15 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 |
-| 16 | [Jaane Na Tu](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
+| 16 | [Jaane Na Tu \(From "UR Debut"\)](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved \(From "UR Debut"\)](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
 | 17 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |
 | 18 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 19 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |

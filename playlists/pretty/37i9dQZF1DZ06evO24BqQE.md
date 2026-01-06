@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,242 likes - 42 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,283 likes - 42 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 5 | [POE](https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 3:26 |
 | 6 | [Laye Mi](https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:24 |
 | 7 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 |
-| 8 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
+| 8 | [PRAY](https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:57 |
 | 9 | [Bae Bae](https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:34 |
 | 10 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 |
 | 11 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
-| 12 | [PRAY](https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:57 |
+| 12 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
 | 13 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
 | 14 | [Totori](https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:17 |
 | 15 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 41 | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq) | 2:36 |
 | 42 | [No Spoil My Steeze](https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Spoil My Steeze](https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6) | 3:31 |
 
-Snapshot ID: `aVhcAAAAAAAdoK1nO16Qm0ngXqOKc+RL`
+Snapshot ID: `aVmtgAAAAADTpVUIVR9ZWJf3RcbOJmm2`

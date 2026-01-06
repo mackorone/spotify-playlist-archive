@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Snow Tha Product en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,026 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,025 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

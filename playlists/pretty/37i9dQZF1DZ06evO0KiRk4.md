@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,010 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,049 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 41 | [Sky Full Of Song](https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:46 |
 | 42 | [Make Up Your Mind](https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 4:01 |
 | 43 | [Tiny Dancer](https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:01 |
-| 44 | [Dog Days Are Over \- MTV Unplugged, 2012 / Live](https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [MTV Presents Unplugged: Florence + The Machine](https://open.spotify.com/album/11JHRCPKllt4DDiaaBi3Kl) | 4:35 |
-| 45 | [What The Water Gave Me](https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:33 |
+| 44 | [What The Water Gave Me](https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:33 |
+| 45 | [Dog Days Are Over \- MTV Unplugged, 2012 / Live](https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [MTV Presents Unplugged: Florence + The Machine](https://open.spotify.com/album/11JHRCPKllt4DDiaaBi3Kl) | 4:35 |
 | 46 | [Queen Of Peace](https://open.spotify.com/track/6WRjufZUoxjaUNKOJ6QhWp) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 5:07 |
 | 47 | [Heavy In Your Arms](https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:47 |
 | 48 | [No Choir](https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 2:29 |
 | 49 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 |
 | 50 | [Only If For A Night](https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:58 |
 
-Snapshot ID: `aVhcAAAAAABbCQMpnz4V/XNXC3q3dQ3E`
+Snapshot ID: `aVmtgAAAAACMzc71fT6uyxsgheyG/5gp`

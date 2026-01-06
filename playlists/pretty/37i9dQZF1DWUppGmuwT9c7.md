@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,909 likes - 105 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,949 likes - 105 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
-| 2 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 |
-| 3 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 |
-| 4 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
-| 5 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
-| 6 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
-| 7 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
+| 2 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 |
+| 3 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
+| 4 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 |
+| 5 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 6 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
+| 7 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
 | 8 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
 | 9 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
 | 10 | [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 104 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 | 105 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 
-Snapshot ID: `AAAAAAOFqSOD/iR2ig4xr6yzBLzWK2Zo`
+Snapshot ID: `AAAAAH1G/gp095o9bPdm67lvPNF70eR+`

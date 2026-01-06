@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,483 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,491 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 13 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH) | 3:25 |
 | 14 | [Gangsta Cry](https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:24 |
 | 15 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
-| 16 | [A Lot \(with Victony\)](https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:41 |
-| 17 | [Kolomental](https://open.spotify.com/track/6ve01VVzDgMKldixX6iX0i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Kolomental](https://open.spotify.com/album/7JgsLKSkDvEaErldrIW37f) | 3:17 |
+| 16 | [Kolomental](https://open.spotify.com/track/6ve01VVzDgMKldixX6iX0i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Kolomental](https://open.spotify.com/album/7JgsLKSkDvEaErldrIW37f) | 3:17 |
+| 17 | [A Lot \(with Victony\)](https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:41 |
 | 18 | [Way Home](https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:37 |
 | 19 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
 | 20 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 28 | [Up ​\(f​eat\. Victony​\)](https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:41 |
 | 29 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
 | 30 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
-| 31 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
-| 32 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
+| 31 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
+| 32 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
 | 33 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 34 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 |
 | 35 | [Sunday School](https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 |
 | 50 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 
-Snapshot ID: `aVhcAAAAAACgeqoi+7IAS6bGM1KMHPNW`
+Snapshot ID: `aVmtgAAAAAATWcEP36fuuINmv9Bczs9L`

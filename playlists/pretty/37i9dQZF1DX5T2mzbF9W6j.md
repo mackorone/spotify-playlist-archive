@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,126 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,135 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 36 | [Kiedy umrę kochanie \(H\. Poświatowska\)](https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Dwoje ludzieńków](https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s) | 3:12 |
 | 37 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 38 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
-| 39 | [Maybe I Just Have Anxiety](https://open.spotify.com/track/5jOACvYdcvyYIKG1H8icqV) | [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [Maybe I Just Have Anxiety](https://open.spotify.com/album/7mtr9Nb1LdQ46rJK7eLJFE) | 3:03 |
-| 40 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
+| 39 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 |
+| 40 | [Maybe I Just Have Anxiety](https://open.spotify.com/track/5jOACvYdcvyYIKG1H8icqV) | [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [Maybe I Just Have Anxiety](https://open.spotify.com/album/7mtr9Nb1LdQ46rJK7eLJFE) | 3:03 |
 | 41 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 42 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 43 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 57 | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m) | 2:37 |
 | 58 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 |
 | 59 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
-| 60 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
+| 60 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
 
 Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

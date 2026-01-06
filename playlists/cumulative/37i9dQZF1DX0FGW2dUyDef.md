@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest
 
-233 songs - 11 hr 32 min
+234 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-04-01 | 2025-10-27 |
 | [Beni Hatırla](https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm) | 5:12 | 2024-09-24 | 2025-04-08 |
 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 | 2025-12-10 |  |
+| [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 | 2026-01-05 |  |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-07-02 | 2025-01-31 |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-07-02 | 2024-09-25 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-07-02 | 2025-01-14 |
@@ -151,7 +152,7 @@
 | [MAŞALLAH](https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [MAŞALLAH](https://open.spotify.com/album/40PaLTeBPPMSHQszHIt6ON) | 2:17 | 2025-07-10 | 2025-08-06 |
 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 | 2025-02-25 | 2025-08-27 |
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-07-02 | 2024-11-29 |
-| [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 | 2025-06-16 |  |
+| [MERMER](https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [SÖZDE KİMSELER SEVMİYOR](https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS) | 1:18 | 2025-06-16 | 2026-01-06 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-25 | 2025-05-14 |
 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 | 2025-06-03 | 2025-08-23 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-11 | 2024-09-05 |

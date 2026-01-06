@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Bvcovia, Marko Glass
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,303 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,307 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 20 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
 | 21 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 |
 | 22 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
-| 23 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
+| 23 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
 | 24 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
-| 25 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
+| 25 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
 | 26 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
 | 27 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 |
 | 28 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
-| 29 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
-| 30 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
+| 29 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
+| 30 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 | 31 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 32 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 33 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 47 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 48 | [Push It](https://open.spotify.com/track/5QxMPQDcRaYThurJz6KYhx) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Push It](https://open.spotify.com/album/7KXn10FnYYqcoepIO95RdZ) | 2:31 |
 | 49 | [Hai Să Recunoaștem](https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Hai Să Recunoaștem](https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF) | 3:06 |
-| 50 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
+| 50 | [Șmecher](https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Șmecher](https://open.spotify.com/album/2y0W7bqPbV8D7gSKJIDuCX) | 2:36 |
 
 Snapshot ID: `AAAAALOms8zYOs5UHke7gmmgqKtsq2x2`

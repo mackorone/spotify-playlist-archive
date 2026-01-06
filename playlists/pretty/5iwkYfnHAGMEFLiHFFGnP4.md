@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/5iwkYfnHAGMEFLiHFFGnP4.md) - [plain](/playlists/plain/5iwkYfnHAGMEFLiHFFGnP4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5iwkYfnHAGMEFLiHFFGnP4)
 
-### [HITS 2025 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
+### [HITS 2026 \- Today's Top Songs](https://open.spotify.com/playlist/5iwkYfnHAGMEFLiHFFGnP4)
 
-> HITS 2025 / 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Sombr
+> HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Sombr
 
-[Topsify](https://open.spotify.com/user/topsify) - 620,214 likes - 60 songs - 3 hr 14 min
+[Topsify](https://open.spotify.com/user/topsify) - 620,445 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/5iwkYfnHAGMEFLiHFFGnP4.md) - [plain]
 | 59 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 60 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
 
-Snapshot ID: `AAAad9UoD3Mwz9lULsUNlv6wszEfMrUb`
+Snapshot ID: `AAAaeO4lpYvd3YUV0BeCXTrbNekOfA1M`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0cS6eQ6y8jki1Khi5F2TxG.md) - cumulative - [plain](/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cS6eQ6y8jki1Khi5F2TxG)
 
-### [Pride Party Playlist  2025](https://open.spotify.com/playlist/0cS6eQ6y8jki1Khi5F2TxG)
+### [Pride Party Playlist  ](https://open.spotify.com/playlist/0cS6eQ6y8jki1Khi5F2TxG)
 
 > Music is Universal🌈 Party with this pride playlist full of LGBTQIA+ anthems and iconic pop songs, with Lady Gaga, Chappell Roan, Troye Sivan and more!
 

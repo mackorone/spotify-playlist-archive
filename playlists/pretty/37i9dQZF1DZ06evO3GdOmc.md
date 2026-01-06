@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,070 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,079 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Hallelujah](https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 5:13 |
 | 50 | [When We All Get to Heaven](https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:03 |
 
-Snapshot ID: `aVhcAAAAAABJzteWOGO/5wn9sUAhcTyX`
+Snapshot ID: `aVmtgAAAAADs5F26JsKqhsDveE/09zFJ`

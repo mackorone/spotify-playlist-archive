@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Dina Ögon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,692 likes - 263 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,699 likes - 263 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

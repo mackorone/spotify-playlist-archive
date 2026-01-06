@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87645,
+  "num_followers": 87654,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 186514,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Mitch James - Deluxe Edition",
-        "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Bright Blue Skies",
-      "url": "https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Love Vaccination",
         "url": "https://open.spotify.com/album/1kvJBxY8gyKZHeu4909TzC"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 200137,
       "name": "Love Vaccination",
       "url": "https://open.spotify.com/track/3DEx3nVNz8woiNaAxGSotf"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Mitch James - Deluxe Edition",
+        "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Bright Blue Skies",
+      "url": "https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Want You For Life",
-        "url": "https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs"
-      },
-      "artists": [
-        {
-          "name": "Mackenzy Mackay",
-          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Want You For Life",
-      "url": "https://open.spotify.com/track/71J2AeYis1MV4jISAm986M"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "We're All Going Home",
         "url": "https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 184746,
       "name": "We're All Going Home",
       "url": "https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Want You For Life",
+        "url": "https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Want You For Life",
+      "url": "https://open.spotify.com/track/71J2AeYis1MV4jISAm986M"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "HILDA",
-        "url": "https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj"
+        "name": "BITE THE BULLET",
+        "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
       },
       "artists": [
         {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        },
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 189906,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA"
+      "duration_ms": 167693,
+      "name": "BITE THE BULLET",
+      "url": "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1391,22 +1395,18 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "BITE THE BULLET",
-        "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
+        "name": "HILDA",
+        "url": "https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj"
       },
       "artists": [
         {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        },
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
         }
       ],
-      "duration_ms": 167693,
-      "name": "BITE THE BULLET",
-      "url": "https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6"
+      "duration_ms": 189906,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Are You Sorry Now?",
-        "url": "https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "Are You Sorry Now?",
-      "url": "https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Oh, Anna!",
         "url": "https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 246746,
       "name": "Oh, Anna!",
       "url": "https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Are You Sorry Now?",
+        "url": "https://open.spotify.com/album/5JGuqtgOld0j5KsQiNtujG"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "Are You Sorry Now?",
+      "url": "https://open.spotify.com/track/3YaiC0QULDTj6VqpWWNcce"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Nightfalls",
-        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 220892,
-      "name": "Nightfalls",
-      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Time Will Heal Our Senses",
         "url": "https://open.spotify.com/album/2rMPYckv6JT8YOXjECPCfA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 235403,
       "name": "Young Ones",
       "url": "https://open.spotify.com/track/1e9ec75rofTKNnaAC5885Y"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Paradise (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 185019,
-      "name": "Paradise - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Tennessee Whiskey",
         "url": "https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 262500,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Paradise (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 185019,
+      "name": "Paradise - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "So Good To Me",
-        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good To Me - Radio Edit",
-      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Electric Life",
         "url": "https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 194255,
       "name": "Electric Life",
       "url": "https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good To Me - Radio Edit",
+      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 177405,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Let\u2019s Go Home Together (Stripped)",
         "url": "https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 163404,
       "name": "Teach Me To Love",
       "url": "https://open.spotify.com/track/3nIxyMaQPG4SejKvsQA5Uj"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 177405,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "In Case You Missed It",
-        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "In Case You Missed It",
-      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "half a world away",
         "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
@@ -2319,22 +2303,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI"
-      },
-      "artists": [
-        {
-          "name": "Josephien",
-          "url": "https://open.spotify.com/artist/43baNkimEScblxgIPkyroW"
-        }
-      ],
-      "duration_ms": 181156,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Queen For A Day",
         "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
       },
@@ -2347,6 +2315,38 @@
       "duration_ms": 213800,
       "name": "Run Away Together",
       "url": "https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI"
+      },
+      "artists": [
+        {
+          "name": "Josephien",
+          "url": "https://open.spotify.com/artist/43baNkimEScblxgIPkyroW"
+        }
+      ],
+      "duration_ms": 181156,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
+        "name": "Paradise And Back Again",
+        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
         }
       ],
-      "duration_ms": 171752,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+      "duration_ms": 226613,
+      "name": "Places To Go",
+      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2419,18 +2419,34 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Only Smith & Burrows Is Good Enough",
-        "url": "https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB"
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
       },
       "artists": [
         {
-          "name": "Smith & Burrows",
-          "url": "https://open.spotify.com/artist/7adu8fQmtoTq8O8BXQIq9L"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 203766,
-      "name": "All The Best Moves",
-      "url": "https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi"
+      "duration_ms": 171752,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "After The Hurricane - Greatest Hits & More",
+        "url": "https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Blue Bittersweet",
+      "url": "https://open.spotify.com/track/31MtA1bmM3PsiAX1sur7rM"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2451,34 +2467,18 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Paradise And Back Again",
-        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
+        "name": "Only Smith & Burrows Is Good Enough",
+        "url": "https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB"
       },
       "artists": [
         {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+          "name": "Smith & Burrows",
+          "url": "https://open.spotify.com/artist/7adu8fQmtoTq8O8BXQIq9L"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Places To Go",
-      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
-        "name": "After The Hurricane - Greatest Hits & More",
-        "url": "https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Blue Bittersweet",
-      "url": "https://open.spotify.com/track/31MtA1bmM3PsiAX1sur7rM"
+      "duration_ms": 203766,
+      "name": "All The Best Moves",
+      "url": "https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
-      },
-      "artists": [
-        {
-          "name": "Morpheus",
-          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Jump Right In",
         "url": "https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 168000,
       "name": "Jump Right In",
       "url": "https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
+      },
+      "artists": [
+        {
+          "name": "Morpheus",
+          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
+        }
+      ],
+      "duration_ms": 204634,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Misfits",
-        "url": "https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr"
-      },
-      "artists": [
-        {
-          "name": "Wulf",
-          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
-        }
-      ],
-      "duration_ms": 162922,
-      "name": "Misfits",
-      "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 177233,
       "name": "Still Love",
       "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Misfits",
+        "url": "https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr"
+      },
+      "artists": [
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "duration_ms": 162922,
+      "name": "Misfits",
+      "url": "https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
-        }
-      ],
-      "duration_ms": 155884,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "In The Cold Light of Monday",
         "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
       },
@@ -2659,6 +2643,22 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 155884,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "ten years time",
-        "url": "https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 179665,
-      "name": "ten years time",
-      "url": "https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Y O U",
         "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
       },
@@ -2791,18 +2775,18 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Breaking Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
+        "name": "ten years time",
+        "url": "https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj"
       },
       "artists": [
         {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
+      "duration_ms": 179665,
+      "name": "ten years time",
+      "url": "https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2823,6 +2807,22 @@
       "duration_ms": 235667,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Breaking Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Lean Into Me",
-        "url": "https://open.spotify.com/album/4fz9O5CjyiRKwNgMFZMVLK"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "She",
-      "url": "https://open.spotify.com/track/1RfMDYFUtp2YHusUMmzRAw"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Lean Into Me",
+        "url": "https://open.spotify.com/album/4fz9O5CjyiRKwNgMFZMVLK"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "She",
+      "url": "https://open.spotify.com/track/1RfMDYFUtp2YHusUMmzRAw"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -3195,22 +3195,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 185254,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Make More Sound",
         "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
       },
@@ -3231,6 +3215,22 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 185254,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3"
       },
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
-      },
-      "artists": [
-        {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
-        }
-      ],
-      "duration_ms": 218203,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Happy in Hindsight",
         "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 213161,
       "name": "Happy in Hindsight",
       "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -3399,26 +3399,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Now That We\u2019ve Found Love",
-        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
-      },
-      "artists": [
-        {
-          "name": "Emil Landman",
-          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
-        },
-        {
-          "name": "We Said",
-          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "Now That We\u2019ve Found Love",
-      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Dancing Slow",
         "url": "https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5"
       },
@@ -3435,6 +3415,26 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Now That We\u2019ve Found Love",
+        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
+      },
+      "artists": [
+        {
+          "name": "Emil Landman",
+          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
+        },
+        {
+          "name": "We Said",
+          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "Now That We\u2019ve Found Love",
+      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -3551,22 +3551,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "One Last Chance (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 199169,
-      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
-      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
       },
@@ -3579,6 +3563,22 @@
       "duration_ms": 166363,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "One Last Chance (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 199169,
+      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
+      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -3647,22 +3647,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
-      },
-      "artists": [
-        {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Fire Needs Air",
         "url": "https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC"
       },
@@ -3707,6 +3691,22 @@
       "duration_ms": 180859,
       "name": "DON.T - Acoustic",
       "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+      },
+      "artists": [
+        {
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2025-12-18 23:00:17",
@@ -3935,22 +3935,6 @@
     {
       "added_at": "2025-12-18 23:00:17",
       "album": {
-        "name": "so i let you (15th of june - evening)",
-        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "so i let you (15th of june - evening)",
-      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
-    },
-    {
-      "added_at": "2025-12-18 23:00:17",
-      "album": {
         "name": "Till The River Runs Dry",
         "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
       },
@@ -3963,6 +3947,22 @@
       "duration_ms": 168000,
       "name": "Till The River Runs Dry",
       "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
+    },
+    {
+      "added_at": "2025-12-18 23:00:17",
+      "album": {
+        "name": "so i let you (15th of june - evening)",
+        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "so i let you (15th of june - evening)",
+      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
     },
     {
       "added_at": "2025-12-18 23:00:17",

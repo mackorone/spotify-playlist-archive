@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T\u00f3th Andi & BELANO",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "Orgonabokor (Part 2)",
         "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 209597,
       "name": "Kar\u00e1csonyi dal",
       "url": "https://open.spotify.com/track/6QTVuNK2TnejUaFOPpqBUi"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -2581,6 +2599,40 @@
     },
     {
       "album": {
+        "name": "SeanPaul",
+        "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "SeanPaul",
+      "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
+    },
+    {
+      "album": {
         "name": "seholse",
         "url": "https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI"
       },
@@ -3208,6 +3260,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "album": {
+        "name": "TOP TIER",
+        "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Doechii ft\. SZA, KATSEYE, Sabrina Carpenter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,961 likes - 79 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,939 likes - 79 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 45 | [Aging Well](https://open.spotify.com/track/2T3yrMDqDfRQezx9a0EGmu) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Aging Well](https://open.spotify.com/album/0R9mAWzqgTGim80RIuPVLY) | 3:31 |
 | 46 | [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 |
 | 47 | [ROCKET](https://open.spotify.com/track/44nf203RTn9yoHlVbTIjxZ) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [ROCKET](https://open.spotify.com/album/5YQN5EAhACAQGIqw1qoFvQ) | 2:43 |
-| 48 | [Muma Dis Come](https://open.spotify.com/track/5Jnb6BPkKZr4HVgDLJny1n) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Muma Dis Come](https://open.spotify.com/album/0xNr5k4Luo5JDHtIPUkXzs) | 3:47 |
+| 48 | [Muma Dis Come](https://open.spotify.com/track/5Jnb6BPkKZr4HVgDLJny1n) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB), [King Jammy](https://open.spotify.com/artist/0xvTSLJBdLWHwUoQhGNbCe) | [Muma Dis Come](https://open.spotify.com/album/0xNr5k4Luo5JDHtIPUkXzs) | 3:47 |
 | 49 | [EXACTLY](https://open.spotify.com/track/53076sRfqWQVPw8TMenOHa) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [EXACTLY](https://open.spotify.com/album/2MmpMS9jfZN878buVXhfP3) | 1:38 |
 | 50 | [Please Stay](https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Please Stay](https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4) | 3:04 |
 | 51 | [Blister Pack](https://open.spotify.com/track/5F7Lk0smmPvARNfdSb7rkU) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray) | [New Energy Vol.3](https://open.spotify.com/album/5lidLG63b4yHaMxioijZ5c) | 4:10 |

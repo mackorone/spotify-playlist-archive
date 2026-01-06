@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: CNBLUE (\uc528\uc5d4\ube14\ub8e8)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: idntt (\uc544\uc774\ub374\ud2f0\ud2f0)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -6102,7 +6102,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
@@ -7930,7 +7930,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 181786,
       "name": "Lovin' the Christmas",
       "url": "https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa"
@@ -8392,7 +8392,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 204000,
       "name": "Memory Balloon",
       "url": "https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz"
@@ -10009,6 +10009,24 @@
     },
     {
       "album": {
+        "name": "<yesweare>",
+        "url": "https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Pretty Boy Swag",
+      "url": "https://open.spotify.com/track/0IV3CJVZb5nbUgGOnRgHe7"
+    },
+    {
+      "album": {
         "name": "NCT #127 Neo Zone: The Final Round \u2013 The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee"
       },
@@ -10042,7 +10060,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 178000,
       "name": "Push (Feat. REI (IVE))",
       "url": "https://open.spotify.com/track/1eGtmqQDQr3KhtIV1MvkgQ"
@@ -11896,7 +11914,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 222000,
       "name": "Still Love You",
       "url": "https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI"
@@ -11936,6 +11954,24 @@
       "duration_ms": 223000,
       "name": "Still, a Flower",
       "url": "https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo"
+    },
+    {
+      "album": {
+        "name": "\u5149 (INSANITY)",
+        "url": "https://open.spotify.com/album/5U0J1Rzk8cbEW51Jeu5bD7"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "STING (Feat. Muhammad Ali)",
+      "url": "https://open.spotify.com/track/63rw2Koed4oOhVvC93iOcF"
     },
     {
       "album": {
@@ -12040,7 +12076,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"

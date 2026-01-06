@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,134 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,135 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 22 | [Fallin’ For You \(feat\. Maren Morris\)](https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [This Time Around](https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX) | 3:36 |
 | 23 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
 | 24 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 |
-| 25 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
-| 26 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 5:04 |
+| 25 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 5:04 |
+| 26 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
 | 27 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
 | 28 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 29 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 45 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 |
 | 46 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 |
 | 47 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
-| 48 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
-| 49 | [cry in the car](https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:47 |
-| 50 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 |
+| 48 | [cry in the car](https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:47 |
+| 49 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 |
+| 50 | [The Feels](https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:07 |
 
-Snapshot ID: `aVhcAAAAAAAuVb4PODB6a1YCus/w87O9`
+Snapshot ID: `aVmtgAAAAABUbErkC3EdUsTPPpOt2bVA`

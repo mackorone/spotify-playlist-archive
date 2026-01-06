@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,222 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,225 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 2 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 3 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 4 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
-| 5 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
-| 6 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
+| 5 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
+| 6 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 7 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 | 8 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 |
 | 9 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 34 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 35 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
 | 36 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 37 | [It's Not This](https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY) | 3:10 |
-| 38 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
+| 37 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
+| 38 | [It's Not This](https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY) | 3:10 |
 | 39 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
 | 40 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
 | 41 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 70 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 |
 | 71 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
 | 72 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
-| 73 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
-| 74 | [Reckless Sensation](https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 4:13 |
+| 73 | [Reckless Sensation](https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 4:13 |
+| 74 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
 | 75 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
 | 76 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
 | 77 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 83 | [Mad Blunted Jazz](https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA) | 5:12 |
 | 84 | [So Far Gone](https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Simonne Jones](https://open.spotify.com/artist/0dMXglEw2nK3tkOH2hakyx) | [Squaring The Circle](https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7) | 5:21 |
 | 85 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
-| 86 | [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 |
-| 87 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 86 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 87 | [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 |
 | 88 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 |
 | 89 | [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 |
 | 90 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 100 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
 
-Snapshot ID: `AAAAAFoT5B/4TjJjRgQHfifBcERCtTyC`
+Snapshot ID: `AAAAAPl8eJymL/f6jKRwbt/EY+S88pZM`

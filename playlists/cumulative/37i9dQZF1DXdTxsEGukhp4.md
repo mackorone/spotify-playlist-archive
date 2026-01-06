@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: back number
 
-556 songs - 1 day 7 hr 45 min
+557 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-05-17 |
 | [SLIDE](https://open.spotify.com/track/5wS0CNP0Xj9lxcMy9HfDzA) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [SLIDE](https://open.spotify.com/album/4pVOU4LG85ADK1IPKqfaEK) | 2:08 | 2023-02-16 | 2023-03-31 |
 | [slow down](https://open.spotify.com/track/7u7oJiGYQZ2Xef6hUKNZdb) | [Ame lil melo](https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN), [LUSH CARABINER](https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu) | [slow down](https://open.spotify.com/album/6Xru0jm5NpwERXQfG5eqM8) | 2:33 | 2023-03-30 | 2023-07-13 |
-| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-10-01 |  |
+| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-10-01 | 2026-01-06 |
 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 | 2023-06-15 | 2023-08-18 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-14 | 2024-03-15 |
 | [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 | 2024-05-14 | 2024-06-04 |
@@ -298,6 +298,7 @@
 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2023-12-21 | 2024-04-19 |
 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 | 2024-03-01 | 2024-04-02 |
 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 | 2023-02-23 | 2023-04-28 |
+| [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 | 2026-01-05 |  |
 | [THUMPING](https://open.spotify.com/track/0OliIx9VT7zckrj1abkjoN) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [She Was Prettty OST Part.1](https://open.spotify.com/album/4X7muDCMjHRPOF7nu9on1U) | 3:25 | 2025-02-06 | 2025-04-25 |
 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 | 2025-03-07 | 2025-04-01 |
 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 | 2023-07-12 | 2023-08-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,723 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,865 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 81 | [I Wish That I Could Fall In Love Today](https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [I'll Be Your Jukebox Tonight](https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4) | 2:52 |
 | 82 | [Twinkle, Twinkle Lucky Star](https://open.spotify.com/track/5lxDdFXillBqYvKe9gsYT1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:23 |
 | 83 | [I Ain't Living Long Like This](https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 4:46 |
-| 84 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
-| 85 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
+| 84 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
+| 85 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
 | 86 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 87 | [My Favorite Memory](https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:05 |
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 121 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 122 | [Why Does It Have to Be \(Wrong or Right\)](https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 3:00 |
 | 123 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 3:02 |
-| 124 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
-| 125 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 124 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 125 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 | 126 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:12 |
 | 127 | [Highway 40 Blues](https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [16 Biggest Hits](https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu) | 3:08 |
 | 128 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAAAJnFcXZZ3/P3HdWEwbrbTQ",
+  "snapshot_id": "aVmtgAAAAABC9bWJ2rXp5qCQRfnhmkoo",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey's Black Bottom",
-        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
+        "name": "An Introduction To Ma Rainey",
+        "url": "https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Blues Oh Blues",
-      "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
+      "duration_ms": 181106,
+      "name": "Night Time Blues",
+      "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Introduction To Ma Rainey",
-        "url": "https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p"
+        "name": "Ma Rainey's Black Bottom",
+        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 181106,
-      "name": "Night Time Blues",
-      "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"
+      "duration_ms": 174866,
+      "name": "Blues Oh Blues",
+      "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
     },
     {
       "added_at": null,
@@ -355,6 +355,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma Rainey Vol. 1 (1923-1924)",
+        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 167091,
+      "name": "Lawd Send Me A Man Blues",
+      "url": "https://open.spotify.com/track/4i5NojmAntQ3jSCSjaFf8o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey's Black Bottom",
+        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Screech Owl Blues",
+      "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Of The Blues, CD B",
+        "url": "https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 173147,
+      "name": "Rough And Tumble Blues",
+      "url": "https://open.spotify.com/track/1RPVR0RW3tTG2Qfsk3EmQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -380,73 +428,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 167091,
-      "name": "Lawd Send Me A Man Blues",
-      "url": "https://open.spotify.com/track/4i5NojmAntQ3jSCSjaFf8o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother Of The Blues, CD B",
-        "url": "https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Rough And Tumble Blues",
-      "url": "https://open.spotify.com/track/1RPVR0RW3tTG2Qfsk3EmQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma Rainey's Black Bottom",
-        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Screech Owl Blues",
-      "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "Barrel House Blues",
-      "url": "https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1923-1928",
-        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "Damper Down Blues",
-      "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
+      "duration_ms": 174846,
+      "name": "Southern Blues",
+      "url": "https://open.spotify.com/track/5zeFs3tJsUxWYrDE4GcLOC"
     },
     {
       "added_at": null,
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey Vol. 1 (1923-1924)",
-        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+        "name": "Mother Of The Blues, CD B",
+        "url": "https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz"
       },
       "artists": [
         {
@@ -476,25 +460,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 174846,
-      "name": "Southern Blues",
-      "url": "https://open.spotify.com/track/5zeFs3tJsUxWYrDE4GcLOC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Daddy Blues",
-        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Gone Daddy Blues",
-      "url": "https://open.spotify.com/track/4MoHZLvxd4FiXL6cFyI3NM"
+      "duration_ms": 177413,
+      "name": "Night Time Blues: 2",
+      "url": "https://open.spotify.com/track/3sRN7WT8q7Ipc7g4O5cIZ8"
     },
     {
       "added_at": null,
@@ -508,9 +476,25 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Hellish Rag",
-      "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
+      "duration_ms": 156573,
+      "name": "Damper Down Blues",
+      "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 167722,
+      "name": "Barrel House Blues",
+      "url": "https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey Vol. 1 (1923-1924)",
-        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+        "name": "1923-1928",
+        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
       },
       "artists": [
         {
@@ -556,41 +540,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 165744,
-      "name": "Dream Blues",
-      "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother Of The Blues, CD B",
-        "url": "https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Night Time Blues: 2",
-      "url": "https://open.spotify.com/track/3sRN7WT8q7Ipc7g4O5cIZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma Rainey Vol. 2 (1924-1925)",
-        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 202658,
-      "name": "Four Day Honory Scat (Take 1)",
-      "url": "https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA"
+      "duration_ms": 187133,
+      "name": "Hellish Rag",
+      "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
     },
     {
       "added_at": null,
@@ -611,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Gone Daddy Blues",
+      "url": "https://open.spotify.com/track/4MoHZLvxd4FiXL6cFyI3NM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma Rainey Vol. 1 (1923-1924)",
         "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
       },
@@ -620,9 +588,41 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 185481,
-      "name": "Those Dogs Of Mine",
-      "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"
+      "duration_ms": 165744,
+      "name": "Dream Blues",
+      "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey Vol. 2 (1924-1925)",
+        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 202658,
+      "name": "Four Day Honory Scat (Take 1)",
+      "url": "https://open.spotify.com/track/0jaNMavPO23d0ut1KfBCGA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Slow Driving Moan",
+      "url": "https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma Rainey Vol. 1 (1923-1924)",
+        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 185481,
+      "name": "Those Dogs Of Mine",
+      "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma Rainey Vol. 2 (1924-1925)",
         "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 168882,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/27ZSI8nnSugJzkqdWdzFoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Slow Driving Moan",
-      "url": "https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essential Classics, Vol. 687: Ma Rainey",
+        "url": "https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 194699,
+      "name": "Explaining the Blues",
+      "url": "https://open.spotify.com/track/0lyX9oQlgyZoAPZNF3Y87B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma Rainey Vol. 2 (1924-1925)",
         "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
       },
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Classics, Vol. 687: Ma Rainey",
-        "url": "https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154"
+        "name": "Mother Of The Blues, CD A",
+        "url": "https://open.spotify.com/album/0RlfiAuNjindVUugIU0G3M"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 194699,
-      "name": "Explaining the Blues",
-      "url": "https://open.spotify.com/track/0lyX9oQlgyZoAPZNF3Y87B"
+      "duration_ms": 175400,
+      "name": "Ya Da Do: 3",
+      "url": "https://open.spotify.com/track/2lA0n9AAlMbVgbDrNCyZPx"
     },
     {
       "added_at": null,
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Of The Blues, CD A",
-        "url": "https://open.spotify.com/album/0RlfiAuNjindVUugIU0G3M"
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
       "artists": [
         {
@@ -796,25 +812,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Ya Da Do: 3",
-      "url": "https://open.spotify.com/track/2lA0n9AAlMbVgbDrNCyZPx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 189057,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/3zWkb6MVafKd6ZEUjyryv1"
+      "duration_ms": 178600,
+      "name": "Wringing and Twisting Blues",
+      "url": "https://open.spotify.com/track/637VHcQICbUCaCYpAuBbiW"
     }
   ],
   "unique_name": "This Is Ma Rainey",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 긍정적이고 밝은 기운 가득한 음악들과 함께 행복한 새해를 맞이하세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,442 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,450 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

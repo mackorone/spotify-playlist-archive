@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Run it's the Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,105 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,117 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 10 | [Paws](https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Elijah Peter](https://open.spotify.com/artist/65HvFCMJKvfBtnIPGh3VrN), [Akhil Garg](https://open.spotify.com/artist/1Et8RgxA5djFgJ9s6awThI) | [Paws](https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z) | 4:12 |
 | 11 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
 | 12 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |
-| 13 | [Favourite Song](https://open.spotify.com/track/7sUSBJbe7JI9buZ5jTpLd8) | [Manan Mehta](https://open.spotify.com/artist/39O1pR0xJXA14WDhdQHBNg), [Vaishnav Vyas](https://open.spotify.com/artist/7hY6w53ZDibPBHnxTi9lcU) | [Favourite Song](https://open.spotify.com/album/1zcQec9qUGUDSTqDn6jz5u) | 3:35 |
+| 13 | [Favourite Song](https://open.spotify.com/track/7sUSBJbe7JI9buZ5jTpLd8) | [Manan Mehta](https://open.spotify.com/artist/39O1pR0xJXA14WDhdQHBNg), [Vaishnav Vyas](https://open.spotify.com/artist/1yKTinZw6FgL14x8o9XoBJ) | [Favourite Song](https://open.spotify.com/album/1zcQec9qUGUDSTqDn6jz5u) | 3:35 |
 | 14 | [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 |
 | 15 | [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 |
 | 16 | [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 |

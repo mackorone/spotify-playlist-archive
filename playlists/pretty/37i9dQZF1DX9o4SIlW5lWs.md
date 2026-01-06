@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,406 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,553 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 88 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 89 | [Ahora \- Remasterizado 2017](https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:45 |
 | 90 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
-| 91 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
-| 92 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
+| 91 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
+| 92 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
 | 93 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 | 94 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
 | 95 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 |

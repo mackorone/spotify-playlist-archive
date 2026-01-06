@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,712 songs - 4 day 7 hr 41 min
+1,715 songs - 4 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,6 +1228,7 @@
 | [Rhythm Of The Spiritual Warrior \- Discomix](https://open.spotify.com/track/4vTDCzJ2moQPtqH7XgDT7t) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj), [Me Zion Dread](https://open.spotify.com/artist/5D6WDodQdxb0vX5VSAvpaX) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 6:07 | 2024-05-01 |  |
 | [Ride Home](https://open.spotify.com/track/58LpmworkJRhceB2n5AK47) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 5:13 | 2025-08-02 |  |
 | [Rider](https://open.spotify.com/track/3jwAwVzOQWy4v2DBvQOFzw) | [Mixdy](https://open.spotify.com/artist/45Aq6zFmD3OEHtOIYzuYnR) | [Rider](https://open.spotify.com/album/0KEsf3kLP3TF7RF2CvtJO0) | 3:08 | 2025-05-09 |  |
+| [RIDING DINAMITE](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [RIDING DINAMITE](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 | 2026-01-06 |  |
 | [Right Foot](https://open.spotify.com/track/6n2oGIs0n0O97RLXRBy0py) | [TheOtherGuyz](https://open.spotify.com/artist/7JYdSgTEAuN5lW87o8y0QZ) | [Right Foot](https://open.spotify.com/album/2XSyRXxcqK4RHDm7ziTraM) | 5:06 | 2025-08-18 |  |
 | [Righteous](https://open.spotify.com/track/5AUnDwphuvS3Zs13moCL9P) | [Tramaine Long](https://open.spotify.com/artist/4aBzae3WDd2VRn1s0AeKIg) | [LEGENDARY](https://open.spotify.com/album/6D4pdKcl4AAdiyMA2HrPYm) | 3:07 | 2025-10-07 |  |
 | [Rise](https://open.spotify.com/track/5ux9eQyaSNIce8B84TyIWm) | [Ibel Campbell](https://open.spotify.com/artist/72RCv4B70FMnVlQtmfuwEC) | [Love Fi Life](https://open.spotify.com/album/610frbuTA9LoRbTSN8HCb5) | 4:04 | 2024-05-03 |  |
@@ -1476,6 +1477,7 @@
 | [The HodgeTwins Theme Tune \- Original](https://open.spotify.com/track/62Y0yCZ6SlTjHpT2WAmjkq) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem) | [The Bear at the Zoo](https://open.spotify.com/album/2zOoG6nIXHAJ1ts0fCJr4K) | 1:55 | 2025-05-12 |  |
 | [the hurt](https://open.spotify.com/track/6F2GU9SM1JQ3uBejjIb5OF) | [Yero](https://open.spotify.com/artist/0fg9iwioD0AdBPMfaR613d) | [the hurt](https://open.spotify.com/album/2SUyhNm27ecW9aCgzoLnNp) | 1:55 | 2025-09-11 |  |
 | [The Kickin' Mule](https://open.spotify.com/track/6kf2DGMDx3DIeiVrPJR2An) | [Sleep Donaji.](https://open.spotify.com/artist/6bkErFgyIFCbAhSLdcKuPS) | [Leland](https://open.spotify.com/album/7LmarOqyFT5AhMYo8IQgzj) | 4:09 | 2025-06-05 |  |
+| [The Kindling Starts it All](https://open.spotify.com/track/5whyJ4wKqDjaQmxx3mg1QI) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 3:30 | 2026-01-05 |  |
 | [The Library](https://open.spotify.com/track/4uCWphfePonUJLKgYaYKMn) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 3:51 | 2025-07-27 |  |
 | [The Machine](https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [The Machine](https://open.spotify.com/album/33W5jxMfOpoU5wVnabJc88) | 4:20 | 2024-06-16 |  |
 | [The Morning Sky](https://open.spotify.com/track/0h6reWbglCBmHFMZJw0s3W) | [Butterfly International Day of Peace](https://open.spotify.com/artist/2cGOGYuQsqwZquuZxsxLaD) | [DIVA WITH GAMMA RAYS](https://open.spotify.com/album/4W1J5g3f9lV7wETlxb2Yvd) | 4:17 | 2025-07-09 |  |
@@ -1610,6 +1612,7 @@
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
+| [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |
 | [Walk](https://open.spotify.com/track/36ljAvtG4reh3K95d8vPkD) | [Blushtone](https://open.spotify.com/artist/3Oy3N7DzjmLpat1DSUqO82) | [Walk](https://open.spotify.com/album/0alB43j0Gl2cBJUaRxS9Nn) | 2:37 | 2025-06-06 |  |
 | [WALK IT OFF](https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:16 | 2025-09-08 |  |

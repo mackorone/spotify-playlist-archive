@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12628,
+  "num_followers": 12636,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
-      },
-      "artists": [
-        {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+      },
+      "artists": [
+        {
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "Ransome",
         "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
       },
@@ -459,58 +459,6 @@
       "duration_ms": 322073,
       "name": "Ransome, Pt. 1",
       "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "At This Point in Time: Voices in Volumes",
-        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 484551,
-      "name": "Wozani Nonke Sizothandaza",
-      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -531,6 +479,58 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "At This Point in Time: Voices in Volumes",
+        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 484551,
+      "name": "Wozani Nonke Sizothandaza",
+      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+      },
+      "artists": [
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 346924,
       "name": "kulungile",
       "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "ISIGQI (live at the bird's eye)",
         "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 440654,
       "name": "Kwandebele (Live)",
       "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Sinamanga (uMagebhula)",
-        "url": "https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl"
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
       },
       "artists": [
         {
-          "name": "Letta Mbulu",
-          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
         }
       ],
-      "duration_ms": 245546,
-      "name": "Sinamanga (uMagebhula)",
-      "url": "https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC"
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
     }
   ],
   "unique_name": "Jazz NXT",

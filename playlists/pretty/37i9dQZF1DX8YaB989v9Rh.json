@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 30080,
+  "num_followers": 30085,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Show Me A Good Time",
+      "url": "https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
         "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Show Me A Good Time",
-      "url": "https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS"
     },
     {
       "added_at": "2022-10-01 16:13:28",

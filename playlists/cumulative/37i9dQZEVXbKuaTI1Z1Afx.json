@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -17886,7 +17886,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Cry For Me (WA WA WA)",
       "url": "https://open.spotify.com/track/2h2OhhosKCd5mZdshLODic"
@@ -17916,7 +17916,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 160645,
       "name": "Cry For Me (WA WA WA)",
       "url": "https://open.spotify.com/track/3StSANfcBiRszbP5uP8y0J"
@@ -76934,7 +76934,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 162773,
       "name": "swv",
       "url": "https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa"
@@ -79719,12 +79719,12 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+          "url": "https://open.spotify.com/artist/1MPxgc2D8jlsq4GrCVtPQe"
         }
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
@@ -79742,7 +79742,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 190483,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/3FHO9Ex814qjq7t5Ygxm4z"
@@ -85359,6 +85359,24 @@
     },
     {
       "album": {
+        "name": "Upside Down Remix '93",
+        "url": "https://open.spotify.com/album/3j1dAiz5C3SrlmKC6dGehb"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/5H5IL8XRPLcLsnc8sci1z5"
+    },
+    {
+      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -85370,7 +85388,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"

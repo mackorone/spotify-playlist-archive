@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-831 songs - 1 day 17 hr 37 min
+832 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,8 @@
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-18 | 2024-07-04 |
 | [Pretty Girls \- Remix](https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Pretty Girls Remix Pack](https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk) | 2:58 | 2024-05-03 |  |
 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-08 | 2025-09-30 |
-| [princess treatment](https://open.spotify.com/track/0HZSmDZqMkbllGsyEyPQ08) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA) | 3:55 | 2025-11-19 |  |
+| [princess treatment](https://open.spotify.com/track/0HZSmDZqMkbllGsyEyPQ08) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA) | 3:55 | 2025-11-19 | 2026-01-06 |
+| [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2026-01-05 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-01-09 | 2025-02-28 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-05-09 | 2024-06-01 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-02-23 | 2023-04-01 |
@@ -701,7 +702,7 @@
 | [Sweet, Salt, Sour](https://open.spotify.com/track/4wBIyPFm5WKg72pa1qz5Oq) | [Jesse Hydro](https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ) | [Sweet, Salt, Sour](https://open.spotify.com/album/0DlOdShIvC2KfD07XDAlzU) | 2:44 | 2024-09-12 | 2024-10-15 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2024-11-27 | 2025-03-28 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-04-07 |
-| [Teleromeo \(feat\. Wally\)](https://open.spotify.com/track/0G1kWcRXm6VVHjoPIEQF0f) | [tijger](https://open.spotify.com/artist/0Y7XeDJcxg0Hc77FzGggFl), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Teleromeo \(feat\. Wally\)](https://open.spotify.com/album/2Toa6dpnjhVag75uLFPYve) | 2:09 | 2025-11-20 |  |
+| [Teleromeo \(feat\. Wally\)](https://open.spotify.com/track/0G1kWcRXm6VVHjoPIEQF0f) | [tijger](https://open.spotify.com/artist/0Y7XeDJcxg0Hc77FzGggFl), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Teleromeo \(feat\. Wally\)](https://open.spotify.com/album/2Toa6dpnjhVag75uLFPYve) | 2:09 | 2025-11-20 | 2026-01-06 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-04-06 | 2024-09-12 |
 | [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 | 2024-05-22 | 2024-11-28 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 | 2024-02-22 | 2024-03-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 83948,
+  "num_followers": 83962,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Love Songs For Robots",
-      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Love Songs For Robots",
+      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Shallow Grave",
-        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Following Mountain",
-        "url": "https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Juma Mountain",
-      "url": "https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
+        "name": "The Following Mountain",
+        "url": "https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe"
       },
       "artists": [
         {
-          "name": "Amen Dunes",
-          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
-      "duration_ms": 346493,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
+      "duration_ms": 218213,
+      "name": "Juma Mountain",
+      "url": "https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1719,6 +1703,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
+      },
+      "artists": [
+        {
+          "name": "Amen Dunes",
+          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        }
+      ],
+      "duration_ms": 346493,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
     },
     {
       "added_at": "2024-08-28 14:05:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,851 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,858 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 35 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
 | 36 | [Put Your Love On Me \- Stylo G Mix](https://open.spotify.com/track/7oo0Qh2os8dcR5mhFUmZ5r) | [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Put Your Love On Me \(Stylo G Mix\)](https://open.spotify.com/album/41BZcJBiIZCXoBclGYUHaj) | 3:07 |
 | 37 | [Nice Side](https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:23 |
-| 38 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
+| 38 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
 | 39 | [Asking For More](https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:08 |
-| 40 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
-| 41 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
+| 40 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
+| 41 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
 | 42 | [6”4](https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:20 |
-| 43 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
+| 43 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 | 44 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 |
 
-Snapshot ID: `aVhcAAAAAACOH7uP4ROPDK4I8AOCL5ce`
+Snapshot ID: `aVmtgAAAAACEu6DmR4OExgUo7NgI3icf`

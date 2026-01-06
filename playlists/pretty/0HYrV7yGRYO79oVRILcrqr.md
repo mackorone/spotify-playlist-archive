@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,661 likes - 77 songs - 4 hr 51 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,663 likes - 78 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 75 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
 | 76 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 |
 | 77 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 |
+| 78 | [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 |
 
-Snapshot ID: `AAAKXi+TiF4PgLNdnAynBrlXaFC1Sf/m`
+Snapshot ID: `AAAKXxZW8BE/Fz3Yvyj2ZB8ARmOTnY8Y`

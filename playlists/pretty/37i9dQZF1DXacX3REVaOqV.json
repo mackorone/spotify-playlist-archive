@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498672,
+  "num_followers": 498657,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
+        "name": "The Shiver",
+        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 167677,
+      "name": "The Shiver",
+      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
         "name": "Ignite EP",
         "url": "https://open.spotify.com/album/3a0KFcfUHKdtDTUnUelfrC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 176250,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/3EIv2kX1rINIb7kkSVtPYI"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
-        "name": "The Shiver",
-        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 167677,
-      "name": "The Shiver",
-      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "Buschtaxi",
         "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 204094,
       "name": "Give You My Luv",
       "url": "https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
-      },
-      "artists": [
-        {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217000,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
         "name": "Dancing On My Own (The Brothers Macklovitch Remix)",
         "url": "https://open.spotify.com/album/77Su3dVQ8yrfDlBraNO3BF"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 202734,
       "name": "Dancing On My Own - The Brothers Macklovitch Remix",
       "url": "https://open.spotify.com/track/0okKGmtQDLjPG5e70fQovQ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "Got Me Good",
-        "url": "https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 123640,
-      "name": "Got Me Good",
-      "url": "https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "Circus EP",
         "url": "https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 191250,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3z12e1P8AJEJeFXcVeqrjT"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "Got Me Good",
+        "url": "https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 123640,
+      "name": "Got Me Good",
+      "url": "https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
+        "name": "Come On Back With Your Love",
+        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Come On Back With Your Love - Sunrise Mix",
+      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
         "name": "Get It Done EP",
         "url": "https://open.spotify.com/album/3HmjFTAGUvNIvgrLhyrfT7"
       },
@@ -1803,18 +1819,18 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "Come On Back With Your Love",
-        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+        "name": "Good To Be Free",
+        "url": "https://open.spotify.com/album/7eaUQNCgmHbhsgklqkytrG"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Come On Back With Your Love - Sunrise Mix",
-      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
+      "duration_ms": 155952,
+      "name": "Good To Be Free",
+      "url": "https://open.spotify.com/track/2mdTbqAtFmNUvu1G86ENXd"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "OBRIGADO",
-        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Toca Me Ft. Michelle Marrero",
-      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "Day Starter / Affection",
         "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
       },
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
+        "name": "OBRIGADO",
+        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Toca Me Ft. Michelle Marrero",
+      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
         "name": "Soulshaker",
         "url": "https://open.spotify.com/album/4GfZRejDlTLAwGyQptfQgR"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 177304,
       "name": "Soulshaker",
       "url": "https://open.spotify.com/track/5abCDaSm3wpA9tgHy553aH"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
-        "name": "Good To Be Free",
-        "url": "https://open.spotify.com/album/7eaUQNCgmHbhsgklqkytrG"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 155952,
-      "name": "Good To Be Free",
-      "url": "https://open.spotify.com/track/2mdTbqAtFmNUvu1G86ENXd"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
+        "name": "You Drive Me Crazy",
+        "url": "https://open.spotify.com/album/4nd2s6YwAYibaI62MIrcmw"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 524881,
+      "name": "You Drive Me Crazy",
+      "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
         "name": "On The Run 2025",
         "url": "https://open.spotify.com/album/2EQExOpiqKrEczmmhqvTlC"
       },
@@ -1979,38 +1995,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "You Drive Me Crazy",
-        "url": "https://open.spotify.com/album/4nd2s6YwAYibaI62MIrcmw"
-      },
-      "artists": [
-        {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
-        }
-      ],
-      "duration_ms": 524881,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/4ppDXeh7tV0E2In87iiR6o"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 163464,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "Deep Inside (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/7Asey26DCncU51AaKxSQ5f"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 194220,
       "name": "Deep Inside - CASSIMM Remix",
       "url": "https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/4ppDXeh7tV0E2In87iiR6o"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 163464,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-12-18 23:00:02",
       "album": {
-        "name": "Make It Smooth",
-        "url": "https://open.spotify.com/album/3aWO52WwQOdeF41JCaLjkN"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 147023,
-      "name": "Make It Smooth",
-      "url": "https://open.spotify.com/track/04tAWbX8i4roZ4jc3YJEdf"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
         "name": "take your vibes and go (Dam Swindle Remix)",
         "url": "https://open.spotify.com/album/1ohCvUgMQuiwwkDINauTsf"
       },
@@ -2199,6 +2183,46 @@
       "duration_ms": 333000,
       "name": "take your vibes and go - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
+      },
+      "artists": [
+        {
+          "name": "Rony Breaker",
+          "url": "https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL"
+        },
+        {
+          "name": "Chinua Hawk",
+          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
+        },
+        {
+          "name": "Brian Tappert",
+          "url": "https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A"
+        }
+      ],
+      "duration_ms": 361172,
+      "name": "Solid Ground - Brian Tappert for the Heads Remix",
+      "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
+    },
+    {
+      "added_at": "2025-12-18 23:00:02",
+      "album": {
+        "name": "Make It Smooth",
+        "url": "https://open.spotify.com/album/3aWO52WwQOdeF41JCaLjkN"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 147023,
+      "name": "Make It Smooth",
+      "url": "https://open.spotify.com/track/04tAWbX8i4roZ4jc3YJEdf"
     },
     {
       "added_at": "2025-12-18 23:00:02",
@@ -2239,30 +2263,6 @@
       "duration_ms": 158387,
       "name": "Mama Maria",
       "url": "https://open.spotify.com/track/114hEVloiFTiAffAsbSwox"
-    },
-    {
-      "added_at": "2025-12-18 23:00:02",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
-      },
-      "artists": [
-        {
-          "name": "Rony Breaker",
-          "url": "https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL"
-        },
-        {
-          "name": "Chinua Hawk",
-          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
-        },
-        {
-          "name": "Brian Tappert",
-          "url": "https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A"
-        }
-      ],
-      "duration_ms": 361172,
-      "name": "Solid Ground - Brian Tappert for the Heads Remix",
-      "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
     },
     {
       "added_at": "2025-12-18 23:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,002 likes - 130 songs - 6 hr 25 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 54,993 likes - 130 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 86 | [Stars Will Align \- Zerb Remix](https://open.spotify.com/track/3k3jHDTVEo8N7FqByouw05) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [Stars Will Align \(Zerb Remix\)](https://open.spotify.com/album/2uarBvl6p3yHwNGYDpJCEA) | 3:42 |
 | 87 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
 | 88 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
-| 89 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
-| 90 | [Get Up 24 \- Mixed](https://open.spotify.com/track/2l1g31yecTXd4pzdPwcqEW) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Club Paradise](https://open.spotify.com/album/0VWtu79VmsHBYus6gfrboH) | 4:38 |
+| 89 | [Get Up 24 \- Mixed](https://open.spotify.com/track/2l1g31yecTXd4pzdPwcqEW) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Club Paradise](https://open.spotify.com/album/0VWtu79VmsHBYus6gfrboH) | 4:38 |
+| 90 | [HOLD ME AGAIN](https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [HOLD ME AGAIN](https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm) | 2:28 |
 | 91 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 92 | [Spill My Liquor \- Samm Remix](https://open.spotify.com/track/1x4xR3EZObHLBvBs9B4oS0) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Spill My Liquor \(Samm Remix\)](https://open.spotify.com/album/29h6SkbBIUNEFY8X8bx9uQ) | 3:50 |
 | 93 | [Je Veux Danser](https://open.spotify.com/track/7qSTByt3dRResKqllWXtyJ) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Je Veux Danser](https://open.spotify.com/album/4Ymu63XFXt4mG3JtCo8a1S) | 1:59 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 129 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 130 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 
-Snapshot ID: `AAAgprt3U6XvwXbnJtnC8S0r+Lu59oFA`
+Snapshot ID: `AAAgrKw/YAy1WsgNLdCczedwXHDWFrYZ`

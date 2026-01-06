@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 95570,
+  "num_followers": 95630,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Baby Boy 2 Reloaded",
-        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
-      },
-      "artists": [
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
-        }
-      ],
-      "duration_ms": 447648,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "Party Mode",
         "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 361400,
       "name": "Party Mode",
       "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "Baby Boy 2 Reloaded",
+        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "duration_ms": 447648,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "Pure Bliss",
-        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
-      },
-      "artists": [
-        {
-          "name": "Luzyo Keys",
-          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
-        },
-        {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
-        },
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        }
-      ],
-      "duration_ms": 450425,
-      "name": "Pure Bliss",
-      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 351450,
       "name": "Groove",
       "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "Pure Bliss",
+        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
+      },
+      "artists": [
+        {
+          "name": "Luzyo Keys",
+          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        }
+      ],
+      "duration_ms": 450425,
+      "name": "Pure Bliss",
+      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
     },
     {
       "added_at": "2025-12-05 02:54:31",

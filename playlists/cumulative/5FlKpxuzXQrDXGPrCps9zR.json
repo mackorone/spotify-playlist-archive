@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Thank You (Deluxe Version)",
+        "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "Dance Like Yo Daddy",
+      "url": "https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL"
+    },
+    {
+      "album": {
         "name": "F-1 Trillion: Long Bed",
         "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
       },

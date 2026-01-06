@@ -1,6 +1,6 @@
 {
   "description": "Josh Ross and Country hits that will have you singing every word.",
-  "num_followers": 451521,
+  "num_followers": 451519,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
         "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 218946,
       "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
       "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
     },
     {
       "added_at": "2025-07-04 04:00:22",

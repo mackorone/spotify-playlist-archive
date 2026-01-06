@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAACpXwt7qGCzz+si6cvE8vOy",
+  "snapshot_id": "aVmtgAAAAACnrylVuGEj/SB2fZuv9vDH",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 79465,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
     },
     {
       "added_at": null,

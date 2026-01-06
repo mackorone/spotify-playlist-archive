@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-07",
-  "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren at the VMAs",
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren ",
   "name": "shine",
   "tracks": [
     {
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 195463,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH"
@@ -2954,6 +2954,28 @@
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
+    },
+    {
+      "album": {
+        "name": "The Thing I Love",
+        "url": "https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172636,
+      "name": "The Thing I Love",
+      "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
     },
     {
       "album": {

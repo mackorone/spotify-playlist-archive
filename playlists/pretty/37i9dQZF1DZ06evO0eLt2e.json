@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31513,
+  "num_followers": 31516,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADZPTHxsp+jn8VgjUzegvcc",
+  "snapshot_id": "aVmtgAAAAADqwa4O+2ZMgeAbLEDHMqJe",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boulder To Birmingham (Live)",
         "url": "https://open.spotify.com/album/01TfnbqEmjUZO7WlGGqWOr"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -1087,38 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 177638,
-      "name": "Songs That Make a Difference",
-      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1147,6 +1115,38 @@
       "duration_ms": 219173,
       "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 177638,
+      "name": "Songs That Make a Difference",
+      "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
     },
     {
       "added_at": null,
@@ -1279,26 +1279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras",
-        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Eye of the Storm (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 204253,
       "name": "Help Me Make It Through The Night - Live",
       "url": "https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extras",
+        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Eye of the Storm (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
     },
     {
       "added_at": null,

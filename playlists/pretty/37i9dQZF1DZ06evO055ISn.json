@@ -1,33 +1,13 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 125150,
+  "num_followers": 125271,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVhcAAAAAADY0gyUB1RHyFwL6xlXjWs+",
+  "snapshot_id": "aVmtgAAAAADUF9wsaJhEe71agm6PNT5x",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
-    },
     {
       "added_at": null,
       "album": {
@@ -86,15 +66,11 @@
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 182008,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd"
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
       "added_at": null,
@@ -156,13 +132,13 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         },
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
+      "duration_ms": 182008,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd"
     },
     {
       "added_at": null,
@@ -222,11 +198,15 @@
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 168056,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
     },
     {
       "added_at": null,
@@ -288,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 183853,
-      "name": "The Outside",
-      "url": "https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd"
+      "duration_ms": 168056,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
     },
     {
       "added_at": null,
@@ -336,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 161105,
-      "name": "You Can't Stop This",
-      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
+      "duration_ms": 183853,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd"
     },
     {
       "added_at": null,
@@ -368,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 197929,
-      "name": "Never Be Far",
-      "url": "https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X"
+      "duration_ms": 161105,
+      "name": "You Can't Stop This",
+      "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
     }
   ],
   "unique_name": "This Is Alex Warren",

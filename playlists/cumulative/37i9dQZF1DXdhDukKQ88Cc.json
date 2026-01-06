@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Bow Wow",
+        "url": "https://open.spotify.com/album/4OGRZIZyrGgNGIRlgFh2dZ"
+      },
+      "artists": [
+        {
+          "name": "Mowgli",
+          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117912,
+      "name": "Bow Wow",
+      "url": "https://open.spotify.com/track/1Na00sneOcO1jEzhAUCXa1"
+    },
+    {
+      "album": {
         "name": "Boys I D Bl\u00e5",
         "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },

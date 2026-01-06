@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,329 songs - 6 day 0 hr 18 min
+2,330 songs - 6 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1381,7 +1381,7 @@
 | [かるガルEveryday!!](https://open.spotify.com/track/1EQP2YR8wYmdPV8xGQPT0e) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [かるガルEveryday!!](https://open.spotify.com/album/75MYeX009enXEyIK8rFFjw) | 2:42 | 2025-07-17 | 2025-07-30 |
 | [きときと](https://open.spotify.com/track/4NUFCzfamR4M5XDO0LrJEf) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [きときと](https://open.spotify.com/album/2zhEMy7aHyWr5xzgmATlfH) | 2:58 | 2025-04-22 | 2025-04-30 |
 | [きのこいぬ](https://open.spotify.com/track/7nZUzjdOE3nGCAkfo2Z6JQ) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [きのこいぬ](https://open.spotify.com/album/2SE0UJN41SHZIZHdDausIx) | 2:26 | 2024-10-03 | 2024-10-23 |
-| [きみになれたら](https://open.spotify.com/track/7cc7CItodnXSLgQ2v9XaJL) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [きみになれたら](https://open.spotify.com/album/38oQp2QjYNPGpXu6yu5B73) | 3:45 | 2025-10-21 |  |
+| [きみになれたら](https://open.spotify.com/track/7cc7CItodnXSLgQ2v9XaJL) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [きみになれたら](https://open.spotify.com/album/38oQp2QjYNPGpXu6yu5B73) | 3:45 | 2025-10-21 | 2026-01-06 |
 | [きゅんきゅるかわいい](https://open.spotify.com/track/5MDcfnPPXll0BZ2si4SqxX) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [きゅんきゅるかわいい](https://open.spotify.com/album/1sZatiw9nXe8UtcNcKdCTj) | 3:17 | 2025-11-20 | 2025-12-03 |
 | [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-08-30 | 2022-10-19 |
 | [ぎゅむ！](https://open.spotify.com/track/0yT7MFHenvv66QKyIeHk0P) | [ぷにる（CV：篠原 侑）](https://open.spotify.com/artist/36ELTAzFQZMQfq69jINC1d) | [ぎゅむ！](https://open.spotify.com/album/0EhCjUTvr1V4HDxhxRSo5T) | 3:25 | 2024-10-08 | 2024-10-30 |
@@ -1771,6 +1771,7 @@
 | [マロウブルー](https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [マロウブルー](https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP) | 3:32 | 2022-05-28 | 2022-06-08 |
 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 | 2025-10-14 |  |
 | [ミスター・ムーンライト](https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミスター・ムーンライト](https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X) | 3:22 | 2025-07-10 | 2025-10-08 |
+| [ミス・ユー](https://open.spotify.com/track/3LW6M3h8HYoqb0jZEmFuJV) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [ミス・ユー](https://open.spotify.com/album/5w8p6TNNeM2YOY1uDVrFAT) | 3:43 | 2026-01-05 |  |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-05-28 | 2022-07-13 |
 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 | 2025-01-21 | 2025-04-09 |
 | [ミモザ](https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ミモザ](https://open.spotify.com/album/2ESFPcPX5RoduZwvSoByyI) | 4:19 | 2022-06-30 | 2022-07-29 |

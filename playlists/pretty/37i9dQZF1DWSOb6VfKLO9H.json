@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 103977,
+  "num_followers": 104019,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "My B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 154077,
+      "name": "My B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "My B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 154077,
-      "name": "My B\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1979,34 +1979,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gate 16",
-        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
-      },
-      "artists": [
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Jason Futuristic",
-          "url": "https://open.spotify.com/artist/7vrimn274EqHxeJmY7Lcu9"
-        },
-        {
-          "name": "BKO",
-          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Gass (feat. Jason Futuristic & BKO)",
-      "url": "https://open.spotify.com/track/4mBNcduSWagbQJk8I14pGW"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2031,6 +2003,34 @@
       "duration_ms": 164884,
       "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
       "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Gate 16",
+        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
+      },
+      "artists": [
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Jason Futuristic",
+          "url": "https://open.spotify.com/artist/7vrimn274EqHxeJmY7Lcu9"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Gass (feat. Jason Futuristic & BKO)",
+      "url": "https://open.spotify.com/track/4mBNcduSWagbQJk8I14pGW"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2191,26 +2191,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Speling",
-        "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
       "artists": [
         {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         },
         {
-          "name": "Hansie",
-          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 168014,
-      "name": "Speling",
-      "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
+      "duration_ms": 136499,
+      "name": "Laat Niet Los (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
     }
   ],
   "unique_name": "Oude Party Tunes",

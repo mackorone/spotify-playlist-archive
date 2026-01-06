@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > this is what's up in the world of Latin and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,763 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 | 10 | [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 |
 | 11 | [444 \- Remix](https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [444 \(Remix\)](https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD) | 4:59 |
 | 12 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 |
-| 13 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
+| 13 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 14 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 |
 | 15 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 16 | [Meiomi](https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Meiomi](https://open.spotify.com/album/2kEzEaUjDpaIxgfCT5bKVr) | 3:44 |

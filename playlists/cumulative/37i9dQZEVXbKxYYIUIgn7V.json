@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -4407,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "House with a Pool",
+        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
+    },
+    {
+      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn"
       },
@@ -5262,6 +5280,28 @@
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "album": {
+        "name": "Beast (feat. Waka Flocka)",
+        "url": "https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx"
+      },
+      "artists": [
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189970,
+      "name": "Beast (feat. Waka Flocka)",
+      "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
     },
     {
       "album": {
@@ -10574,6 +10614,36 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
+        "name": "Cry For Me (WA WA WA)",
+        "url": "https://open.spotify.com/album/5Zbol88VbQjotiDZfoVoEC"
+      },
+      "artists": [
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        },
+        {
+          "name": "shirobeats",
+          "url": "https://open.spotify.com/artist/6ikl2mKOYsek2fUhMj2CTW"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Bubi",
+          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Cry For Me (WA WA WA)",
+      "url": "https://open.spotify.com/track/2h2OhhosKCd5mZdshLODic"
     },
     {
       "album": {
@@ -17982,7 +18052,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 262933,
       "name": "Ghetto Story Chapter 3 (feat. Akon)",
       "url": "https://open.spotify.com/track/4Poh2BEojGwq37eFXuUiIf"
@@ -25146,7 +25216,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 179727,
       "name": "Kann nix sehen (fast life fast lane)",
       "url": "https://open.spotify.com/track/00rKVLJBnmP9WHlQoRRyTJ"
@@ -26092,7 +26162,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 157800,
       "name": "KUSURA BAKMA",
       "url": "https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o"
@@ -33286,6 +33356,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
@@ -33296,7 +33384,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -46922,7 +47010,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -46940,7 +47028,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -48326,6 +48414,24 @@
       "duration_ms": 152068,
       "name": "Ups!",
       "url": "https://open.spotify.com/track/5DyenPibd5nHi3Yf8yjzXl"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "album": {
@@ -52398,7 +52504,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 220207,
       "name": "Yeniden",
       "url": "https://open.spotify.com/track/5yoW8adECpBjG1em4xsaUX"

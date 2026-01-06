@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Chelsea Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,121 likes - 81 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,122 likes - 81 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

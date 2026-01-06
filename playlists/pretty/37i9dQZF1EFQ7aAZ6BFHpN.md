@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575 likes - 159 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 159 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 158 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 159 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcGFOgAAAADZ5wc8awa7YeB20M3rgQZ+`
+Snapshot ID: `AcGKngAAAAAhC1BFl5f5QGRml5QQEvsd`

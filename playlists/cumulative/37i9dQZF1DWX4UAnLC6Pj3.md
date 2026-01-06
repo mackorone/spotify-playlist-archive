@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX4UAnLC6Pj3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX4UAnLC6Pj3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4UAnLC6Pj3)
 
-### [Banda 2025](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
+### [Banda 2026](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
 
 > ¡Los éxitos de banda que necesitas! Banda Carnaval 📸
 

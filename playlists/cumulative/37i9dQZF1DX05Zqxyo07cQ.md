@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-917 songs - 1 day 20 hr 10 min
+919 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2023-03-23 | 2024-03-21 |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 | 2024-08-02 |
 | [Aere Perrenius](https://open.spotify.com/track/2jLDBIoRpdRRp5ZQcfUrlR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Aere Perrenius](https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y) | 3:22 | 2024-02-08 | 2025-02-02 |
+| [Aerial](https://open.spotify.com/track/1MVY6Gy3xQ8VuGQKY3JOBi) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Aerial](https://open.spotify.com/album/6q6CnKHeC97pdfRLQppXfX) | 2:54 | 2025-12-17 |  |
 | [Aerial Echoes](https://open.spotify.com/track/1IlnxI9bKLgq20pyRGQSWB) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Aerial Echoes](https://open.spotify.com/album/1rPTcSJKDxTpnoZMJrEyQy) | 2:18 | 2025-02-14 |  |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-07-23 |
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 | 2024-07-16 |
@@ -190,7 +191,7 @@
 | [Crystal Glass](https://open.spotify.com/track/3LUbhoAnLn3pLz6R9JYGXU) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [Vågor](https://open.spotify.com/album/5IOEaUuuDjv9psQ0PhQpFS) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [Crystal Shells](https://open.spotify.com/track/2zYMpzcL5s032DNC3FX1M0) | [Sasha Coleman](https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO) | [Crystal Shells](https://open.spotify.com/album/63yjO9pMTTnJni9RA6d6Wh) | 2:37 | 2025-02-26 | 2025-07-04 |
 | [Crystalline](https://open.spotify.com/track/27YaBVbv8K7atUj0EoE4gQ) | [Andromedaecho](https://open.spotify.com/artist/5X4x6jIGCFmtPxI4c3GgbC) | [Crystalline](https://open.spotify.com/album/6YyOTspsFXEm7eYXDZHCpq) | 3:28 | 2024-05-04 | 2024-07-12 |
-| [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 | 2025-06-25 |  |
+| [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 | 2025-06-25 | 2026-01-06 |
 | [Cyrene](https://open.spotify.com/track/0ba7fzDvZHSyVRrC4c5Tr7) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Cyrene](https://open.spotify.com/album/5GftmKG9oxt9uLGoe2hood) | 2:46 | 2025-11-12 |  |
 | [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-20 | 2025-05-13 |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2023-03-23 | 2024-05-05 |
@@ -321,7 +322,7 @@
 | [Fae](https://open.spotify.com/track/7LbtHaHtW5gR53Vhlu6apv) | [ẹmi](https://open.spotify.com/artist/3Ls5y8kRsJNOb5OvljWQaU) | [Fae](https://open.spotify.com/album/593Ei5vfCwWOdvCiXvUn72) | 2:49 | 2025-02-26 | 2025-10-21 |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-03-23 | 2024-01-18 |
 | [Fairy Lullaby](https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c) | [STRIATUMS](https://open.spotify.com/artist/0dR1oYqupK4QCBlp1xmLJy) | [Inner Dimension](https://open.spotify.com/album/5fsahxvJhOsvHr7i2mDF3P) | 2:24 | 2023-03-23 | 2024-02-09 |
-| [Familiar Hemisphere](https://open.spotify.com/track/79QDfGlwn1LjdNyHPJuucN) | [Adrien Magnusen](https://open.spotify.com/artist/4GjMz4ePaiqSI3rOWIiLir) | [Familiar Hemisphere](https://open.spotify.com/album/0LhQd7xIBY0Dbg62mbvVe2) | 2:09 | 2025-01-08 |  |
+| [Familiar Hemisphere](https://open.spotify.com/track/79QDfGlwn1LjdNyHPJuucN) | [Adrien Magnusen](https://open.spotify.com/artist/4GjMz4ePaiqSI3rOWIiLir) | [Familiar Hemisphere](https://open.spotify.com/album/0LhQd7xIBY0Dbg62mbvVe2) | 2:09 | 2025-01-08 | 2026-01-06 |
 | [Far Away](https://open.spotify.com/track/1JulU97PHmutg1nTEZrRgR) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Rising](https://open.spotify.com/album/6L2Zy4AGt4Js9crCKuPwnQ) | 2:56 | 2023-03-23 | 2024-07-10 |
 | [Feather](https://open.spotify.com/track/00BixfjUHJiCcCNqmignmU) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Feather](https://open.spotify.com/album/4y6bwdIAJcB0tbIJNg9ylD) | 2:45 | 2025-10-08 |  |
 | [Feel](https://open.spotify.com/track/4GwD2eqMnUyyNA4WdsD9AT) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Feel](https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS) | 2:51 | 2024-05-04 | 2025-01-22 |
@@ -586,6 +587,7 @@
 | [Obelisk](https://open.spotify.com/track/1n5VczASXRX9ymi7Rb8PFw) | [Ambient Traumspiel](https://open.spotify.com/artist/7ux6kNQXzqPcstyKGrslUN) | [Obelisk](https://open.spotify.com/album/6Siwl5l7s2OkP0EZxfC9YQ) | 2:52 | 2024-05-04 | 2024-05-22 |
 | [Objectively](https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Objectively](https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX) | 2:49 | 2025-04-09 | 2025-12-04 |
 | [Occasion](https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Occasion](https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r) | 2:54 | 2024-05-04 | 2025-07-29 |
+| [of Your Dreams](https://open.spotify.com/track/2kmDXavcLA0O0vjdCLXWZl) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [of Your Dreams](https://open.spotify.com/album/4VlWQ0eiMvHRsbUbRAmHWP) | 2:27 | 2025-12-17 |  |
 | [Old Station Atmos](https://open.spotify.com/track/02uEjuRG2GnzUVvyL0KWro) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Old Station Atmos](https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv) | 3:31 | 2023-03-23 | 2024-02-09 |
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-08 | 2024-10-15 |
 | [One Moon](https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [One Moon](https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE) | 2:20 | 2025-01-22 | 2025-11-13 |

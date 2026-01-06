@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,710 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,747 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 37 | [Learnin' The Blues](https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 3:01 |
 | 38 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
 | 39 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 |
-| 40 | [It Had To Be You](https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:54 |
+| 40 | [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 |
 | 41 | [For Once In My Life](https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:51 |
 | 42 | [Moon River](https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:19 |
-| 43 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
-| 44 | [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 |
+| 43 | [It Had To Be You](https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:54 |
+| 44 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
 | 45 | [Night And Day \- Remastered 1998](https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 4:00 |
 | 46 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
 | 47 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 49 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
 | 50 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 
-Snapshot ID: `aVhcAAAAAAD33XpicohD61q30W34IY5J`
+Snapshot ID: `aVmtgAAAAAC1BkZ1uJ2stN9TCVGLO4Nu`

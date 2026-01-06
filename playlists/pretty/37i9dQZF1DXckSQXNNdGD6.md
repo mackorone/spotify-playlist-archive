@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Amores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,229 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,230 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 27 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 28 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
 | 29 | [SABES K ME KIERES](https://open.spotify.com/track/30yyRnlzBJo9Vz1AzUsiTF) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [SABES K ME KIERES](https://open.spotify.com/album/52SfgXz7J3q6GCHopmdj0P) | 2:20 |
-| 30 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
-| 31 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
-| 32 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
-| 33 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 30 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
+| 31 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
+| 32 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 33 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
 | 34 | [SUPERSEXY](https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [SUPERSEXY](https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY) | 3:18 |
 | 35 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 36 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |

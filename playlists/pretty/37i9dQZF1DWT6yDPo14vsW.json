@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 347172,
+  "num_followers": 347178,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,42 @@
     {
       "added_at": "2025-11-20 12:03:45",
       "album": {
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+    },
+    {
+      "added_at": "2025-11-20 12:03:45",
+      "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 299626,
+      "name": "Ser\u00e1 Mejor Que Te Vayas",
+      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
+    },
+    {
+      "added_at": "2025-11-20 12:03:45",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -423,42 +459,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2025-11-20 12:03:45",
-      "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "Ser\u00e1 Mejor Que Te Vayas",
-      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2025-11-20 12:03:45",
-      "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
     },
     {
       "added_at": "2025-11-20 12:03:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-11-20 12:03:45",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
-    },
-    {
-      "added_at": "2025-11-20 12:03:45",
-      "album": {
         "name": "3 A.M. (Deluxe)",
         "url": "https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 213466,
       "name": "No Digas Nada (D\u00e9j\u00e0 Vu)",
       "url": "https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5"
+    },
+    {
+      "added_at": "2025-11-20 12:03:45",
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
     },
     {
       "added_at": "2025-11-20 12:03:45",

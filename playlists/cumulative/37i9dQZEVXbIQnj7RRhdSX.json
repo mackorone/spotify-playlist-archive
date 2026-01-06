@@ -16428,7 +16428,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -16754,7 +16754,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
@@ -28710,7 +28710,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
@@ -50066,7 +50066,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
@@ -50588,6 +50588,24 @@
       "duration_ms": 177599,
       "name": "Solo Un'Ora",
       "url": "https://open.spotify.com/track/1fvlYWQjBaZOuRRwbYHAYm"
+    },
+    {
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/0HMgjtW4hyMQxckUGGRWeH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo De Andreis",
+          "url": "https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151728,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"
     },
     {
       "album": {
@@ -58294,7 +58312,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 146526,
       "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"

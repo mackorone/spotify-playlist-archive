@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Nunca Jam\u00e1s en portada. ",
-  "num_followers": 981948,
+  "num_followers": 981869,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Angustias",
-        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Angustias",
-      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Enven\u00e9name",
         "url": "https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 225494,
       "name": "Enven\u00e9name",
       "url": "https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Angustias",
+        "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Angustias",
+      "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Tenochtitl\u00e1n",
         "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Ser\u00eda Feliz",
+      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Paria",
-      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "Botas Negras",
-        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
-      },
-      "artists": [
-        {
-          "name": "Radio Kaos",
-          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Botas Negras",
-      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -1683,6 +1651,22 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "Botas Negras",
+        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+      },
+      "artists": [
+        {
+          "name": "Radio Kaos",
+          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Botas Negras",
+      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Paria",
+      "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
     }
   ],
   "unique_name": "La + Chingona",

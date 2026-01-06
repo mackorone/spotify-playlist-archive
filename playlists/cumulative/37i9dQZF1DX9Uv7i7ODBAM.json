@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30b9\u30fb\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/5w8p6TNNeM2YOY1uDVrFAT"
+      },
+      "artists": [
+        {
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "\u30df\u30b9\u30fb\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/3LW6M3h8HYoqb0jZEmFuJV"
+    },
+    {
+      "album": {
         "name": "Long Hope Philia",
         "url": "https://open.spotify.com/album/5qaSxvu2mB0lkuvQmeDJdw"
       },

@@ -4,7 +4,7 @@
 
 > Music for enjoying your space
 
-591 songs - 1 day 10 hr 11 min
+592 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 | 2025-08-06 | 2025-08-17 |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2022-02-14 | 2022-07-29 |
 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-12-05 |  |
-| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 |  |
+| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2026-01-06 |
 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 | 2024-02-23 | 2024-05-27 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-02-14 | 2022-12-28 |
 | [Dressing Up To Go Nowhere](https://open.spotify.com/track/0GWBZSXvRJmm9Vg4IpMvSz) | [Abbie Piper](https://open.spotify.com/artist/3N9FuCdd029V1YTentbJTO) | [Mirror Talk](https://open.spotify.com/album/3yvyVUJIka1zSZBsavgmtp) | 2:54 | 2025-12-31 |  |
@@ -388,6 +388,7 @@
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-28 |  |
 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-02-14 | 2022-10-14 |
 | [Opendoors](https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 2:42 | 2022-12-28 | 2023-01-11 |
+| [Operator \(He Doesn't Call Me\)](https://open.spotify.com/track/56sYN9utLyjGXju9rU8lWi) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:24 | 2026-01-05 |  |
 | [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-04-11 | 2024-04-19 |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-05-03 |
 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2025-02-28 | 2025-04-05 |

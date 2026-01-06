@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,114 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,154 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 49 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 | 50 | [Querida Socia \- En Vivo Desde la Plaza de Toros la México \- Spotify Singles](https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Querida Socia \(En Vivo Desde la Plaza de Toros la México \- Spotify Singles\)](https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K) | 3:09 |
 
-Snapshot ID: `aVhcAAAAAADpBJE4bMp1M4PFf+ZnPBi2`
+Snapshot ID: `aVmtgAAAAAAxnzjaYEDq4RfEOm9Il1cU`

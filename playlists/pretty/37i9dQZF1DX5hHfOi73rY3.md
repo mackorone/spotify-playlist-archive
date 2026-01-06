@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,122 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,157 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 20 | [One Chance](https://open.spotify.com/track/0XnH6eXRTsSJoFQGUh0I6z) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Grace In Motion](https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI) | 3:53 |
 | 21 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
 | 22 | [Young World](https://open.spotify.com/track/6TJB8afxUyE6AXdWtmhPng) | [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Young World](https://open.spotify.com/album/09zDHAHu0oYlk5gQoOy1um) | 2:57 |
-| 23 | [NO CAP](https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [NO CAP](https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe) | 3:53 |
-| 24 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
+| 23 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
+| 24 | [NO CAP](https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [NO CAP](https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe) | 3:53 |
 | 25 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 26 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
 | 27 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |

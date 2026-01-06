@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,782 likes - 302 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,781 likes - 302 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 279 | [Mr\. and Mrs\. Perfect](https://open.spotify.com/track/6PrNUD0n0Ni7R39PKUVURY) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 3:03 |
 | 280 | [Still Pray](https://open.spotify.com/track/5220yevLmUeAqrXZ4PX618) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 3:07 |
 | 281 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
-| 282 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 |
-| 283 | [My Last Breath](https://open.spotify.com/track/7ntUiOKzqJq7ZRIrfHNPsA) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [PAID!NFULL](https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [My Last Breath](https://open.spotify.com/album/5VcD6Qz1hga1DMqVfunb7i) | 2:11 |
+| 282 | [My Last Breath](https://open.spotify.com/track/7ntUiOKzqJq7ZRIrfHNPsA) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [PAID!NFULL](https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [My Last Breath](https://open.spotify.com/album/5VcD6Qz1hga1DMqVfunb7i) | 2:11 |
+| 283 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 |
 | 284 | [Money](https://open.spotify.com/track/7ziuH9wraFdqL16ftH23uW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:20 |
 | 285 | [Look Fear In The Eyes](https://open.spotify.com/track/7gc4pjDiOzg3lSQEr5udpk) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Look Fear In The Eyes](https://open.spotify.com/album/6OikY1sexKi2gbfRyEbW7U) | 2:23 |
 | 286 | [This Is For](https://open.spotify.com/track/3vrupZhs2JgYjLR70XCiEK) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z EP](https://open.spotify.com/album/7eGX6qd3WeO5QmC0t7P6Nv) | 2:32 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 301 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 302 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcGFOgAAAABwJvZT2LzZUE7C238cRgz4`
+Snapshot ID: `AcGKngAAAAA3U1PPCGo6SvojmzFu0fYD`

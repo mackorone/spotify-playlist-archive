@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11097,
+  "num_followers": 11103,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
         "name": "Voor Alles",
         "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230971,
       "name": "Voor Alles",
       "url": "https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
-        "name": "kleine auto, grote hot wheel",
-        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
-      },
-      "artists": [
-        {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "dichtbij, veraf",
-      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Levelen",
         "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 248544,
       "name": "Levelen",
       "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
     },
     {
       "added_at": "2025-12-18 23:00:20",

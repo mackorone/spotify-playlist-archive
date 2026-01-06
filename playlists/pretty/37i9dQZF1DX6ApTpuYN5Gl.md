@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,204 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,191 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 5 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 6 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 |
 | 7 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
-| 8 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 |
-| 9 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 8 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 9 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 |
 | 10 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
 | 11 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 12 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |

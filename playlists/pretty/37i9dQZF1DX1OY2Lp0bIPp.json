@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 639759,
+  "num_followers": 639756,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
-      },
-      "artists": [
-        {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
     },
     {
       "added_at": "2024-03-20 18:24:49",

@@ -2,7 +2,7 @@
 
 ### [Every Number One](https://open.spotify.com/playlist/37i9dQZF1DWU7oFJkRIANi)
 
-> \#1 hits from the top of the Australian charts, featuring current \#1 Taylor Swift
+> \#1 hits from the top of the Australian charts, featuring current \#1 Olivia Dean
 
 98 songs - 5 hr 28 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 299189,
+  "num_followers": 299232,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 371413,
       "name": "\"Heroes\" - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
       "artists": [
         {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Just What I Needed",
-      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+      "duration_ms": 281226,
+      "name": "My Sweet Lord - Remastered 2014",
+      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord - Remastered 2014",
-      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     }
   ],
   "unique_name": "Unwind 70s",

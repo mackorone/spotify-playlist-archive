@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain](/playlists/plain/37i9dQZF1DWX4UAnLC6Pj3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4UAnLC6Pj3)
 
-### [Banda 2025](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
+### [Banda 2026](https://open.spotify.com/playlist/37i9dQZF1DWX4UAnLC6Pj3)
 
 > ¡Los éxitos de banda que necesitas! Banda Carnaval 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,557 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,621 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 73 | [Tu Lo Decidiste](https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Lo Decidiste](https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB) | 3:38 |
 | 74 | [Sin razón / Un triste adiós \- En vivo](https://open.spotify.com/track/5dk87wAI07fReYXrPe33Bn) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7), [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT), [Banda la 10 de Ivan Romero](https://open.spotify.com/artist/45I00eLuNXvN6WONxQ4T1j) | [Sin razón / Un triste adiós \(En vivo\)](https://open.spotify.com/album/5L2bVkxV8EOoGldgfL695C) | 3:29 |
 | 75 | [Si Te Quedas Callada](https://open.spotify.com/track/1nO8pWSeTwwP1k1daR0KJZ) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Si Te Quedas Callada](https://open.spotify.com/album/50I0ilnzQr6FF1yojYRzjE) | 2:54 |
-| 76 | [Tus Quince Años](https://open.spotify.com/track/55bLUQfXgVVoWCrN2HMa7F) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tus Quince Años](https://open.spotify.com/album/46KQ8UN07p5IsSCxJYCBM5) | 4:22 |
-| 77 | [Me Odias, Me Amas](https://open.spotify.com/track/0wg7D7tP3RP00y2usvzGzh) | [Banda la Prendida de Mazatlán Sinaloa](https://open.spotify.com/artist/5OYx5L5lbYz1TsmQJQe1S9), [Juan Pablo González](https://open.spotify.com/artist/3DXP2XosGddRWF8Z3vR9bJ) | [Me Odias, Me amas](https://open.spotify.com/album/1Zqn4h4O5WjigMMr4J8laX) | 3:05 |
+| 76 | [Me Odias, Me Amas](https://open.spotify.com/track/0wg7D7tP3RP00y2usvzGzh) | [Banda la Prendida de Mazatlán Sinaloa](https://open.spotify.com/artist/5OYx5L5lbYz1TsmQJQe1S9), [Juan Pablo González](https://open.spotify.com/artist/3DXP2XosGddRWF8Z3vR9bJ) | [Me Odias, Me amas](https://open.spotify.com/album/1Zqn4h4O5WjigMMr4J8laX) | 3:05 |
+| 77 | [Tus Quince Años](https://open.spotify.com/track/55bLUQfXgVVoWCrN2HMa7F) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tus Quince Años](https://open.spotify.com/album/46KQ8UN07p5IsSCxJYCBM5) | 4:22 |
 | 78 | [Me Tocó Perder](https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Me Tocó Perder](https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr) | 2:58 |
 | 79 | [Llama por favor](https://open.spotify.com/track/1TuYzi17kMEg3YgtQsKXMi) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Llama por favor](https://open.spotify.com/album/3a1tdEmX8cIYnl4j1AVLpj) | 4:13 |
 | 80 | [Cuídala](https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Antes y Ahora \(35 Aniversario\)](https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L) | 3:17 |
-| 81 | [Retiro Lo Dicho](https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Retiro Lo Dicho](https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq) | 2:39 |
-| 82 | [Fuera De La Ley \- Remasterizado 2008](https://open.spotify.com/track/5ANGlTdnraBLt2NV5sDfI4) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras \(Remasterizado 2008\)](https://open.spotify.com/album/1oHwvurB0EcgSe5IRrTZ7e) | 2:36 |
+| 81 | [Fuera De La Ley \- Remasterizado 2008](https://open.spotify.com/track/5ANGlTdnraBLt2NV5sDfI4) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras \(Remasterizado 2008\)](https://open.spotify.com/album/1oHwvurB0EcgSe5IRrTZ7e) | 2:36 |
+| 82 | [Retiro Lo Dicho](https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Retiro Lo Dicho](https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq) | 2:39 |
 | 83 | [Disculpe Usted](https://open.spotify.com/track/0no1lxFdg7ma79KH0hy2tK) | [Los De Porte Fino](https://open.spotify.com/artist/6xTz1zhl5vDs8RK3X9d1yi) | [Disculpe Usted](https://open.spotify.com/album/6ObgzEGebjGCGagzzFHwDq) | 3:21 |
 | 84 | [En eso no quedamos / Lo callaré / Una página más \- En vivo](https://open.spotify.com/track/2lT5IknctipMB6oyZ1eo0x) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw), [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT), [Banda la 10 de Ivan Romero](https://open.spotify.com/artist/45I00eLuNXvN6WONxQ4T1j), [Eddy Goyen](https://open.spotify.com/artist/1FNMaRFSwlbHQnloS3QO1X) | [En eso no quedamos / Lo callaré / Una página más \(En vivo\)](https://open.spotify.com/album/0u2KYv85qj5dWv42kFfgvm) | 5:19 |
 | 85 | [Hoy Me Ven Bien](https://open.spotify.com/track/5kTmxF8aiQXRMikAhPoO21) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Alan Aramburo](https://open.spotify.com/artist/6a1QKCXK81Z2vETbH1tQgs) | [30 Aniversario Vol\. 2](https://open.spotify.com/album/08rpf0i7V6JJ5zRMIGXeZd) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Mi Olvido \- REMASTERIZADO](https://open.spotify.com/track/24q2y1LmrARR26PDPDeBiH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Olvido \(REMASTERIZADO\)](https://open.spotify.com/album/3542b6XQMwlK7572x7aDWz) | 3:36 |
 | 100 | [Mi Mayor Anhelo \- REMASTERIZADO](https://open.spotify.com/track/2QD6LmH6BlOIZcYJicY6ZF) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Grandes Éxitos Remasterizado](https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU) | 3:32 |
 
-Snapshot ID: `AAAAAP6r7TsBa9cp7bGyqMADbFtUq5Hm`
+Snapshot ID: `AAAAACMIwsGFPBHdeCqzWSnXQjJIuwEF`

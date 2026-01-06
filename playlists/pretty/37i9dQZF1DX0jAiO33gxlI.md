@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:  BK
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,247 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,240 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [Como Que Eu Tiro Férias \- Remix](https://open.spotify.com/track/2VZrHnzwcr1QNQLI9t6kLD) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Como Que Eu Tiro Férias \(Remix\)](https://open.spotify.com/album/2TaKWT7MqZZjhCBodnmogb) | 3:39 |
 | 9 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
 | 10 | [Parasita](https://open.spotify.com/track/2hhg62Q8ytOb4CJqk4dpMh) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Parasita](https://open.spotify.com/album/1T5aP4LlGnIkEeCf2slnkG) | 2:05 |
-| 11 | [Não Tem Kao](https://open.spotify.com/track/5UKUV0VSVaMyLkedSlxqIi) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Não Tem Kao](https://open.spotify.com/album/0HnTpN0AaZXG7nBghmXF1K) | 4:00 |
+| 11 | [Não Tem Kao](https://open.spotify.com/track/5UKUV0VSVaMyLkedSlxqIi) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px) | [Não Tem Kao](https://open.spotify.com/album/0HnTpN0AaZXG7nBghmXF1K) | 4:00 |
 | 12 | [Que Eu Sofra](https://open.spotify.com/track/02LnHINalMTrvzwEJnpapv) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z) | [Que Eu Sofra](https://open.spotify.com/album/6rs135CJgpCx3EgWBgyraE) | 3:37 |
 | 13 | [Não precisa pedir perdão](https://open.spotify.com/track/1TKaZkoICr5AtGYlYbi2og) | [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [ZackZin](https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs), [LinoMC](https://open.spotify.com/artist/35axXY086AdebmHJ8qT8I0) | [Você me iludiu](https://open.spotify.com/album/4MSTzO4QnVPSG4KDEciXet) | 2:24 |
 | 14 | [Freestyle](https://open.spotify.com/track/5ZbunYZasborL7r8BJWPfk) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Freestyle](https://open.spotify.com/album/6Sr8Cggc64e0HBeYHqxUsB) | 2:24 |

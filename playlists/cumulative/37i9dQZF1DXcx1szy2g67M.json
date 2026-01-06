@@ -10891,6 +10891,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -14180,7 +14198,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-06",
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
