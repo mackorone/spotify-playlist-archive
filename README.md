@@ -1,10 +1,14 @@
-# spotify-playlist-archive [![Workflow status](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml/badge.svg)](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml) <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+# spotify-playlist-archive <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
 
 > Daily snapshots of public Spotify playlists
 
 - Website: https://spotifyplaylistarchive.com/
-- List of playlists: [`playlists/index.md`](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
 - Source code: [mackorone/spotify-playlist-archive-src](https://github.com/mackorone/spotify-playlist-archive-src)
+
+> [!IMPORTANT]  
+> This repo is "above its size quota" and thus I had to create a new repo for additional data: [mackorone/spotify-playlist-archive-2](https://github.com/mackorone/spotify-playlist-archive-2)
+> - Old (stale) list of playlists: [index.md](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
+> - New (fresh) list of playlists: [index.md](https://github.com/mackorone/spotify-playlist-archive-2/blob/main/playlists/index.md)
 
 ## Motivation
 
@@ -65,7 +69,9 @@ playlist evolves over time.
 ### How do I browse the archive?
 There are two options for browsing the archive:
 1. Use the website: https://spotifyplaylistarchive.com/
-1. Browse the files on GitHub: [`playlists/index.md`](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
+1. Browse the files on GitHub:
+   - Old: [index.md](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
+   - New: [index.md](https://github.com/mackorone/spotify-playlist-archive-2/blob/main/playlists/index.md)
 
 ### How do I add a playlist to the archive?
 See [these instructions](https://github.com/mackorone/spotify-playlist-archive/blob/main/CONTRIBUTING.md#adding-playlists).
