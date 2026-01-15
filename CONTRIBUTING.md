@@ -1,19 +1,20 @@
 ## Introduction
 
+> [!WARNING]  
+> This repository has been superseded by [mackorone/spotify-playlist-archive-2](https://github.com/mackorone/spotify-playlist-archive-2). The following instructions still apply, but you should submit all PRs to that repo instead of this one.
+
 Playlists must be registered to be included in the archive. The
-[`playlists/registry`](https://github.com/mackorone/spotify-playlist-archive/tree/main/playlists/registry)
+[`playlists/registry`](https://github.com/mackorone/spotify-playlist-archive-2/tree/main/playlists/registry)
 directory acts as the registry; the filenames within it are the playlist IDs to
 include. To add a playlist to the archive, simply create an empty file in
 `playlists/registry` named after your playlist ID and submit a pull request.
-
-> [!TIP]
-> If you don't know what a playlist ID is, you can use
-> [this tool](https://spotifyplaylistarchive.com/get-playlist-id) to extract it
-> from the playlist's URL.
+If you don't know what a playlist ID is, you can use
+[this tool](https://spotifyplaylistarchive.com/get-playlist-id) to extract it
+from the playlist's URL.
 
 ## Adding Playlists
 
-> [!IMPORTANT]
+> [!NOTE]
 > If you want to add multiple playlists, please follow the slightly more
 > complicated instructions below. It's much easier for me to merge one combined
 > pull request than multiple separate pull requests.
@@ -22,7 +23,7 @@ include. To add a playlist to the archive, simply create an empty file in
 
 Instructions for creating single new file in `playlists/registry`:
 
-1. Go to https://github.com/mackorone/spotify-playlist-archive/new/main/playlists/registry
+1. Go to https://github.com/mackorone/spotify-playlist-archive-2/new/main/playlists/registry
 1. [Click "Fork this repository"](https://user-images.githubusercontent.com/3769813/171501788-04d8550b-a853-4996-90a1-cb2888b22c7f.png)
 1. [Enter the playlist ID as the file name, leave the file empty](https://user-images.githubusercontent.com/3769813/171501819-37415b0c-9b08-4eaa-ac3e-7b7098efcaae.png)
 1. [Scroll down and click "Propose new file"](https://user-images.githubusercontent.com/3769813/171502287-00abab1e-b0a7-4f54-8367-a6c3d9abcae4.png)
@@ -34,7 +35,7 @@ Instructions for creating single new file in `playlists/registry`:
 Instructions for creating multiple new files in `playlists/registry`, one for each playlist:
 
 1. If you haven't done so already, fork this repository
-    1. Go to https://github.com/mackorone/spotify-playlist-archive
+    1. Go to https://github.com/mackorone/spotify-playlist-archive-2
     1. [Click "Fork"](https://github.com/mackorone/spotify-playlist-archive/assets/3769813/e4f44811-8e93-4156-99b9-2b1cc0ead90d)
     1. [Click "Create fork"](https://github.com/mackorone/spotify-playlist-archive/assets/3769813/e947dc93-3fd2-4813-bd04-261eadf450d0)
 1. [Click the "playlists" folder](https://github.com/mackorone/spotify-playlist-archive/assets/3769813/8557ef7b-d5f0-4d56-ba7a-09e6b9c6b7e2)
